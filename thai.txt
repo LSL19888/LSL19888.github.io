@@ -137,6 +137,8 @@ HBO强档,vjms://58.215.133.185:8500:3502/live/cid=238
 HBO强档,vjms://23.237.33.155:8500:3502/live/cid=238
 HBO,vjms://58.215.133.185:8500:3502/live/cid=261
 HBO,vjms://23.237.33.155:8500:3502/live/cid=261
+HBO原创,vjms://58.215.133.185:8500:3502/live/cid=236
+HBO原创,vjms://23.237.33.155:8500:3502/live/cid=236
 东森电影,tvbus://12E14tpq7uV1zLRdMHFYh3FdyURG5XkWi53smDeAbJcfzxHpgYp
 东森电影,p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
 东森电影,p2p://51.79.41.138:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts
