@@ -55,6 +55,9 @@ TVB无线新闻台,http://www.liveviptv.xyz/tv/tvb.php
 TVB无线新闻台,http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2
 TVB无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 TVB无线新闻台,vjms://23.237.33.155:8500:3502/live/cid=366
+TVB无线新闻台,http://pull.leshantangjt.com/live/2b1102a7c22b11a713c3a596f/playlist.m3u8
+TVB无线新闻台,vjms://121.14.222.75:8500:3502/live/cid=366
+TVB无线新闻台,vjms://58.215.133.185:8500:3502/live/cid=366
 TVBS新闻,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
 TVBS新闻,vjms://58.215.133.185:8500:3502/live/cid=348
 TVBS新闻,vjms://23.237.33.155:8500:3502/live/cid=348
