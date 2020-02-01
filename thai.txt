@@ -73,6 +73,8 @@ TVBS,vjms://23.237.33.155:8500:3502/live/cid=349
 凤凰资讯,vjms://23.237.33.155:8500:3502/live/cid=401
 凤凰资讯,rtmp://58.200.131.2:1935/livetv/fhzx
 凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv
+凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+鳳凰資訊,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8
 年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 年代新闻,http://61.147.122.14/flv.live.xylive.tv/live/0088ndxw.flv
 非凡新闻,vjms://23.237.33.155:8500:3502/live/cid=443
@@ -88,6 +90,7 @@ TVBS,vjms://23.237.33.155:8500:3502/live/cid=349
 中天新闻,vjms://58.215.133.185:8500:3502/live/cid=407
 中天新闻,vjms://23.237.33.155:8500:3502/live/cid=407
 中天新闻,rtmp://59.124.75.137/sat/tv521
+中天新闻,http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
 壹新闻,vjms://23.237.33.155:8500:3502/live/cid=445
 壹新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
 寰宇新闻,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
@@ -100,8 +103,9 @@ TVBS,vjms://23.237.33.155:8500:3502/live/cid=349
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 澳亚卫视,http://stream.mastvnet.com/MASTV/playlist.m3u8
 澳亚卫视,vjms://23.237.33.155:8500:3502/live/cid=337
+澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-KHS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
@@ -112,7 +116,7 @@ CNN,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
 CNN,vjms://23.237.33.155:8500:3502/live/cid=428
 BBC,vjms://58.215.133.185:8500:3502/live/cid=418
 BBC,vjms://23.237.33.155:8500:3502/live/cid=418
-FOXNews,vjms://58.215.133.185:8500:3502/live/cid=97
+FOXNews,vjms://58.215.133.185:8500:3502/live/cid=97HK
 FOXNews,p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 港台影视,#genre#
@@ -162,6 +166,7 @@ AXN,vjms://23.237.33.155:8500:3502/live/cid=2
 FX,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
 BLUEANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
 好莱坞电影,P2p://190.2.146.92:18912/5c7249e2000125281d5820ff23a165d1.ts
+好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 CHC高清电影HD,rtmp://58.200.131.2:1935/livetv/chchd
 CHC家庭电影,rtmp://58.200.131.2:1935/livetv/chctv
 CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
@@ -170,9 +175,16 @@ CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
 TVB J2-,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
 TVB明珠台,vjms://23.237.33.155:8500:3502/live/cid=367
+TVB明珠台,http://stream.guihet.com/tv/116.php?id=12
+TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+TVB明珠台,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+TVB明珠台,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
 TVB翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362
 TVB翡翠台,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
 TVB翡翠台,http://m.567it.com/jade.m3u8
+TVB翡翠台,http://stream.guihet.com/tv/116.php?id=188
+TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVBS欢乐台,p2p://51.79.41.138:18912/5c72488a000a56b71d52e3a07060345e.ts
 TVBS欢乐台,P2p://190.2.146.92:18912/5c72488a000a56b71d52e3a07060345e.ts
 TVBS欢乐台,vjms://23.237.33.155:8500:3502/live/cid=438
@@ -443,6 +455,7 @@ Star World HD (Middle East),http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u
 三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 凤凰中文,http://117.169.120.217:8080/live/fhchinese/.m3u8
 凤凰中文备2,http://live.fengshows.com/live/PCC_500k/index.m3u8
+鳳凰中文,http://liveali.ifeng.com/live/FHZW.flv
 凤凰资讯HD,http://117.169.120.138:8080/live/fhzixun/.m3u8
 凤凰资讯HD1,http://223.82.250.72/live/fhzixun/1.m3u8
 凤凰香港高清,http://223.82.250.72/live/fhhongkong/1.m3u8
@@ -459,6 +472,7 @@ Star World HD (Middle East),http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u
 澳视澳门,http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
 澳视葡文,http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
 澳视资讯,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+澳门莲花,http://402173194.cloudvdn.com/a.m3u8?domain=live-rtmp.macaulotustv.com&player=sEkAABlUcgrSO-sV&secondToken=secondToken%3A7CZ_rrak90mUX_Wl_SaQzp5CHpc&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 靖天國際,http://61.58.60.230:9319/live/205.m3u8
 靖天戲劇,http://61.58.60.230:9319/live/203.m3u8
@@ -470,3 +484,6 @@ Star World HD (Middle East),http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 香港电影频道,http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+美国频道,#genre#
+CBN,http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+Bloomberg,https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
