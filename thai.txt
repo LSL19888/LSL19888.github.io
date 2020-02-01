@@ -185,6 +185,8 @@ TVB翡翠台,http://m.567it.com/jade.m3u8
 TVB翡翠台,http://stream.guihet.com/tv/116.php?id=188
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+TVB翡翠台,http://pull.leshantangjt.com/live/8b71bc9edt80bg389d8ccba9d/playlist.m3u8
+TVB翡翠台,vjms://58.215.133.185:8500:3502/live/cid=362
 TVBS欢乐台,p2p://51.79.41.138:18912/5c72488a000a56b71d52e3a07060345e.ts
 TVBS欢乐台,P2p://190.2.146.92:18912/5c72488a000a56b71d52e3a07060345e.ts
 TVBS欢乐台,vjms://23.237.33.155:8500:3502/live/cid=438
