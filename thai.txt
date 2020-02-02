@@ -156,9 +156,8 @@ BBC,vjms://58.215.133.185:8500:3502/live/cid=418
 BBC,vjms://23.237.33.155:8500:3502/live/cid=418
 BBC,vjms://121.14.222.75:8500:3502/live/cid=418
 SKY NEWS,http://pili-live-hdl.qhmywl.com/dsdtv/64a4807c0cf482cffe922d7b8f091303.flv
-FOXNews,vjms://58.215.133.185:8500:3502/live/cid=97HK
-FOXNews,p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts
 FOXNews,vjms://58.215.133.185:8500:3502/live/cid=97
+FOXNews,p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts
 FOXNews,vjms://121.14.222.75:8500:3502/live/cid=97
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
