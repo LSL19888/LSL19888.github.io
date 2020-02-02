@@ -72,6 +72,7 @@ TVBS,vjms://121.14.222.75:8500:3502/live/cid=349
 有線電視18台,vjms://58.215.133.185:8500:3502/live/cid=364
 有線電視18台,vjms://23.237.33.155:8500:3502/live/cid=364
 有線電視18台,vjms://121.14.222.75:8500:3502/live/cid=364
+ViuTV,http://pull.leshantangjt.com/live/8c14aa3dd495a61a7abcc/playlist.m3u8
 凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 凤凰香港,p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
 凤凰香港,http://live.centerch.com/fhxg.m3u8
