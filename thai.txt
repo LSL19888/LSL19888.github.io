@@ -1798,17 +1798,9 @@ CHC动作电影,https://live-zb.nanhailong.com/live/c677258803d14a569a14c6e27f47
 有線新聞台,https://live-zb.nanhailong.com/live/19b97e57452d4cc0bb5bf60d67c76c92/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 無線新聞台,https://live-zb.nanhailong.com/live/e650d9320194456f9d3a73dae82df5eb/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 satrom测试,#genre#
-三立都会,mitv://198.255.74.87:9906/5dc08f22000e342301b811f28dbb5132.ts
-中天娱乐,http://192.154.103.74:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 有线综合娱乐台,http://testalicdn2.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-1.m3u8
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 华丽,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
-华丽,mitv://198.255.74.87:9906/5dc4e32300010cc212a0327c9fcab557.ts
-全佳,mitv://198.255.74.87:9906/5dc4e322000da68812a031ce725ce7c2.ts
-双星,mitv://198.255.74.87:9906/5dc4e322000cc35412a03194480a0a2f.ts
 星卫娱乐,p2p://190.2.146.92:18912/5c724a0a000180991d58bd4f6e533ad5
 东森超视,mitv://fccsovh.pvbox.live:18912/5c72487c000667911d52abe7044c2b21
-曼迪日本台,mitv://198.255.74.87:9906/5dc08f1800007a5301b7e75ee5782a3e.ts
-卫视中文台,mitv://198.255.74.87:9906/5dc08f10000e5eb101b7cbad75968b35.ts
-反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
