@@ -1709,6 +1709,23 @@ SNOOKER WORLD 1 HD,http://203.154.243.31:8081/live/snooker/index.m3u8
 thrill,http://203.154.243.31:8081/live/thrill/index.m3u8
 ไทยรัฐ TV HD 32 (1080p HD) NEW,http://203.154.243.31:8081/live/thairath/index.m3u8
 PPTV HD 36 (1080p HD) NEW,http://203.154.243.31:8081/live/pptv/index.m3u8
+Star Movies,http://livecdnh1.tvanywhere.ae:80/hls/star_movies/index.m3u8	
+Star World,http://livecdnh1.tvanywhere.ae:80/hls/star_world/index.m3u8	
+cin1,http://livecdnh1.tvanywhere.ae:80/hls/cin1/index.m3u8	
+Music Now,http://livecdnh1.tvanywhere.ae:80/hls/music_now/index.m3u8	
+zoom,http://livecdnh1.tvanywhere.ae:80/hls/zoom/index.m3u8	
+baby,http://livecdnh1.tvanywhere.ae:80/hls/baby/index.m3u8	
+tv5,http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8	
+reporter,http://livecdnh1.tvanywhere.ae:80/hls/reporter/index.m3u8	
+nat_geo_wild HD,http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/index.m3u8	
+nat_geo HD,http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/index.m3u8	
+k2,http://livecdnh1.tvanywhere.ae:80/hls/k2/index.m3u8	
+h2 HD,http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8	
+Fashion HD,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+LFC TV,http://144.130.113.221:9981/stream/channelid/1120019475	
+Liverpool FC TV HD,http://144.130.113.221:9981/stream/channelid/1143112916	
+MUTV,http://144.130.113.221:9981/stream/channelid/311332242	
+Fox Soccer Plus HD,http://144.130.113.221:9981/stream/channelid/1865328008
 
 港台测试,#genre#
 民視,https://live-zb.nanhailong.com/live/df41e06d9a5d49bba2adf5fba9a572c3/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
