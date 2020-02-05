@@ -1212,12 +1212,6 @@ TVB無綫新聞,http://www.liveviptv.xyz/tv/tvb.php
 TVB無綫新聞,vjms://121.14.222.75:8500:3502/live/cid=366
 TVB無綫新聞,vjms://58.215.133.185:8500:3502/live/cid=366
 TVB無綫新聞,vjms://23.237.33.155:8500:3502/live/cid=366
-TVB明珠台,http://stream.guihet.com/tv/116.php?id=12
-TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-TVB明珠台,vjms://58.215.133.185:8500:3502/live/cid=367
-TVB明珠台,vjms://23.237.33.155:8500:3502/live/cid=367
-ViuTV,http://pull.leshantangjt.com/live/8c14aa3dd495a61a7abcc/playlist.m3u8
 鳳凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 鳳凰電影,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 鳳凰電影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
@@ -1804,3 +1798,20 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 华丽,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
 星卫娱乐,p2p://190.2.146.92:18912/5c724a0a000180991d58bd4f6e533ad5
 东森超视,mitv://fccsovh.pvbox.live:18912/5c72487c000667911d52abe7044c2b21
+国家地理野生,mitv://198.255.74.87:9906/5dc08f09000204d701b7ad2baed33465.ts
+国家地理,mitv://198.255.74.87:9906/5dc08f090003e26a01b7ada6c90177d7.ts
+TVB J2,http://pull.gzbqd.com/live/ba2014314aa1a2772afa87ca/playlist.m3u8
+TVB J2,http://h.weijuntww.top/atv/01kjzcom.m3u8
+TVB J2,http://hls.hongxin123.com/918867252917/stream.m3u8
+TVB J2,http://27.148.162.45/918867252917/stream__redirect__42714.m3u8
+TVB J2,http://117.149.150.4/atv/01kjzcom__redirect__1392.m3u8
+TVB J2,http://a.yinyishiye.com:1443/live/mylive/live.m3u8
+TVB J2,vjms://58.215.133.185:8500:3502/live/cid=368
+TVB J2,vjms://23.237.33.155:8500:3502/live/cid=368
+TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
+TVB明珠台,http://stream.guihet.com/tv/116.php?id=12
+TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+TVB明珠台,vjms://58.215.133.185:8500:3502/live/cid=367
+TVB明珠台,vjms://23.237.33.155:8500:3502/live/cid=367
+ViuTV,http://pull.leshantangjt.com/live/8c14aa3dd495a61a7abcc/playlist.m3u8
