@@ -765,7 +765,8 @@ MCOT HD 30,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mcothd.smil
 GMM ONE HD,https://1521567559.rsc.cdn77.org/LS-50041-SIN-22/tracks-v1a1/mono.m3u8
 Thairath 32,http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 THAI 33 HD,https://1468481365.rsc.cdn77.org/LS-50041-SIN-19/tracks-v1a1/mono.m3u8
-Amarin TV Thai HD,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
+Amarin TV,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
+Amarin TV,http://27.254.130.64/live01/ch13.m3u8?p=st
 THAI 7HD,http://live.pjmcdn.info/live/Ch7-HD.stream/playlist.m3u8
 PPTV HD,http://183.182.100.184/live/pptvthai/playlist.m3u8
 DDTV,http://203.156.63.20:1935/live/ddtv/playlist.m3u8
@@ -838,6 +839,9 @@ Star World HD (Middle East),http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u
 CBN,http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 Bloomberg,https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 Aljazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+BBC Two,https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/tracks-v1a1/mono.m3u8
+韩国频道,#genre#
+arirang world,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
 测试频道,#genre#
 汕头综合,rtsp://183.58.12.204/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil?icpid=88888888
@@ -1526,16 +1530,13 @@ Aljazeera,http://27.254.130.64/live03/ch2.m3u8?p=st
 AMARIN HD,https://www.livedoomovie.com/02_AMARINHD_720p/chunklist.m3u8
 AMARIN HD 34,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv34_amarintvhd/playlist.m3u8
 AMARIN HD 34,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv34_amarintvhd/playlist.m3u8
-Amarin TV,http://27.254.130.64/live01/ch13.m3u8?p=st
 Amarin TV HD,http://180.183.6.32:1038
 ANIMAX,http://180.183.6.32:1009
 ANIMAX,http://203.154.243.31:8081/live/animax/index.m3u8
 Arirang News,http://27.254.130.64/live03/ch0.m3u8?p=st
-arirang world,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 AUSTRALIA NEWS HD,http://180.183.6.32:1003
 baby,http://livecdnh1.tvanywhere.ae:80/hls/baby/index.m3u8	
 Baby_TV_HD,https://www.livedoomovie.com/02_Baby_TV_HD_720p/chunklist.m3u8
-BBC Two,https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/tracks-v1a1/mono.m3u8
 BBC WORLD NEWS HD,http://180.183.6.32:1002
 Boomerang,http://180.183.6.32:1026
 Boomerang,http://203.154.243.31:8081/live/boomerrang/index.m3u8
