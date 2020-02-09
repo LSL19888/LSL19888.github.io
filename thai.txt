@@ -295,6 +295,7 @@ TVBS,vjms://121.14.222.75:8500:3502/live/cid=349
 有線電視18台,vjms://23.237.33.155:8500:3502/live/cid=364
 有線電視18台,vjms://121.14.222.75:8500:3502/live/cid=364
 ViuTV,http://pull.leshantangjt.com/live/8c14aa3dd495a61a7abcc/playlist.m3u8
+鳳凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe
 凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 凤凰香港,p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
 凤凰香港,http://live.centerch.com/fhxg.m3u8
@@ -1826,10 +1827,17 @@ CHC高清电影,https://live-zb.nanhailong.com/live/46890bf87c634cea8af2affaca93
 CHC动作电影,https://live-zb.nanhailong.com/live/c677258803d14a569a14c6e27f47b927/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 有線新聞台,https://live-zb.nanhailong.com/live/19b97e57452d4cc0bb5bf60d67c76c92/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 無線新聞台,https://live-zb.nanhailong.com/live/e650d9320194456f9d3a73dae82df5eb/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
-satrom测试,#genre#
-星空卫视,rtmp://58.200.131.2:1935/livetv/startv
-国家地理野生,mitv://198.255.74.87:9906/5dc08f09000204d701b7ad2baed33465.ts
-国家地理,mitv://198.255.74.87:9906/5dc08f090003e26a01b7ada6c90177d7.ts
+
+坏源,#genre#
+广东体育,vjms://121.14.222.75:8500:3502/live/cid=336
+广东体育,vjms://23.237.33.155:8500:3502/live/cid=336
+广东体育,http://104.250.154.42:8080/ZZ_guangdongtiyu/ZZ_guangdongtiyu.m3u8
+TVBS?精彩台,p2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
+华视 ,p2p://190.2.146.92:18912/5c2dd7470006324111f874bf40a40dd0.ts
+华视 ,p2p://190.2.146.92:18912/5b140968000d4f3517d25cf83e1e0c9f.ts
+迪士尼卡通 ,p2p://190.2.146.92:18912/5c72485c0008852e1d522f7314a34325.ts
+八大戏剧 ,p2p://190.2.146.92:18912/5c72488600080edc1d52d364104615a0.ts
+霹雳台湾 ,p2p://190.2.146.92:18912/5c7248580004e26e1d521ee9240c6230.ts
 TVB J2,http://pull.gzbqd.com/live/ba2014314aa1a2772afa87ca/playlist.m3u8
 TVB J2,http://pull.gzbqd.com/live/a27ba2072afa87ca14aa1314/playlist.m3u8
 TVB J2,http://pull.gzbqd.com/live/bafa87ca142072aaa13a2714/playlist.m3u8
@@ -1841,36 +1849,24 @@ TVB J2,http://hls.hongxin123.com/918867252917/stream.m3u8
 TVB J2,http://27.148.162.45/918867252917/stream__redirect__42714.m3u8
 TVB J2,http://117.149.150.4/atv/01kjzcom__redirect__1392.m3u8
 TVB J2,http://a.yinyishiye.com:1443/live/mylive/live.m3u8
-TVB J2,vjms://58.215.133.185:8500:3502/live/cid=368
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=368
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
-TVB明珠台,http://stream.guihet.com/tv/116.php?id=12
 TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-TVB明珠台,vjms://58.215.133.185:8500:3502/live/cid=367
 TVB明珠台,vjms://23.237.33.155:8500:3502/live/cid=367
 ViuTV,http://pull.leshantangjt.com/live/8c14aa3dd495a61a7abcc/playlist.m3u8
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+国家地理野生,mitv://198.255.74.87:9906/5dc08f09000204d701b7ad2baed33465.ts
+国家地理,mitv://198.255.74.87:9906/5dc08f090003e26a01b7ada6c90177d7.ts
 TVB無綫新聞,http://pull.leshantangjt.com/live/2b1102a7c22b11a713c3a596f/playlist.m3u8
 TVB無綫新聞,http://pull.leshantangjt.com/live/22a11a713c3a57cb96f2b1102/playlist.m3u8
 TVB無綫新聞,http://61.147.122.14/flv.live.xylive.tv/live/00wxxw.flv
-TVB無綫新聞,http://www.liveviptv.xyz/tv/tvb.php
 TVB無綫新聞,vjms://121.14.222.75:8500:3502/live/cid=366
 TVB無綫新聞,vjms://58.215.133.185:8500:3502/live/cid=366
 TVB無綫新聞,vjms://23.237.33.155:8500:3502/live/cid=366
 TVB星河台,http://61.147.122.15/flv.live.xylive.tv/live/0040.flv
 鳳凰香港,http://liveali.ifeng.com/live/FHHK.flv
-鳳凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe
 有線新聞台,http://61.147.122.14/flv.live.xylive.tv/live/youxianxinwen.flv
 有線電視18台,http://61.147.122.14/flv.live.xylive.tv/live/18tai.flv
 中天新聞,http://61.147.122.14/flv.live.xylive.tv/live/00ztxw.flv
 年代新聞,http://61.147.122.14/flv.live.xylive.tv/live/0088ndxw.flv
-Broken,#genre#
-广东体育,vjms://121.14.222.75:8500:3502/live/cid=336
-广东体育,vjms://23.237.33.155:8500:3502/live/cid=336
-广东体育,http://104.250.154.42:8080/ZZ_guangdongtiyu/ZZ_guangdongtiyu.m3u8
-TVBS?精彩台,p2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
-华视 ,p2p://190.2.146.92:18912/5c2dd7470006324111f874bf40a40dd0.ts
-华视 ,p2p://190.2.146.92:18912/5b140968000d4f3517d25cf83e1e0c9f.ts
-迪士尼卡通 ,p2p://190.2.146.92:18912/5c72485c0008852e1d522f7314a34325.ts
-八大戏剧 ,p2p://190.2.146.92:18912/5c72488600080edc1d52d364104615a0.ts
-霹雳台湾 ,p2p://190.2.146.92:18912/5c7248580004e26e1d521ee9240c6230.ts
