@@ -1543,28 +1543,16 @@ DW,http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 DW DEUTSCH,https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8?sd=10&rebase=on
 DW english,https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
 DW ESPAÑOL,https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
+
 EBS 1,http://110.10.122.11/groundwavetablet500k/_definst_/tablet500k/chunklist_w1707327467.m3u8
 EBS 2,http://58.225.75.83/ebs2familypc/_definst_/familypc1m/chunklist_w1799059625.m3u8
 EBS Kids TV,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1065959876.m3u8
 EBS Plus 1,http://58.225.75.83/plus1tablet500k/_definst_/tablet500k/chunklist_w681225039.m3u8
 Euro News,https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
-Euro News ori,https://euronews-en-p7-cdn.hexaglobe.net/f8be04c1697e9f9eeec4b3764a26b02e/5e33aba1/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_720p33.m3u8
-FANMUSICHD,https://www.livedoomovie.com/02_FANMUSICHD_720p/chunklist.m3u8
-FAN tv,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/fantv.smil/playlist.m3u8
 Fashion HD,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
-Fashion One,https://bozztv.com/36bay2/gin/giniko_fashionone_800kb_36bay2/tracks-v1a1/mono.m3u8
 Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-Fight Sport,http://180.183.6.32:1012
-FIGHT SPORTS,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/fightsportshd/playlist.m3u8
-Fox Soccer Plus HD,http://144.130.113.221:9981/stream/channelid/1865328008
-Gang Cartoon,http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
-GMM25 Channel HD,https://www.livedoomovie.com/02_GMM_720p/chunklist.m3u8
 GMM25,http://27.254.130.64/live01/ch11.m3u8?p=st
-GMM25,http://180.183.6.32:1030
-GMM 25,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv25_gmmchannel/playlist.m3u8
-GMM 25,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv25_gmmchannel/playlist.m3u8
 GTV,http://id6.indostreamingtv.com/live/tv1/index.m3u8
-h2 HD,http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8	
 iZaa Channel,http://203.154.243.31:8081/live/izaahd/index.m3u8
 Japan,http://180.183.6.32:1007
 Japan GoodYi,http://180.183.6.32:1006
@@ -1791,3 +1779,16 @@ Boomerang,https://www.livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
 Cartoon Club,http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist_w314734723.m3u8
 CARTOON CLUB CHANNEL,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/cartoonclub.smil/playlist.m3u8
 CAT Channel,http://cdnlive.goprimetime.info/live99/47/cat.m3u8?p=st
+Euro News ori,https://euronews-en-p7-cdn.hexaglobe.net/f8be04c1697e9f9eeec4b3764a26b02e/5e33aba1/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_720p33.m3u8
+FANMUSICHD,https://www.livedoomovie.com/02_FANMUSICHD_720p/chunklist.m3u8
+FAN tv,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/fantv.smil/playlist.m3u8
+Fashion One,https://bozztv.com/36bay2/gin/giniko_fashionone_800kb_36bay2/tracks-v1a1/mono.m3u8
+Fight Sport,http://180.183.6.32:1012
+FIGHT SPORTS,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/fightsportshd/playlist.m3u8
+Fox Soccer Plus HD,http://144.130.113.221:9981/stream/channelid/1865328008
+Gang Cartoon,http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
+GMM25 Channel HD,https://www.livedoomovie.com/02_GMM_720p/chunklist.m3u8
+GMM25,http://180.183.6.32:1030
+GMM 25,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv25_gmmchannel/playlist.m3u8
+GMM 25,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv25_gmmchannel/playlist.m3u8
+h2 HD,http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8	
