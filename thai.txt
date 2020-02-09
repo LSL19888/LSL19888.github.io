@@ -1554,26 +1554,11 @@ Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 GMM25,http://27.254.130.64/live01/ch11.m3u8?p=st
 GTV,http://id6.indostreamingtv.com/live/tv1/index.m3u8
 iZaa Channel,http://203.154.243.31:8081/live/izaahd/index.m3u8
-Japan,http://180.183.6.32:1007
-Japan GoodYi,http://180.183.6.32:1006
 k2,http://livecdnh1.tvanywhere.ae:80/hls/k2/index.m3u8	
 KIX,http://203.154.243.31:8081/live/kik/index.m3u8
-KIX,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/kixhd/playlist.m3u8
-LFC TV,http://144.130.113.221:9981/stream/channelid/1120019475	
-Liverpool FC TV HD,http://144.130.113.221:9981/stream/channelid/1143112916	
-MANGORN,https://www.livedoomovie.com/02_MANGORN_720p/chunklist.m3u8
 M Channel,http://27.254.130.64/live01/ch19.m3u8?p=st
-M Channel,http://180.183.6.32:1024
-M CHANNEL,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/mchannel.smil/playlist.m3u8
-MCOT HD,http://27.254.130.64/live02/ch7.m3u8?p=st
-MCOT HD,https://www.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
 MCOT HD | 30 (1080p HD) NEW,http://203.154.243.31:8081/live/tv9/index.m3u8
-MCOT HD | 30,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv30_mcothd/playlist.m3u8
-MCOT HD | 30,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv30_mcothd/playlist.m3u8
-Media Shopping,http://180.183.6.32:1025
 Metro TV HD,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1584163574_b1492000_sleng.m3u8
-MiaoMi HD,http://180.183.6.32:1010
-Miao_Mi,https://www.livedoomovie.com/02_Miao_Mi_720p/chunklist.m3u8
 Model Inc,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 Money Channel,http://27.254.130.64/live99/46/money.m3u8?p=st
 MONO29 NEW,http://203.154.243.31:8081/live/mono/index.m3u8
@@ -1792,3 +1777,18 @@ GMM25,http://180.183.6.32:1030
 GMM 25,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv25_gmmchannel/playlist.m3u8
 GMM 25,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv25_gmmchannel/playlist.m3u8
 h2 HD,http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8	
+Japan,http://180.183.6.32:1007
+Japan GoodYi,http://180.183.6.32:1006
+LFC TV,http://144.130.113.221:9981/stream/channelid/1120019475	
+Liverpool FC TV HD,http://144.130.113.221:9981/stream/channelid/1143112916	
+MANGORN,https://www.livedoomovie.com/02_MANGORN_720p/chunklist.m3u8
+M Channel,http://180.183.6.32:1024
+M CHANNEL,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/mchannel.smil/playlist.m3u8
+MCOT HD,http://27.254.130.64/live02/ch7.m3u8?p=st
+MCOT HD,https://www.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
+MCOT HD | 30,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv30_mcothd/playlist.m3u8
+MCOT HD | 30,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv30_mcothd/playlist.m3u8
+KIX,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/kixhd/playlist.m3u8
+Media Shopping,http://180.183.6.32:1025
+MiaoMi HD,http://180.183.6.32:1010
+Miao_Mi,https://www.livedoomovie.com/02_Miao_Mi_720p/chunklist.m3u8
