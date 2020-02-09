@@ -752,12 +752,14 @@ GANG CRRTOON,http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
 NEW TV,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m3u8
 SABAIDEE TV,http://stream.rs.co.th/sbd-hi/index.m3u8
 Channel 2,http://stream.rs.co.th/ch2-hi/index.m3u8
-BOOMERANG,http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
 NATION NEWS HD,http://live.nationtv.tv/hls/ntv_th_sd.m3u8
 WORK POINT HD,http://thaiip.tv/add/23.php
 True4u HD,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/true4u.smil/playlist.m3u8
 GMM25 Channel HD,http://thaiip.tv/add/25.php
 CARTOON CLUB,http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+CARTOON CLUB,http://27.254.130.64/live01/ch17.m3u8?p=st
+CARTOON CLUB,http://180.183.6.32:1011
+CARTOON CLUB,http://203.154.243.31:8081/live/cartoonclub/index.m3u8
 Channel 8 HD,http://stream.rs.co.th/ch8-hi/index.m3u8
 Monoplus,https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/chunklist_w501711662.m3u8
 MONO29 HD,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv29_mono29/playlist.m3u8
@@ -837,7 +839,9 @@ Star World HD (Middle East),http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u
 香港电影频道,http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 美国频道,#genre#
 CBN,http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-Bloomberg,https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+BOOMERANG,https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+BOOMERANG,http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
+BOOMERANG,http://203.154.243.31:8081/live/boomerrang/index.m3u8
 Aljazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 BBC Two,https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/tracks-v1a1/mono.m3u8
 韩国频道,#genre#
@@ -1515,39 +1519,6 @@ CETV-4,http://stream.guihet.com/migu/index.php?id=649531725
 舌尖上的中国,http://tx.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
 
 源,#genre#
-3 HD,http://180.183.6.32:1037
-3 HD 33,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv33_ch3hd/playlist.m3u8
-3 HD 33,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv33_ch3hd/playlist.m3u8
-3 SD,http://180.183.6.32:1032
-3HD,https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
-7 HD 35,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv35_ch7hd/playlist.m3u8
-7 HD 35,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv35_ch7hd/playlist.m3u8
-7HD,https://www.livedoomovie.com/02_7HD_720p/chunklist.m3u8
-8 HD,https://www.livedoomovie.com/02_8HD_720p/chunklist.m3u8
-9MCOT HD,http://180.183.6.32:1034
-Action Hollywood HD,http://180.183.6.32:1017
-Aljazeera,http://27.254.130.64/live03/ch2.m3u8?p=st
-AMARIN HD,https://www.livedoomovie.com/02_AMARINHD_720p/chunklist.m3u8
-AMARIN HD 34,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv34_amarintvhd/playlist.m3u8
-AMARIN HD 34,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv34_amarintvhd/playlist.m3u8
-Amarin TV HD,http://180.183.6.32:1038
-ANIMAX,http://180.183.6.32:1009
-ANIMAX,http://203.154.243.31:8081/live/animax/index.m3u8
-Arirang News,http://27.254.130.64/live03/ch0.m3u8?p=st
-AUSTRALIA NEWS HD,http://180.183.6.32:1003
-baby,http://livecdnh1.tvanywhere.ae:80/hls/baby/index.m3u8	
-Baby_TV_HD,https://www.livedoomovie.com/02_Baby_TV_HD_720p/chunklist.m3u8
-BBC WORLD NEWS HD,http://180.183.6.32:1002
-Boomerang,http://180.183.6.32:1026
-Boomerang,http://203.154.243.31:8081/live/boomerrang/index.m3u8
-Boomerang,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/boomerang.smil/playlist.m3u8
-Boomerang,https://www.livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
-Cartoon Club,http://27.254.130.64/live01/ch17.m3u8?p=st
-CARTOON CLUB,http://180.183.6.32:1011
-Cartoon Club,http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist_w314734723.m3u8
-CARTOON CLUB CHANNEL,http://203.154.243.31:8081/live/cartoonclub/index.m3u8
-CARTOON CLUB CHANNEL,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/cartoonclub.smil/playlist.m3u8
-CAT Channel,http://cdnlive.goprimetime.info/live99/47/cat.m3u8?p=st
 CH2,http://27.254.130.64/live01/ch15.m3u8?p=st
 CH3 HD,http://27.254.130.64/live01/ch0.m3u8?p=st
 CH3 HD,http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
@@ -1791,3 +1762,32 @@ TVB星河台,http://61.147.122.15/flv.live.xylive.tv/live/0040.flv
 有線電視18台,http://61.147.122.14/flv.live.xylive.tv/live/18tai.flv
 中天新聞,http://61.147.122.14/flv.live.xylive.tv/live/00ztxw.flv
 年代新聞,http://61.147.122.14/flv.live.xylive.tv/live/0088ndxw.flv
+3 HD,http://180.183.6.32:1037
+3 HD 33,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv33_ch3hd/playlist.m3u8
+3 HD 33,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv33_ch3hd/playlist.m3u8
+3 SD,http://180.183.6.32:1032
+3HD,https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
+7 HD 35,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv35_ch7hd/playlist.m3u8
+7 HD 35,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv35_ch7hd/playlist.m3u8
+7HD,https://www.livedoomovie.com/02_7HD_720p/chunklist.m3u8
+8 HD,https://www.livedoomovie.com/02_8HD_720p/chunklist.m3u8
+9MCOT HD,http://180.183.6.32:1034
+Action Hollywood HD,http://180.183.6.32:1017
+Aljazeera,http://27.254.130.64/live03/ch2.m3u8?p=st
+AMARIN HD,https://www.livedoomovie.com/02_AMARINHD_720p/chunklist.m3u8
+AMARIN HD 34,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv34_amarintvhd/playlist.m3u8
+AMARIN HD 34,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv34_amarintvhd/playlist.m3u8
+Amarin TV HD,http://180.183.6.32:1038
+ANIMAX,http://180.183.6.32:1009
+ANIMAX,http://203.154.243.31:8081/live/animax/index.m3u8
+Arirang News,http://27.254.130.64/live03/ch0.m3u8?p=st
+AUSTRALIA NEWS HD,http://180.183.6.32:1003
+baby,http://livecdnh1.tvanywhere.ae:80/hls/baby/index.m3u8	
+Baby_TV_HD,https://www.livedoomovie.com/02_Baby_TV_HD_720p/chunklist.m3u8
+BBC WORLD NEWS HD,http://180.183.6.32:1002
+Boomerang,http://180.183.6.32:1026
+Boomerang,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/boomerang.smil/playlist.m3u8
+Boomerang,https://www.livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
+Cartoon Club,http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist_w314734723.m3u8
+CARTOON CLUB CHANNEL,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/cartoonclub.smil/playlist.m3u8
+CAT Channel,http://cdnlive.goprimetime.info/live99/47/cat.m3u8?p=st
