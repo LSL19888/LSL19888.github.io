@@ -1711,6 +1711,7 @@ CAT Channel,http://cdnlive.goprimetime.info/live99/47/cat.m3u8?p=st
 YOU Channel,http://27.254.130.64/live99/46/youchannel.m3u8?p=st
 Money Channel,http://27.254.130.64/live99/46/money.m3u8?p=st
 Arirang News,http://27.254.130.64/live03/ch0.m3u8?p=st
+test源,#genre#
 Thai CCTV,http://27.254.130.64/live99/46/tcctv.m3u8?p=st
 Aljazeera,http://27.254.130.64/live03/ch2.m3u8?p=st
 NHK World,http://27.254.130.64/live03/ch1.m3u8?p=st
