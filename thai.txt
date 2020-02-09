@@ -549,6 +549,7 @@ JET综合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 东森综合,p2p://190.2.146.92:18912/5c724877000e7b2d1d529a721b487255.ts
 东森综合,vjms://23.237.33.155:8500:3502/live/cid=333
 东森超视,p2p://190.2.146.92:18912/5c72487c000667911d52abe7044c2b21.ts
+东森超视,mitv://fccsovh.pvbox.live:18912/5c72487c000667911d52abe7044c2b21
 霹雳台湾台,http://pili-live-hdl.qhmywl.com/dsdtv/14b736ee363e84918a8c43c69691faaa.flv
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 星空衛視,http://stream.guihet.com/tv/116.php?id=233
@@ -556,7 +557,9 @@ JET综合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 星空衛視,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=234&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 星卫娱乐,p2p://190.2.146.92:18912/5c724a0a000180991d58bd4f6e533ad5.ts
+星卫娱乐,p2p://190.2.146.92:18912/5c724a0a000180991d58bd4f6e533ad5
 大爱,p2p://190.2.146.92:18912/5c7248470009cd451d51ddb92c7476f0.ts
+有线综合娱乐台,http://testalicdn2.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-1.m3u8
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 港台体育,#genre#
 FOXSPORT-3,vjms://58.215.133.185:8500:3502/live/cid=95
@@ -670,7 +673,8 @@ Disney,P2p://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
 优漫卡通,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=146&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 金鹰卡通,http://stream.guihet.com/tv/116.php?id=244
 金鹰卡通,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=244&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-
+Astro,#genre#
+华丽台,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
 精彩4K,#genre#
 BesTV4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 纯享4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
@@ -1823,12 +1827,7 @@ CHC动作电影,https://live-zb.nanhailong.com/live/c677258803d14a569a14c6e27f47
 有線新聞台,https://live-zb.nanhailong.com/live/19b97e57452d4cc0bb5bf60d67c76c92/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 無線新聞台,https://live-zb.nanhailong.com/live/e650d9320194456f9d3a73dae82df5eb/playlist.m3u8?uid=oi5DV03sXFhwZ9FXHJPsKF8gsbqU&t=1580291265&k=CD1E5A6948D56D88D1AA957BD82F97C4&wsSession=864d615ff7ff7486ccd4d2f1-158026966676989&wsIPSercert=0d138c71f956e4ce5bec
 satrom测试,#genre#
-有线综合娱乐台,http://testalicdn2.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-1.m3u8
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
-tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
-华丽,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
-星卫娱乐,p2p://190.2.146.92:18912/5c724a0a000180991d58bd4f6e533ad5
-东森超视,mitv://fccsovh.pvbox.live:18912/5c72487c000667911d52abe7044c2b21
 国家地理野生,mitv://198.255.74.87:9906/5dc08f09000204d701b7ad2baed33465.ts
 国家地理,mitv://198.255.74.87:9906/5dc08f090003e26a01b7ada6c90177d7.ts
 TVB J2,http://pull.gzbqd.com/live/ba2014314aa1a2772afa87ca/playlist.m3u8
