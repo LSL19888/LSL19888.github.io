@@ -837,6 +837,7 @@ Star World HD (Middle East),http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u
 美国频道,#genre#
 CBN,http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 Bloomberg,https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+Aljazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 测试频道,#genre#
 汕头综合,rtsp://183.58.12.204/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil?icpid=88888888
@@ -1522,11 +1523,10 @@ CETV-4,http://stream.guihet.com/migu/index.php?id=649531725
 9MCOT HD,http://180.183.6.32:1034
 Action Hollywood HD,http://180.183.6.32:1017
 Aljazeera,http://27.254.130.64/live03/ch2.m3u8?p=st
-Aljazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 AMARIN HD,https://www.livedoomovie.com/02_AMARINHD_720p/chunklist.m3u8
 AMARIN HD 34,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv34_amarintvhd/playlist.m3u8
 AMARIN HD 34,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv34_amarintvhd/playlist.m3u8
-AmarinTV,http://27.254.130.64/live01/ch13.m3u8?p=st
+Amarin TV,http://27.254.130.64/live01/ch13.m3u8?p=st
 Amarin TV HD,http://180.183.6.32:1038
 ANIMAX,http://180.183.6.32:1009
 ANIMAX,http://203.154.243.31:8081/live/animax/index.m3u8
