@@ -1581,76 +1581,22 @@ RT News,https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 Russia today,https://bozztv.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/tracks-v1a1/mono.m3u8
 Series,http://203.154.243.31:8081/live/series/index.m3u8
 Sky News,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-SMM TV,http://180.183.6.32:1014
 SNOOKER WORLD 1 HD,http://203.154.243.31:8081/live/snooker/index.m3u8
-Spring News,http://27.254.130.64/live02/ch5.m3u8?p=st
 Star Movies,http://livecdnh1.tvanywhere.ae:80/hls/star_movies/index.m3u8	
 Star Movies HD,http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 Star World,http://livecdnh1.tvanywhere.ae:80/hls/star_world/index.m3u8	
-T-SPORT,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/t-sports/playlist.m3u8
 TENNIS TV NEW,http://203.154.243.31:8081/live/tennis/index.m3u8
 TGN,https://bozztv.com/36bay2/gin/giniko_tgntv_800kb_36bay2/tracks-v1a1/mono.m3u8
 THAI 7HD,https://1419021143.rsc.cdn77.org/LS-50041-SIN-21/tracks-v1a1/mono.m3u8
-Thai CCTV,http://27.254.130.64/live99/46/tcctv.m3u8?p=st
-ThaiPBS,http://27.254.130.64/live02/ch0.m3u8?p=st
-THAIPBS HD,http://180.183.6.32:1022
-Thai PBS HD 3,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv03_tpbshd/playlist.m3u8
-Thai PBS HD 3,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv03_tpbshd/playlist.m3u8
-THAIRATH HD,https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
 ThairathTV,http://27.254.130.64/live01/ch9.m3u8?p=st
-Thairath TV HD,http://180.183.6.32:1036
-thrill,http://203.154.243.31:8081/live/thrill/index.m3u8
-thrill,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/thrilllhd/playlist.m3u8
-TNN 16 HD,https://www.livedoomovie.com/02_TNN24_480p/chunklist.m3u8
-TNN16,http://180.183.6.32:1023
 TNN24,http://27.254.130.64/live01/ch5.m3u8?p=st
-TNN ช่อง 16,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv16_tnn24/playlist.m3u8
-TNN ช่อง 16,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv16_tnn24/playlist.m3u8
-TPBS HD,https://www.livedoomovie.com/02_THAIPBS_720p/chunklist.m3u8
-TPTV,http://27.254.130.64/live99/47/tptv.m3u8?p=st
-TPTV 10,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv10_tptv/playlist.m3u8
-TPTV 10,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv10_tptv/playlist.m3u8
-TRACE SPORT STARS,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/tracesportstar/playlist.m3u8
 True4U,http://27.254.130.64/live01/ch4.m3u8?p=st
-True4U,http://180.183.6.32:1029
 True 4U,http://183.182.100.184/live/true4u/chunklist.m3u8
-TRUE4U,https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
-true4U | 24,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv24_true4u/playlist.m3u8
-true4U | 24,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv24_true4u/playlist.m3u8
-T SPORTS,http://180.183.6.32:1013
-T SPORTS Channel,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/t-sports.smil/playlist.m3u8
 tv5,http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8	
-tv asahi HD,http://180.183.6.32:1005
-T_Sports,https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
-VoiceTV,http://27.254.130.64/live02/ch6.m3u8?p=st
-WB TV HD,http://180.183.6.32:1015
-WORKPIONT,https://www.livedoomovie.com/02_WORKPOINT_720p/chunklist.m3u8
-workpoint 23,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv23_workpointtv/playlist.m3u8
-workpoint 23,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv23_workpointtv/playlist.m3u8
 WorkpointTV,http://27.254.130.64/live01/ch7.m3u8?p=st
-Workpoint TV,http://180.183.6.32:1028
-WOWOW HD,http://180.183.6.32:1008
-YOU Channel,http://27.254.130.64/live99/46/youchannel.m3u8?p=st
-zeenang,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/zeenang/playlist.m3u8
-Zee_Nung,https://www.livedoomovie.com/02_Zee_Nung_720p/chunklist.m3u8
-ZEE หนัง,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/zeenang/playlist.m3u8
 Z Nang,http://27.254.130.64/live99/46/zeenung.m3u8?p=st
 zoom,http://livecdnh1.tvanywhere.ae:80/hls/zoom/index.m3u8	
-ถิ่นใต้ IPTV,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/battle.smil/playlist.m3u8
-ททบ 5 HD ช่อง 1,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv01_ch5hd/playlist.m3u8
-ททบ 5 HD ช่อง 1,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv01_ch5hd/playlist.m3u8
-ททบ5,http://180.183.6.32:1020
-สบายดี TV,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/sabaideetv.smil/playlist.m3u8
-สบายดี ทีวี,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/sabaideetv.smil/playlist.m3u8
-สามเมือง ชาแนล,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/sammuang.stream/playlist.m3u8
-แสงจันทร์ ทีวี,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/sangjun.smil/playlist.m3u8
-ไก่ชนเงินล้าน,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/battle2.smil/playlist.m3u8
 ไทยรัฐ TV HD 32 (1080p HD) NEW,http://203.154.243.31:8081/live/thairath/index.m3u8
-ไทยรัฐ TV HD 32,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
-ไทยรัฐ TV HD 32,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
-HBO RED,http://161.117.239.243/flv?app=flv&stream=hbored
-ABC,http://161.117.233.100/live/abc/abc.m3u8
-TYPD,http://161.117.239.243/live/typd/typd.m3u8
 
 坏源,#genre#
 广东体育,vjms://121.14.222.75:8500:3502/live/cid=336
@@ -1794,3 +1740,54 @@ PPTV HD,https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
 PPTV HD 36,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv36_pptvhd/playlist.m3u8
 PPTV HD 36,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv36_pptvhd/playlist.m3u8
 SCM,https://www.livedoomovie.com/02_SCM_720p/chunklist.m3u8
+SMM TV,http://180.183.6.32:1014
+Spring News,http://27.254.130.64/live02/ch5.m3u8?p=st
+T-SPORT,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/t-sports/playlist.m3u8
+Thai CCTV,http://27.254.130.64/live99/46/tcctv.m3u8?p=st
+ThaiPBS,http://27.254.130.64/live02/ch0.m3u8?p=st
+THAIPBS HD,http://180.183.6.32:1022
+Thai PBS HD 3,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv03_tpbshd/playlist.m3u8
+Thai PBS HD 3,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv03_tpbshd/playlist.m3u8
+THAIRATH HD,https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
+Thairath TV HD,http://180.183.6.32:1036
+thrill,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/thrilllhd/playlist.m3u8
+thrill,http://203.154.243.31:8081/live/thrill/index.m3u8
+TNN 16 HD,https://www.livedoomovie.com/02_TNN24_480p/chunklist.m3u8
+TNN16,http://180.183.6.32:1023
+TNN ช่อง 16,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv16_tnn24/playlist.m3u8
+TNN ช่อง 16,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv16_tnn24/playlist.m3u8
+TPBS HD,https://www.livedoomovie.com/02_THAIPBS_720p/chunklist.m3u8
+TPTV,http://27.254.130.64/live99/47/tptv.m3u8?p=st
+TPTV 10,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv10_tptv/playlist.m3u8
+TPTV 10,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv10_tptv/playlist.m3u8
+TRACE SPORT STARS,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/tracesportstar/playlist.m3u8
+True4U,http://180.183.6.32:1029
+TRUE4U,https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
+true4U | 24,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv24_true4u/playlist.m3u8
+true4U | 24,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv24_true4u/playlist.m3u8
+T SPORTS,http://180.183.6.32:1013
+T SPORTS Channel,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/t-sports.smil/playlist.m3u8
+tv asahi HD,http://180.183.6.32:1005
+T_Sports,https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
+VoiceTV,http://27.254.130.64/live02/ch6.m3u8?p=st
+WB TV HD,http://180.183.6.32:1015
+WORKPIONT,https://www.livedoomovie.com/02_WORKPOINT_720p/chunklist.m3u8
+workpoint 23,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv23_workpointtv/playlist.m3u8
+workpoint 23,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv23_workpointtv/playlist.m3u8
+Workpoint TV,http://180.183.6.32:1028
+WOWOW HD,http://180.183.6.32:1008
+YOU Channel,http://27.254.130.64/live99/46/youchannel.m3u8?p=st
+zeenang,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/zeenang/playlist.m3u8
+Zee_Nung,https://www.livedoomovie.com/02_Zee_Nung_720p/chunklist.m3u8
+ZEE หนัง,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/zeenang/playlist.m3u8
+ถิ่นใต้ IPTV,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/battle.smil/playlist.m3u8
+ททบ 5 HD ช่อง 1,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv01_ch5hd/playlist.m3u8
+ททบ 5 HD ช่อง 1,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv01_ch5hd/playlist.m3u8
+ททบ5,http://180.183.6.32:1020
+สบายดี TV,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/sabaideetv.smil/playlist.m3u8
+สบายดี ทีวี,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/sabaideetv.smil/playlist.m3u8
+สามเมือง ชาแนล,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/sammuang.stream/playlist.m3u8
+แสงจันทร์ ทีวี,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/sangjun.smil/playlist.m3u8
+ไก่ชนเงินล้าน,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/battle2.smil/playlist.m3u8
+ไทยรัฐ TV HD 32,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
+ไทยรัฐ TV HD 32,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
