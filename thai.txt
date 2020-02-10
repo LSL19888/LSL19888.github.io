@@ -1524,26 +1524,16 @@ CH3 HD,http://27.254.130.64/live01/ch0.m3u8?p=st
 CH3 HD,http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
 CH5 HD,http://27.254.130.64/live01/ch6.m3u8?p=st
 CH7 HD,http://27.254.130.64/live01/ch1.m3u8?p=st
-CH7 HD,http://180.183.6.32:1039
 CH7,http://live.pjmcdn.info/live/Ch7-HD.stream/playlist.m3u8
-CH8,http://27.254.130.64/live02/ch2.m3u8?p=st
-CH8,http://180.183.6.32:1031
-CHANNEL 8 กดเลข 27,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv27_ch8/playlist.m3u8
-CHANNEL 8 กดเลข 27,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv27_ch8/playlist.m3u8
 Childrens BBC - CBBC,https://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
-Chosun,http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist.m3u8
 cin1,http://livecdnh1.tvanywhere.ae:80/hls/cin1/index.m3u8	
-CMM,https://www.livedoomovie.com/02_CCM_720p/chunklist.m3u8
 CNA ChannelNewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNN,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1649997259_b384000_sleng.m3u8
-Comedy,https://www.livedoomovie.com/02_Comedy_HD_720p/chunklist.m3u8
-Comedy Central,http://180.183.6.32:1019
 Daradaily Channel,http://27.254.130.64/live01/ch16.m3u8?p=st
 DW,http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 DW DEUTSCH,https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8?sd=10&rebase=on
 DW english,https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
 DW ESPAÑOL,https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
-
 EBS 1,http://110.10.122.11/groundwavetablet500k/_definst_/tablet500k/chunklist_w1707327467.m3u8
 EBS 2,http://58.225.75.83/ebs2familypc/_definst_/familypc1m/chunklist_w1799059625.m3u8
 EBS Kids TV,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1065959876.m3u8
@@ -1560,38 +1550,16 @@ M Channel,http://27.254.130.64/live01/ch19.m3u8?p=st
 MCOT HD | 30 (1080p HD) NEW,http://203.154.243.31:8081/live/tv9/index.m3u8
 Metro TV HD,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1584163574_b1492000_sleng.m3u8
 Model Inc,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-Money Channel,http://27.254.130.64/live99/46/money.m3u8?p=st
 MONO29 NEW,http://203.154.243.31:8081/live/mono/index.m3u8
 Mono29,http://27.254.130.64/live01/ch3.m3u8?p=st
-MONO29,http://180.183.6.32:1033
-MONO29,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv29_mono29/playlist.m3u8
-MONO29,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv29_mono29/playlist.m3u8
-MONO29,https://www.livedoomovie.com/02_MONO_720p/chunklist.m3u8
-MONO PLUS,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/monoplus.smil/playlist.m3u8
 Movie (Untitled),http://203.154.243.31:8081/live/h-channel/index.m3u8
-MTV HD,http://180.183.6.32:1018
 Music Now,http://livecdnh1.tvanywhere.ae:80/hls/music_now/index.m3u8	
-MUTV,http://144.130.113.221:9981/stream/channelid/311332242	
-NATION 22,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv22_nationtv/playlist.m3u8
-NATION 22,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv22_nationtv/playlist.m3u8
 National Geographic,http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 NationTV,http://27.254.130.64/live01/ch8.m3u8?p=st
-Nation TV,http://180.183.6.32:1027
-NATION TV,https://www.livedoomovie.com/02_NATION_480p/chunklist.m3u8
 nat_geo HD,http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/index.m3u8	
 nat_geo_wild HD,http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/index.m3u8	
 NBT,http://27.254.130.64/live01/ch14.m3u8?p=st
-NBT,https://www.livedoomovie.com/02_5HD_720p/chunklist.m3u8
-NBT HD,http://180.183.6.32:1021
-NBT HD 2,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv02_nbthd/playlist.m3u8
-NBT HD 2,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv02_nbthd/playlist.m3u8
-NEW,https://www.livedoomovie.com/02_NEW_480p/chunklist.m3u8
-NEW 18,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv18_newstv/playlist.m3u8
-NEW 18,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv18_newstv/playlist.m3u8
-NHK,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
-NHK G HD,http://180.183.6.32:1004
 NHK G HD,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-NHK World,http://27.254.130.64/live03/ch1.m3u8?p=st
 Olympic Channel 1,https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 Olympic Channel 2,https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
 Olympic Channel 3,https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
@@ -1605,24 +1573,12 @@ Olympic Channel 10,https://ott-live.olympicchannel.com/out/u/OC10_1.m3u8
 Olympic Channel 11,https://ott-live.olympicchannel.com/out/u/OC11_1.m3u8
 Olympic Channel 12,https://ott-live.olympicchannel.com/out/u/OC12_1.m3u8
 One HD,http://27.254.130.64/live01/ch10.m3u8?p=st
-ONE HD,http://180.183.6.32:1035
-ONE HD,https://www.livedoomovie.com/02_GMMONE_720p/chunklist.m3u8
-one HD 31,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv31_onehd/playlist.m3u8
-one HD 31,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv31_onehd/playlist.m3u8
-Paramount CHANNEL,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/paramountchannel/playlist.m3u8
-Paramount Channels,http://180.183.6.32:1016
 PPTV HD,http://27.254.130.64/live01/ch2.m3u8?p=st
-PPTV HD,http://27.254.130.64/live01/ch2.m3u8?p=st
-PPTV HD,http://180.183.6.32:1040
-PPTV HD,https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
 PPTV HD 36 (1080p HD) NEW,http://203.154.243.31:8081/live/pptv/index.m3u8
-PPTV HD 36,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv36_pptvhd/playlist.m3u8
-PPTV HD 36,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv36_pptvhd/playlist.m3u8
 Rai Movie HD,http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
 reporter,http://livecdnh1.tvanywhere.ae:80/hls/reporter/index.m3u8	
 RT News,https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 Russia today,https://bozztv.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/tracks-v1a1/mono.m3u8
-SCM,https://www.livedoomovie.com/02_SCM_720p/chunklist.m3u8
 Series,http://203.154.243.31:8081/live/series/index.m3u8
 Sky News,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 SMM TV,http://180.183.6.32:1014
@@ -1795,3 +1751,46 @@ KIX,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/kixhd/playlist.
 Media Shopping,http://180.183.6.32:1025
 MiaoMi HD,http://180.183.6.32:1010
 Miao_Mi,https://www.livedoomovie.com/02_Miao_Mi_720p/chunklist.m3u8
+CH7 HD,http://180.183.6.32:1039
+CH8,http://27.254.130.64/live02/ch2.m3u8?p=st
+CH8,http://180.183.6.32:1031
+CHANNEL 8 กดเลข 27,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv27_ch8/playlist.m3u8
+CHANNEL 8 กดเลข 27,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv27_ch8/playlist.m3u8
+Chosun,http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist.m3u8
+CMM,https://www.livedoomovie.com/02_CCM_720p/chunklist.m3u8
+Comedy,https://www.livedoomovie.com/02_Comedy_HD_720p/chunklist.m3u8
+Comedy Central,http://180.183.6.32:1019
+Money Channel,http://27.254.130.64/live99/46/money.m3u8?p=st
+MONO29,http://180.183.6.32:1033
+MONO29,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv29_mono29/playlist.m3u8
+MONO29,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv29_mono29/playlist.m3u8
+MONO29,https://www.livedoomovie.com/02_MONO_720p/chunklist.m3u8
+MONO PLUS,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/monoplus.smil/playlist.m3u8
+MTV HD,http://180.183.6.32:1018
+MUTV,http://144.130.113.221:9981/stream/channelid/311332242	
+NATION 22,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv22_nationtv/playlist.m3u8
+NATION 22,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv22_nationtv/playlist.m3u8
+Nation TV,http://180.183.6.32:1027
+NATION TV,https://www.livedoomovie.com/02_NATION_480p/chunklist.m3u8
+NBT,https://www.livedoomovie.com/02_5HD_720p/chunklist.m3u8
+NBT HD,http://180.183.6.32:1021
+NBT HD 2,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv02_nbthd/playlist.m3u8
+NBT HD 2,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv02_nbthd/playlist.m3u8
+NEW,https://www.livedoomovie.com/02_NEW_480p/chunklist.m3u8
+NEW 18,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv18_newstv/playlist.m3u8
+NEW 18,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv18_newstv/playlist.m3u8
+NHK,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
+NHK G HD,http://180.183.6.32:1004
+NHK World,http://27.254.130.64/live03/ch1.m3u8?p=st
+ONE HD,http://180.183.6.32:1035
+ONE HD,https://www.livedoomovie.com/02_GMMONE_720p/chunklist.m3u8
+one HD 31,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv31_onehd/playlist.m3u8
+one HD 31,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv31_onehd/playlist.m3u8
+Paramount CHANNEL,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/paramountchannel/playlist.m3u8
+Paramount Channels,http://180.183.6.32:1016
+PPTV HD,http://27.254.130.64/live01/ch2.m3u8?p=st
+PPTV HD,http://180.183.6.32:1040
+PPTV HD,https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
+PPTV HD 36,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv36_pptvhd/playlist.m3u8
+PPTV HD 36,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv36_pptvhd/playlist.m3u8
+SCM,https://www.livedoomovie.com/02_SCM_720p/chunklist.m3u8
