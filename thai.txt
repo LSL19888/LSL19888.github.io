@@ -892,9 +892,7 @@ CCTV-14少儿,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol
 河北卫视,http://weblive.hebtv.com/live/hbws_bq/index.m3u8
 安多卫视,http://111.40.205.87/PLTV/88888888/224/3221225659/index.m3u8
 康巴卫视,http://111.40.205.87/PLTV/88888888/224/3221225660/index.m3u8
-北京纪实,http://125.88.57.21:30001/PLTV/88888905/224/3221227555/1.m3u8
-北京纪实,http://stream.guihet.com/tv/116.php?id=158
-北京纪实,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=158&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+
 金鹰纪实,http://stream.guihet.com/tv/116.php?id=176
 金鹰纪实,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=176&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广东国际,http://nclive.grtn.cn/gjpd/playlist.m3u8
@@ -977,13 +975,10 @@ CCTV-14少儿,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol
 深圳移动电视,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszyd
 深圳众创TV,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszzc
 蛇口综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdsktv1
-鳳凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+
+
 鳳凰電影,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 鳳凰電影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-鳳凰電影,http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-星空衛視,http://stream.guihet.com/tv/116.php?id=233
-星空衛視,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-星空衛視,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=234&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 陽光衛視,http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
 陽光衛視,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
