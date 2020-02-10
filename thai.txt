@@ -1506,6 +1506,12 @@ CETV-4,http://stream.guihet.com/migu/index.php?id=649531725
 荒野求生,http://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2847699224-10057-A-0-1_1200.m3u8
 舌尖上的中国,http://tx.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
 
+test,#genre#
+TVB J2,http://pull.leshantangjt.com/live/a7aa142a1fa3a27841c07ba2/playlist.m3u8
+TVB翡翠台,http://pull.leshantangjt.com/live/ca9db70b91bcg388dtcb9ed88/playlist.m3u8
+TVB無綫新聞,http://pull.leshantangjt.com/live/2cb93c3651f2b11a01a7122a7/playlist.m3u8
+广东体育,rtsp://183.58.12.204/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil?icpid=88888888
+
 源,#genre#
 CH2,http://27.254.130.64/live01/ch15.m3u8?p=st
 CH3 HD,http://27.254.130.64/live01/ch0.m3u8?p=st
