@@ -1692,6 +1692,9 @@ zoom,http://livecdnh1.tvanywhere.ae:80/hls/zoom/index.m3u8
 ไทยรัฐ TV HD 32 (1080p HD) NEW,http://203.154.243.31:8081/live/thairath/index.m3u8
 ไทยรัฐ TV HD 32,http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
 ไทยรัฐ TV HD 32,http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
+HBO RED,http://161.117.239.243/flv?app=flv&stream=hbored
+ABC,http://161.117.233.100/live/abc/abc.m3u8
+TYPD,http://161.117.239.243/live/typd/typd.m3u8
 
 坏源,#genre#
 广东体育,vjms://121.14.222.75:8500:3502/live/cid=336
