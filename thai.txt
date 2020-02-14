@@ -1338,7 +1338,7 @@ Z Nang,http://27.254.130.64/live99/46/zeenung.m3u8?p=st
 zoom,http://livecdnh1.tvanywhere.ae:80/hls/zoom/index.m3u8	
 ไทยรัฐ TV HD 32 (1080p HD) NEW,http://203.154.243.31:8081/live/thairath/index.m3u8
 
-nj_test,#genre#
+nj,#genre#
 tvb,http://tvbilive10-i.akamaihd.net/hls/live/494663/CJHK5/CJHK5-04.m3u8
 CCTV-4K,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/ys4kcq_4000.m3u8
 CCTV-4K,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
