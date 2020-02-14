@@ -1339,6 +1339,12 @@ zoom,http://livecdnh1.tvanywhere.ae:80/hls/zoom/index.m3u8
 ไทยรัฐ TV HD 32 (1080p HD) NEW,http://203.154.243.31:8081/live/thairath/index.m3u8
 
 nj,#genre#
+TVB J2,http://pull.leshantangjt.com/live/a7aa142a1fa3a27841c07ba2/playlist.m3u8
+TVB J2,http://pull.leshantangjt.com/live/a3a27841c07ba2a7aa142a1f/playlist.m3u8
+TVB翡翠台,http://pull.leshantangjt.com/live/ca9db70b91bcg388dtcb9ed88/playlist.m3u8
+TVB翡翠台,http://pull.leshantangjt.com/live/c0b91bcg39eda9db78888dtcb/playlist.m3u8
+TVB無綫新聞,http://pull.leshantangjt.com/live/2cb93c3651f2b11a01a7122a7/playlist.m3u8
+TVB無綫新聞,http://pull.leshantangjt.com/live/51f2b11a01a7122a72cb93c36/playlist.m3u8
 tvb,http://tvbilive10-i.akamaihd.net/hls/live/494663/CJHK5/CJHK5-04.m3u8
 CCTV-4K,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/ys4kcq_4000.m3u8
 CCTV-4K,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
