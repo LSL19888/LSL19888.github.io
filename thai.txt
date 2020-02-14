@@ -1338,6 +1338,24 @@ Z Nang,http://27.254.130.64/live99/46/zeenung.m3u8?p=st
 zoom,http://livecdnh1.tvanywhere.ae:80/hls/zoom/index.m3u8	
 ไทยรัฐ TV HD 32 (1080p HD) NEW,http://203.154.243.31:8081/live/thairath/index.m3u8
 
+nj_test,#genre#
+CCTV-4K,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/ys4kcq_4000.m3u8
+CCTV-4K,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+CCTV-12社会与法,http://39.135.34.147:18890/000000001000/5325631075193490169/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=5325631075193490169&owchid=ystenlive&owsid=1106497909461165978&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7Q36zc4fu7NwQ%2fn1v2mTHqagOL8gLhzmY66HLCxgy24bGH5Xn1D6yEQdwViWmtBz15WRKuKxWsf0XH20JE0dby
+贵州卫视,http://39.135.34.146:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000003169&owchid=ystenlive&owsid=1106497909461328035&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhEobBU2fUvDIVr2YUAB3sQC3mtTDqCyM2IHfZcfgwbCVw3In3iCPMx3CBGKKivBM4
+广东体育,http://www.szdznet.cn/tv/tm2.php?id=GDSport
+TVB无线新闻台,https://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
+TVB无线新闻台,http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2
+非凡新闻,P2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
+三立新闻,p2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts
+中天新闻,http://341697390.r.fdccdn.net/live/tw_zhongtian_xw.m3u8
+纬来电影台,p8p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509.ts
+大爱二台,p8p://0198.02686.cc:16871/5d1a69b8000386b311bdecc8d9c8c96a.ts
+TVB J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
+TVBS精采台,P2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
+东森超视,p2p://190.2.146.92:18912/5c72487c000667911d52abe7044c2b21.ts
+FOX2,vjms://58.215.133.185:8500:3502/live/cid=444
+FOX3,vjms://58.215.133.185:8500:3502/live/cid=95
 test,#genre#
 CCTV-12,vjms://122.155.180.8:8500:3502/live/cid=464
 CCTV-13,vjms://122.155.180.8:8500:3502/live/cid=466
