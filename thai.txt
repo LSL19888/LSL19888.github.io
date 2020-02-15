@@ -61,6 +61,7 @@ CCTV-11戏曲,rtsp://125.88.53.18/PLTV/88888905/224/3221229858/10000100000000060
 CCTV-11戏曲,rtsp://183.58.12.204/PLTV/88888895/224/3221226815/00000100000000060000000000339412_0.smil?icpid=88888888
 CCTV-11戏曲,http://125.88.57.21:30001/PLTV/88888956/224/3221227672/1.m3u8
 CCTV-11戏曲,http://stream.guihet.com/tv/116.php?id=053
+CCTV-12社会与法,http://39.135.34.147:18890/000000001000/5325631075193490169/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=5325631075193490169&owchid=ystenlive&owsid=1106497909461165978&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7Q36zc4fu7NwQ%2fn1v2mTHqagOL8gLhzmY66HLCxgy24bGH5Xn1D6yEQdwViWmtBz15WRKuKxWsf0XH20JE0dby
 CCTV-12社会与法,http://39.135.34.142:18890/000000001000/5325631075193490169/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=5325631075193490169&owchid=ystenlive&owsid=1106497909461165978&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7Q36zc4fu7NwQ%2fn1v2mTHqagOL8gLhzmY66HLCxgy24bGH5Xn1D6yEQdwViWmtBz15WRKuKxWsf0XH20JE0dby
 CCTV-12社会与法,http://39.135.34.153:18890/000000001000/5325631075193490169/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=5325631075193490169&owchid=ystenlive&owsid=1106497909461165978&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7Q36zc4fu7NwQ%2fn1v2mTHqagOL8gLhzmY66HLCxgy24bGH5Xn1D6yEQdwViWmtBz15WRKuKxWsf0XH20JE0dby
 CCTV-12社会与法,rtsp://183.58.12.204/PLTV/88888905/224/3221227576/10000100000000060000000004662502_0.smil?icpid=88888888
@@ -244,6 +245,7 @@ CCTV-17农业农村,rtsp://183.58.12.204/PLTV/88888905/224/3221229870/1000010000
 东南卫视,http://125.88.57.21:30001/PLTV/88888956/224/3221227719/1.m3u8
 东南卫视,http://stream.guihet.com/tv/116.php?id=023
 东南卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=023&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+贵州卫视,http://39.135.34.146:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000003169&owchid=ystenlive&owsid=1106497909461328035&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhEobBU2fUvDIVr2YUAB3sQC3mtTDqCyM2IHfZcfgwbCVw3In3iCPMx3CBGKKivBM4
 贵州卫视,http://39.135.34.145:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000003169&owchid=ystenlive&owsid=1106497909461328035&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhEobBU2fUvDIVr2YUAB3sQC3mtTDqCyM2IHfZcfgwbCVw3In3iCPMx3CBGKKivBM4
 贵州卫视,http://125.88.57.21:30001/PLTV/88888956/224/3221227713/1.m3u8
 贵州卫视,http://stream.guihet.com/tv/116.php?id=041
@@ -252,6 +254,7 @@ CCTV-17农业农村,rtsp://183.58.12.204/PLTV/88888905/224/3221229870/1000010000
 甘肃卫视,http://125.88.57.21:30001/PLTV/88888956/224/3221227731/1.m3u8
 甘肃卫视,http://stream.guihet.com/tv/116.php?id=142
 甘肃卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=142&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+广东体育,http://www.szdznet.cn/tv/tm2.php?id=GDSport
 广东体育,vjms://121.14.222.75:8500:3502/live/cid=336#vjms://23.237.33.155:8500:3502/live/cid=336#http://104.250.154.42:8080/ZZ_guangdongtiyu/ZZ_guangdongtiyu.m3u8
 南方卫视,http://125.88.55.18:30001/PLTV/88888956/224/3221227651/1.m3u8
 南方卫视,http://nclive.grtn.cn/tvs2/playlist.m3u8
@@ -346,6 +349,7 @@ ViuTV,http://pull.leshantangjt.com/live/8c14aa3dd495a61a7abcc/playlist.m3u8
 东森新闻,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
 东森新闻,http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.flv
 东森新闻,vjms://121.14.222.75:8500:3502/live/cid=340
+中天新闻,http://341697390.r.fdccdn.net/live/tw_zhongtian_xw.m3u8
 中天新闻,p2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts
 中天新闻,vjms://58.215.133.185:8500:3502/live/cid=407
 中天新闻,vjms://23.237.33.155:8500:3502/live/cid=407
@@ -428,6 +432,7 @@ HBO原创,vjms://23.237.33.155:8500:3502/live/cid=236
 星卫电影,p2p://51.79.41.138:18912/5c724a05000626a61d58aaff0c3f3175.ts
 卫视电影台,p2p://190.2.146.92:18912/5c7249cf00095b611d57d8da587f1c48.ts
 卫视电影台,p8p://0198.02686.cc:16871/5d1a69d0000743f711be4b7d2b320c30.ts
+纬来电影台,p8p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509.ts
 纬来电影台,p2p://190.2.146.92:18912/5c7249d80003096d1d57fa6c33601be9.ts
 纬来电影台,p2p://170.178.164.250:6141/5b448afc0007f4650004373eda7b4dd8.ts
 FOX电影,vjms://58.215.133.185:8500:3502/live/cid=94
@@ -565,11 +570,14 @@ JET综合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 星卫娱乐,p2p://190.2.146.92:18912/5c724a0a000180991d58bd4f6e533ad5.ts
 星卫娱乐,p2p://190.2.146.92:18912/5c724a0a000180991d58bd4f6e533ad5
-大爱,p2p://190.2.146.92:18912/5c7248470009cd451d51ddb92c7476f0.ts
+大爱二台,p8p://0198.02686.cc:16871/5d1a69b8000386b311bdecc8d9c8c96a.ts
+大爱二台,p2p://190.2.146.92:18912/5c7248470009cd451d51ddb92c7476f0.ts
 有线综合娱乐台,http://testalicdn2.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-1.m3u8
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 港台体育,#genre#
 FOXSPORT-3,vjms://58.215.133.185:8500:3502/live/cid=95
+FOX2,vjms://58.215.133.185:8500:3502/live/cid=444
+FOX3,vjms://58.215.133.185:8500:3502/live/cid=95
 ELTA体育HD,vjms://58.215.133.185:8500:3502/live/cid=266
 ELTA体育HD,vjms://23.237.33.155:8500:3502/live/cid=266
 ELTA体育2,P2p://51.79.41.138:18912/5b1409da0004ba1317d418157a2631bc.ts
@@ -1348,21 +1356,11 @@ TVB無綫新聞,http://pull.leshantangjt.com/live/51f2b11a01a7122a72cb93c36/play
 tvb,http://tvbilive10-i.akamaihd.net/hls/live/494663/CJHK5/CJHK5-04.m3u8
 CCTV-4K,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/ys4kcq_4000.m3u8
 CCTV-4K,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-CCTV-12社会与法,http://39.135.34.147:18890/000000001000/5325631075193490169/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=5325631075193490169&owchid=ystenlive&owsid=1106497909461165978&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7Q36zc4fu7NwQ%2fn1v2mTHqagOL8gLhzmY66HLCxgy24bGH5Xn1D6yEQdwViWmtBz15WRKuKxWsf0XH20JE0dby
-贵州卫视,http://39.135.34.146:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000003169&owchid=ystenlive&owsid=1106497909461328035&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhEobBU2fUvDIVr2YUAB3sQC3mtTDqCyM2IHfZcfgwbCVw3In3iCPMx3CBGKKivBM4
-广东体育,http://www.szdznet.cn/tv/tm2.php?id=GDSport
 TVB无线新闻台,https://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
 TVB无线新闻台,http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2
-非凡新闻,P2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
-三立新闻,p2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts
-中天新闻,http://341697390.r.fdccdn.net/live/tw_zhongtian_xw.m3u8
-纬来电影台,p8p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509.ts
-大爱二台,p8p://0198.02686.cc:16871/5d1a69b8000386b311bdecc8d9c8c96a.ts
 TVB J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVBS精采台,P2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
-东森超视,p2p://190.2.146.92:18912/5c72487c000667911d52abe7044c2b21.ts
-FOX2,vjms://58.215.133.185:8500:3502/live/cid=444
-FOX3,vjms://58.215.133.185:8500:3502/live/cid=95
+
 test,#genre#
 CCTV-12,vjms://122.155.180.8:8500:3502/live/cid=464
 CCTV-13,vjms://122.155.180.8:8500:3502/live/cid=466
