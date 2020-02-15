@@ -1352,6 +1352,10 @@ nj,#genre#
 天映频道,http://kk.luoke.net.cn/hd/nxcatv.php?id=116
 天映频道,http://httpdvb.slave.pygdzhcs.com:13164/playurl?programid=4200000105
 天映频道,http://42.63.204.15:13164/playurl?programid=4200900116&playtype=live&accesstoken=R5883CD68U30648289K7749A285M30F9F2BW273449&qamname=djammon&auth=no
+翡翠台高清10801,http://wshls.acgvideo.com/live/live_752869_9917726/playlist.m3u8?wsSecret=f28031532dd9afc281971a07f485e729&wsTime=57af0606
+翡翠台高清10802,http://wshls.acgvideo.com/live/live_752869_9917726/playlist.m3u8
+翡翠台高清10803,http://anchoredinversion.com/a2/bili.php?id=1213889id=xgtvbfc
+翡翠台高清10804,http://wshls.acgvideo.com/live/live_752869_9917726/playlist.m3u8?wsSecret=0c85b7e4adbd07d8fddd69cd417238b4&wsTime=58562dee
 TVB J2,http://pull.leshantangjt.com/live/a7aa142a1fa3a27841c07ba2/playlist.m3u8
 TVB J2,http://pull.leshantangjt.com/live/a3a27841c07ba2a7aa142a1f/playlist.m3u8
 TVB翡翠台,http://pull.leshantangjt.com/live/ca9db70b91bcg388dtcb9ed88/playlist.m3u8
