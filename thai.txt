@@ -1347,6 +1347,11 @@ zoom,http://livecdnh1.tvanywhere.ae:80/hls/zoom/index.m3u8
 ไทยรัฐ TV HD 32 (1080p HD) NEW,http://203.154.243.31:8081/live/thairath/index.m3u8
 
 nj,#genre#
+天映频道,http://59.110.139.3:8080/wzynx?id=116
+天映频道,http://kk.luoke.net.cn/cq/nxtv.php?id=116
+天映频道,http://kk.luoke.net.cn/hd/nxcatv.php?id=116
+天映频道,http://httpdvb.slave.pygdzhcs.com:13164/playurl?programid=4200000105
+天映频道,http://42.63.204.15:13164/playurl?programid=4200900116&playtype=live&accesstoken=R5883CD68U30648289K7749A285M30F9F2BW273449&qamname=djammon&auth=no
 TVB J2,http://pull.leshantangjt.com/live/a7aa142a1fa3a27841c07ba2/playlist.m3u8
 TVB J2,http://pull.leshantangjt.com/live/a3a27841c07ba2a7aa142a1f/playlist.m3u8
 TVB翡翠台,http://pull.leshantangjt.com/live/ca9db70b91bcg388dtcb9ed88/playlist.m3u8
