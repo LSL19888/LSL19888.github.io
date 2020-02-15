@@ -412,6 +412,7 @@ HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181
 HBO家庭,vjms://23.237.33.155:8500:3502/live/cid=181
 HBO强档,vjms://58.215.133.185:8500:3502/live/cid=238
 HBO强档,vjms://23.237.33.155:8500:3502/live/cid=238
+HBO,vjms://122.155.180.8:8500:3502/live/cid=261
 HBO,p2p://190.2.146.92:18912/5c7249dd000ca2101d58106551ff3ed4.ts
 HBO,vjms://58.215.133.185:8500:3502/live/cid=261
 HBO,vjms://23.237.33.155:8500:3502/live/cid=261
@@ -578,6 +579,7 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 FOXSPORT-3,vjms://58.215.133.185:8500:3502/live/cid=95
 FOX2,vjms://58.215.133.185:8500:3502/live/cid=444
 FOX3,vjms://58.215.133.185:8500:3502/live/cid=95
+FOX3,vjms://122.155.180.8:8500:3502/live/cid=95
 ELTA体育HD,vjms://58.215.133.185:8500:3502/live/cid=266
 ELTA体育HD,vjms://23.237.33.155:8500:3502/live/cid=266
 ELTA体育2,P2p://51.79.41.138:18912/5b1409da0004ba1317d418157a2631bc.ts
@@ -670,6 +672,7 @@ DOX美剧,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=1c639fe68ed5de6804966
 DOXTV高清,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&progamid=4200000126
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 亲子卡通,#genre#
+Disney,vjms://122.155.180.8:8500:3502/live/cid=361
 迪斯尼,P2p://51.79.41.138:18912/5c7248620002c4fd1d52456c75ed6b55.ts
 迪斯尼,P2p://190.2.146.92:18912/5c72485c0008852e1d522f7314a34325.ts
 迪斯尼,vjms://58.215.133.185:8500:3502/live/cid=361
@@ -1407,26 +1410,21 @@ Discovery HDWORLD,vjms://58.215.41.184:8500/live/cid=440
 Discovery HDWORLD,vjms://122.155.180.8:8500:3502/live/cid=440
 Discovery Science,vjms://58.215.41.184:8500/live/cid=457
 Disney,vjms://58.215.41.184:8500/live/cid=361
-Disney,vjms://122.155.180.8:8500:3502/live/cid=361
 FOX-extra,vjms://58.215.41.184:8500/live/cid=97
 FOX-extra,vjms://122.155.180.8:8500:3502/live/cid=97
 FOX2体育,vjms://58.215.41.184:8500/live/cid=444
 FOX2体育,vjms://122.155.180.8:8500:3502/live/cid=444
 FOX3HD,vjms://58.215.41.184:8500/live/cid=95
-FOX3HD,vjms://122.155.180.8:8500:3502/live/cid=95
 FOX3体育,vjms://58.215.41.184:8500/live/cid=95
-FOX3体育,vjms://122.155.180.8:8500:3502/live/cid=95
 FOX新闻,vjms://58.215.41.184:8500/live/cid=97
 FOX新闻,vjms://122.155.180.8:8500:3502/live/cid=97
 HBO family,vjms://58.215.41.184:8500/live/cid=181
 HBO family,vjms://122.155.180.8:8500:3502/live/cid=181
 HBOHD,vjms://58.215.41.184:8500/live/cid=261
-HBOHD,vjms://122.155.180.8:8500:3502/live/cid=261
 HBOHits,vjms://58.215.41.184:8500/live/cid=238
 HBOHits,vjms://122.155.180.8:8500:3502/live/cid=238
 HBOSignature,vjms://58.215.41.184:8500/live/cid=236
 HBOSignature,vjms://122.155.180.8:8500:3502/live/cid=236
-Hover over the menu items to see examples of what we can do.
 J2 ,vjms://58.215.41.184:8500/live/cid=368
 J2 ,vjms://122.155.180.8:8500:3502/live/cid=368
 J5 ,vjms://58.215.41.184:8500/live/cid=363
