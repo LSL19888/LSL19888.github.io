@@ -1362,7 +1362,7 @@ TVB J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVBS精采台,P2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
 abx,P2p:/170.178.164.242:6220/5ac2e0d400075879000b7cafc3cabab5.ts
 test,#genre#
-Al Jazeera, aljazeera-eng-hd-live.hls.adaptive.level.../english2/index.m3u8ce lists for you to play with in the 'Reference Lists' section.
+Al Jazeera, aljazeera-eng-hd-live.hls.adaptive.level.../english2/index.m3u8
 AXN,vjms://58.215.41.184:8500/live/cid=102
 AXN ,vjms://58.215.41.184:8500/live/cid=402
 AXN,vjms://122.155.180.8:8500:3502/live/cid=102
@@ -1435,7 +1435,6 @@ NatGeo Wild,vjms://122.155.180.8:8500:3502/live/cid=263
 NBA篮球,vjms://58.215.41.184:8500/live/cid=227
 NBA篮球,vjms://122.155.180.8:8500:3502/live/cid=227
 NHK World, nhkwtvglobal-i.akamaihd.net/hls/live/263...obal/index_1180.m3u8
-Please Enter your List Here.
 RHK31台, rthklive1-lh.akamaihd.net:80/i/rthk31_1@...index_1296_av-b.m3u8
 RHK31台, rthklive1-lh.akamaihd.net/i/rthk31_1@167...index_2052_av-p.m3u8
 RHK31台, rthklive1-lh.akamaihd.net/i/rthk31_1@167...m3u8?sd=10&rebase=on
@@ -1449,8 +1448,7 @@ TVBS新闻,vjms://58.215.41.184:8500/live/cid=348
 TVBS新闻,vjms://122.155.180.8:8500:3502/live/cid=348
 tvbs欢乐,vjms://58.215.41.184:8500/live/cid=438
 tvbs欢乐,vjms://122.155.180.8:8500:3502/live/cid=438
-We also have some referenCCTV-12,vjms://122.155.180.8:8500:3502/live/cid=464
-You can sort or clean your list in a variety of ways.
+CCTV-12,vjms://122.155.180.8:8500:3502/live/cid=464
 三立台湾,vjms://58.215.41.184:8500/live/cid=437
 三立台湾,vjms://122.155.180.8:8500:3502/live/cid=437
 三立新闻,vjms://58.215.41.184:8500/live/cid=352
