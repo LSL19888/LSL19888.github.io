@@ -1813,3 +1813,8 @@ Venus TV,https://a.jsrdn.com/rtmp/22690/index.m3u8
 View TV - Berkshire,https://streamingserver001.viewtvgroup.com/local-test2/tracks-v1a1/mono.m3u8
 Vintage Music TV,https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v1a1/mono.m3u8
 Vox Africa UK,http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist_w985073329.m3u8
+Special源,#genre#
+翡翠台1080,http://59.148.103.41:8000/bysid/1
+翡翠台-加美东,msc://CJCA5E
+翡翠台-加美西,msc://CJCA5W
+翡翠台-香港时,msc://CJHK5
