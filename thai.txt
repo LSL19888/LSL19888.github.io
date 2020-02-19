@@ -1818,3 +1818,6 @@ Special源,#genre#
 翡翠台-加美东,msc://CJCA5E
 翡翠台-加美西,msc://CJCA5W
 翡翠台-香港时,msc://CJHK5
+翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
+翡翠台 备,p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
+s翡翠台,p2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts
