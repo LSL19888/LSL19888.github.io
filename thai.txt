@@ -1813,6 +1813,26 @@ Venus TV,https://a.jsrdn.com/rtmp/22690/index.m3u8
 View TV - Berkshire,https://streamingserver001.viewtvgroup.com/local-test2/tracks-v1a1/mono.m3u8
 Vintage Music TV,https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v1a1/mono.m3u8
 Vox Africa UK,http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist_w985073329.m3u8
+retry源,#genre#
+viu TV,p2p://lino.homeunix.com:6007/59fd171800092000026eb35003107eef.ts
+viu TV备,p2p://lino.homeunix.com:6007/5ad32bae0001dd1049ed9be114c818f0.ts
+有线新闻台,p2p://lino.homeunix.com:6007/5a3251a3000ddd81d594cba410f708d7.ts
+31有线新闻台,p2p://lino.homeunix.com:6007/5a3251a3000ddd81d594cba410f708d7.ts
+HKC财经资讯台,p2p://lino.homeunix.com:6007/5b062d6d000a4d8670acf35f53803edf.ts
+电影一台,p2p://lino.homeunix.com:6007/5a4726e4000667ca26f6a98d6a9d25a7.ts
+HKC603,p2p://lino.homeunix.com:6007/5a47271f0008d01726f790b134496406.ts
+HKC体育2台,p2p://lino.homeunix.com:6007/5a142556000de0a75fb6e584062e2de9.ts
+香港开电视,p2p://lino.homeunix.com:6007/5bfe45350001d559aff550f375a22110.ts
+惊悚电影台,p2p://lino.homeunix.com:6007/5bbb5555000ac8ac2e8a428a5fc92fa0.ts
+卫视卡式台,p2p://lino.homeunix.com:6007/5b326356000e27761d60fc701ff36973.ts
+爆谷台,p2p://lino.homeunix.com:6007/5b326356000e27761d60fc701ff36973.ts
+马来天映,p2p://lino.homeunix.com:6007/5b2f1f3d000d65de109e0f4f08f5264e.ts
+新加坡5,p2p://lino.homeunix.com:6007/5a31fbf500092568d4461abc4b040214.ts
+新加坡8,p2p://lino.homeunix.com:6007/5a31fc3f000ef04fd4473d4355630850.ts
+新加坡u,p2p://lino.homeunix.com:6007/5a31fc73000836bdd44806ad15337fe5.ts
+全佳,p2p://lino.homeunix.com:6007/5b2c7b9d000cafb7064ee62073b5429d.ts
+喜悦,p2p://lino.homeunix.com:6007/5b2c88690001d3520680e0317d774511.ts
+华丽台,p2p://lino.homeunix.com:6007/5b2f267700061e0f10ba47fb489f5964.ts
 Special源,#genre#
 翡翠台1080,http://59.148.103.41:8000/bysid/1
 翡翠台-加美东,msc://CJCA5E
@@ -1835,19 +1855,7 @@ J5台 备,p2p://lino.homeunix.com:6007/5ad32aed000d8fa649eaacf716d70340.ts
 星河频道,p2p://lino.homeunix.com:6007/59fd3f91000c54e4030cccd33c6f6c3c.ts
 TVB经典台,p2p://lino.homeunix.com:6007/5b2f1fc50006bfe610a020d967055499.ts
 功夫台,p2p://lino.homeunix.com:6007/5a32174e0001f481d4b0ec8f67f06c2b.ts
-viu TV,p2p://lino.homeunix.com:6007/59fd171800092000026eb35003107eef.ts
-viu TV备,p2p://lino.homeunix.com:6007/5ad32bae0001dd1049ed9be114c818f0.ts
 viu 6,p2p://lino.homeunix.com:6007/5b389c92000621bc35b08cbd438b4298.ts
-有线新闻台,p2p://lino.homeunix.com:6007/5a3251a3000ddd81d594cba410f708d7.ts
-31有线新闻台,p2p://lino.homeunix.com:6007/5a3251a3000ddd81d594cba410f708d7.ts
-HKC财经资讯台,p2p://lino.homeunix.com:6007/5b062d6d000a4d8670acf35f53803edf.ts
-电影一台,p2p://lino.homeunix.com:6007/5a4726e4000667ca26f6a98d6a9d25a7.ts
-HKC603,p2p://lino.homeunix.com:6007/5a47271f0008d01726f790b134496406.ts
-HKC体育2台,p2p://lino.homeunix.com:6007/5a142556000de0a75fb6e584062e2de9.ts
-香港开电视,p2p://lino.homeunix.com:6007/5bfe45350001d559aff550f375a22110.ts
-惊悚电影台,p2p://lino.homeunix.com:6007/5bbb5555000ac8ac2e8a428a5fc92fa0.ts
-卫视卡式台,p2p://lino.homeunix.com:6007/5b326356000e27761d60fc701ff36973.ts
-爆谷台,p2p://lino.homeunix.com:6007/5b326356000e27761d60fc701ff36973.ts
 港视31,p2p://lino.homeunix.com:6007/5b1ea0dc000bba59d03063fa2f1a513c.ts
 港视32,p2p://lino.homeunix.com:6007/5b1ea120000af380d0316d6b59657817.ts
 珠江台,p2p://lino.homeunix.com:6007/59fd0dac0006c1b20249e4e41d8b57cf.ts
@@ -1859,13 +1867,6 @@ HKC体育2台,p2p://lino.homeunix.com:6007/5a142556000de0a75fb6e584062e2de9.ts
 南方卫视,p2p://lino.homeunix.com:6007/59fd30fb0002434d02d3d053299809c9.ts
 天映HD,p2p://lino.homeunix.com:6007/5b2f1ee9000d3e3d109cc71f4b240eb3.ts
 天映经典,p2p://lino.homeunix.com:6007/5b2e01c400098d0f0c42edad22c37385.ts
-马来天映,p2p://lino.homeunix.com:6007/5b2f1f3d000d65de109e0f4f08f5264e.ts
-新加坡5,p2p://lino.homeunix.com:6007/5a31fbf500092568d4461abc4b040214.ts
-新加坡8,p2p://lino.homeunix.com:6007/5a31fc3f000ef04fd4473d4355630850.ts
-新加坡u,p2p://lino.homeunix.com:6007/5a31fc73000836bdd44806ad15337fe5.ts
-全佳,p2p://lino.homeunix.com:6007/5b2c7b9d000cafb7064ee62073b5429d.ts
-喜悦,p2p://lino.homeunix.com:6007/5b2c88690001d3520680e0317d774511.ts
-华丽台,p2p://lino.homeunix.com:6007/5b2f267700061e0f10ba47fb489f5964.ts
 小太阳,p2p://lino.homeunix.com:6007/5b2c879d000424bd067dc3ee45d96446.ts
 欢喜,p2p://lino.homeunix.com:6007/5b2c86ff000b8df6067b5ca240b93635.ts
 欢喜台,p2p://lino.homeunix.com:6007/5b2c86ff000b8df6067b5ca240b93635.ts
