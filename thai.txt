@@ -1848,6 +1848,10 @@ ELTA影剧 HD,p2p://lino.homeunix.com:6007/59fd07e7000727bb02335b6b31754db5.ts
 纬来综合 HD,p2p://lino.homeunix.com:6007/59fd206e00099d6f02932b6078c86d9a.ts
 纬来育乐,p2p://lino.homeunix.com:6007/59fd26ad000978f002ab917848d22993.ts
 东森戏剧 HD,p2p://lino.homeunix.com:6007/59fd17a500022c250270d8533c186ce9.ts
+BBC HD,p2p://lino.homeunix.com:6007/59fd16bc000f2550026d4d870b85516d.ts
+HBO  HD,p2p://lino.homeunix.com:6007/59fd1566000391610268129978510d8e.ts
+HBO Hits 强档巨献,p2p://lino.homeunix.com:6007/59fd22e50004a1f8029ccaff41480126.ts
+FOX 动作电影 HD,p2p://lino.homeunix.com:6007/59fd244900002be402a238767364317b.ts
 Special源,#genre#
 翡翠台1080,http://59.148.103.41:8000/bysid/1
 翡翠台-加美东,msc://CJCA5E
@@ -1959,18 +1963,14 @@ Disney 迪士尼,p2p://lino.homeunix.com:6007/59fd1766000a51cc026fe44f425c5788.t
 大爱一台,p2p://lino.homeunix.com:6007/59fd173e0004273a026f46886dde4613.ts
 History HD,p2p://lino.homeunix.com:6007/59fd16f900060059026e396d395f3348.ts
 CNN HD 美国有线电视新闻网,p2p://lino.homeunix.com:6007/59fd16db000b5f05026dc5a57b516fdb.ts
-BBC HD,p2p://lino.homeunix.com:6007/59fd16bc000f2550026d4d870b85516d.ts
 NBA HD,p2p://lino.homeunix.com:6007/59fd169800027ee0026cbdab73845c4a.ts
 采昌影剧台,p2p://lino.homeunix.com:6007/59fd15cc000cd7cc0269a36a466420ca.ts
 OUTDOOR HD,p2p://lino.homeunix.com:6007/59fd15a600029d6902690c5b552d077d.ts
-HBO  HD,p2p://lino.homeunix.com:6007/59fd1566000391610268129978510d8e.ts
 HBO Family 温馨家庭 HD,p2p://lino.homeunix.com:6007/59fd152900015243026723c45811069b.ts
 HBO原创巨献 HD,p2p://lino.homeunix.com:6007/59fd14fc0005019f026674e730ed03b5.ts
-HBO Hits 强档巨献,p2p://lino.homeunix.com:6007/59fd22e50004a1f8029ccaff41480126.ts
 FOX  HD,p2p://lino.homeunix.com:6007/59fd14cf000321f60265c4a24ca93407.ts
 FOX CRIME HD,p2p://lino.homeunix.com:6007/59fd14ae0007a794026544e32f606291.ts
 FOX 优质影院 HD,p2p://lino.homeunix.com:6007/59fd246a0009125502a2bba01b0f4bf5.ts
-FOX 动作电影 HD,p2p://lino.homeunix.com:6007/59fd244900002be402a238767364317b.ts
 FOX 家庭影院HD,p2p://lino.homeunix.com:6007/59fd229f000615aa029bb9ed79916213.ts
 FOX SPORTS 3 HD,p2p://lino.homeunix.com:6007/59fd0ab7000ca0d6023e595351427583.ts
 卫视西片 HD,p2p://lino.homeunix.com:6007/59fd1475000301e1026465123e2e3650.ts
