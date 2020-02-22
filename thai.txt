@@ -1845,6 +1845,9 @@ ELTA影剧 HD,p2p://lino.homeunix.com:6007/59fd07e7000727bb02335b6b31754db5.ts
 壹电视综合 HD,p2p://lino.homeunix.com:6007/59fd06f600087a21022fae61787f061c.ts
 台视 HD,p2p://lino.homeunix.com:6007/59fd099c00008ebf023a04ce64d57ff4.ts
 八大综合 HD,p2p://lino.homeunix.com:6007/59fd22220005cbed0299d18627a207f7.ts
+纬来综合 HD,p2p://lino.homeunix.com:6007/59fd206e00099d6f02932b6078c86d9a.ts
+纬来育乐,p2p://lino.homeunix.com:6007/59fd26ad000978f002ab917848d22993.ts
+东森戏剧 HD,p2p://lino.homeunix.com:6007/59fd17a500022c250270d8533c186ce9.ts
 Special源,#genre#
 翡翠台1080,http://59.148.103.41:8000/bysid/1
 翡翠台-加美东,msc://CJCA5E
@@ -1948,11 +1951,8 @@ TVBS HD,p2p://lino.homeunix.com:6007/59fd20d3000f24fd0294b75f4a555e2a.ts
 TVBS欢乐台 HD,p2p://lino.homeunix.com:6007/59fd20ae000635720294248563346fd6.ts
 纬来日本.HD,p2p://lino.homeunix.com:6007/5bc8a92100047ccf6299e01b2aac4b86.ts
 纬来体育.HD,p2p://lino.homeunix.com:6007/5a141bab0009ca9c5f91208265721808.ts
-纬来综合 HD,p2p://lino.homeunix.com:6007/59fd206e00099d6f02932b6078c86d9a.ts
 纬来戏剧 HD,p2p://lino.homeunix.com:6007/59fd20190002fb090291ddb256d73759.ts
-纬来育乐,p2p://lino.homeunix.com:6007/59fd26ad000978f002ab917848d22993.ts
 纬来精彩 HD,p2p://lino.homeunix.com:6007/5ac5d68600012bae15d868ee776c7fe2.ts
-东森戏剧 HD,p2p://lino.homeunix.com:6007/59fd17a500022c250270d8533c186ce9.ts
 东森洋片 HD,p2p://lino.homeunix.com:6007/59fd17860002b83302705f6a03a560d2.ts
 东森综合 HD,p2p://lino.homeunix.com:6007/5a141ade0007bc435f8dff2d5b3453d7.ts
 Disney 迪士尼,p2p://lino.homeunix.com:6007/59fd1766000a51cc026fe44f425c5788.ts
