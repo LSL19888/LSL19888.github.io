@@ -1814,7 +1814,6 @@ View TV - Berkshire,https://streamingserver001.viewtvgroup.com/local-test2/track
 Vintage Music TV,https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v1a1/mono.m3u8
 Vox Africa UK,http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist_w985073329.m3u8
 retry源,#genre#
-viu TV,p2p://lino.homeunix.com:6007/59fd171800092000026eb35003107eef.ts
 viu TV备,p2p://lino.homeunix.com:6007/5ad32bae0001dd1049ed9be114c818f0.ts
 有线新闻台,p2p://lino.homeunix.com:6007/5a3251a3000ddd81d594cba410f708d7.ts
 31有线新闻台,p2p://lino.homeunix.com:6007/5a3251a3000ddd81d594cba410f708d7.ts
@@ -1833,6 +1832,19 @@ HKC体育2台,p2p://lino.homeunix.com:6007/5a142556000de0a75fb6e584062e2de9.ts
 全佳,p2p://lino.homeunix.com:6007/5b2c7b9d000cafb7064ee62073b5429d.ts
 喜悦,p2p://lino.homeunix.com:6007/5b2c88690001d3520680e0317d774511.ts
 华丽台,p2p://lino.homeunix.com:6007/5b2f267700061e0f10ba47fb489f5964.ts
+双星,p2p://lino.homeunix.com:6007/5b2f26bb000f257c10bb53ec280e5f3f.ts
+AOD,p2p://lino.homeunix.com:6007/5b2c8894000eb34506818b752bbe53c4.ts
+高清探索频道 HD,p2p://lino.homeunix.com:6007/5acb89750000af6a2c1ba62e06531ad6.ts
+东森幼幼 HD,p2p://lino.homeunix.com:6007/5a32188e00095e2bd4b5d0737fe325f5.ts
+好萊塢電影 HD,p2p://lino.homeunix.com:6007/5a141b66000b4be65f90135822b40e43.ts
+龙华电影,p2p://lino.homeunix.com:6007/5acb86bc0005dc212c1104ce762f31f7.ts
+恐怖电影,p2p://lino.homeunix.com:6007/5b3bbc4f000841ab41e487926cd85add.ts
+亚洲旅游台 HD,p2p://lino.homeunix.com:6007/59fd0809000909e90233e0b820d34ea5.ts
+ELTA影剧 HD,p2p://lino.homeunix.com:6007/59fd07e7000727bb02335b6b31754db5.ts
+博斯高球Ⅱ HD,p2p://lino.homeunix.com:6007/59fd073b0000c2280230b9e6743b0ab3.ts
+壹电视综合 HD,p2p://lino.homeunix.com:6007/59fd06f600087a21022fae61787f061c.ts
+台视 HD,p2p://lino.homeunix.com:6007/59fd099c00008ebf023a04ce64d57ff4.ts
+八大综合 HD,p2p://lino.homeunix.com:6007/59fd22220005cbed0299d18627a207f7.ts
 Special源,#genre#
 翡翠台1080,http://59.148.103.41:8000/bysid/1
 翡翠台-加美东,msc://CJCA5E
@@ -1855,6 +1867,7 @@ J5台 备,p2p://lino.homeunix.com:6007/5ad32aed000d8fa649eaacf716d70340.ts
 星河频道,p2p://lino.homeunix.com:6007/59fd3f91000c54e4030cccd33c6f6c3c.ts
 TVB经典台,p2p://lino.homeunix.com:6007/5b2f1fc50006bfe610a020d967055499.ts
 功夫台,p2p://lino.homeunix.com:6007/5a32174e0001f481d4b0ec8f67f06c2b.ts
+viu TV,p2p://lino.homeunix.com:6007/59fd171800092000026eb35003107eef.ts
 viu 6,p2p://lino.homeunix.com:6007/5b389c92000621bc35b08cbd438b4298.ts
 港视31,p2p://lino.homeunix.com:6007/5b1ea0dc000bba59d03063fa2f1a513c.ts
 港视32,p2p://lino.homeunix.com:6007/5b1ea120000af380d0316d6b59657817.ts
@@ -1870,13 +1883,10 @@ viu 6,p2p://lino.homeunix.com:6007/5b389c92000621bc35b08cbd438b4298.ts
 小太阳,p2p://lino.homeunix.com:6007/5b2c879d000424bd067dc3ee45d96446.ts
 欢喜,p2p://lino.homeunix.com:6007/5b2c86ff000b8df6067b5ca240b93635.ts
 欢喜台,p2p://lino.homeunix.com:6007/5b2c86ff000b8df6067b5ca240b93635.ts
-双星,p2p://lino.homeunix.com:6007/5b2f26bb000f257c10bb53ec280e5f3f.ts
 AEC,p2p://lino.homeunix.com:6007/5b2c873100007ef4067c1d2352642785.ts
-AOD,p2p://lino.homeunix.com:6007/5b2c8894000eb34506818b752bbe53c4.ts
 Discovery科学频道,p2p://lino.homeunix.com:6007/59fd166e000c7533026c1c1b4bf23d6b.ts
 Discovery EVE,p2p://lino.homeunix.com:6007/59fd286b000e1cdb02b260d1385f3d28.ts
 Discovery动力频道,p2p://lino.homeunix.com:6007/59fd2846000cb99902b1cffa3bb33abb.ts
-高清探索频道 HD,p2p://lino.homeunix.com:6007/5acb89750000af6a2c1ba62e06531ad6.ts
 国家地理 HD,p2p://lino.homeunix.com:6007/59fd16240000683c026af7fe2edc67eb.ts
 国家地理People HD,p2p://lino.homeunix.com:6007/59fd2804000a86bb02b0cd8e6fa14a15.ts
 Discovery Asia,p2p://lino.homeunix.com:6007/59fd15f7000e7852026a4bd030284bc8.ts
@@ -1897,7 +1907,6 @@ TVBS新闻台 HD,p2p://lino.homeunix.com:6007/59fd096d0003aa9702394e013b6206a2.t
 中视新闻台 HD,p2p://lino.homeunix.com:6007/59fd2282000219b8029b479b6fc21d86.ts
 中天新闻HD,p2p://lino.homeunix.com:6007/59fd05020006070602280c953c2545e6.ts
 国兴卫视,p2p://lino.homeunix.com:6007/59fd0565000d04390229912232d21634.ts
-东森幼幼 HD,p2p://lino.homeunix.com:6007/5a32188e00095e2bd4b5d0737fe325f5.ts
 风云足球,p2p://lino.homeunix.com:6007/59fd0bbb000185ff02424e24243823ca.ts
 travel,p2p://lino.homeunix.com:6007/59fd0b9100084afb0241abca38654efa.ts
 CINEMAX,p2p://lino.homeunix.com:6007/59fd0b0b00042603023f9f5023951856.ts
@@ -1916,22 +1925,14 @@ Baby TV 英语,p2p://lino.homeunix.com:6007/59fd088b000b59000235dd256d3d4ad5.ts
 CHC 动作电影 HD,p2p://lino.homeunix.com:6007/59fd25c800060e1102a812154e343f18.ts
 CHC 家庭影院 HD,p2p://lino.homeunix.com:6007/59fd25b000031edb02a7b38a6a5d0696.ts
 CHC 高清电影 HD,p2p://lino.homeunix.com:6007/59fd0b3f0002084d024069e339cc1997.ts
-好萊塢電影 HD,p2p://lino.homeunix.com:6007/5a141b66000b4be65f90135822b40e43.ts
-龙华电影,p2p://lino.homeunix.com:6007/5acb86bc0005dc212c1104ce762f31f7.ts
-恐怖电影,p2p://lino.homeunix.com:6007/5b3bbc4f000841ab41e487926cd85add.ts
 靖洋戏剧台 HD,p2p://lino.homeunix.com:6007/59fd259600089bb202a74f6123416e8d.ts
 AXN 新力影业动作片,p2p://lino.homeunix.com:6007/59fd2573000c0b9e02a6c794631510c8.ts
-亚洲旅游台 HD,p2p://lino.homeunix.com:6007/59fd0809000909e90233e0b820d34ea5.ts
-ELTA影剧 HD,p2p://lino.homeunix.com:6007/59fd07e7000727bb02335b6b31754db5.ts
 ELTA体育1 HD,p2p://lino.homeunix.com:6007/59fd07ba000a4d260232ac6f507c5a84.ts
 博斯网球 HD,p2p://lino.homeunix.com:6007/59fd0790000c3d34023208dc252633c0.ts
 龙华洋片 HD,p2p://lino.homeunix.com:6007/59fd07650001a79102315e34781149f3.ts
-博斯高球Ⅱ HD,p2p://lino.homeunix.com:6007/59fd073b0000c2280230b9e6743b0ab3.ts
 美食星球 HD,p2p://lino.homeunix.com:6007/59fd07190004a07d0230361f798d3b15.ts
-壹电视综合 HD,p2p://lino.homeunix.com:6007/59fd06f600087a21022fae61787f061c.ts
 中视,p2p://lino.homeunix.com:6007/59fd09bd0002ab6d023a86337415321a.ts
 中视 HD,p2p://lino.homeunix.com:6007/59fd06ac000555a7022e8c862ebc1019.ts
-台视 HD,p2p://lino.homeunix.com:6007/59fd099c00008ebf023a04ce64d57ff4.ts
 华视 HD,p2p://lino.homeunix.com:6007/59fd068a0005f99e022e07d55c2f581d.ts
 华视,p2p://lino.homeunix.com:6007/59fd23240005c9a4029dc1561885012e.ts
 民视,p2p://lino.homeunix.com:6007/59fd230300046dc8029d402053e02fbf.ts
@@ -1943,7 +1944,6 @@ TVBS HD,p2p://lino.homeunix.com:6007/59fd20d3000f24fd0294b75f4a555e2a.ts
 中天娱乐 HD,p2p://lino.homeunix.com:6007/59fd049e0006fb6e0226863427c16955.ts
 卫视中文台 HD,p2p://lino.homeunix.com:6007/59fd0394000660a0022277050be47b46.ts
 八大第一台 HD,p2p://lino.homeunix.com:6007/59fd22540006fb57029a95244a947e57.ts
-八大综合 HD,p2p://lino.homeunix.com:6007/59fd22220005cbed0299d18627a207f7.ts
 八大戏剧 HD,p2p://lino.homeunix.com:6007/59fd21c7000edfe70298706f2ef217c7.ts
 TVBS欢乐台 HD,p2p://lino.homeunix.com:6007/59fd20ae000635720294248563346fd6.ts
 纬来日本.HD,p2p://lino.homeunix.com:6007/5bc8a92100047ccf6299e01b2aac4b86.ts
