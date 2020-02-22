@@ -2197,3 +2197,9 @@ Astro supersport2,p2p://lino.homeunix.com:6007/5b2c87f6000f163b067f226448d8404a.
 Astro supersport3,p2p://lino.homeunix.com:6007/5b2c8817000c0d55067fa28124555619.ts
 Astro supersport4,p2p://lino.homeunix.com:6007/5b3df27000021a814a87f6e365805194.ts
 霹雳台湾台,p2p://lino.homeunix.com:6007/5b07a59b0005c8ff766a65e653565438.ts
+xx翡翠台,http://livesec.mudu.tv/watch/yp7jwb.m3u8?auth_key=1564303200-613703-0-b6aba47358709690a6b321d67f90d21a
+xxTVBJ2,http://livesec.mudu.tv/watch/yhcoxp_lsd.m3u8?auth_key=1564303285-635417-0-557e9dd3b93a7eafdd68692bc181fcc8
+xxx高清翡翠,p2p://211.75.214.186:9906/57a7c074000daec53fc7a68797ae22a4.ts
+xxx翡翠台,p2p://211.75.214.186:9906/57a7c08c0002bd9e3fc8017a2f71d955.ts
+xxxTVB明珠,p2p://211.75.214.186:9906/57a7c0a500034af63fc86346b8ed1307.ts
+xxxJ2,p2p://211.75.214.186:9906/57a7c0be00081d483fc8c62a0bb4efe1.ts
