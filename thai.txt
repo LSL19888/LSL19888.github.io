@@ -1855,6 +1855,9 @@ FOX 动作电影 HD,p2p://lino.homeunix.com:6007/59fd244900002be402a238767364317
 CHANNEL NEWSASIA,p2p://lino.homeunix.com:6007/5a56d833000e41286443908c2a501e55.ts
 CNBC,p2p://lino.homeunix.com:6007/59fd13fa000e6ccb026287884cf4343a.ts
 靖天日本 HD,p2p://lino.homeunix.com:6007/59fd2893000bff8802b2fc847a9852a6.ts
+都市剧场 HD,p2p://lino.homeunix.com:6007/59fd276d000b8b6d02ae80040368597e.ts
+三立戏剧台 HD,p2p://lino.homeunix.com:6007/59fd274c0001400d02adfc6d23452c25.ts
+新视觉 HD,p2p://lino.homeunix.com:6007/59fd2707000213d002acef2341433091.ts
 Special源,#genre#
 翡翠台1080,http://59.148.103.41:8000/bysid/1
 翡翠台-加美东,msc://CJCA5E
@@ -1986,12 +1989,9 @@ Ci罪案侦缉 HD,p2p://lino.homeunix.com:6007/59fd2824000df04802b14b7973731f54.
 亚洲美食 HD,p2p://lino.homeunix.com:6007/59fd27e40007382002b04fb323e85206.ts
 EYETV旅游 HD,p2p://lino.homeunix.com:6007/59fd27c4000cb3b102afd41b5cc4003d.ts
 FX 福克斯影视 HD,p2p://lino.homeunix.com:6007/59fd279b000c06e702af33d47d4c770a.ts
-都市剧场 HD,p2p://lino.homeunix.com:6007/59fd276d000b8b6d02ae80040368597e.ts
 三立都会台 HD,p2p://lino.homeunix.com:6007/59fd20f5000e6b4602953c0079210fd1.ts
-三立戏剧台 HD,p2p://lino.homeunix.com:6007/59fd274c0001400d02adfc6d23452c25.ts
 三立综合台 HD,p2p://lino.homeunix.com:6007/59fd27240003732f02ad60c95d8e10a7.ts
 三立台湾.HD,p2p://lino.homeunix.com:6007/5a1425f00009bfad5fb93e0a6f7070c4.ts
-新视觉 HD,p2p://lino.homeunix.com:6007/59fd2707000213d002acef2341433091.ts
 CatchPlay HD,p2p://lino.homeunix.com:6007/59fd26e9000849d802ac7b8a43f34f6a.ts
 ELTA综合 HD,p2p://lino.homeunix.com:6007/59fd26ca00086abe02ac0272796720c5.ts
 FRANCE 24（English）,p2p://lino.homeunix.com:6007/59fd268900088bbe02ab049910f0530f.ts
