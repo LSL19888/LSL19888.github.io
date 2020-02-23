@@ -1843,6 +1843,10 @@ FOX 动作电影 HD,p2p://lino.homeunix.com:6007/59fd244900002be402a238767364317
 CHANNEL NEWSASIA,p2p://lino.homeunix.com:6007/5a56d833000e41286443908c2a501e55.ts
 都市剧场 HD,p2p://lino.homeunix.com:6007/59fd276d000b8b6d02ae80040368597e.ts
 新视觉 HD,p2p://lino.homeunix.com:6007/59fd2707000213d002acef2341433091.ts
+SKY SPORTS-1 HD,p2p://lino.homeunix.com:6007/59fd234800021a00029e4d0b3a1e0cfe.ts
+SKY NEWS HD,p2p://lino.homeunix.com:6007/59fd22c0000ee81c029c3d17391911a6.ts
+爱尔达体育1,p2p://lino.homeunix.com:6007/59fd07ba000a4d260232ac6f507c5a84.ts
+DIVA HD,p2p://lino.homeunix.com:6007/59fd33b00000188702de62ce5428150a.ts
 Special源,#genre#
 翡翠台1080,http://59.148.103.41:8000/bysid/1
 翡翠台-加美东,msc://CJCA5E
@@ -2002,8 +2006,6 @@ MOMO亲子台,p2p://lino.homeunix.com:6007/5a3b9d400006e7bcf9e47334508c3038.ts
 tvN HD,p2p://lino.homeunix.com:6007/59fd248e000a1aa502a3488f618b6de7.ts
 今日俄罗斯,p2p://lino.homeunix.com:6007/5acb88f40000e1422c19ae4624f1680c.ts
 美国高尔夫频道 HD,p2p://lino.homeunix.com:6007/59fd23c0000c1e7f02a0245c6964058b.ts
-SKY SPORTS-1 HD,p2p://lino.homeunix.com:6007/59fd234800021a00029e4d0b3a1e0cfe.ts
-SKY NEWS HD,p2p://lino.homeunix.com:6007/59fd22c0000ee81c029c3d17391911a6.ts
 博斯无限,p2p://lino.homeunix.com:6007/59fd149100031ddf0264d2721a4e5126.ts
 八大娱乐台 HD,p2p://lino.homeunix.com:6007/59fd38fe000e2eeb02f31f187a8b3f49.ts
 靖天卡通台 HD,p2p://lino.homeunix.com:6007/59fd38e0000de06a02f2a9c951a975a6.ts
@@ -2015,12 +2017,10 @@ MTV 音乐台,p2p://lino.homeunix.com:6007/59fd38c4000c84ed02f23c1b626a19ac.ts
 BabyFirst,p2p://lino.homeunix.com:6007/59fd381b000ea26202efa87f74c25153.ts
 爱尔达体育3,p2p://lino.homeunix.com:6007/5b1ea05d0009a88cd02e7355473b4230.ts
 爱尓达体育2,p2p://lino.homeunix.com:6007/59fd37f9000df20002ef2381617811bf.ts
-爱尔达体育1,p2p://lino.homeunix.com:6007/59fd07ba000a4d260232ac6f507c5a84.ts
 Boomerang,p2p://lino.homeunix.com:6007/59fd37c100015d9d02ee4584223001fe.ts
 MY KIDS,p2p://lino.homeunix.com:6007/59fd3515000d559a02e3d8b272784315.ts
 靖天戏剧台 HD,p2p://lino.homeunix.com:6007/59fd36f80009b75202eb367f603a273f.ts
 EYETV戏剧 HD,p2p://lino.homeunix.com:6007/59fd35bd00061f9e02e6671d60d7011c.ts
-DIVA HD,p2p://lino.homeunix.com:6007/59fd33b00000188702de62ce5428150a.ts
 MTV LIVE 音乐现场 HD,p2p://lino.homeunix.com:6007/59fd338800019be502ddc6ec066c3089.ts
 龙华经典,p2p://lino.homeunix.com:6007/59fd3363000e740302dd39b062856e0b.ts
 曼迪日本台,p2p://lino.homeunix.com:6007/59fd3343000561bb02dcba5e474715ac.ts
