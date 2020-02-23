@@ -1837,20 +1837,11 @@ HKC体育2台,p2p://lino.homeunix.com:6007/5a142556000de0a75fb6e584062e2de9.ts
 ELTA影剧 HD,p2p://lino.homeunix.com:6007/59fd07e7000727bb02335b6b31754db5.ts
 博斯高球Ⅱ HD,p2p://lino.homeunix.com:6007/59fd073b0000c2280230b9e6743b0ab3.ts
 壹电视综合 HD,p2p://lino.homeunix.com:6007/59fd06f600087a21022fae61787f061c.ts
-台视 HD,p2p://lino.homeunix.com:6007/59fd099c00008ebf023a04ce64d57ff4.ts
-八大综合 HD,p2p://lino.homeunix.com:6007/59fd22220005cbed0299d18627a207f7.ts
 纬来综合 HD,p2p://lino.homeunix.com:6007/59fd206e00099d6f02932b6078c86d9a.ts
-纬来育乐,p2p://lino.homeunix.com:6007/59fd26ad000978f002ab917848d22993.ts
-东森戏剧 HD,p2p://lino.homeunix.com:6007/59fd17a500022c250270d8533c186ce9.ts
-BBC HD,p2p://lino.homeunix.com:6007/59fd16bc000f2550026d4d870b85516d.ts
 HBO  HD,p2p://lino.homeunix.com:6007/59fd1566000391610268129978510d8e.ts
-HBO Hits 强档巨献,p2p://lino.homeunix.com:6007/59fd22e50004a1f8029ccaff41480126.ts
 FOX 动作电影 HD,p2p://lino.homeunix.com:6007/59fd244900002be402a238767364317b.ts
 CHANNEL NEWSASIA,p2p://lino.homeunix.com:6007/5a56d833000e41286443908c2a501e55.ts
-CNBC,p2p://lino.homeunix.com:6007/59fd13fa000e6ccb026287884cf4343a.ts
-靖天日本 HD,p2p://lino.homeunix.com:6007/59fd2893000bff8802b2fc847a9852a6.ts
 都市剧场 HD,p2p://lino.homeunix.com:6007/59fd276d000b8b6d02ae80040368597e.ts
-三立戏剧台 HD,p2p://lino.homeunix.com:6007/59fd274c0001400d02adfc6d23452c25.ts
 新视觉 HD,p2p://lino.homeunix.com:6007/59fd2707000213d002acef2341433091.ts
 Special源,#genre#
 翡翠台1080,http://59.148.103.41:8000/bysid/1
@@ -1972,6 +1963,12 @@ CNN HD 美国有线电视新闻网,p2p://lino.homeunix.com:6007/59fd16db000b5f05
 NBA HD,p2p://lino.homeunix.com:6007/59fd169800027ee0026cbdab73845c4a.ts
 采昌影剧台,p2p://lino.homeunix.com:6007/59fd15cc000cd7cc0269a36a466420ca.ts
 OUTDOOR HD,p2p://lino.homeunix.com:6007/59fd15a600029d6902690c5b552d077d.ts
+台视 HD,p2p://lino.homeunix.com:6007/59fd099c00008ebf023a04ce64d57ff4.ts
+八大综合 HD,p2p://lino.homeunix.com:6007/59fd22220005cbed0299d18627a207f7.ts
+纬来育乐,p2p://lino.homeunix.com:6007/59fd26ad000978f002ab917848d22993.ts
+东森戏剧 HD,p2p://lino.homeunix.com:6007/59fd17a500022c250270d8533c186ce9.ts
+BBC HD,p2p://lino.homeunix.com:6007/59fd16bc000f2550026d4d870b85516d.ts
+HBO Hits 强档巨献,p2p://lino.homeunix.com:6007/59fd22e50004a1f8029ccaff41480126.ts
 HBO Family 温馨家庭 HD,p2p://lino.homeunix.com:6007/59fd152900015243026723c45811069b.ts
 HBO原创巨献 HD,p2p://lino.homeunix.com:6007/59fd14fc0005019f026674e730ed03b5.ts
 FOX  HD,p2p://lino.homeunix.com:6007/59fd14cf000321f60265c4a24ca93407.ts
@@ -1992,6 +1989,9 @@ FX 福克斯影视 HD,p2p://lino.homeunix.com:6007/59fd279b000c06e702af33d47d4c7
 三立都会台 HD,p2p://lino.homeunix.com:6007/59fd20f5000e6b4602953c0079210fd1.ts
 三立综合台 HD,p2p://lino.homeunix.com:6007/59fd27240003732f02ad60c95d8e10a7.ts
 三立台湾.HD,p2p://lino.homeunix.com:6007/5a1425f00009bfad5fb93e0a6f7070c4.ts
+CNBC,p2p://lino.homeunix.com:6007/59fd13fa000e6ccb026287884cf4343a.ts
+靖天日本 HD,p2p://lino.homeunix.com:6007/59fd2893000bff8802b2fc847a9852a6.ts
+三立戏剧台 HD,p2p://lino.homeunix.com:6007/59fd274c0001400d02adfc6d23452c25.ts
 CatchPlay HD,p2p://lino.homeunix.com:6007/59fd26e9000849d802ac7b8a43f34f6a.ts
 ELTA综合 HD,p2p://lino.homeunix.com:6007/59fd26ca00086abe02ac0272796720c5.ts
 FRANCE 24（English）,p2p://lino.homeunix.com:6007/59fd268900088bbe02ab049910f0530f.ts
