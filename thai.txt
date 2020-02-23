@@ -1847,6 +1847,9 @@ SKY SPORTS-1 HD,p2p://lino.homeunix.com:6007/59fd234800021a00029e4d0b3a1e0cfe.ts
 SKY NEWS HD,p2p://lino.homeunix.com:6007/59fd22c0000ee81c029c3d17391911a6.ts
 爱尔达体育1,p2p://lino.homeunix.com:6007/59fd07ba000a4d260232ac6f507c5a84.ts
 DIVA HD,p2p://lino.homeunix.com:6007/59fd33b00000188702de62ce5428150a.ts
+LUXE TV,p2p://lino.homeunix.com:6007/59fd32780006da1202d9a1c415a55c7e.ts
+星卫娱乐台 HD,p2p://lino.homeunix.com:6007/59fd332000050f8702dc318743ba40af.ts
+CHINA MOVIE,p2p://lino.homeunix.com:6007/59fd31940007515202d627434d991d4f.ts
 Special源,#genre#
 翡翠台1080,http://59.148.103.41:8000/bysid/1
 翡翠台-加美东,msc://CJCA5E
@@ -2024,15 +2027,12 @@ EYETV戏剧 HD,p2p://lino.homeunix.com:6007/59fd35bd00061f9e02e6671d60d7011c.ts
 MTV LIVE 音乐现场 HD,p2p://lino.homeunix.com:6007/59fd338800019be502ddc6ec066c3089.ts
 龙华经典,p2p://lino.homeunix.com:6007/59fd3363000e740302dd39b062856e0b.ts
 曼迪日本台,p2p://lino.homeunix.com:6007/59fd3343000561bb02dcba5e474715ac.ts
-星卫娱乐台 HD,p2p://lino.homeunix.com:6007/59fd332000050f8702dc318743ba40af.ts
 靖天国际台 HD,p2p://lino.homeunix.com:6007/59fd32c800056a3402dad9e646096d29.ts
 smart知识台,p2p://lino.homeunix.com:6007/59fd32970005fa4002da1a9d12c87a7d.ts
-LUXE TV,p2p://lino.homeunix.com:6007/59fd32780006da1202d9a1c415a55c7e.ts
 fyi HD,p2p://lino.homeunix.com:6007/59fd32500009ea1902d9064f0d2c0edc.ts
 BBC earth 地球频道 HD,p2p://lino.homeunix.com:6007/59fd3223000ee20302d857cf1a981663.ts
 BBC生活频道,p2p://lino.homeunix.com:6007/59fd320000071ba102d7cd137e585878.ts
 NHK1,p2p://lino.homeunix.com:6007/59fd31de000aa04a02d7492e63a44fb1.ts
-CHINA MOVIE,p2p://lino.homeunix.com:6007/59fd31940007515202d627434d991d4f.ts
 龙华影剧 HD,p2p://lino.homeunix.com:6007/59fd30d6000988d702d341a0202638f5.ts
 sundance channel,p2p://lino.homeunix.com:6007/59fd30960001991702d2459c74bd52f1.ts
 靖天育乐台,p2p://lino.homeunix.com:6007/59fd3068000ea26902d195477bc86f19.ts
