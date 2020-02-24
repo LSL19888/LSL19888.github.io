@@ -2203,3 +2203,6 @@ xxx高清翡翠,p2p://211.75.214.186:9906/57a7c074000daec53fc7a68797ae22a4.ts
 xxx翡翠台,p2p://211.75.214.186:9906/57a7c08c0002bd9e3fc8017a2f71d955.ts
 xxxTVB明珠,p2p://211.75.214.186:9906/57a7c0a500034af63fc86346b8ed1307.ts
 xxxJ2,p2p://211.75.214.186:9906/57a7c0be00081d483fc8c62a0bb4efe1.ts
+zzzTVB翡翠台,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
+zzzTVB J2,P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
+zzzTVB明珠台,P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
