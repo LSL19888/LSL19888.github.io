@@ -282,19 +282,6 @@ CCTV-17农业农村,rtsp://183.58.12.204/PLTV/88888905/224/3221229870/1000010000
 金鹰纪实,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=176&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 港台新闻,#genre#
-BBC[v],vjms://23.237.33.155:8500:3502/live/cid=418
-BBC[v],vjms://58.215.133.185:8500:3502/live/cid=418
-BBC[v],vjms://121.14.222.75:8500:3502/live/cid=418
-CNBC[p8],p8p://0198.02686.cc:16871/5d1a69720002ca3711bcdb2830f420fe.ts
-CNBC[v],vjms://23.237.33.155:8500:3502/live/cid=98
-CNBC[v],vjms://58.215.133.185:8500:3502/live/cid=98
-CNBC[v],vjms://121.14.222.75:8500:3502/live/cid=98
-CNN[p8],p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
-CNN[v],vjms://23.237.33.155:8500:3502/live/cid=428
-CNN[v],vjms://121.14.222.75:8500:3502/live/cid=428
-FOXNews[p8],p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts
-FOXNews[v],vjms://58.215.133.185:8500:3502/live/cid=97
-FOXNews[v],vjms://121.14.222.75:8500:3502/live/cid=97
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 RTHK31,http://61.93.125.49:9981/stream/channelid/800825777?ticket=2e12aa19682c2fcf2bddacf8e4158ba7a160f77a&profile=pass
@@ -858,15 +845,29 @@ Star World HD (Middle East),http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 香港电影频道,http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 美国频道,#genre#
-CNN,vjms://122.155.180.8:8500:3502/live/cid=428
-CNBC,vjms://122.155.180.8:8500:3502/live/cid=98
-CBN,http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+Aljazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+BBC[v],vjms://23.237.33.155:8500:3502/live/cid=418
+BBC[v],vjms://58.215.133.185:8500:3502/live/cid=418
+BBC[v],vjms://121.14.222.75:8500:3502/live/cid=418
+BBC[v],vjms://122.155.180.8:8500:3502/live/cid=418
+BBC Two,https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/tracks-v1a1/mono.m3u8
 BOOMERANG,https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 BOOMERANG,http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
 BOOMERANG,http://203.154.243.31:8081/live/boomerrang/index.m3u8
-Aljazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-BBC,vjms://122.155.180.8:8500:3502/live/cid=418
-BBC Two,https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/tracks-v1a1/mono.m3u8
+CBN,http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+CNBC[p8],p8p://0198.02686.cc:16871/5d1a69720002ca3711bcdb2830f420fe.ts
+CNBC[v],vjms://23.237.33.155:8500:3502/live/cid=98
+CNBC[v],vjms://58.215.133.185:8500:3502/live/cid=98
+CNBC[v],vjms://121.14.222.75:8500:3502/live/cid=98
+CNBC[v],vjms://122.155.180.8:8500:3502/live/cid=98
+CNN[p8],p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
+CNN[v],vjms://23.237.33.155:8500:3502/live/cid=428
+CNN[v],vjms://121.14.222.75:8500:3502/live/cid=428
+CNN[v],vjms://122.155.180.8:8500:3502/live/cid=428
+FOXNews[p8],p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts
+FOXNews[v],vjms://58.215.133.185:8500:3502/live/cid=97
+FOXNews[v],vjms://121.14.222.75:8500:3502/live/cid=97
+
 韩国频道,#genre#
 arirang world,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
