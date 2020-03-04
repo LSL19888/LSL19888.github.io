@@ -2337,3 +2337,4 @@ TLC旅遊生活,vjms://23.237.33.155:8500:3502/live/cid=103
 迪士尼卡通,vjms://23.237.33.155:8500:3502/live/cid=361
 CN卡通,vjms://58.215.133.185:8500:3502/live/cid=422
 CN卡通,vjms://23.237.33.155:8500:3502/live/cid=422
+NatGeo People,http://www.x-media.tv:58080/live/332211/URuSpsZtrG/726.ts
