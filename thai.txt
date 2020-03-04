@@ -2338,3 +2338,11 @@ TLC旅遊生活,vjms://23.237.33.155:8500:3502/live/cid=103
 CN卡通,vjms://58.215.133.185:8500:3502/live/cid=422
 CN卡通,vjms://23.237.33.155:8500:3502/live/cid=422
 NatGeo People,http://www.x-media.tv:58080/live/332211/URuSpsZtrG/726.ts
+国家地理HD,http://hp3.ottclub.info:1935/live/c206.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
+国家地理国际HD,http://hp3.ottclub.info:1935/live/c207.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
+国家地理国际HD,http://hp3.ottclub.info:1935/live/c207.stream/playlist.m3u8?a=DHP
+国家地理HD,http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/MOD54-E0102.m3u8
+国家地理,http://www.anchoredinversion.com/tv/ds/twtv.php?id=twgjdl
+国家地理HD,http://www.anchoredinversion.com/tv/ds/twtv.php?id=twgjdlhd
+國家地理悠人台_HD,http://www.yhlfs.xyz/iptvs/oofmTV.php?id=15
+國家地理頻道台_HD,http://www.yhlfs.xyz/iptvs/oofmTV.php?id=16
