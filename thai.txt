@@ -2346,3 +2346,17 @@ NatGeo People,http://www.x-media.tv:58080/live/332211/URuSpsZtrG/726.ts
 国家地理HD,http://www.anchoredinversion.com/tv/ds/twtv.php?id=twgjdlhd
 國家地理悠人台_HD,http://www.yhlfs.xyz/iptvs/oofmTV.php?id=15
 國家地理頻道台_HD,http://www.yhlfs.xyz/iptvs/oofmTV.php?id=16
+探索动力,http://tw.59kp.com:1935/live/c200.stream/playlist.m3u8
+探索世界,p2p://106.186.121.94:8260/56073e5f0000eba557363dd409dd3428
+探索世界,http://tw.59kp.com:1935/live/c244.stream/playlist.m3u8
+探索科学,p2p://106.186.121.94:8260/5607414b000bf5185741aa8b25c62806
+探索科学,http://tw.59kp.com:1935/live/c247.stream/playlist.m3u8
+国家地理生活,p2p://106.186.121.94:8260/56073e090003048e5734ee6d08197419
+国家地理世界HD,p2p://106.186.121.94:8260/56073d6f000c02a05732972a501b3a20
+国家地理运动HD,p2p://106.186.121.94:8260/56073cec000bdf5a573097686ba97da6
+国家地理人文,http://tw.59kp.com:1935/live/c245.stream/playlist.m3u8
+国家地理历史,p2p://106.186.121.94:8260/5607394200003b795722445942c2303b
+H2,p2p://106.186.121.94:8260/56073999000540735723997a2e9b6279
+动物星球,http://tw.59kp.com:1935/live/c176.stream/playlist.m3u8
+国家地理HD,http://tw.59kp.com:1935/live/c206.stream/playlist.m3u8
+国家野生HD,http://tw.59kp.com:1935/live/c207.stream/playlist.m3u8
