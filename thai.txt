@@ -2271,3 +2271,33 @@ now华剧台,http://live.italkdd.com/cds160/hls/channel004/channel004.m3u8
 卫视电影台,http://live2.ocnttv.com:8089/live1/wsdy/list.m3u8
 yoyotv,http://live.italkdd.com/cds160/hls/channel025/channel025_2000.m3u8
 FOX家庭,http://60.248.127.231:8038/12.ts
+compile源,#genre#
+TVB新闻官方, http://hk4-edge29-2.edgeware.tvb.com:80/session/29af16f2-2eb3-11ea-ac45-0050569023d7/qh33qv/newslive/smil:mobilehd_news_windows1.smil/chunklist_b1096000.m3u8
+TVB财经官方, http://hk4-edge28-2.edgeware.tvb.com:80/session/8c0e687a-2eb3-11ea-bf30-005056b12cf7/qh33qv/newslive/smil:mobilehd_finance.smil/chunklist_b1096000.m3u8
+TVB 翡翠台, http://pili-live-hdl.qhmywl.com/dsdtv/b3a93cbbd1908e81783879747bb3090a.flv
+TVB News, http://pili-publish.miaobolive.com/live/ews66880.m3u8
+HKC新闻台, http://hdl0901.plures.net/onlive/bb22bdfb81ca6fdb726b9cb02a34539b58f.flv
+韩国娱乐台, http://pili-live-hdl.qhmywl.com/dsdtv/8ae61414f7e2972598956105e2e9969d.flv
+NHK World, http://pili-live-hdl.qhmywl.com/dsdtv/1b06c6242b2fd17ab11a21d70abb2e67.flv
+TVB翡翠台,http://103.56.112.40/kds/igt.php?id=1
+TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+TVB翡翠台,vjms://58.215.133.185:8500:3502/live/cid=362
+TVB翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362
+TVB無綫新聞,http://103.56.112.40/kds/igt.php?id=9
+TVB無綫新聞,http://www.liveviptv.xyz/tv/tvb.php
+TVB無綫新聞,vjms://121.14.222.75:8500:3502/live/cid=366
+TVB無綫新聞,vjms://58.215.133.185:8500:3502/live/cid=366
+TVB無綫新聞,vjms://23.237.33.155:8500:3502/live/cid=366
+TVB無綫財經資訊,http://103.56.112.40/kds/igt.php?id=10
+TVB明珠台,http://103.56.112.40/kds/igt.php?id=13
+TVB明珠台,http://stream.guihet.com/tv/116.php?id=12
+TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+TVB明珠台,vjms://58.215.133.185:8500:3502/live/cid=367
+TVB明珠台,vjms://23.237.33.155:8500:3502/live/cid=367
+TVB星河台,http://103.56.112.40/kds/igt.php?id=17
+ViuTv,http://103.56.112.40/kds/igt.php?id=8
+鳳凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe
+鳳凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+鳳凰電影,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
