@@ -2360,3 +2360,11 @@ H2,p2p://106.186.121.94:8260/56073999000540735723997a2e9b6279
 动物星球,http://tw.59kp.com:1935/live/c176.stream/playlist.m3u8
 国家地理HD,http://tw.59kp.com:1935/live/c206.stream/playlist.m3u8
 国家野生HD,http://tw.59kp.com:1935/live/c207.stream/playlist.m3u8
+new源,#genre#
+翡翠台,http://hzyhjg.cc/cs/gat/fct.php
+TVB J2,http://hzyhjg.cc/cs/gat/tvbj2.php
+TVB J2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
+无线新闻,http://hzyhjg.cc/cs/gat/wxxw.php
+无线新闻,http://hzyhjg.cc/cs/gat/wxxw-2.php
+明珠台,http://hzyhjg.cc/cs/gat/mzt.php
+明珠台,http://hzyhjg.cc/cs/gat/mzt-2.php
