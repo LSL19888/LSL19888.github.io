@@ -2604,3 +2604,18 @@ CIBN艺术院线,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=32
 CIBN映画,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=39
 CIBN时尚生活,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=41
 CIBN全电竞,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=194
+Nat Geo People,http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+Nat Geo People,http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
+Nat Geo People,http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+Nat Geo People,http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+Nat Geo Wild,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+Nat Geo Wild,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
+NAT GEO Wild,http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil/chunklist_w1952192977_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1FOE8tZGNKY3MzSHNEU0drOEtDWFp0UW82XzlxWlhwUzI3QkY4OWJSdnZMakIyanVCRW9lZmtsS0VKOTlsZmxE.m3u8
+Nat Geo Wild HD,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+National Geographic,http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/index.m3u8
+National Geographic,http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+National Geographic,http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+National Geographic,http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+National Geographic,http://livestream.biznetvideo.net/biznet_ngc/smil:ngc.smil/chunklist_w99579112_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1TT0Z6NFJEdW5XTVlLUjFLRzNqZHgxZzloMXZnX0E5WHRaV0JoS3JxSjltNGFfNzZsU2oyRjY5anFhSmh1VFhh.m3u8
+National Geographic WILD,http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil/chunklist_w1571555785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1FOE8tZGNKY3MzSHNEU0drOEtDWFp0UW82XzlxWlhwUzI3QkY4OWJSdnZMakIyanVCRW9lZmtsS0VKOTlsZmxE.m3u8
+National Geograpic,http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
