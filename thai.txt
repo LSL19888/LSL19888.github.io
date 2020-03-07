@@ -2617,9 +2617,7 @@ CIBN映画,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=39
 CIBN时尚生活,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=41
 CIBN全电竞,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=194
 
-Bloomberg,https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-Bloomberg TV,http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
-Bloomberg TV,http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
+Bloomberg TV,https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 Bloomberg TV,http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 Bloomberg TV,http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
 Bloomberg TV,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
@@ -2632,5 +2630,4 @@ Bloomberg TV EMEA Live Event,https://liveprodeuwest.global.ssl.fastly.net/btv/de
 Bloomberg TV Europe,http://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 Bloomberg TV Europe,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 Bloomberg TV Europe,https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-Bloomberg TV Live Event,https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
 Bloomberg TV Politics Live Event,https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
