@@ -1,6 +1,5 @@
 央视频道,#genre#
-东森新闻,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
-东森财经,p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
+
 中天新闻,p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
 凤凰卫视,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
 凤凰资讯,p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts
@@ -8,6 +7,7 @@
 壹新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
 年代新闻,p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
 非凡新闻,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
+
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰卫视资讯台,http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8?icpid=88888888&from=30&hms_devid=1452,1481&online=1580892610&vqe=1
@@ -39,6 +39,7 @@ TVB无线翡翠台,msc://CJHK5$高清
 TVB星河台,msc://CXHMovie
 TVB韩剧台,msc://CKDrama5
 功夫台,msc://CKF5$高清
+
 台湾频道,#genre#
 TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
 JET综合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
@@ -52,6 +53,7 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 寰宇财经台,p8p://0198.02686.cc:16871/5d1a69bb00034ddd11bdf8710f58e2f3.ts
 民视新闻台,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
 中天新闻,http://hzyhjg.cc/cs/gat/ztxw.php
+中天新闻,http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 东森新闻,http://hzyhjg.cc/cs/gat/dsxw.php
 中视,http://hzyhjg.cc/cs/gat/zs.php
 台视,http://hzyhjg.cc/cs/gat/ts.php
@@ -65,9 +67,10 @@ HBO HD,http://hzyhjg.cc/cs/gat/hbo.php
 华视CTS,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-中天新闻,http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天亚洲台,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 东森新闻,http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+东森新闻,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
+东森财经新闻,p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
 中视无线,http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 华视无线,http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
 中天综合,http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
