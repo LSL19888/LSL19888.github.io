@@ -27,6 +27,27 @@ TVB翡翠台-加美西,msc://CJCA5W
 TVB翡翠台-香港时,msc://CJHK5
 TVB无线翡翠,msc://CJHK5$高清
 星河台,msc://CXHMovie
+台湾频道,#genre#
+中天新闻,http://hzyhjg.cc/cs/gat/ztxw.php
+东森新闻,http://hzyhjg.cc/cs/gat/dsxw.php
+中视,http://hzyhjg.cc/cs/gat/zs.php
+台视,http://hzyhjg.cc/cs/gat/ts.php
+民视,http://hzyhjg.cc/cs/gat/ms.php
+年代新闻,http://hzyhjg.cc/cs/gat/ndxw.php
+非凡新闻,http://hzyhjg.cc/cs/gat/ffxw.php
+三立台湾,http://hzyhjg.cc/cs/gat/sltwt.php
+RHK31,http://hzyhjg.cc/cs/gat/rhk31.php
+HBO HD,http://hzyhjg.cc/cs/gat/hbo.php
+中视HD,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+华视CTS,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+中天新闻,http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+中天亚洲台,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+东森新闻,http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+中视无线,http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+华视无线,http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
+中天综合,http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 央视频道(备),#genre#
 CCTV-1综合,http://39.135.34.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
 CCTV-1综合,rtsp://183.58.12.204/PLTV/88888895/224/3221227462/10000100000000060000000003893556_0.smil?icpid=88888888
@@ -326,7 +347,7 @@ TVB J5[p2],p2p://lino.homeunix.com:6007/59fd314f000be93d02d51ae40a3a24e8.ts
 TVB J5[p2],p2p://lino.homeunix.com:6007/5ad32aed000d8fa649eaacf716d70340.ts
 TVB 明珠台[p2],p2p://lino.homeunix.com:6007/59fd0d0a0009323a02476cb020fe16f9.ts
 TVB 明珠台[p2],p2p://lino.homeunix.com:6007/5ad32b590006aefa49ec511272c5262e.ts
-台湾频道,#genre#
+台湾频道【备】,#genre#
 TVBS新闻台[p2],p2p://lino.homeunix.com:6007/59fd096d0003aa9702394e013b6206a2.ts
 三立新闻[p2],p2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts
 壹电视新闻[p2],p2p://lino.homeunix.com:6007/59fd08ad000509c00236604f613b08e7.ts
@@ -2482,29 +2503,10 @@ CCTV-4K超清,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3
 中国教育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
 山东教育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225908/1.m3u8
 珠江卫视,http://gdhj.chinashadt.com:2035/live/6.stream/chunklist_w2139490375.m3u8
-中天新闻,http://hzyhjg.cc/cs/gat/ztxw.php
-东森新闻,http://hzyhjg.cc/cs/gat/dsxw.php
-中视,http://hzyhjg.cc/cs/gat/zs.php
-台视,http://hzyhjg.cc/cs/gat/ts.php
-民视,http://hzyhjg.cc/cs/gat/ms.php
-年代新闻,http://hzyhjg.cc/cs/gat/ndxw.php
-非凡新闻,http://hzyhjg.cc/cs/gat/ffxw.php
-三立台湾,http://hzyhjg.cc/cs/gat/sltwt.php
-RHK31,http://hzyhjg.cc/cs/gat/rhk31.php
-HBO HD,http://hzyhjg.cc/cs/gat/hbo.php
-中视HD,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-华视CTS,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
-年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+
 翡翠台,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
 明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=0&Pcontent_id=8114.m3u8&Fsv_CMSID=&Fsv_otype=1
 星空卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-中天新闻,http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-中天亚洲台,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-东森新闻,http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-中视无线,http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-华视无线,http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
-中天综合,http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 TVB翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
 明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
