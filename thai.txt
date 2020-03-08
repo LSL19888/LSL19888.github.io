@@ -2285,65 +2285,7 @@ xxxJ2,p2p://211.75.214.186:9906/57a7c0be00081d483fc8c62a0bb4efe1.ts
 zzzTVB翡翠台,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
 zzzTVB J2,P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
 zzzTVB明珠台,P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
-pplv123源,#genre#
-凤凰中文,tvbus://123VP68i74UyaoFirtT8m2sg8tRQGTY24ra3z3rNoswdQNvzKjH#wctv://cht071$P2P高清
-凤凰资讯,tvbus://1Qgtr38AaeTXFJkcJU5rw5jqZtNeQopNYWWrBUj51qzM1mDxth#wctv://viutv$P2P高清
-凤凰香港,tvbus://12L9zxedt3qL5FQoirkYmYxQitJR3QvsBw5t3gFNjwhvkHpAL1e#wctv://cht056$P2P高清
-J2,tvbus://1sSD4tP1DzcZQoCte4nSduvzK13NLGVfp8tcgkAQVzp7MVceZd#wctv://j2$P2P高清
-翡翠台,tvbus://12CASN3Eq87R7nNPkDCrtHDURU7kXt3MACDnwhtSB5aNBh6BUYL#wctv://ch213$P2P高清
-明珠台,tvbus://1ukUobV3kcZXKdc1tKxLFj3QaC2jxXfhDE11gPwzPzBbDmcqJd#wctv://mzt$P2P高清
-VIUTV,tvbus://1nPwDWHhmq5gB17TysGZm3GGWdTJYcvyZUy5gr8viNZm4MD5h9#wctv://rhk31$高清
-ViuTV six,tvbus://12XF9xWAC9toiHrzt2ujLifFj44rmNeYU2b8zHwzz5PcewWdsxb$P2P高清
-星河台,tvbus://1C7pKeZsabXgjZsVxo9nkZpJwFWEKpcJmpRgk6gyHREpRYfppD#wctv://ch004$高清#msc://CXHMovie
-功夫台,tvbus://1bS8u4Bq2Lric7nYxWKzyhsWMKVEABauK4CGotfMr7YTa9cs4U$P2P高清#msc://CKF5$高清
 
-无线财经,tvbus://12S5K8zoF6nD49brVDv6fYcwnLL4EJowAXpi9y2vjcdsZ54Sxmx$P2P高清#wctv://j5$P2P高清
-无线新闻,tvbus://1UpRFviSmPHs3i1BJffQPQcJ9pa9CEPQfWGnHJPDnCLyYGzy5p$P2P高清#wctv://hdxw$P2P高清
-娱乐新闻,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
-有线新闻台,tvbus://123TFWtXxLvJwG3RQkmbFTgge7sW4bX8K6QCiPm13Fs32QChv5z#wctv://ch001$P2P高清
-有线电影1台,tvbus://1RmXDwcuCXweGTkFyM3jErb94yLvyK8fkpjvy4v2W18bSVNgny#wctv://ch002$P2P高清
-港台电视31,tvbus://12tLKsfPVdK71Nm5RVpTeNEjTpYRQvDmdRSoQSJhP4Um2iJhTuE
-港台电视32,tvbus://1oKV2GERvjUUaTAa8yW76eemYFdDdFBdgpsBBGbRc7jSXLF1cy
-港台电视33,tvbus://1XxeUSxgPa3akttKv9M6yRj6YRwMcKf7mipMvGwxXgMdFYTguZ
-星空卫视,tvbus://12mNXh4RhgyaU4HBobyJh9kBYsx3opvMunsFhpJyPj9eHo3fEyN
-莲花卫视,http://3xhtut.hls1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c.m3u8
-澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
-天映经典,tvbus://1jDW3Uh7Wa1wxKg9HVdDKabreFJ1EBeFmcn81Vd61ydmLujg31
-美亚电影,tvbus://12MdEqygAqS4L92g3x6atvS2PyecPx1sMK4HgeeFMtC78XSUxuS
-龙祥电影,tvbus://1smuscURianPRYQXF9rQw8dMo9L5sSgLUsfdjTGfnPVgsVnKyD
-星卫电影,tvbus://12k8fBzHcoRLsbyZnZpivoK1g7ghaz23uHGGZxvqN12DCkyMcsX
-好莱坞电影,tvbus://1eyrnqqwtryWtUrb9QvRWTEhxpEAkQaFPnp2ShJ9wSnNzqoR1K
-HBO HD,tvbus://12mPv33ExTKdrHUsiJ3Kj725j9Zttm9poM1hJP1HWjTMTWPKqoB
-东森电影,tvbus://1uZ7zx6mxFTXfhZc51SrAoZN4kJq6MF9iqUFMiQKVhuJqkkaVF
-东森洋片,tvbus://1C8MefEpLX7DfZUFXL6vy5S5MvYLfb34ExovdzWxe7Wtq3Uvoo
-衛視電影,http://60.250.69.26:8080/live/startmovie89.m3u8
-衛視中文,http://60.250.69.26:8080/live/startchines89.m3u8
-衛視合家歡,http://60.250.69.26:8080/live/startfamily89.m3u8
-衛視西片,http://60.250.69.26:8080/live/startwest89.m3u8
-tvbs,http://60.250.69.26:8080/live/tvbs89.m3u8
-travel,http://60.250.69.26:8080/live/travel89.m3u8
-tvbs歡樂,http://60.250.69.26:8080/live/tvbsfun89.m3u8
-東森新聞,http://60.250.69.26:8080/live/ebcnews89.m3u8
-東森戲劇,http://60.250.69.26:8080/live/ebcdrama89.m3u8
-東森幼幼,http://60.250.69.26:8080/live/ebckid89.m3u8
-東森財經,http://60.250.69.26:8080/live/ebcfinace89.m3u8
-東森綜合,http://60.250.69.26:8080/live/ebc89.m3u8
-華視新聞,http://60.250.69.26:8080/live/ctinews89.m3u8
-中天綜合,http://60.250.69.26:8080/live/cti89.m3u8
-中天娛樂,http://60.250.69.26:8080/live/ctihappy89.m3u8
-緯來體育,http://60.250.69.26:8080/live/vlsports89.m3u8
-緯來日本,http://60.250.69.26:8080/live/vljp89.m3u8
-緯來綜合,http://60.250.69.26:8080/live/vl89.m3u8
-緯來娛樂,http://60.250.69.26:8080/live/vlhappy89.m3u8
-三立都會,http://60.250.69.26:8080/live/setcity89.m3u8
-本港台,http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
-TVB-都市劇場,http://dlhls.cdn.zhanqi.tv/zqlive/245602_ApoFG.m3u8
-nowtv,http://live.italkdd.com/cds160/hls/channel003/channel003.m3u8
-now华剧台,http://live.italkdd.com/cds160/hls/channel004/channel004.m3u8
-龙华电影台HD,http://61.216.177.73/sta/ch10119012.m3u8
-卫视电影台,http://live2.ocnttv.com:8089/live1/wsdy/list.m3u8
-yoyotv,http://live.italkdd.com/cds160/hls/channel025/channel025_2000.m3u8
-FOX家庭,http://60.248.127.231:8038/12.ts
 compile源,#genre#
 TVB新闻官方, http://hk4-edge29-2.edgeware.tvb.com:80/session/29af16f2-2eb3-11ea-ac45-0050569023d7/qh33qv/newslive/smil:mobilehd_news_windows1.smil/chunklist_b1096000.m3u8
 TVB财经官方, http://hk4-edge28-2.edgeware.tvb.com:80/session/8c0e687a-2eb3-11ea-bf30-005056b12cf7/qh33qv/newslive/smil:mobilehd_finance.smil/chunklist_b1096000.m3u8
@@ -2596,6 +2538,7 @@ TVB 星河,http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01
 健康有约,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
 家庭剧场,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
 动作电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
+CIBN互联网电视,#genre#
 CIBN老陈座谈,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=69
 CIBN全球歌曲,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=183
 CIBN流行榜单,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=43
