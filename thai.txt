@@ -22,9 +22,9 @@ viu tv,http://hzyhjg.cc/cs/gat/viu tv.php
 有线新闻台,http://hzyhjg.cc/cs/gat/yxxw.php
 有线603,http://hzyhjg.cc/cs/gat/yx603.php
 香港频道【LT】,#genre#
-TVB翡翠台-加美东[m],msc://CJCA5E
-TVB翡翠台-加美西[m],msc://CJCA5W
-TVB翡翠台-香港时[m],msc://CJHK5
+TVB翡翠台-加美东,msc://CJCA5E
+TVB翡翠台-加美西,msc://CJCA5W
+TVB翡翠台-香港时,msc://CJHK5
 TVB无线翡翠,msc://CJHK5$高清
 星河台,msc://CXHMovie
 央视频道(备),#genre#
