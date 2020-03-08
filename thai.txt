@@ -28,6 +28,7 @@ TVB翡翠台-香港时,msc://CJHK5
 TVB无线翡翠,msc://CJHK5$高清
 星河台,msc://CXHMovie
 台湾频道,#genre#
+美食星球,p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
 中天新闻,http://hzyhjg.cc/cs/gat/ztxw.php
 东森新闻,http://hzyhjg.cc/cs/gat/dsxw.php
 中视,http://hzyhjg.cc/cs/gat/zs.php
