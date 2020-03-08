@@ -341,36 +341,6 @@ CCTV-17农业农村,rtsp://183.58.12.204/PLTV/88888905/224/3221229870/1000010000
 金鹰纪实,http://stream.guihet.com/tv/116.php?id=176
 金鹰纪实,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=176&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
-香港频道【备】,#genre#
-凤凰中文台[p2],p2p://lino.homeunix.com:6007/59fd0c6c0006fd67024502e414f10ff3.ts
-凤凰资讯台[p2],p2p://lino.homeunix.com:6007/59fd0c48000e15630244781932ff7852.ts
-凤凰香港台[p2],p2p://lino.homeunix.com:6007/59fd0c19000767ad0243becb40b07246.ts
-互动新闻[p2],p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
-互动新闻[p2],p2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
-TVB翡翠台,http://59.148.103.41:8000/bysid/1
-TVB翡翠台[p2],p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
-TVB翡翠台[p2],p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
-TVB翡翠台[p2],p2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts
-TVB J2[p2],p2p://lino.homeunix.com:6007/59fd25e80008aaec02a88fc1476f2edf.ts
-TVB J2[p2],p2p://lino.homeunix.com:6007/5ad32b7d000cca4049ecdf4812f47470.ts
-TVB J5[p2],p2p://lino.homeunix.com:6007/59fd314f000be93d02d51ae40a3a24e8.ts
-TVB J5[p2],p2p://lino.homeunix.com:6007/5ad32aed000d8fa649eaacf716d70340.ts
-TVB 明珠台[p2],p2p://lino.homeunix.com:6007/59fd0d0a0009323a02476cb020fe16f9.ts
-TVB 明珠台[p2],p2p://lino.homeunix.com:6007/5ad32b590006aefa49ec511272c5262e.ts
-台湾频道【备】,#genre#
-TVBS新闻台[p2],p2p://lino.homeunix.com:6007/59fd096d0003aa9702394e013b6206a2.ts
-三立新闻[p2],p2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts
-壹电视新闻[p2],p2p://lino.homeunix.com:6007/59fd08ad000509c00236604f613b08e7.ts
-非凡新闻[p2],p2p://lino.homeunix.com:6007/59fd05f30007004f022bba4b77671d93.ts
-年代新闻[p2],p2p://lino.homeunix.com:6007/5a56230e0004af51617ff5935a3e292e.ts
-民视新闻台[p2],p2p://lino.homeunix.com:6007/59fd05930008403b022a439a3b9b7401.ts
-东森新闻[p2],p2p://lino.homeunix.com:6007/5a1427ee0009fb195fc1064a3af652d1.ts
-东森财经新闻[p2],p2p://lino.homeunix.com:6007/59fd1f94000ee56d028fd937397b7e63.ts
-寰宇新闻频道[p2],p2p://lino.homeunix.com:6007/59fd2b5e0006d13802bde4340bc41e87.ts
-寰宇新闻二台[p2],p2p://lino.homeunix.com:6007/5a142744000f25045fbe6f82276e0d88.ts
-台视新闻台[p2],p2p://lino.homeunix.com:6007/59fd299b00054a3002b7020e67d657e3.ts
-中视新闻台[p2],p2p://lino.homeunix.com:6007/59fd2282000219b8029b479b6fc21d86.ts
-中天新闻[p2],p2p://lino.homeunix.com:6007/59fd05020006070602280c953c2545e6.ts
 港台新闻[备],#genre#
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
@@ -1978,6 +1948,34 @@ CHINA MOVIE,p2p://lino.homeunix.com:6007/59fd31940007515202d627434d991d4f.ts
 E! Entertainment,p2p://lino.homeunix.com:6007/59fd29f4000d9cec02b85fd97aba3e4f.ts
 CinemaWorld,p2p://lino.homeunix.com:6007/59fd29d600014b6302b7e78c36d43070.ts
 Special源,#genre#
+凤凰中文台[p2],p2p://lino.homeunix.com:6007/59fd0c6c0006fd67024502e414f10ff3.ts
+凤凰资讯台[p2],p2p://lino.homeunix.com:6007/59fd0c48000e15630244781932ff7852.ts
+凤凰香港台[p2],p2p://lino.homeunix.com:6007/59fd0c19000767ad0243becb40b07246.ts
+互动新闻[p2],p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
+互动新闻[p2],p2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
+TVB翡翠台,http://59.148.103.41:8000/bysid/1
+TVB翡翠台[p2],p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
+TVB翡翠台[p2],p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
+TVB翡翠台[p2],p2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts
+TVB J2[p2],p2p://lino.homeunix.com:6007/59fd25e80008aaec02a88fc1476f2edf.ts
+TVB J2[p2],p2p://lino.homeunix.com:6007/5ad32b7d000cca4049ecdf4812f47470.ts
+TVB J5[p2],p2p://lino.homeunix.com:6007/59fd314f000be93d02d51ae40a3a24e8.ts
+TVB J5[p2],p2p://lino.homeunix.com:6007/5ad32aed000d8fa649eaacf716d70340.ts
+TVB 明珠台[p2],p2p://lino.homeunix.com:6007/59fd0d0a0009323a02476cb020fe16f9.ts
+TVB 明珠台[p2],p2p://lino.homeunix.com:6007/5ad32b590006aefa49ec511272c5262e.ts
+TVBS新闻台[p2],p2p://lino.homeunix.com:6007/59fd096d0003aa9702394e013b6206a2.ts
+三立新闻[p2],p2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts
+壹电视新闻[p2],p2p://lino.homeunix.com:6007/59fd08ad000509c00236604f613b08e7.ts
+非凡新闻[p2],p2p://lino.homeunix.com:6007/59fd05f30007004f022bba4b77671d93.ts
+年代新闻[p2],p2p://lino.homeunix.com:6007/5a56230e0004af51617ff5935a3e292e.ts
+民视新闻台[p2],p2p://lino.homeunix.com:6007/59fd05930008403b022a439a3b9b7401.ts
+东森新闻[p2],p2p://lino.homeunix.com:6007/5a1427ee0009fb195fc1064a3af652d1.ts
+东森财经新闻[p2],p2p://lino.homeunix.com:6007/59fd1f94000ee56d028fd937397b7e63.ts
+寰宇新闻频道[p2],p2p://lino.homeunix.com:6007/59fd2b5e0006d13802bde4340bc41e87.ts
+寰宇新闻二台[p2],p2p://lino.homeunix.com:6007/5a142744000f25045fbe6f82276e0d88.ts
+台视新闻台[p2],p2p://lino.homeunix.com:6007/59fd299b00054a3002b7020e67d657e3.ts
+中视新闻台[p2],p2p://lino.homeunix.com:6007/59fd2282000219b8029b479b6fc21d86.ts
+中天新闻[p2],p2p://lino.homeunix.com:6007/59fd05020006070602280c953c2545e6.ts
 星河频道,p2p://lino.homeunix.com:6007/59fd3f91000c54e4030cccd33c6f6c3c.ts
 TVB经典台,p2p://lino.homeunix.com:6007/5b2f1fc50006bfe610a020d967055499.ts
 功夫台,p2p://lino.homeunix.com:6007/5a32174e0001f481d4b0ec8f67f06c2b.ts
@@ -1992,7 +1990,6 @@ viu 6,p2p://lino.homeunix.com:6007/5b389c92000621bc35b08cbd438b4298.ts
 广东卫视 .HD,p2p://lino.homeunix.com:6007/59fd2f14000d158a0604633b26bd56e8.ts
 广东体育 HD,p2p://lino.homeunix.com:6007/5acb5cb90007145f2b6ce964057a3e6f.ts
 南方卫视,p2p://lino.homeunix.com:6007/59fd30fb0002434d02d3d053299809c9.ts
-
 东森幼幼 HD,p2p://lino.homeunix.com:6007/5a32188e00095e2bd4b5d0737fe325f5.ts
 好萊塢電影 HD,p2p://lino.homeunix.com:6007/5a141b66000b4be65f90135822b40e43.ts
 亚洲旅游台 HD,p2p://lino.homeunix.com:6007/59fd0809000909e90233e0b820d34ea5.ts
