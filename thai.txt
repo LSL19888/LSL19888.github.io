@@ -1,4 +1,10 @@
 央视频道,#genre#
+TV1,https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+TV2,https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+TV3,https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbxRS9RqgPZ6hyJF_ezPho0)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+NTV7,https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcISO-Tg9Z32ClSis82QIQU)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
+8TV,https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdFQe1ch_w9k5EvWcC83GbU)/dm/3/x6qud17/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
+TV9,https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdgvQ6g9bVQ8L9LbOmHXvEY)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
 华丽台HD,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
 天映经典HD,p2p://fccsovh.pvbox.live:18912/5b3c4f9b00031383627eef60721e1738
 ELTA体育3HD,p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
