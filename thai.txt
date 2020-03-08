@@ -1,4 +1,31 @@
 央视频道,#genre#
+
+香港频道,#genre#
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+凤凰卫视资讯台,http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8?icpid=88888888&from=30&hms_devid=1452,1481&online=1580892610&vqe=1
+凤凰卫视资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+凤凰卫视中文台,http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&from=30&hms_devid=1452,1451&online=1580892662&vqe=1
+凤凰卫视中文台,http://liveali.ifeng.com/live/FHZW.flv
+凤凰卫视香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=0738ce47619ffb6578bb658b7d7927d3&txTime=16f9470cacc
+TVB翡翠台,http://hzyhjg.cc/cs/gat/fct.php
+TVB翡翠台,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
+TVB J2,http://hzyhjg.cc/cs/gat/tvbj2.php
+TVB J2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
+TVB J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
+无线新闻台,http://hzyhjg.cc/cs/gat/wxxw.php
+无线新闻台,http://hzyhjg.cc/cs/gat/wxxw-2.php
+TVB明珠台,http://hzyhjg.cc/cs/gat/mzt.php
+TVB明珠台,http://hzyhjg.cc/cs/gat/mzt-2.php
+TVB明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
+viu tv,http://hzyhjg.cc/cs/gat/viu tv.php
+无线财经资讯台,http://hzyhjg.cc/cs/gat/wxcjzx.php
+有线新闻台,http://hzyhjg.cc/cs/gat/yxxw.php
+有线603,http://hzyhjg.cc/cs/gat/yx603.php
+香港频道【LT】,#genre#
+TVB翡翠台-加美东[m],msc://CJCA5E
+TVB翡翠台-加美西[m],msc://CJCA5W
+TVB翡翠台-香港时[m],msc://CJHK5
+央视频道(备),#genre#
 CCTV-1综合,http://39.135.34.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
 CCTV-1综合,rtsp://183.58.12.204/PLTV/88888895/224/3221227462/10000100000000060000000003893556_0.smil?icpid=88888888
 CCTV-1综合,http://125.88.55.18:30001/PLTV/88888956/224/3221227692/1.m3u8
@@ -281,16 +308,13 @@ CCTV-17农业农村,rtsp://183.58.12.204/PLTV/88888905/224/3221229870/1000010000
 金鹰纪实,http://stream.guihet.com/tv/116.php?id=176
 金鹰纪实,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=176&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
-香港频道,#genre#
+香港频道【备】,#genre#
 凤凰中文台[p2],p2p://lino.homeunix.com:6007/59fd0c6c0006fd67024502e414f10ff3.ts
 凤凰资讯台[p2],p2p://lino.homeunix.com:6007/59fd0c48000e15630244781932ff7852.ts
 凤凰香港台[p2],p2p://lino.homeunix.com:6007/59fd0c19000767ad0243becb40b07246.ts
 互动新闻[p2],p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
 互动新闻[p2],p2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
 TVB翡翠台,http://59.148.103.41:8000/bysid/1
-TVB翡翠台-加美东[m],msc://CJCA5E
-TVB翡翠台-加美西[m],msc://CJCA5W
-TVB翡翠台-香港时[m],msc://CJHK5
 TVB翡翠台[p2],p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
 TVB翡翠台[p2],p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
 TVB翡翠台[p2],p2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts
@@ -493,7 +517,6 @@ TVB翡翠台,http://m.567it.com/jade.m3u8
 TVB翡翠台,http://pull.leshantangjt.com/live/8b71bc9edt80bg389d8ccba9d/playlist.m3u8
 TVB翡翠台,http://pull.leshantangjt.com/live/g389d8ccba9db71bc80b9edt8/playlist.m3u8
 TVB翡翠台,http://stream.guihet.com/tv/116.php?id=188
-TVB翡翠台[p8],p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
 TVB翡翠台[v],vjms://23.237.33.155:8500:3502/live/cid=362
 TVB翡翠台[v],vjms://58.215.133.185:8500:3502/live/cid=362
 TVB翡翠台[v],vjms://121.14.222.75:8500:3502/live/cid=362
@@ -503,7 +526,6 @@ TVB J2,http://a.yinyishiye.com:1443/live/mylive/live.m3u8
 TVB J2,http://h.weijuntww.top/atv/01kjzcom.m3u8
 TVB J2,http://hls.hongxin123.com/918867252917/stream.m3u8
 TVB J2,http://pull.gzbqd.com/live/ba2014314aa1a2772afa87ca/playlist.m3u8
-TVB J2[p8],p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB J2[v],vjms://23.237.33.155:8500:3502/live/cid=363
 TVB J2[v],vjms://23.237.33.155:8500:3502/live/cid=368
 TVB J2[v],vjms://58.215.133.185:8500:3502/live/cid=368
@@ -514,7 +536,6 @@ TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ct
 TVB明珠台,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
 TVB明珠台,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
 TVB明珠台,http://stream.guihet.com/tv/116.php?id=12
-TVB明珠台[p8],p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
 TVB明珠台[v],vjms://23.237.33.155:8500:3502/live/cid=367
 TVB明珠台[v],vjms://58.215.133.185:8500:3502/live/cid=367
 TVB明珠台[v],vjms://121.14.222.75:8500:3502/live/cid=367
@@ -2459,23 +2480,6 @@ CCTV-4K超清,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3
 中国教育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
 山东教育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225908/1.m3u8
 珠江卫视,http://gdhj.chinashadt.com:2035/live/6.stream/chunklist_w2139490375.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰卫视资讯台,http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8?icpid=88888888&from=30&hms_devid=1452,1481&online=1580892610&vqe=1
-凤凰卫视资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-凤凰卫视中文台,http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&from=30&hms_devid=1452,1451&online=1580892662&vqe=1
-凤凰卫视中文台,http://liveali.ifeng.com/live/FHZW.flv
-凤凰卫视香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=0738ce47619ffb6578bb658b7d7927d3&txTime=16f9470cacc
-翡翠台,http://hzyhjg.cc/cs/gat/fct.php
-TVB J2,http://hzyhjg.cc/cs/gat/tvbj2.php
-TVB J2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
-无线新闻,http://hzyhjg.cc/cs/gat/wxxw.php
-无线新闻,http://hzyhjg.cc/cs/gat/wxxw-2.php
-明珠台,http://hzyhjg.cc/cs/gat/mzt.php
-明珠台,http://hzyhjg.cc/cs/gat/mzt-2.php
-viu tv,http://hzyhjg.cc/cs/gat/viu tv.php
-无线财经,http://hzyhjg.cc/cs/gat/wxcjzx.php
-有线新闻,http://hzyhjg.cc/cs/gat/yxxw.php
-有线603,http://hzyhjg.cc/cs/gat/yx603.php
 中天新闻,http://hzyhjg.cc/cs/gat/ztxw.php
 东森新闻,http://hzyhjg.cc/cs/gat/dsxw.php
 中视,http://hzyhjg.cc/cs/gat/zs.php
