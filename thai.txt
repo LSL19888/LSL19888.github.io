@@ -57,6 +57,7 @@ RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+
 香港频道【LT】,#genre#
 TVB无线翡翠台-加美东,msc://CJCA5E
 TVB无线翡翠台-加美西,msc://CJCA5W
@@ -98,6 +99,8 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 东森新闻,http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 东森新闻,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
 东森财经新闻,p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
+東森洋片,http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+東森電影,http://192.200.120.82:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 中视无线,http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 中天综合,http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 HBO HD,http://hzyhjg.cc/cs/gat/hbo.php
@@ -856,8 +859,9 @@ Disney,P2p://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
 优漫卡通,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=146&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 金鹰卡通,http://stream.guihet.com/tv/116.php?id=244
 金鹰卡通,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=244&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-Astro,#genre#
-华丽台[p2],p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
+马新频道,#genre#
+华丽台,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
+新加坡5，https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 
 精彩4K,#genre#
 BesTV4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
