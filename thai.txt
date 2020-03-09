@@ -1080,7 +1080,9 @@ National Geographic,http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 National Geographic,http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 National Geographic(马),http://livestream.biznetvideo.net/biznet_ngc/smil:ngc.smil/chunklist_w99579112_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1TT0Z6NFJEdW5XTVlLUjFLRzNqZHgxZzloMXZnX0E5WHRaV0JoS3JxSjltNGFfNzZsU2oyRjY5anFhSmh1VFhh.m3u8
 
-韩国频道,#genre#
+日韩频道,#genre#
+日本NEWS241,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+日本NEWS243,https://n24-cdn-live.ntv.co.jp/ch01/Low.m3u8
 arirang world,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
 测试频道,#genre#
