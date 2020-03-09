@@ -71,6 +71,7 @@ TVB韩剧台,msc://CKDrama5
 美食星球,p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
 亚洲旅游台,p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
 TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
+TVBS新聞台,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 JET综合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 壹综合,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
@@ -101,6 +102,7 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 东森财经新闻,p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
 東森洋片,http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 東森電影,http://192.200.120.82:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+好萊塢電影台,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 中视无线,http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 中天综合,http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 HBO HD,http://hzyhjg.cc/cs/gat/hbo.php
