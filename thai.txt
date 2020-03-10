@@ -18,7 +18,8 @@ CCTV-13,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/20002
 CCTV-14,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204402.m3u8
 CCTV-15,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205002.m3u8
 CCTV-17,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204202.m3u8
-
+Discovery 科學頻道 HD, http://50.7.77.130:50142/54
+Discovery 動力頻道 HD, http://50.7.77.130:50142/53
 1,p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
 2,p2p://fccsovh.pvbox.live:18912/5b1409db0009049a17d41d161677386d
 中天新闻,p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
