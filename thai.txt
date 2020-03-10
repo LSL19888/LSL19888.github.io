@@ -18,8 +18,20 @@ CCTV-13,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/20002
 CCTV-14,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204402.m3u8
 CCTV-15,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205002.m3u8
 CCTV-17,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204202.m3u8
-Discovery 科學頻道 HD, http://50.7.77.130:50142/54
-Discovery 動力頻道 HD, http://50.7.77.130:50142/53
+TVB J2,http://103.56.112.40/kds/igt.php?id=12
+TVB J2,http://h.weijuntww.top/atv/01kjzcom.m3u8
+TVB J2,http://hls.hongxin123.com/918867252917/stream.m3u8
+TVB J2,http://27.148.162.45/918867252917/stream__redirect__42714.m3u8
+TVB J2,http://117.149.150.4/atv/01kjzcom__redirect__1392.m3u8
+TVB J2,http://a.yinyishiye.com:1443/live/mylive/live.m3u8
+TVB J2,vjms://58.215.133.185:8500:3502/live/cid=368
+TVB J2,vjms://23.237.33.155:8500:3502/live/cid=368
+TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
+湖南卫视,http://125.88.57.21:30001/PLTV/88888905/224/3221227483/1.m3u8
+湖南卫视,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227483/1.m3u8
+湖南卫视,http://125.88.82.39:30001/PLTV/88888905/224/3221227483/1.m3u8
+湖南卫视,http://stream.cdjsxy.cn/hnws/sd/live.m3u8
+湖南卫视,http://stream.guihet.com/tv/116.php?id=006
 1,p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
 2,p2p://fccsovh.pvbox.live:18912/5b1409db0009049a17d41d161677386d
 中天新闻,p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
