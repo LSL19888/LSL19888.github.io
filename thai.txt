@@ -1085,6 +1085,29 @@ National Geographic(马),http://livestream.biznetvideo.net/biznet_ngc/smil:ngc.s
 日本NEWS243,https://n24-cdn-live.ntv.co.jp/ch01/Low.m3u8
 arirang world,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
+NewTV频道,#genre#
+NewTV 东北热剧,http://39.135.135.68:80/wh7f454c46tw2589103905_-732405604/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=681
+NewTV 中国功夫,http://39.134.65.85:80/wh7f454c46tw2586908027_-1716107397/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=130
+NewTV 军事评论,http://39.134.65.3:80/wh7f454c46tw2588800930_956773057/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=11
+NewTV 军旅剧场,http://39.134.65.80:80/wh7f454c46tw2587705486_-1028291372/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=124
+NewTV 农业致富,http://39.134.65.81:80/wh7f454c46tw2587173815_602144874/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=124
+NewTV 动画王国,http://39.134.65.70:80/wh7f454c46tw2587864714_1541720100/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=135
+NewTV 古装剧场,http://39.134.65.84:80/wh7f454c46tw2587479580_-410549038/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=130
+NewTV 家庭剧场,http://39.134.65.70:80/wh7f454c46tw2587461720_-1817456457/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=135
+NewTV 惊悚悬疑,http://39.134.65.88:80/wh7f454c46tw2588889334_340148683/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=134
+NewTV 明星大片,http://39.134.65.70:80/wh7f454c46tw2588395642_-133606133/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=135
+NewTV 欢乐剧场,http://39.135.135.25:80/wh7f454c46tw2589472656_1941638946/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=672
+NewTV 海外剧场,http://39.134.65.76:80/wh7f454c46tw2589222723_451674982/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=131
+NewTV 潮妈辣婆,http://39.134.65.70:80/wh7f454c46tw2589657069_631779676/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=135
+NewTV 炫舞未来,http://39.134.65.80:80/wh7f454c46tw2588291575_-1134202517/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=124
+NewTV 精品体育,http://39.134.65.88:80/wh7f454c46tw2588451849_30147563/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=134
+NewTV 精品大剧,http://39.134.65.84:80/wh7f454c46tw2587923916_-1115151486/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=130
+NewTV 超级体育,http://39.134.65.67:80/wh7f454c46tw2589705482_577426939/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=126
+NewTV 超级电影,http://39.134.65.87:80/wh7f454c46tw2588319880_-1151393841/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=129
+NewTV 超级综艺,http://39.134.65.79:80/wh7f454c46tw2587143165_-1812768035/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=128
+NewTV 金牌综艺,http://39.135.135.87:80/wh7f454c46tw2588657802_-1449124946/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=1010
+NewTV 超级电视剧,http://39.135.135.8:80/wh7f454c46tw2588750792_-1598529317/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=813
+
 测试频道,#genre#
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
 潮州综合,http://dslive.grtn.cn/czzh/sd/live.m3u8
