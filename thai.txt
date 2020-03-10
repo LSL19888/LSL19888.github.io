@@ -870,6 +870,7 @@ Disney,P2p://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
 
 其他频道,#genre#
 WDRFernsehen,http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+France24,http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 
 精彩4K,#genre#
 BesTV4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
@@ -1090,6 +1091,15 @@ National Geographic(马),http://livestream.biznetvideo.net/biznet_ngc/smil:ngc.s
 arirang world,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
 NewTV频道,#genre#
+NewTV 搏击,http://39.134.65.87:80/wh7f454c46tw2588729407_421044206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=129
+NewTV 电竞,http://39.134.65.82:80/wh7f454c46tw2587581253_-536062468/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225713/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=137
+NewTV中国功夫,http://112.50.243.8/PLTV/88888888/224/3221225896/1.m3u8
+NewTV动画王国,http://112.50.243.8/PLTV/88888888/224/3221225878/1.m3u8
+NewTV潮妈辣婆,http://112.50.243.8/PLTV/88888888/224/3221226107/1.m3u8
+NewTV精品大剧,http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
+NewTV精品纪录,http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
+NewTV金牌综艺,http://112.50.243.8/PLTV/88888888/224/3221225884/1.m3u8
+Newtv精品电影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
 NewTV 东北热剧,http://39.135.135.68:80/wh7f454c46tw2589103905_-732405604/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=681
 NewTV 中国功夫,http://39.134.65.85:80/wh7f454c46tw2586908027_-1716107397/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=130
 NewTV 军事评论,http://39.134.65.3:80/wh7f454c46tw2588800930_956773057/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=11
