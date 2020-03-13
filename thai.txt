@@ -1,5 +1,5 @@
 test1234频道,#genre#
-
+年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 test123频道,#genre#
 韩日高清,p8p://0198.02686.cc:16871/5d307612000d2db03426a352d0657846.ts
 韩日高清,p8p://0198.02686.cc:16871/5d30766c000ea07334280341c265680e.ts
