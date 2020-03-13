@@ -1,4 +1,15 @@
 test1234频道,#genre#
+TRT 1,https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_720p_av-p.m3u8?sd=10&rebase=on
+NTV,https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+FOX Tv,https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1561344664&st=gCLMavTiJNpg2MJ4PlBS6A
+TLC Tv,https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+TV8,https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_720p.m3u8?e=1561352688&st=AUPCaiN_FKBA9kZTi0GI3A
+SHOW TV,https://ciner-live.ercdn.net/showtv-aes/showtv-aes_720p.m3u8?e=1561325202&st=dh1gLR4m6ja8FCmYQ4J3tA&tv=1
+ATV,https://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8?st=sjec-FJxbGeKaYcha92cLA&e=1561354244&SessionID=25i11qmj55lncvykxsodyvs5&StreamGroup=canli-yayin&Site=atv&DeviceGroup=web
+马astro 全佳HD,http://landiptv.live:8080/abed/abed123xx/145957
+马astro 双星HD,http://landiptv.live:8080/abed/abed123xx/150656
+马astro 喜悦HD,http://landiptv.live:8080/abed/abed123xx/142614
+马astro 欢喜HD,http://landiptv.live:8080/abed/abed123xx/150663
 TV1,http://lovely-cheap-xenoposeidon.gigalixirapp.com/308
 TV2,http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
 TV3,http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-2.m3u8
