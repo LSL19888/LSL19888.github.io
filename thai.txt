@@ -1,5 +1,13 @@
 test1234频道,#genre#
 年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+Aljazeera,http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
+NatGeo,http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/03.m3u8
+NatGeo wild,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+Astro Ria,https://delivery.macan.live/stream/astro_ria/index.m3u8?token=gYX6lZRa&v=20200202
+Star movies,http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+Romedy now,https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+Groovy,http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+History 2,http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 test123频道,#genre#
 韩日高清,p8p://0198.02686.cc:16871/5d307612000d2db03426a352d0657846.ts
 韩日高清,p8p://0198.02686.cc:16871/5d30766c000ea07334280341c265680e.ts
