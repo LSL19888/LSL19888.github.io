@@ -345,6 +345,7 @@ TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
 
 香港频道,#genre#
 TVB翡翠台,http://hzyhjg.cc/cs/gat/fct.php
+TVB翡翠台,http://hzyhjg.cc/cs/gat/fct-2.php
 TVB翡翠台,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
 TVB J2,http://hzyhjg.cc/cs/gat/tvbj2.php
 TVB J2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
