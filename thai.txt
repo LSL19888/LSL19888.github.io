@@ -418,7 +418,7 @@ TVB明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
 TVB明珠台,p8p://0198.02686.cc:16871/5d1a69c0000460ab11be0c40e08de9fb.ts
 TVB明珠台,http://hzyhjg.cc/cs/gat/mzt.php
 TVB星河,http://103.145.38.152/axg.php?id=17
-TVB星河,http://hzyhjg.cc/cs/gat/xh-2.php
+TVB星河,http://hzyhjg.cc/cs/gat/tvbxh-2.php
 TVB星河,p8p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts
 TVB星河,http://hzyhjg.cc/cs/gat/xh.php
 香港卫视,http://103.145.38.152/axg.php?id=6
