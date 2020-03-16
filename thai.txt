@@ -1,3 +1,11 @@
+代理测试,#genre#
+TVB J2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
+无线新闻-2,http://hzyhjg.cc/cs/gat/wxxw-2.php
+有线新闻,http://hzyhjg.cc/cs/gat/yxxw.php
+有线603,http://hzyhjg.cc/cs/gat/yx603.php
+东森新闻,http://hzyhjg.cc/cs/gat/dsxw.php
+非凡新闻,http://hzyhjg.cc/cs/gat/ffxw.php
+
 198测试,#genre#
 J2,mitv://198.255.74.57:12396/5e5020840001a1223d330aa74cb1ccd5.ts
 無線新聞臺,mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
