@@ -166,17 +166,6 @@ FOX家庭影院HD,mitv://198.255.74.57:12396/5e5020660006b8503d3296c4ec7209c0.ts
 FOX CRIME HD,mitv://198.255.74.57:12396/5e5020660005df333d32968d2af0eb38.ts
 FOX NEWS,mitv://198.255.74.57:12396/5e5020660004f9ab3d3296520b5ca6ef.ts
 CINEMAX,mitv://198.255.74.57:12396/5e502066000416113d3296180d0ae225.ts
-探索頻道高清,mitv://198.255.74.57:12396/5e502066000338553d3295dfd719c2b1.ts
-探索(臺灣),mitv://198.255.74.57:12396/5e5020660001872e3d3295709b567b51.ts
-Discovery HD,mitv://198.255.74.57:12396/5e50206600013e233d32955d22107029.ts
-Discovery 動力頻道 HD,mitv://198.255.74.57:12396/5e5020630008a5db3d328b8b20e3013a.ts
-Discovery 科學頻道 HD,mitv://198.255.74.57:12396/5e5020630007d4173d328b5569e28401.ts
-Discovery EVE HD,mitv://198.255.74.57:12396/5e5020630006fd943d328b1ef0db2936.ts
-國家地理 HD,mitv://198.255.74.57:12396/5e502063000621963d328ae6b3104a59.ts
-國家地理People HD,mitv://198.255.74.57:12396/5e502063000543333d328aad4edbe099.ts
-國家地理野生頻道 HD,mitv://198.255.74.57:12396/5e502063000465923d328a746d4c01dd.ts
-History HD,mitv://198.255.74.57:12396/5e502063000393f63d328a3ef5272b2c.ts
-History2 HD,mitv://198.255.74.57:12396/5e5020630002a7a83d328a023d7420d6.ts
 Sky Sports Mix,mitv://198.255.74.57:12396/5e5020630001cee43d3289caf9b39ce2.ts
 Sky Sports MainEvent,mitv://198.255.74.57:12396/5e5020630000f4f83d32899370fe40ab.ts
 Sky Sports Action,mitv://198.255.74.57:12396/5e502063000021f33d32895d677ba682.ts
@@ -883,6 +872,26 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 中视无线,http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 中天综合,http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 HBO HD,http://hzyhjg.cc/cs/gat/hbo.php
+
+美国频道,#genre#
+探索頻道高清,mitv://198.255.74.57:12396/5e502066000338553d3295dfd719c2b1.ts
+探索(臺灣),mitv://198.255.74.57:12396/5e5020660001872e3d3295709b567b51.ts
+Discovery HD,mitv://198.255.74.57:12396/5e50206600013e233d32955d22107029.ts
+Discovery 動力頻道 HD,mitv://198.255.74.57:12396/5e5020630008a5db3d328b8b20e3013a.ts
+Discovery 科學頻道 HD,mitv://198.255.74.57:12396/5e5020630007d4173d328b5569e28401.ts
+Discovery EVE HD,mitv://198.255.74.57:12396/5e5020630006fd943d328b1ef0db2936.ts
+國家地理 HD,mitv://198.255.74.57:12396/5e502063000621963d328ae6b3104a59.ts
+國家地理People HD,mitv://198.255.74.57:12396/5e502063000543333d328aad4edbe099.ts
+國家地理野生頻道 HD,mitv://198.255.74.57:12396/5e502063000465923d328a746d4c01dd.ts
+History HD,mitv://198.255.74.57:12396/5e502063000393f63d328a3ef5272b2c.ts
+History2 HD,mitv://198.255.74.57:12396/5e5020630002a7a83d328a023d7420d6.ts
+
+马新频道,#genre#
+华丽台,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
+新加坡5,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+新-8頻道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+新-U頻道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+
 央视频道(备),#genre#
 CCTV-1综合,http://39.135.34.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
 CCTV-1综合,rtsp://183.58.12.204/PLTV/88888895/224/3221227462/10000100000000060000000003893556_0.smil?icpid=88888888
@@ -1641,12 +1650,6 @@ Disney,P2p://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
 优漫卡通,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=146&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 金鹰卡通,http://stream.guihet.com/tv/116.php?id=244
 金鹰卡通,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=244&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-
-马新频道,#genre#
-华丽台,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
-新加坡5,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-新-8頻道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-新-U頻道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 
 其他频道,#genre#
 WDRFernsehen,http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
