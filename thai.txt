@@ -339,20 +339,6 @@ Music-JAPAN,vjms://58.215.133.184:8500:3502/live/cid=495
 Discovery,vjms://58.215.133.184:8500:3502/live/cid=496
 Movie Plus,vjms://58.215.133.184:8500:3502/live/cid=497
 
-代理源测试,#genre#
-凤凰中文HD,http://103.145.38.152/axg.php?id=2
-星空衛視,http://103.145.38.152/axg.php?id=18
-澳門衛視,http://103.145.38.152/axg.php?id=23
-澳亞衛視,http://103.145.38.152/axg.php?id=24
-香港卫视,http://103.145.38.152/axg.php?id=6
-有线电影台,http://103.145.38.152/axg.php?id=30
-星河台,http://103.145.38.152/axg.php?id=17
-莲花卫视,http://103.145.38.152/axg.php?id=33
-澳門衛視,http://103.145.38.152/axg.php?id=23
-澳亞衛視,http://103.145.38.152/axg.php?id=24
-澳門互動新聞台,http://103.145.38.152/axg.php?id=26
-澳門有線一台,http://103.145.38.152/axg.php?id=25
-
 test1234频道,#genre#
 年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 Aljazeera,http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
