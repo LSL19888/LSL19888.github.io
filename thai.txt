@@ -29,19 +29,6 @@ now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/ind
 J2,mitv://198.255.74.57:12396/5e5020840001a1223d330aa74cb1ccd5.ts
 無線新聞臺,mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
 翡翠臺,mitv://198.255.74.57:12396/5e502083000f32013d330a38c5462049.ts
-RHK32,mitv://198.255.74.57:12396/5e5020810005111f3d32ffd0f7c066b7.ts
-ViuTu,mitv://198.255.74.57:12396/5e502081000434db3d32ff98c2c3e2b6.ts
-ViuTu_6,mitv://198.255.74.57:12396/5e5020810003593f3d32ff5f0b34caac.ts
-無線財經資訊臺,mitv://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts
-星空衛視,mitv://198.255.74.57:12396/5e5020810001975d3d32feec7da3a9d1.ts
-澳門蓮花,mitv://198.255.74.57:12396/5e5020810000c2553d32feb6d0f53600.ts
-鳳凰中文臺 HD,mitv://198.255.74.57:12396/5e502080000f31733d32fe803275a3b2.ts
-鳳凰資訊臺 HD,mitv://198.255.74.57:12396/5e502080000e56cc3d32fe486f65861e.ts
-鳳凰香港臺 HD,mitv://198.255.74.57:12396/5e502080000d81ed3d32fe1146391509.ts
-香港有线新闻,mitv://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts
-电影一台,mitv://198.255.74.57:12396/5e502080000bda4b3d32fda5c67d4497.ts
-TVB-星河,mitv://198.255.74.57:12396/5e50207e00034a933d32f3a42bd947a2.ts
-TVB经典,mitv://198.255.74.57:12396/5e50207e00027a993d32f36ee2982d43.ts
 TVB娱乐,mitv://198.255.74.57:12396/5e50207e0001a84e3d32f3391ccaac57.ts
 Test,mitv://198.255.74.57:12396/5e5020840002769b3d330add9782ef3b.ts
 中視经典,mitv://198.255.74.57:12396/5e50207e0000d1d03d32f302794f5a5c.ts
@@ -851,15 +838,19 @@ TVB星河,http://103.145.38.152/axg.php?id=17
 TVB星河,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 TVB星河,p8p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts
 TVB星河,http://hzyhjg.cc/cs/gat/xh.php
+TVB经典,mitv://198.255.74.57:12396/5e50207e00027a993d32f36ee2982d43.ts
 香港卫视,http://103.145.38.152/axg.php?id=6
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+鳳凰資訊,mitv://198.255.74.57:12396/5e502080000e56cc3d32fe486f65861e.ts
 鳳凰資訊,http://liveali.ifeng.com/live/FHZX.flv
 鳳凰資訊,http://103.145.38.152/axg.php?id=3
 鳳凰資訊,p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts
 鳳凰衛視,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
+凤凰卫视中文台,mitv://198.255.74.57:12396/5e502080000f31733d32fe803275a3b2.ts
 凤凰卫视中文台,http://103.145.38.152/axg.php?id=2
 凤凰卫视中文台,http://liveali.ifeng.com/live/FHZW.flv
+凤凰卫视香港台,mitv://198.255.74.57:12396/5e502080000d81ed3d32fe1146391509.ts
 凤凰卫视香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=0738ce47619ffb6578bb658b7d7927d3&txTime=16f9470cacc
 凤凰卫视香港台,p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
 香港开電視,mitv://198.255.74.57:12396/5e502083000ee1003d330a23da058f45.ts
@@ -882,14 +873,18 @@ RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 RTHK31,http://hzyhjg.cc/cs/gat/rhk31.php
+RHK32,mitv://198.255.74.57:12396/5e5020810005111f3d32ffd0f7c066b7.ts
 RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+电影一台,mitv://198.255.74.57:12396/5e502080000bda4b3d32fda5c67d4497.ts
 星空衛視,http://103.145.38.152/axg.php?id=18
+星空衛視,mitv://198.255.74.57:12396/5e5020810001975d3d32feec7da3a9d1.ts
 耀才財經,http://103.145.38.152/axg.php?id=19
 澳門衛視,http://103.145.38.152/axg.php?id=23
 澳亞衛視,http://103.145.38.152/axg.php?id=24
 有线电影台,http://103.145.38.152/axg.php?id=30
 澳門互動新聞台,http://103.145.38.152/axg.php?id=26
 澳門有線一台,http://103.145.38.152/axg.php?id=25
+澳門蓮花,mitv://198.255.74.57:12396/5e5020810000c2553d32feb6d0f53600.ts
 
 香港频道【LT】,#genre#
 TVB无线翡翠台-加美东,msc://CJCA5E
