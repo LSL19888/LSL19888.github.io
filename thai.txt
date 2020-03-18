@@ -1,5 +1,8 @@
 港台新闻,#genre#
+凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv
+凤凰资讯台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv
+凤凰中文台http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 无线新闻台,mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
 有线新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
@@ -31,6 +34,7 @@ TVB娱乐,mitv://198.255.74.57:12396/5e50207e0001a84e3d32f3391ccaac57.ts
 Test,mitv://198.255.74.57:12396/5e5020840002769b3d330add9782ef3b.ts
 三立新聞,mitv://198.255.74.57:12396/5e5fcf2a0006c8ee7a7544698392ab6c.ts
 中天新聞HD,mitv://198.255.74.57:12396/5e5020760002596e3d32d426fb68dbf7.ts
+香港经典台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/291236_97IGR.m3u8
 中天綜合 HD,mitv://198.255.74.57:12396/5e502076000183ec3d32d3ef91816888.ts
 东森亞洲臺,mitv://198.255.74.57:12396/5e5020760000ab313d32d3b8d26e88d7.ts
 中天娛樂,mitv://198.255.74.57:12396/5e502075000f15303d32d380125e5682.ts
