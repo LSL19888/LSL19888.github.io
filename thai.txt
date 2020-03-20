@@ -1,4 +1,7 @@
 P8P测试,#genre#
+TVBS新聞,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
+非凡新聞,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8
+三立新聞,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298998_I3GDL.m3u8
 公视,vjms://58.215.133.184:8500:3502/live/cid=236
 翡翠臺,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
 無綫新聞,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
