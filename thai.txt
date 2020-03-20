@@ -81,11 +81,7 @@ Movie Plus,vjms://58.215.133.197:8500:3502/live/cid=497
 测试,#genre#
 有线18台 HD,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch211
 有线603  HD,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
-凤凰资讯台,http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
-凤凰中文台,http://220.158.149.26:8182/hls/TV00000000000000000067@HHZT.m3u8
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flvtxSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
-凤凰香港台,http://220.158.149.26:8180/TV00000000000000000068@HHZT;LIVE
-凤凰香港台,http://220.158.149.26:8182/hls/TV00000000000000000068@HHZT.m3u8
 P8P测试,#genre#
 东森新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
 非凡新聞,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8
