@@ -78,15 +78,15 @@ KIDS,vjms://58.215.133.197:8500:3502/live/cid=494
 Music-JAPAN,vjms://58.215.133.197:8500:3502/live/cid=495
 Discovery,vjms://58.215.133.197:8500:3502/live/cid=496
 Movie Plus,vjms://58.215.133.197:8500:3502/live/cid=497
+东森新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
+非凡新聞,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8
+三立新聞,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298998_I3GDL.m3u8
+公视,vjms://58.215.133.184:8500:3502/live/cid=236
 测试,#genre#
 有线18台 HD,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch211
 有线603  HD,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
 凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flvtxSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
 P8P测试,#genre#
-东森新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
-非凡新聞,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8
-三立新聞,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298998_I3GDL.m3u8
-公视,vjms://58.215.133.184:8500:3502/live/cid=236
 翡翠臺,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
 無綫新聞,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 明珠臺,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
