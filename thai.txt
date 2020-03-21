@@ -97,30 +97,7 @@ tvNP7p,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 测试,#genre#
 
 P8P测试,#genre#
-好消息1,p8p://0198.02686.cc:16871/5d1a69b9000b139e11bdf29f39814479.ts
-動物星球,p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
-卡通頻道,p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts
-東森幼幼,p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
-三立臺灣,p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
-JET綜合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
-三立戲劇臺,p8p://0198.02686.cc:16871/5d1a69f90000ad2611bee9f55d87748f.ts
-三立綜合臺,p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
-衛視電影臺,p8p://0198.02686.cc:16871/5d1a69d0000743f711be4b7d2b320c30.ts
-東森電影,p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
-FOX_SPORTS,p8p://0198.02686.cc:16871/5d1a69a30008cd8811bd9c1ad6dfa2ad.ts
-Z頻道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
-新視覺,p8p://0198.02686.cc:16871/5d1a69dc0002242811be790dbf0a1a04.ts
-fyi,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
-亞洲旅遊臺,p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
-Momo亲子台,p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
-SMART頻道,p8p://0198.02686.cc:16871/5d1a69a9000d171211bdb4a3d225e7dd.ts
-靖天電影臺,p8p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts
-美食星球頻道,p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
-大愛二臺,p8p://0198.02686.cc:16871/5d1a69b8000386b311bdecc8d9c8c96a.ts
-EYE_TV戲劇臺,p8p://0198.02686.cc:16871/5d1a69a2000ca28211bd992d29a29542.ts
-鴻基影劇臺,p8p://0198.02686.cc:16871/5d1a69d700008c5a11be651dc2bd3d52.ts
-FXP7p,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
-Golf_Plus_(博斯高球二臺)P7p,p8p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts
+
 
 港台新闻,#genre#
 凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv
@@ -1036,6 +1013,7 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 三立都會臺,mitv://198.255.74.57:12396/5e5020780004f90a3d32dca29dfcb1f8.ts
 三立綜合臺,p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
 三立綜合臺,mitv://198.255.74.57:12396/5e5020760004290b3d32d49de1e9a62b.ts
+三立戲劇臺,p8p://0198.02686.cc:16871/5d1a69f90000ad2611bee9f55d87748f.ts
 三立戲劇臺,mitv://198.255.74.57:12396/5e502076000346383d32d4631085ebbe.ts
 華視,mitv://198.255.74.57:12396/5e50207d0008f9973d32f13096666694.ts
 華視,p8p://0198.02686.cc:16871/5e0b4555000e6c89082827022892f415.ts
@@ -1052,15 +1030,16 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 东森新闻,mitv://198.255.74.57:12396/5e5fd267000a602c7a81eb9c5ee0fe87.ts
 東森財經新聞,p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
 東森財經新聞,mitv://198.255.74.57:12396/5e50207b000180bb3d32e776ee1b9a24.ts
+東森電影,p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
 東森電影,http://192.200.120.82:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 東森電影,mitv://198.255.74.57:12396/5e50207b0000a2003d32e73d8be634ad.ts
 東森洋片,http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 東森洋片,mitv://198.255.74.57:12396/5e50207a000ef5883d32e7001d1666d4.ts
 東森綜合,mitv://198.255.74.57:12396/5e50207a000e976d3d32e6e83da948e0.ts
 東森戲劇,mitv://198.255.74.57:12396/5e50207900001ff63d32df4c0dfcd4f4.ts
+東森幼幼,p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
 東森幼幼,mitv://198.255.74.57:12396/5e502078000e83813d32df13dca72df1.ts
 好萊塢電影台,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-HBO HD,http://hzyhjg.cc/cs/gat/hbo.php
 緯來育樂,mitv://198.255.74.57:12396/5e50207b0007cfaa3d32e914f2b6b70d.ts
 緯來綜合,mitv://198.255.74.57:12396/5e50207b0006eef43d32e8da975bbe08.ts
 緯來電影,mitv://198.255.74.57:12396/5e50207b0005f6e33d32e89b52a93087.ts
@@ -1073,8 +1052,17 @@ HBO HD,http://hzyhjg.cc/cs/gat/hbo.php
 龍華偶像,mitv://198.255.74.57:12396/5e5020780008f1003d32dda6bc0268b4.ts
 龍華戲劇,mitv://198.255.74.57:12396/5e502078000803333d32dd694b31e00b.ts
 龍華經典,mitv://198.255.74.57:12396/5e502078000722b73d32dd30d938e2a9.ts
+好消息1,p8p://0198.02686.cc:16871/5d1a69b9000b139e11bdf29f39814479.ts
+FOX_SPORTS,p8p://0198.02686.cc:16871/5d1a69a30008cd8811bd9c1ad6dfa2ad.ts
+Z頻道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
+新視覺,p8p://0198.02686.cc:16871/5d1a69dc0002242811be790dbf0a1a04.ts
+fyi,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
+SMART頻道,p8p://0198.02686.cc:16871/5d1a69a9000d171211bdb4a3d225e7dd.ts
+FXP7p,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
+Golf_Plus_(博斯高球二臺)P7p,p8p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts
 
 港台影视,#genre#
+HBO HD,http://hzyhjg.cc/cs/gat/hbo.php
 FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 WarnerTV,http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 凤凰电影台,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
@@ -1083,6 +1071,10 @@ WarnerTV,http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 采昌影剧[p2],p2p://fccsovh.pvbox.live:18912/5b1409db0009049a17d41d161677386d
 龙华影剧[p2],P2p://51.79.41.138:18912/5b1408f2000aaf8c17d08f5c001549e8.ts
 龙华经典[p2],p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
+衛視電影臺,p8p://0198.02686.cc:16871/5d1a69d0000743f711be4b7d2b320c30.ts
+靖天電影臺,p8p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts
+EYE_TV戲劇臺,p8p://0198.02686.cc:16871/5d1a69a2000ca28211bd992d29a29542.ts
+鴻基影劇臺,p8p://0198.02686.cc:16871/5d1a69d700008c5a11be651dc2bd3d52.ts
 
 美国频道,#genre#
 探索頻道高清,mitv://198.255.74.57:12396/5e502066000338553d3295dfd719c2b1.ts
@@ -1096,6 +1088,7 @@ Discovery EVE HD,mitv://198.255.74.57:12396/5e5020630006fd943d328b1ef0db2936.ts
 國家地理野生頻道 HD,mitv://198.255.74.57:12396/5e502063000465923d328a746d4c01dd.ts
 History HD,mitv://198.255.74.57:12396/5e502063000393f63d328a3ef5272b2c.ts
 History2 HD,mitv://198.255.74.57:12396/5e5020630002a7a83d328a023d7420d6.ts
+動物星球,p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
 動物星球,mitv://198.255.74.57:12396/5e50206000073b993d327f768043421f.ts
 亞洲美食 HD,mitv://198.255.74.57:12396/5e5020600006588a3d327f3c9f15d451.ts
 OUTDOOR HD,mitv://198.255.74.57:12396/5e502060000572353d327f01d3a3a092.ts
@@ -1123,6 +1116,33 @@ TV9,mitv://198.255.74.57:12396/5e502088000dd6c23d331d67c46adf34.ts
 新加坡5,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 新-8頻道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 新-U頻道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+
+亲子卡通,#genre#
+Momo亲子台,p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
+卡通頻道,p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts
+Disney,vjms://122.155.180.8:8500:3502/live/cid=361
+迪斯尼,P2p://51.79.41.138:18912/5c7248620002c4fd1d52456c75ed6b55.ts
+迪斯尼,P2p://190.2.146.92:18912/5c72485c0008852e1d522f7314a34325.ts
+迪斯尼,vjms://58.215.133.185:8500:3502/live/cid=361
+迪斯尼,vjms://23.237.33.155:8500:3502/live/cid=361
+CN卡通,p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts
+CN卡通,vjms://23.237.33.155:8500:3502/live/cid=422
+东森幼幼,p2p://51.79.41.138:18912/5c724866000564111d5255b84de26a1c.ts
+东森幼幼,p2p://190.2.146.92:18912/5c724866000564111d5255b84de26a1c.ts
+东森幼幼,p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
+东森幼幼,vjms://23.237.33.155:8500:3502/live/cid=344
+BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+MOMO亲子台,P2p://51.79.41.138:18912/5d70eb0f000a5e750d0a9659304554ba.ts
+MOMO亲子台,p2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55.ts
+MOMO亲子台,p2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55
+Disney,P2p://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
+卡酷少儿,http://125.88.57.21:30001/PLTV/88888956/224/3221227734/1.m3u8
+卡酷少儿,http://stream.guihet.com/tv/116.php?id=108
+卡酷少儿,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=108&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+优漫卡通,http://stream.guihet.com/tv/116.php?id=146
+优漫卡通,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=146&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+金鹰卡通,http://stream.guihet.com/tv/116.php?id=244
+金鹰卡通,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=244&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 央视频道(备),#genre#
 CCTV-1综合,http://39.135.34.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
@@ -1751,30 +1771,6 @@ DOX映画,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=e16878a022c216b179752
 DOX美剧,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=1c639fe68ed5de6804966813425bdccd
 DOXTV高清,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&progamid=4200000126
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
-亲子卡通,#genre#
-Disney,vjms://122.155.180.8:8500:3502/live/cid=361
-迪斯尼,P2p://51.79.41.138:18912/5c7248620002c4fd1d52456c75ed6b55.ts
-迪斯尼,P2p://190.2.146.92:18912/5c72485c0008852e1d522f7314a34325.ts
-迪斯尼,vjms://58.215.133.185:8500:3502/live/cid=361
-迪斯尼,vjms://23.237.33.155:8500:3502/live/cid=361
-CN卡通,p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts
-CN卡通,vjms://23.237.33.155:8500:3502/live/cid=422
-东森幼幼,p2p://51.79.41.138:18912/5c724866000564111d5255b84de26a1c.ts
-东森幼幼,p2p://190.2.146.92:18912/5c724866000564111d5255b84de26a1c.ts
-东森幼幼,p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
-东森幼幼,vjms://23.237.33.155:8500:3502/live/cid=344
-BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-MOMO亲子台,P2p://51.79.41.138:18912/5d70eb0f000a5e750d0a9659304554ba.ts
-MOMO亲子台,p2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55.ts
-MOMO亲子台,p2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55
-Disney,P2p://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
-卡酷少儿,http://125.88.57.21:30001/PLTV/88888956/224/3221227734/1.m3u8
-卡酷少儿,http://stream.guihet.com/tv/116.php?id=108
-卡酷少儿,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=108&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-优漫卡通,http://stream.guihet.com/tv/116.php?id=146
-优漫卡通,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=146&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-金鹰卡通,http://stream.guihet.com/tv/116.php?id=244
-金鹰卡通,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=244&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 其他频道,#genre#
 WDRFernsehen,http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
