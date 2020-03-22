@@ -101,7 +101,6 @@ P8P测试,#genre#
 
 港台新闻,#genre#
 凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv
-
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv
 凤凰中文台http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 无线新闻台,mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
@@ -180,7 +179,7 @@ DIVA HD,mitv://198.255.74.57:12396/5e50206c0007f5783d32ae863abbe248.ts
 亞洲旅遊臺 HD,mitv://198.255.74.57:12396/5e50206c000726cc3d32ae51701aab94.ts
 China Movie,mitv://198.255.74.57:12396/5e50206c0006171c3d32ae0bbad1003e.ts
 衛視電影臺,mitv://198.255.74.57:12396/5e50206a00007bf93d32a4ccfa9c7d74.ts
-衛視合家歡,mitv://198.255.74.57:12396/5e502069000eedc83d32a49673b1b75c.ts
+Momo亲子台,mitv://198.255.74.57:12396/5e502069000eedc83d32a49673b1b75c.ts
 衛視中文臺,mitv://198.255.74.57:12396/5e502069000e17e93d32a46005d83470.ts
 衛視西片 HD,mitv://198.255.74.57:12396/5e502069000d42423d32a429735e8f27.ts
 龍祥時代,mitv://198.255.74.57:12396/5e502069000c6cc33d32a3f2a6e8aa91.ts
