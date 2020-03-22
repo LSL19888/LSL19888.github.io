@@ -118,11 +118,6 @@ TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
 壹新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
 年代新闻,p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
 非凡新闻,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
-
-P8P测试,#genre#
-
-
-港台新闻,#genre#
 凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv
 凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv
 凤凰中文台http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
@@ -144,14 +139,14 @@ TVB 明珠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae
 华丽台,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0.ts
 now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
 邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv 
-
-198测试,#genre#
 無線新聞臺,mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
 翡翠臺,mitv://198.255.74.57:12396/5e502083000f32013d330a38c5462049.ts
 TVB娱乐,mitv://198.255.74.57:12396/5e50207e0001a84e3d32f3391ccaac57.ts
 Test,mitv://198.255.74.57:12396/5e5020840002769b3d330add9782ef3b.ts
 三立新聞,mitv://198.255.74.57:12396/5e5fcf2a0006c8ee7a7544698392ab6c.ts
 天映頻道,mitv://198.255.74.57:12396/5e502069000ab76e3d32a382d07b3d5d.ts
+
+P8P测试,#genre#
 
 纳加测试,#genre#
 民視HD,vjms://58.215.133.184:8500:3502/live/cid=450
