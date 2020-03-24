@@ -1,23 +1,9 @@
-12333测试,#genre#
-凤凰中文,http://47.56.167.95/iptv222.php?id=2
-凤凰资讯,http://47.56.167.95/iptv222.php?id=3
-凤凰香港,http://47.56.167.95/iptv222.php?id=4
-香港卫视,http://47.56.167.95/iptv222.php?id=6
-VIUtv,http://47.56.167.95/iptv222.php?id=8
-无线新闻,http://47.56.167.95/iptv222.php?id=9
-无线财经,http://47.56.167.95/iptv222.php?id=10
-翡翠台,http://47.56.167.95/iptv222.php?id=1
-J2,http://47.56.167.95/iptv222.php?id=12
-耀财证券,http://47.56.167.95/iptv222.php?id=19
+测试,#genre#
 澳门卫视,http://47.56.167.95/iptv222.php?id=23
 澳亚卫视,http://47.56.167.95/iptv222.php?id=24
 互动新闻台,http://47.56.167.95/iptv222.php?id=26
 HBO HD,http://47.56.167.95/iptv222.php?id=27
-有线新闻,http://47.56.167.95/iptv222.php?id=31
-有线娱乐,http://47.56.167.95/iptv222.php?id=34
 三立台湾,http://47.56.167.95/iptv222.php?id=42
-中天新闻,http://47.56.167.95/iptv222.php?id=44
-东森新闻,http://47.56.167.95/iptv222.php?id=46
 寰宇新闻,http://47.56.167.95/iptv222.php?id=54
 八大综合,http://47.56.167.95/iptv222.php?id=57
 东森电影,http://47.56.167.95/iptv222.php?id=59
@@ -25,8 +11,6 @@ HBO HD,http://47.56.167.95/iptv222.php?id=27
 好莱坞电影,http://47.56.167.95/iptv222.php?id=66
 龙翔时代电影,http://47.56.167.95/iptv222.php?id=67
 华纳电影,http://47.56.167.95/iptv222.php?id=69
-
-测试,#genre#
 TVB J2,http://103.56.112.40/kds/igt.php?id=12
 TVB J2,http://h.weijuntww.top/atv/01kjzcom.m3u8
 TVB J2,http://hls.hongxin123.com/918867252917/stream.m3u8
@@ -329,18 +313,22 @@ CCTV懷舊劇場,mitv://198.255.74.57:12396/5e502055000318803d32536f72725c14.ts
 香港频道,#genre#
 TVB翡翠台,http://hzyhjg.cc/cs/gat/fct-2.php
 TVB翡翠台,http://103.145.38.152/axg.php?id=1
+TVB翡翠台,http://47.56.167.95/iptv222.php?id=1
 TVB翡翠台,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
 TVB翡翠台,http://hzyhjg.cc/cs/gat/fct.php
 TVB J2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
 TVB J2,http://103.145.38.152/axg.php?id=12
+TVB J2,http://47.56.167.95/iptv222.php?id=12
 TVB J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB J2,mitv://198.255.74.57:12396/5e5020840001a1223d330aa74cb1ccd5.ts
 TVB J2,http://hzyhjg.cc/cs/gat/tvbj2.php
 TVB无线新闻台,http://103.145.38.152/axg.php?id=9
+TVB无线新闻台,http://47.56.167.95/iptv222.php?id=9
 TVB无线新闻台,http://hzyhjg.cc/cs/gat/wxxw-2.php
 TVB无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 TVB无线新闻台,http://hzyhjg.cc/cs/gat/wxxw.php
 TVB无线财经资讯台,http://103.145.38.152/axg.php?id=10
+TVB无线财经资讯台,http://47.56.167.95/iptv222.php?id=10
 TVB无线财经资讯台,http://hzyhjg.cc/cs/gat/wxcjzx.php
 TVB无线财经资讯台,p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
 TVB无线财经资讯台,mitv://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts
@@ -360,29 +348,36 @@ TVB经典,mitv://198.255.74.57:12396/5e50207e00027a993d32f36ee2982d43.ts
 香港卫视,http://103.145.38.152/axg.php?id=6
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://47.56.167.95/iptv222.php?id=6
 鳳凰資訊,mitv://198.255.74.57:12396/5e502080000e56cc3d32fe486f65861e.ts
 鳳凰資訊,http://liveali.ifeng.com/live/FHZX.flv
 鳳凰資訊,http://103.145.38.152/axg.php?id=3
 鳳凰資訊,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 鳳凰資訊,p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts
+鳳凰資訊,http://47.56.167.95/iptv222.php?id=3
 鳳凰衛視,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
 凤凰卫视中文台,mitv://198.255.74.57:12396/5e502080000f31733d32fe803275a3b2.ts
 凤凰卫视中文台,http://103.145.38.152/axg.php?id=2
 凤凰卫视中文台,http://liveali.ifeng.com/live/FHZW.flv
+凤凰卫视中文台,http://47.56.167.95/iptv222.php?id=2
 凤凰卫视香港台,mitv://198.255.74.57:12396/5e502080000d81ed3d32fe1146391509.ts
 凤凰卫视香港台,http://qlive.fengshows.cn/live720p/PHK.flvtxSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
 凤凰卫视香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=0738ce47619ffb6578bb658b7d7927d3&txTime=16f9470cacc
 凤凰卫视香港台,p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
+凤凰卫视香港台,http://47.56.167.95/iptv222.php?id=4
 香港开電視,mitv://198.255.74.57:12396/5e502083000ee1003d330a23da058f45.ts
 ViuTV,mitv://198.255.74.57:12396/5e502081000434db3d32ff98c2c3e2b6.ts
 ViuTV,http://103.145.38.152/axg.php?id=8
+ViuTV,http://47.56.167.95/iptv222.php?id=8
 ViuTV,http://hzyhjg.cc/cs/gat/viu tv.php
 ViuTV 6,mitv://198.255.74.57:12396/5e5020810003593f3d32ff5f0b34caac.ts
 有线新闻台,http://103.145.38.152/axg.php?id=31
+有线新闻台,http://47.56.167.95/iptv222.php?id=31
 有线新闻台,http://hzyhjg.cc/cs/gat/yxxw.php
 有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
 有线新闻台,mitv://147.135.39.171:9906/5dcd25fc000623c838c9e73f44bb7227.ts
 有线新闻台,mitv://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts
+有线娱乐,http://47.56.167.95/iptv222.php?id=34
 有线18台 HD,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch211
 有线603,http://hzyhjg.cc/cs/gat/yx603.php
 有线603,http://103.145.38.152/axg.php?id=33
@@ -398,6 +393,7 @@ RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 星空衛視,http://103.145.38.152/axg.php?id=18
 星空衛視,mitv://198.255.74.57:12396/5e5020810001975d3d32feec7da3a9d1.ts
 耀才財經,http://103.145.38.152/axg.php?id=19
+耀才財經,http://47.56.167.95/iptv222.php?id=19
 澳門衛視,http://103.145.38.152/axg.php?id=23
 澳亞衛視,http://103.145.38.152/axg.php?id=24
 有线电影台,http://103.145.38.152/axg.php?id=30
@@ -487,6 +483,7 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 华视无线,http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
 年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 中天新闻,http://hzyhjg.cc/cs/gat/ztxw.php
+中天新闻,http://47.56.167.95/iptv222.php?id=44
 中天新闻,http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天新闻,mitv://198.255.74.57:12396/5e5020760002596e3d32d426fb68dbf7.ts
 中天综合,http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
@@ -495,6 +492,7 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 中天娛樂,mitv://198.255.74.57:12396/5e502075000f15303d32d380125e5682.ts
 中天亚洲台,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 东森新闻,http://hzyhjg.cc/cs/gat/dsxw.php
+东森新闻,http://47.56.167.95/iptv222.php?id=46
 东森新闻,http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 东森新闻,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
 东森新闻,mitv://198.255.74.57:12396/5e5fd267000a602c7a81eb9c5ee0fe87.ts
