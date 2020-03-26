@@ -1,3 +1,22 @@
+测试1,#genre#
+TVB翡翠台,http://hk.tv0668.com/dl/hk520.php?id=1
+凤凰卫视,http://hk.tv0668.com/dl/hk520.php?id=2
+凤凰资讯,http://hk.tv0668.com/dl/hk520.php?id=3
+TVB无线新闻,http://hk.tv0668.com/dl/hk520.php?id=9
+HKC新闻,http://hk.tv0668.com/dl/hk520.php?id=31
+深圳旁边卫视,http://hk.tv0668.com/dl/hk520.php?id=6
+VIVUTV,http://hk.tv0668.com/dl/hk520.php?id=8
+TVB无线财经资讯,http://hk.tv0668.com/dl/hk520.php?id=10
+TVBJ2,http://hk.tv0668.com/dl/hk520.php?id=12
+TVB明珠,http://hk.tv0668.com/dl/hk520.php?id=13
+星空卫视,http://hk.tv0668.com/dl/hk520.php?id=18
+荣耀财*,http://hk.tv0668.com/dl/hk520.php?id=19
+RHK32,http://hk.tv0668.com/dl/hk520.php?id=21
+澳门卫视,http://hk.tv0668.com/dl/hk520.php?id=23
+奥亚卫视,http://hk.tv0668.com/dl/hk520.php?id=24
+HBO HD,http://hk.tv0668.com/dl/hk520.php?id=27
+HKC电影,http://hk.tv0668.com/dl/hk520.php?id=30
+
 测试,#genre#
 澳门卫视,http://47.56.167.95/iptv222.php?id=23
 澳亚卫视,http://47.56.167.95/iptv222.php?id=24
