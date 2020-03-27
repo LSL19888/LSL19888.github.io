@@ -8,6 +8,8 @@ RHK32,http://hk.tv0668.com/dl/hk520.php?id=21
 澳门卫视,http://hk.tv0668.com/dl/hk520.php?id=23
 奥亚卫视,http://hk.tv0668.com/dl/hk520.php?id=24
 HKC电影,http://hk.tv0668.com/dl/hk520.php?id=30
+寰宇新闻2,http://ter.live2.ksmobile.net/yolo/f7f10f8002a547f78974bad6f1e6b231.flv
+香港开电视,http://193.202.44.14/aAxg666.php?id=7
 
 测试,#genre#
 澳门卫视,http://47.56.167.95/iptv222.php?id=23
