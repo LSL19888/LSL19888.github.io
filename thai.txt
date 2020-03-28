@@ -1,9 +1,5 @@
-测试1,#genre#
-深圳旁边卫视,http://hk.tv0668.com/dl/hk520.php?id=6
-凤凰卫视,http://hk.tv0668.com/dl/hk520.php?id=2
-凤凰资讯,http://hk.tv0668.com/dl/hk520.php?id=3
-星空卫视,http://hk.tv0668.com/dl/hk520.php?id=18
-寰宇新闻2,http://ter.live2.ksmobile.net/yolo/f7f10f8002a547f78974bad6f1e6b231.flv
+测试,#genre#
+
 
 央视频道,#genre#
 超高清 4K,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
@@ -227,6 +223,7 @@ TVB经典,mitv://198.255.74.57:12396/5e50207e00027a993d32f36ee2982d43.ts
 鳳凰資訊,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 鳳凰資訊,p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts
 鳳凰資訊,http://47.56.167.95/iptv222.php?id=3
+凤凰资讯,http://hk.tv0668.com/dl/hk520.php?id=3
 鳳凰衛視,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
 鳳凰衛視,p8p://0198.02686.cc:16871/5d8c9f670007a9fa196ffb97ed55bbac.ts
 凤凰卫视中文台,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
@@ -234,6 +231,7 @@ TVB经典,mitv://198.255.74.57:12396/5e50207e00027a993d32f36ee2982d43.ts
 凤凰卫视中文台,http://103.145.38.152/axg.php?id=2
 凤凰卫视中文台,http://liveali.ifeng.com/live/FHZW.flv
 凤凰卫视中文台,http://47.56.167.95/iptv222.php?id=2
+凤凰卫视中文台,http://hk.tv0668.com/dl/hk520.php?id=2
 凤凰卫视香港台,mitv://198.255.74.57:12396/5e502080000d81ed3d32fe1146391509.ts
 凤凰卫视香港台,http://qlive.fengshows.cn/live720p/PHK.flvtxSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
 凤凰卫视香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=0738ce47619ffb6578bb658b7d7927d3&txTime=16f9470cacc
