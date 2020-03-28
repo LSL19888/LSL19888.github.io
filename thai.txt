@@ -5,76 +5,6 @@
 星空卫视,http://hk.tv0668.com/dl/hk520.php?id=18
 寰宇新闻2,http://ter.live2.ksmobile.net/yolo/f7f10f8002a547f78974bad6f1e6b231.flv
 
-测试,#genre#
-澳门卫视,http://47.56.167.95/iptv222.php?id=23
-澳亚卫视,http://47.56.167.95/iptv222.php?id=24
-互动新闻台,http://47.56.167.95/iptv222.php?id=26
-HBO HD,http://47.56.167.95/iptv222.php?id=27
-三立台湾,http://47.56.167.95/iptv222.php?id=42
-寰宇新闻,http://47.56.167.95/iptv222.php?id=54
-八大综合,http://47.56.167.95/iptv222.php?id=57
-东森电影,http://47.56.167.95/iptv222.php?id=59
-东森洋片,http://47.56.167.95/iptv222.php?id=63
-好莱坞电影,http://47.56.167.95/iptv222.php?id=66
-龙翔时代电影,http://47.56.167.95/iptv222.php?id=67
-华纳电影,http://47.56.167.95/iptv222.php?id=69
-TVB J2,http://103.56.112.40/kds/igt.php?id=12
-TVB J2,http://h.weijuntww.top/atv/01kjzcom.m3u8
-TVB J2,http://hls.hongxin123.com/918867252917/stream.m3u8
-TVB J2,http://27.148.162.45/918867252917/stream__redirect__42714.m3u8
-TVB J2,http://117.149.150.4/atv/01kjzcom__redirect__1392.m3u8
-TVB J2,http://a.yinyishiye.com:1443/live/mylive/live.m3u8
-TVB J2,vjms://58.215.133.185:8500:3502/live/cid=368
-TVB J2,vjms://23.237.33.155:8500:3502/live/cid=368
-TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
-湖南卫视,http://125.88.57.21:30001/PLTV/88888905/224/3221227483/1.m3u8
-湖南卫视,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227483/1.m3u8
-湖南卫视,http://125.88.82.39:30001/PLTV/88888905/224/3221227483/1.m3u8
-湖南卫视,http://stream.cdjsxy.cn/hnws/sd/live.m3u8
-湖南卫视,http://stream.guihet.com/tv/116.php?id=006
-1,p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
-2,p2p://fccsovh.pvbox.live:18912/5b1409db0009049a17d41d161677386d
-中天新闻,p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
-凤凰卫视,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
-凤凰资讯,p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts
-凤凰香港,p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
-壹新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
-年代新闻,p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
-非凡新闻,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
-凤凰资讯台,http://liveali.ifeng.com/live/FHZX.flv
-凤凰中文台,http://liveali.ifeng.com/live/FHZW.flv
-凤凰中文台http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
-无线新闻台,mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
-有线新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
-now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
-now直播台,tvbus://3JGDpXioJpH6NRBQFeUgju8mCcYQUHiFYz6GRBkkSWnbGPRABS
-中天新聞,vjms://58.215.133.184:8500:3502/live/cid=407
-TVBS新聞,vjms://58.215.133.184:8500:3502/live/cid=348
-东森新闻,vjms://58.215.133.184:8500:3502/live/cid=340
-年代新聞,vjms://58.215.133.184:8500:3502/live/cid=455
-非凡新聞,vjms://58.215.133.184:8500:3502/live/cid=443
-三立新聞,vjms://58.215.133.184:8500:3502/live/cid=352
-华视新闻,http://lss.line-scdn.net/cc_tw/p/live/hcPAs4bucPX4uZyNuFHIgSUcJZxtTbyl6RWlwEVsKYhsBMigtQWtzG19eYBgCOHJ5RGx7TFoPak5Wf3p6RzkjGQwCfE9QJXsqSXNzG1AVYk1TMXsoQWVz/720/chunklist.m3u8
-华视新闻,tvbus://4bXErNowbPaLmZCw6GGr1NrZ6jRGAUYRqafuqxedqFqMjyqmck
-TVB 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
-TVB 明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
-
-华丽台,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0.ts
-now新闻台,http://hdtv.ubdata.info/ublive/a7b5cbb14da05762b9fa751a2d905691/index.m3u8
-邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv 
-無線新聞臺,mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
-翡翠臺,mitv://198.255.74.57:12396/5e502083000f32013d330a38c5462049.ts
-TVB娱乐,mitv://198.255.74.57:12396/5e50207e0001a84e3d32f3391ccaac57.ts
-Test,mitv://198.255.74.57:12396/5e5020840002769b3d330add9782ef3b.ts
-三立新聞,mitv://198.255.74.57:12396/5e5fcf2a0006c8ee7a7544698392ab6c.ts
-天映頻道,mitv://198.255.74.57:12396/5e502069000ab76e3d32a382d07b3d5d.ts
-年代新聞,p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
-中天新聞,p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
-民視,p2p://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26
-tvNP7p,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
-歷史頻道P7p,p8p://0198.02686.cc:16871/5d1a69c40001cae711be1b366a85c718.ts
-第一財經P7p,p8p://0198.02686.cc:16871/5d1a69df000139dd11be8489e1d7a141.ts
-
 央视频道,#genre#
 超高清 4K,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 CCTV-1 綜合,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
@@ -299,6 +229,7 @@ TVB经典,mitv://198.255.74.57:12396/5e50207e00027a993d32f36ee2982d43.ts
 鳳凰資訊,http://47.56.167.95/iptv222.php?id=3
 鳳凰衛視,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
 鳳凰衛視,p8p://0198.02686.cc:16871/5d8c9f670007a9fa196ffb97ed55bbac.ts
+凤凰卫视中文台,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
 凤凰卫视中文台,mitv://198.255.74.57:12396/5e502080000f31733d32fe803275a3b2.ts
 凤凰卫视中文台,http://103.145.38.152/axg.php?id=2
 凤凰卫视中文台,http://liveali.ifeng.com/live/FHZW.flv
@@ -380,6 +311,7 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 壹综合,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
 大爱一台,mitv://198.255.74.57:12396/5e50206c0008c8e23d32aebc16b8bbc8.ts
 大爱二台,p8p://0198.02686.cc:16871/5d1a69b8000386b311bdecc8d9c8c96a.ts
+壹新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
 壹新闻,mitv://198.255.74.57:12396/5e6d4df2000ed99eaf2c83b98ddf57db.ts
 壹新闻,mitv://147.135.39.171:9906/5defdaa0000001f96ea063d66b7e3aa2.ts
 寰宇綜合 HD,mitv://198.255.74.57:12396/5e50206f000c0ed83d32bb4aecb15555.ts
@@ -410,6 +342,7 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 民視臺灣臺,mitv://198.255.74.57:12396/5e50207d000c92663d32f21cb5a333c5.ts
 民視新聞臺,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
 民視新聞臺,mitv://198.255.74.57:12396/5e50207d000bba053d32f1e4f449fe96.ts
+年代新聞,p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
 年代新聞,http://hzyhjg.cc/cs/gat/ndxw.php
 年代新聞,mitv://198.255.74.57:12396/5e50207b000985c23d32e98485830251.ts
 非凡新聞,http://hzyhjg.cc/cs/gat/ffxw.php
@@ -501,6 +434,7 @@ ELTA影劇 HD,mitv://198.255.74.57:12396/5e50206f00079ef03d32ba27b9976cac.ts
 ELTA體育 HD,mitv://198.255.74.57:12396/5e50206f0006c4ce3d32b9f02ad92f37.ts
 曼迪日本臺,mitv://198.255.74.57:12396/5e50206f0005edfa3d32b9b9ce312600.ts
 國興衛視,mitv://198.255.74.57:12396/5e50206f00050bbb3d32b97f435181a0.ts
+采昌影劇臺,p2p://fccsovh.pvbox.live:18912/5b1409db0009049a17d41d161677386d
 采昌影劇臺,mitv://198.255.74.57:12396/5e50206f00041bdf3d32b94116c9fb72.ts
 好消息1,p8p://0198.02686.cc:16871/5d1a69b9000b139e11bdf29f39814479.ts
 好消息2,mitv://198.255.74.57:12396/5e50206c0009a1f93d32aef3afe1bfdc.ts
@@ -529,9 +463,9 @@ WarnerTV,http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 凤凰电影台,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-采昌影剧[p2],p2p://fccsovh.pvbox.live:18912/5b1409db0009049a17d41d161677386d
-龙华影剧[p2],P2p://51.79.41.138:18912/5b1408f2000aaf8c17d08f5c001549e8.ts
-龙华经典[p2],p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
+采昌影剧,p2p://fccsovh.pvbox.live:18912/5b1409db0009049a17d41d161677386d
+龙华影剧,P2p://51.79.41.138:18912/5b1408f2000aaf8c17d08f5c001549e8.ts
+龙华经典,p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
 靖天電影臺,p8p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts
 EYETV戲劇,mitv://198.255.74.57:12396/5e502072000811f93d32c5fd78e49f0d.ts
 EYETV戲劇,p8p://0198.02686.cc:16871/5d1a69a2000ca28211bd992d29a29542.ts
@@ -561,6 +495,7 @@ CHC高清電影 HD,mitv://198.255.74.57:12396/5e50204e000a84463d3239fdfa908648.t
 海爷TV恐怖,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/428049/live_280698572_9101071.m3u8
 海爷TV小新,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/293317/live_255137759_7132099.m3u8
 海爷TV9号厅,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/141477/live_82436982_2406441.m3u8
+邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv 
 
 美国频道,#genre#
 探索頻道高清,mitv://198.255.74.57:12396/5e502066000338553d3295dfd719c2b1.ts
