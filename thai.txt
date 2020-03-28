@@ -206,6 +206,7 @@ TVB明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
 TVB明珠台,p8p://0198.02686.cc:16871/5d1a69c0000460ab11be0c40e08de9fb.ts
 TVB明珠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 TVB明珠台,http://hzyhjg.cc/cs/gat/mzt.php
+TVB星河,http://hk.tv0668.com/dl/hk520.php?id=17
 TVB星河,mitv://198.255.74.57:12396/5e50207e00034a933d32f3a42bd947a2.ts
 TVB星河,http://103.145.38.152/axg.php?id=17
 TVB星河,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
@@ -217,6 +218,7 @@ TVB经典,mitv://198.255.74.57:12396/5e50207e00027a993d32f36ee2982d43.ts
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://47.56.167.95/iptv222.php?id=6
+香港卫视,http://hk.tv0668.com/dl/hk520.php?id=6
 鳳凰資訊,mitv://198.255.74.57:12396/5e502080000e56cc3d32fe486f65861e.ts
 鳳凰資訊,http://liveali.ifeng.com/live/FHZX.flv
 鳳凰資訊,http://103.145.38.152/axg.php?id=3
@@ -420,7 +422,7 @@ Z頻道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
 新視覺,p8p://0198.02686.cc:16871/5d1a69dc0002242811be790dbf0a1a04.ts
 新視覺,mitv://198.255.74.57:12396/5e50205400088ca93d3250ece79c8eba.ts
 BLUEANT ENT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
-SMART頻道,p8p://0198.02686.cc:16871/5d1a69a9000d171211bdb4a3d225e7dd.ts
+SMART頻道,p8p://0198.02686.cc:16871/5d1a69a9000d171211bdb4a3d225e7dd.ts 
 FXP7p,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
 鴻基影劇臺,mitv://198.255.74.57:12396/5e5020720009d7e93d32c671c8a03dc4.ts
 EYETV旅遊,mitv://198.255.74.57:12396/5e5020720008ef0c3d32c635ae7465a3.ts
