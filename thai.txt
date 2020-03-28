@@ -1,15 +1,9 @@
 测试1,#genre#
-VIVUTV,http://hk.tv0668.com/dl/hk520.php?id=8
 深圳旁边卫视,http://hk.tv0668.com/dl/hk520.php?id=6
 凤凰卫视,http://hk.tv0668.com/dl/hk520.php?id=2
 凤凰资讯,http://hk.tv0668.com/dl/hk520.php?id=3
 星空卫视,http://hk.tv0668.com/dl/hk520.php?id=18
-RHK32,http://hk.tv0668.com/dl/hk520.php?id=21
-澳门卫视,http://hk.tv0668.com/dl/hk520.php?id=23
-奥亚卫视,http://hk.tv0668.com/dl/hk520.php?id=24
-HKC电影,http://hk.tv0668.com/dl/hk520.php?id=30
 寰宇新闻2,http://ter.live2.ksmobile.net/yolo/f7f10f8002a547f78974bad6f1e6b231.flv
-香港开电视,http://193.202.44.14/aAxg666.php?id=7
 
 测试,#genre#
 澳门卫视,http://47.56.167.95/iptv222.php?id=23
@@ -209,7 +203,6 @@ CCTV懷舊劇場,mitv://198.255.74.57:12396/5e502055000318803d32536f72725c14.ts
 湖南快乐购,http://phonews.qing.mgtv.com/nn_live/nn_x64/cz0wNjk1YWVhYTFiNDJiZmFmYTkxZjI5NTI5OTgxNGE5ZCZlcz0xNTgzNTYwMDI3JnV1aWQ9MWJmMTYyMTJmMzU0YjdkZTEwMjliZmMxYzIyYjI0ZDUtNzJmZTIwZDYmdj0yJmFzPTAmY2RuZXhfaWQ9d3NfcGhvbmUz/KLGMPP360.m3u8
 湖南电视剧,http://phonetx.qing.mgtv.com/nn_live/nn_x64/cz1hODFmYjk0MjE3N2Y4NGEwZjAwMWRkMjM5ZTM2ZWYyNyZlcz0xNTgzNTYwMDI3JnV1aWQ9MzNjOWFkOWYwYjU2ZmFkNjc5ZTQ5NzVlMjYzZTk4MjUtNzJmZTIwZDYmdj0yJmFzPTAmY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZQ,,/HNDSJMPP360.m3u8
 辽宁影视剧,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000027.m3u8
-香港開電視,http://pull.scphsd.com/live/4a5e54978789269e2ee9de203ae9259b/playlist.m3u8
 黑龙江卫视,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293902.m3u8
 黑龙江卫视,mitv://198.255.74.57:12396/5e502051000a434d3d3245a5dc483f70.ts
 辽宁教育青少,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000191.m3u8
@@ -315,7 +308,10 @@ TVB经典,mitv://198.255.74.57:12396/5e50207e00027a993d32f36ee2982d43.ts
 凤凰卫视香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=0738ce47619ffb6578bb658b7d7927d3&txTime=16f9470cacc
 凤凰卫视香港台,p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
 凤凰卫视香港台,http://47.56.167.95/iptv222.php?id=4
+香港开電視,http://193.202.44.14/aAxg666.php?id=7
 香港开電視,mitv://198.255.74.57:12396/5e502083000ee1003d330a23da058f45.ts
+香港开電視,http://pull.scphsd.com/live/4a5e54978789269e2ee9de203ae9259b/playlist.m3u8
+ViuTV,http://hk.tv0668.com/dl/hk520.php?id=8
 ViuTV,mitv://198.255.74.57:12396/5e502081000434db3d32ff98c2c3e2b6.ts
 ViuTV,http://103.145.38.152/axg.php?id=8
 ViuTV,http://47.56.167.95/iptv222.php?id=8
@@ -338,6 +334,7 @@ RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 RTHK31,http://hzyhjg.cc/cs/gat/rhk31.php
+RHK32,http://hk.tv0668.com/dl/hk520.php?id=21
 RHK32,mitv://198.255.74.57:12396/5e5020810005111f3d32ffd0f7c066b7.ts
 RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 电影一台,mitv://198.255.74.57:12396/5e502080000bda4b3d32fda5c67d4497.ts
@@ -348,10 +345,13 @@ RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 耀才財經,http://47.56.167.95/iptv222.php?id=19
 澳門衛視,http://103.145.38.152/axg.php?id=23
 澳亞衛視,http://103.145.38.152/axg.php?id=24
+有线电影台,http://hk.tv0668.com/dl/hk520.php?id=30
 有线电影台,http://103.145.38.152/axg.php?id=30
 澳門互動新聞台,http://103.145.38.152/axg.php?id=26
 澳門有線一台,http://103.145.38.152/axg.php?id=25
 澳門蓮花,mitv://198.255.74.57:12396/5e5020810000c2553d32feb6d0f53600.ts
+澳门卫视,http://hk.tv0668.com/dl/hk520.php?id=23
+奥亚卫视,http://hk.tv0668.com/dl/hk520.php?id=24
 
 香港频道【LT】,#genre#
 TVB无线翡翠台-加美东,msc://CJCA5E
