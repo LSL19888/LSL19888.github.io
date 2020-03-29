@@ -195,6 +195,7 @@ TVB无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 TVB无线新闻台,http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2
 TVB无线新闻台,http://www.liveviptv.xyz/tv/tvb.php
 TVB无线新闻台,http://hzyhjg.cc/cs/gat/wxxw.php
+TVB无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 TVB无线财经资讯台,http://hk.tv0668.com/dl/hk520.php?id=10
 TVB无线财经资讯台,http://103.145.38.152/axg.php?id=10
 TVB无线财经资讯台,http://47.56.167.95/iptv222.php?id=10
@@ -222,6 +223,7 @@ TVB经典,mitv://198.255.74.57:12396/5e50207e00027a993d32f36ee2982d43.ts
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://47.56.167.95/iptv222.php?id=6
 香港卫视,http://hk.tv0668.com/dl/hk520.php?id=6
+香港卫视,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 鳳凰資訊,mitv://198.255.74.57:12396/5e502080000e56cc3d32fe486f65861e.ts
 鳳凰資訊,http://liveali.ifeng.com/live/FHZX.flv
 鳳凰資訊,http://103.145.38.152/axg.php?id=3
@@ -310,7 +312,17 @@ TVB韩剧台,msc://CKDrama5
 美食星球,mitv://198.255.74.57:12396/5e50206c000654453d32ae1b5afec589.ts
 亚洲旅游台,p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
 亚洲旅游台,mitv://198.255.74.57:12396/5e50206c000726cc3d32ae51701aab94.ts
-新唐人亚太,https://live.ntdimg.com/aplive200/playlist.m3u8
+新唐人亚太台,https://live.ntdimg.com/aplive200/playlist.m3u8
+新唐人美东台,https://live.ntdimg.com/live400/playlist.m3u8
+新唐人美东台,https://live2.ntdimg.com/live330/playlist.m3u8
+新唐人美西台,https://live.ntdimg.com/uwlive990/playlist.m3u8
+新唐人美西台,https://live.ntdimg.com/uwlive520/playlist.m3u8
+新唐人美西台,https://live.ntdimg.com/sflive220/playlist.m3u8
+新唐人加东台,https://live.ntdimg.com/mllive860/playlist.m3u8
+新唐人加东台,https://live.ntdimg.com/mllive220/playlist.m3u8
+新唐人加西台,https://live.ntdimg.com/cwlive220/playlist.m3u8
+新唐人旧金山台,https://live.ntdimg.com/sflive990/playlist.m3u8
+新唐人中国台,https://live2.ntdimg.com/cnlive/playlist.m3u8 
 中華美食,mitv://198.255.74.57:12396/5e50204e000eb9413d323b119b462908.ts
 MTV,mitv://198.255.74.57:12396/5e50205a000ebcb83d3269f26f1a2952.ts
 TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
@@ -524,6 +536,7 @@ FX,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
 CHC動作電影,mitv://198.255.74.57:12396/5e50204e000c34973d323a6ccdafdc0c.ts
 CHC家庭影院,mitv://198.255.74.57:12396/5e50204e000b579f3d323a33080d397e.ts
 CHC高清電影 HD,mitv://198.255.74.57:12396/5e50204e000a84463d3239fdfa908648.ts
+经典频道,http://stream.guihet.com/migu/index.php?id=625542369
 海爷TV动漫,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/492270/live_189986442_7728008.m3u8
 海爷TV动作,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/366214/live_199793349_7660540.m3u8
 海爷TV海外,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/471169/live_27444411_4287972.m3u8
@@ -540,6 +553,7 @@ Star World HD (Middle East),http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u
 美国频道,#genre#
 探索頻道高清,mitv://198.255.74.57:12396/5e502066000338553d3295dfd719c2b1.ts
 探索(臺灣),mitv://198.255.74.57:12396/5e5020660001872e3d3295709b567b51.ts
+BBC经典,http://qdntv96789.applinzi.com/96tv.php?633138330
 BBC HD,mitv://198.255.74.57:12396/5e50205d0003a1623d3272d2954c45da.ts
 BBC Lifestyle HD,mitv://198.255.74.57:12396/5e50205d0002c5af3d32729a005fd26e.ts
 BBC earth HD,mitv://198.255.74.57:12396/5e50205d0001e9d53d327261fee45820.ts
@@ -670,6 +684,7 @@ KBSDRAMA,p8p://0198.02686.cc:16871/5d30778000079602342c3794f42fde53.ts
 体育频道,#genre#
 NBA HD,mitv://198.255.74.57:12396/5e50205d000807593d3273f2cb6a83a7.ts
 GOLF,mitv://198.255.74.57:12396/5e50205d000722bc3d3273b86725a562.ts
+博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?token=BIk2YfurpyjroYsSvl8Ciw&time=1558345786385
 博斯運動1,mitv://198.255.74.57:12396/5e5176f1000b1d60426ca6dc44bf7182.ts
 博斯高球2,mitv://198.255.74.57:12396/5e50206f000304483d32b8fad57adb37.ts
 博斯高球2,p8p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts
@@ -736,6 +751,38 @@ Disney,P2p://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
 优漫卡通,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=146&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 金鹰卡通,http://stream.guihet.com/tv/116.php?id=244
 金鹰卡通,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=244&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+
+NewTV频道,#genre#
+NewTV 搏击,http://39.134.65.87:80/wh7f454c46tw2588729407_421044206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=129
+NewTV 电竞,http://39.134.65.82:80/wh7f454c46tw2587581253_-536062468/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225713/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=137
+NewTV中国功夫,http://112.50.243.8/PLTV/88888888/224/3221225896/1.m3u8
+NewTV动画王国,http://112.50.243.8/PLTV/88888888/224/3221225878/1.m3u8
+NewTV潮妈辣婆,http://112.50.243.8/PLTV/88888888/224/3221226107/1.m3u8
+NewTV精品大剧,http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
+NewTV精品纪录,http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
+NewTV金牌综艺,http://112.50.243.8/PLTV/88888888/224/3221225884/1.m3u8
+Newtv精品电影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+NewTV 东北热剧,http://39.135.135.68:80/wh7f454c46tw2589103905_-732405604/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=681
+NewTV 中国功夫,http://39.134.65.85:80/wh7f454c46tw2586908027_-1716107397/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=130
+NewTV 军事评论,http://39.134.65.3:80/wh7f454c46tw2588800930_956773057/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=11
+NewTV 军旅剧场,http://39.134.65.80:80/wh7f454c46tw2587705486_-1028291372/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=124
+NewTV 农业致富,http://39.134.65.81:80/wh7f454c46tw2587173815_602144874/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=124
+NewTV 动画王国,http://39.134.65.70:80/wh7f454c46tw2587864714_1541720100/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=135
+NewTV 古装剧场,http://39.134.65.84:80/wh7f454c46tw2587479580_-410549038/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=130
+NewTV 家庭剧场,http://39.134.65.70:80/wh7f454c46tw2587461720_-1817456457/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=135
+NewTV 惊悚悬疑,http://39.134.65.88:80/wh7f454c46tw2588889334_340148683/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=134
+NewTV 明星大片,http://39.134.65.70:80/wh7f454c46tw2588395642_-133606133/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=135
+NewTV 欢乐剧场,http://39.135.135.25:80/wh7f454c46tw2589472656_1941638946/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=672
+NewTV 海外剧场,http://39.134.65.76:80/wh7f454c46tw2589222723_451674982/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=131
+NewTV 潮妈辣婆,http://39.134.65.70:80/wh7f454c46tw2589657069_631779676/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=135
+NewTV 炫舞未来,http://39.134.65.80:80/wh7f454c46tw2588291575_-1134202517/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=124
+NewTV 精品体育,http://39.134.65.88:80/wh7f454c46tw2588451849_30147563/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=134
+NewTV 精品大剧,http://39.134.65.84:80/wh7f454c46tw2587923916_-1115151486/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=130
+NewTV 超级体育,http://39.134.65.67:80/wh7f454c46tw2589705482_577426939/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=126
+NewTV 超级电影,http://39.134.65.87:80/wh7f454c46tw2588319880_-1151393841/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=129
+NewTV 超级综艺,http://39.134.65.79:80/wh7f454c46tw2587143165_-1812768035/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=128
+NewTV 金牌综艺,http://39.135.135.87:80/wh7f454c46tw2588657802_-1449124946/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=1010
+NewTV 超级电视剧,http://39.135.135.8:80/wh7f454c46tw2588750792_-1598529317/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=813
 
 央视频道(备),#genre#
 CCTV-1综合,http://39.135.34.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
@@ -1219,37 +1266,7 @@ ABC朝日放送,p8p://0198.02686.cc:16871/5d40057f000bcd0b70eee4c0aa37319f.ts
 ABC朝日放送,p8p://0198.02686.cc:16871/5d40057f0002f0b670eee27c7e0cae84.ts
 MBS毎日放送,p8p://0198.02686.cc:16871/5d40057e000b0ab570eee0a6c5bec41b.ts
 
-NewTV频道,#genre#
-NewTV 搏击,http://39.134.65.87:80/wh7f454c46tw2588729407_421044206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=129
-NewTV 电竞,http://39.134.65.82:80/wh7f454c46tw2587581253_-536062468/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225713/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=137
-NewTV中国功夫,http://112.50.243.8/PLTV/88888888/224/3221225896/1.m3u8
-NewTV动画王国,http://112.50.243.8/PLTV/88888888/224/3221225878/1.m3u8
-NewTV潮妈辣婆,http://112.50.243.8/PLTV/88888888/224/3221226107/1.m3u8
-NewTV精品大剧,http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
-NewTV精品纪录,http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
-NewTV金牌综艺,http://112.50.243.8/PLTV/88888888/224/3221225884/1.m3u8
-Newtv精品电影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
-NewTV 东北热剧,http://39.135.135.68:80/wh7f454c46tw2589103905_-732405604/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=681
-NewTV 中国功夫,http://39.134.65.85:80/wh7f454c46tw2586908027_-1716107397/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=130
-NewTV 军事评论,http://39.134.65.3:80/wh7f454c46tw2588800930_956773057/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=11
-NewTV 军旅剧场,http://39.134.65.80:80/wh7f454c46tw2587705486_-1028291372/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=124
-NewTV 农业致富,http://39.134.65.81:80/wh7f454c46tw2587173815_602144874/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=124
-NewTV 动画王国,http://39.134.65.70:80/wh7f454c46tw2587864714_1541720100/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=135
-NewTV 古装剧场,http://39.134.65.84:80/wh7f454c46tw2587479580_-410549038/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=130
-NewTV 家庭剧场,http://39.134.65.70:80/wh7f454c46tw2587461720_-1817456457/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=135
-NewTV 惊悚悬疑,http://39.134.65.88:80/wh7f454c46tw2588889334_340148683/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=134
-NewTV 明星大片,http://39.134.65.70:80/wh7f454c46tw2588395642_-133606133/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=135
-NewTV 欢乐剧场,http://39.135.135.25:80/wh7f454c46tw2589472656_1941638946/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=672
-NewTV 海外剧场,http://39.134.65.76:80/wh7f454c46tw2589222723_451674982/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=131
-NewTV 潮妈辣婆,http://39.134.65.70:80/wh7f454c46tw2589657069_631779676/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=135
-NewTV 炫舞未来,http://39.134.65.80:80/wh7f454c46tw2588291575_-1134202517/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=124
-NewTV 精品体育,http://39.134.65.88:80/wh7f454c46tw2588451849_30147563/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=134
-NewTV 精品大剧,http://39.134.65.84:80/wh7f454c46tw2587923916_-1115151486/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=130
-NewTV 超级体育,http://39.134.65.67:80/wh7f454c46tw2589705482_577426939/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=126
-NewTV 超级电影,http://39.134.65.87:80/wh7f454c46tw2588319880_-1151393841/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=129
-NewTV 超级综艺,http://39.134.65.79:80/wh7f454c46tw2587143165_-1812768035/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=128
-NewTV 金牌综艺,http://39.135.135.87:80/wh7f454c46tw2588657802_-1449124946/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=1010
-NewTV 超级电视剧,http://39.135.135.8:80/wh7f454c46tw2588750792_-1598529317/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=813
+
 
 测试频道,#genre#
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
@@ -1496,49 +1513,8 @@ CN卡通,vjms://23.237.33.155:8500:3502/live/cid=422
 新加坡U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 新加坡5频道,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 奥多少儿频道,https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
-HBO中文,vjms://23.237.33.155:8500:3502/live/cid=261
-HBO中文,vjms://58.215.133.185:8500:3502/live/cid=261
-HBO原创,vjms://58.215.133.185:8500:3502/live/cid=236
-HBO原创,vjms://23.237.33.155:8500:3502/live/cid=236
-HBO强档,vjms://58.215.133.185:8500:3502/live/cid=238
-HBO强档,vjms://23.237.33.155:8500:3502/live/cid=238
-HBO温馨,vjms://58.215.133.185:8500:3502/live/cid=181
-HBO温馨,vjms://23.237.33.155:8500:3502/live/cid=181
-FOX新闻,vjms://58.215.133.185:8500:3502/live/cid=97
-FOX新闻,vjms://23.237.33.155:8500:3502/live/cid=97
-FOX电影,vjms://58.215.133.185:8500:3502/live/cid=94
-FOX电影,vjms://23.237.33.155:8500:3502/live/cid=94
-博斯高球1,vjms://58.215.133.185:8500:3502/live/cid=265
-博斯高球1,vjms://23.237.33.155:8500:3502/live/cid=265
-FOX体育3 HD,vjms://58.215.133.185:8500:3502/live/cid=95
-FOX体育3 HD,vjms://23.237.33.155:8500:3502/live/cid=95
-国家地理HD,vjms://58.215.133.185:8500:3502/live/cid=263
-国家地理HD,vjms://23.237.33.155:8500:3502/live/cid=263
-国家地理频道,vjms://58.215.133.185:8500:3502/live/cid=115
-国家地理频道,vjms://23.237.33.155:8500:3502/live/cid=115
-探索频道,vjms://58.215.133.185:8500:3502/live/cid=457
-探索频道,vjms://23.237.33.155:8500:3502/live/cid=457
-探索世界,vjms://58.215.133.185:8500:3502/live/cid=440
-探索世界,vjms://23.237.33.155:8500:3502/live/cid=440
-探索科学,vjms://58.215.133.185:8500:3502/live/cid=457
-探索科学,vjms://23.237.33.155:8500:3502/live/cid=457
-动物星球,vjms://58.215.133.185:8500:3502/live/cid=3
-动物星球,vjms://23.237.33.155:8500:3502/live/cid=3
-法国时尚,vjms://58.215.133.185:8500:3502/live/cid=399
-法国时尚,vjms://23.237.33.155:8500:3502/live/cid=399
-TV5 MONDE,vjms://58.215.133.185:8500:3502/live/cid=396
-TV5 MONDE,vjms://23.237.33.155:8500:3502/live/cid=396
-新唐人亚太台,https://live.ntdimg.com/aplive200/playlist.m3u8
-新唐人美东台,https://live.ntdimg.com/live400/playlist.m3u8
-新唐人美东台,https://live2.ntdimg.com/live330/playlist.m3u8
-新唐人美西台,https://live.ntdimg.com/uwlive990/playlist.m3u8
-新唐人美西台,https://live.ntdimg.com/uwlive520/playlist.m3u8
-新唐人美西台,https://live.ntdimg.com/sflive220/playlist.m3u8
-新唐人加东台,https://live.ntdimg.com/mllive860/playlist.m3u8
-新唐人加东台,https://live.ntdimg.com/mllive220/playlist.m3u8
-新唐人加西台,https://live.ntdimg.com/cwlive220/playlist.m3u8
-新唐人旧金山台,https://live.ntdimg.com/sflive990/playlist.m3u8
-新唐人中国台,https://live2.ntdimg.com/cnlive/playlist.m3u8
+
+
 CCTV-风云剧场,rtmp://58.200.131.2:1935/livetv/fyjctv
 CCTV-风云剧场,http://stream.guihet.com/migu/index.php?id=623338051
 CCTV-风云音乐,rtmp://58.200.131.2:1935/livetv/fyyytv
@@ -1976,6 +1952,7 @@ CCTV-12,vjms://122.155.180.8:8500:3502/live/cid=464
 香港卫视HKS, live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
 香港卫视HKS,rtmp://live.hkstv.hk.lxdns.com/live//hks
 香港卫视HKS,rtmp://live.hkstv.hk.lxdns.com/live/hks
+
 坏源,#genre#
 TVB翡翠台,vjms://58.215.133.185:8500:3502/live/cid=362
  TVB無綫新聞,vjms://58.215.133.185:8500:3502/live/cid=366
@@ -2092,6 +2069,7 @@ TVB翡翠台,vjms://58.215.133.185:8500:3502/live/cid=362
  法国时尚,vjms://23.237.33.155:8500:3502/live/cid=399
  TV5 MONDE,vjms://58.215.133.185:8500:3502/live/cid=396
  TV5 MONDE,vjms://23.237.33.155:8500:3502/live/cid=396
+
 8000源,#genre#
 TVB无线翡翠台,http://tvbilive17-i.akamaihd.net/hls/live/624328/CJMandarin5/CJMandarin5-04.m3u8
 TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -2446,52 +2424,6 @@ TVB 星河,http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01
 健康有约,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
 家庭剧场,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
 动作电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
-CIBN互联网电视,#genre#
-CIBN老陈座谈,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=69
-CIBN全球歌曲,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=183
-CIBN流行榜单,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=43
-CIBN巨星演唱,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=49
-CIBN经典乐场,http://stream.guihet.com/tv/cibn.php?id=57
-CIBN女团专场,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=67
-CIBN音乐综艺,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=70
-CIBN经典音乐,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=205
-CIBN古典音乐,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=193
-CIBN莎翁戏剧,http://stream.guihet.com/tv/cibn.php?id=209
-CIBN生活,http://cinb1.peoplevideo.cn/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-CIBN教育,http://cinb1.peoplevideo.cn/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-CIBN汉学院,http://cinb1.peoplevideo.cn/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-CIBN纪录片,http://cinb1.peoplevideo.cn/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-CIBN导视,http://cinb1.peoplevideo.cn/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-CIBN新知,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=1
-CIBN电影,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=2
-CIBN喜剧影院,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=3
-CIBN精品影院,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=4
-CIBN情感影院,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=6
-CIBN动漫剧场,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=7
-CIBN好莱坞,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=8
-CIBN动作影院,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=9
-CIBN院线大片,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=10
-CIBN童学世界,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=12
-CIBN骄阳剧场,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=13
-CIBN军事,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=14
-CIBN经典剧场,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=15
-CIBN风尚运动,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=16
-CIBN真人秀,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=17
-CIBN综合,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=18
-CIBN炫佳动漫,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=19
-CIBN怡家,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=20
-CIBN汽车,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=21
-CIBN记录片,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=22
-CIBN文旅中国,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=23
-CIBN微电影,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=25
-CIBN古装剧场,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=26
-CIBN流金岁月,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=27
-CIBN朵丫乐园,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=28
-CIBN嗨播,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=31
-CIBN艺术院线,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=32
-CIBN映画,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=39
-CIBN时尚生活,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=41
-CIBN全电竞,http://bohi321.hk77.ok188.top/cibn/cibn.php?id=194
 
 不稳定源,#genre#
 天映[p2],p2p://lino.homeunix.com:6007/5b2f1ee9000d3e3d109cc71f4b240eb3.ts
