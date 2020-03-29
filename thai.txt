@@ -232,6 +232,8 @@ TVB经典,mitv://198.255.74.57:12396/5e50207e00027a993d32f36ee2982d43.ts
 鳳凰資訊,http://live.centerch.com/fhzx.m3u8
 凤凰资讯HD,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8?
 凤凰资讯HD,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+凤凰资讯HD,http://117.169.120.138:8080/live/fhzixun/.m3u8
+凤凰资讯HD,http://223.82.250.72/live/fhzixun/1.m3u8
 鳳凰衛視,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
 鳳凰衛視,p8p://0198.02686.cc:16871/5d8c9f670007a9fa196ffb97ed55bbac.ts
 凤凰卫视中文台,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
@@ -246,6 +248,7 @@ TVB经典,mitv://198.255.74.57:12396/5e50207e00027a993d32f36ee2982d43.ts
 凤凰卫视香港台,p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
 凤凰卫视香港台,http://47.56.167.95/iptv222.php?id=4
 凤凰卫视香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe
+凤凰卫视香港台,http://223.82.250.72/live/fhhongkong/1.m3u8
 香港开電視,http://193.202.44.14/aAxg666.php?id=7
 香港开電視,mitv://198.255.74.57:12396/5e502083000ee1003d330a23da058f45.ts
 香港开電視,http://pull.scphsd.com/live/4a5e54978789269e2ee9de203ae9259b/playlist.m3u8
@@ -281,6 +284,7 @@ RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 耀才財經,http://hk.tv0668.com/dl/hk520.php?id=19
 耀才財經,http://103.145.38.152/axg.php?id=19
 耀才財經,http://47.56.167.95/iptv222.php?id=19
+耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 澳門衛視,http://103.145.38.152/axg.php?id=23
 澳亞衛視,http://103.145.38.152/axg.php?id=24
 有线电影台,http://hk.tv0668.com/dl/hk520.php?id=30
@@ -290,6 +294,7 @@ RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 澳門蓮花,mitv://198.255.74.57:12396/5e5020810000c2553d32feb6d0f53600.ts
 澳门卫视,http://hk.tv0668.com/dl/hk520.php?id=23
 奥亚卫视,http://hk.tv0668.com/dl/hk520.php?id=24
+澳视MACAU衛視,http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
 
 香港频道【LT】,#genre#
 TVB无线翡翠台-加美东,msc://CJCA5E
@@ -305,6 +310,7 @@ TVB韩剧台,msc://CKDrama5
 美食星球,mitv://198.255.74.57:12396/5e50206c000654453d32ae1b5afec589.ts
 亚洲旅游台,p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
 亚洲旅游台,mitv://198.255.74.57:12396/5e50206c000726cc3d32ae51701aab94.ts
+新唐人亚太,https://live.ntdimg.com/aplive200/playlist.m3u8
 中華美食,mitv://198.255.74.57:12396/5e50204e000eb9413d323b119b462908.ts
 MTV,mitv://198.255.74.57:12396/5e50205a000ebcb83d3269f26f1a2952.ts
 TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
@@ -318,7 +324,9 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 壹综合,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
 大爱一台,mitv://198.255.74.57:12396/5e50206c0008c8e23d32aebc16b8bbc8.ts
 大爱一台,p2p://190.2.146.92:18912/5c7248470009cd451d51ddb92c7476f0.ts
-大爱二台,p8p://0198.02686.cc:16871/5d1a69b8000386b311bdecc8d9c8c96a.ts
+大愛二台,p8p://0198.02686.cc:16871/5d1a69b8000386b311bdecc8d9c8c96a.ts
+大愛二台,http://61.58.60.230:9319/live/191.m3u8
+唯心頻道,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 壹新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
 壹新闻,mitv://198.255.74.57:12396/5e6d4df2000ed99eaf2c83b98ddf57db.ts
 壹新闻,mitv://147.135.39.171:9906/5defdaa0000001f96ea063d66b7e3aa2.ts
@@ -352,6 +360,7 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 民視新聞臺,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
 民視新聞臺,mitv://198.255.74.57:12396/5e50207d000bba053d32f1e4f449fe96.ts
 民視新聞臺,P2p://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c
+民視新聞臺,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 年代新聞,p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
 年代新聞,http://hzyhjg.cc/cs/gat/ndxw.php
 年代新聞,mitv://198.255.74.57:12396/5e50207b000985c23d32e98485830251.ts
@@ -362,6 +371,7 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 三立臺灣臺,http://hzyhjg.cc/cs/gat/sltwt.php
 三立臺灣臺,p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
 三立臺灣臺,mitv://198.255.74.57:12396/5e502078000545983d32dcb5287bf09f.ts
+三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 三立新闻,p8p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts
 三立新闻,http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
 三立都會臺,mitv://198.255.74.57:12396/5e5020780004f90a3d32dca29dfcb1f8.ts
@@ -418,14 +428,23 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 龍華偶像,mitv://198.255.74.57:12396/5e5020780008f1003d32dda6bc0268b4.ts
 龍華戲劇,mitv://198.255.74.57:12396/5e502078000803333d32dd694b31e00b.ts
 龍華經典,mitv://198.255.74.57:12396/5e502078000722b73d32dd30d938e2a9.ts
-靖天戲劇臺 HD,mitv://198.255.74.57:12396/5e5020730001a3623d32c83f79e69bdb.ts
+靖天資訊,http://61.58.60.230:9319/live/202.m3u8
+靖天戲劇臺,mitv://198.255.74.57:12396/5e5020730001a3623d32c83f79e69bdb.ts
+靖天戲劇臺,http://61.58.60.230:9319/live/203.m3u8
 靖天卡通臺,mitv://198.255.74.57:12396/5e5020730000c35f3d32c806c36a3c22.ts
+靖天卡通臺,http://61.58.60.230:9319/live/207.m3u8
 靖天電影臺,p8p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts
 靖天電影臺,mitv://198.255.74.57:12396/5e502072000f2ae13d32c7ce5dbf5dc7.ts
+靖天電影臺,http://61.58.60.230:9319/live/244.m3u8
 靖天映畫 HD,mitv://198.255.74.57:12396/5e502072000e4b4d3d32c795cd89beb2.ts
 靖天國際臺,mitv://198.255.74.57:12396/5e502072000d697f3d32c75b4c13058c.ts
+靖天國際臺,http://61.58.60.230:9319/live/205.m3u8
 靖天育樂臺,mitv://198.255.74.57:12396/5e502072000c88653d32c7217bffd1a2.ts
-靖天日本 HD,mitv://198.255.74.57:12396/5e502072000bacfc3d32c6e92be0bb4a.ts
+靖天育樂臺,http://61.58.60.230:9319/live/204.m3u8
+靖天日本,mitv://198.255.74.57:12396/5e502072000bacfc3d32c6e92be0bb4a.ts
+靖天日本,http://61.58.60.230:9319/live/243.m3u8
+靖天歡樂,http://61.58.60.230:9319/live/201.m3u8
+靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖洋戲劇臺 HD,mitv://198.255.74.57:12396/5e502072000ac5753d32c6aea8d5d68b.ts
 好消息1,p8p://0198.02686.cc:16871/5d1a69b9000b139e11bdf29f39814479.ts
 FOX_SPORTS,p8p://0198.02686.cc:16871/5d1a69a30008cd8811bd9c1ad6dfa2ad.ts
@@ -454,6 +473,7 @@ DIVA HD,mitv://198.255.74.57:12396/5e50206c0007f5783d32ae863abbe248.ts
 居家幸福,http://61.58.60.230:9319/live/125.m3u8
 
 港台影视,#genre#
+香港电影频道,http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 Star movies,http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 HBO HD,http://hk.tv0668.com/dl/hk520.php?id=27
 HBO HD,http://hzyhjg.cc/cs/gat/hbo.php
@@ -507,7 +527,9 @@ CHC高清電影 HD,mitv://198.255.74.57:12396/5e50204e000a84463d3239fdfa908648.t
 海爷TV恐怖,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/428049/live_280698572_9101071.m3u8
 海爷TV小新,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/293317/live_255137759_7132099.m3u8
 海爷TV9号厅,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/141477/live_82436982_2406441.m3u8
-邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv 
+邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv
+Star Movies HD (Middle East),http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8#http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8#http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+Star World HD (Middle East),http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8#http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8#http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 
 美国频道,#genre#
 探索頻道高清,mitv://198.255.74.57:12396/5e502066000338553d3295dfd719c2b1.ts
@@ -1186,44 +1208,6 @@ Sky News Extra 1,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau
 Sky News Extra 2,https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 Sky News Extra 3,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
-香港频道,#genre#
-BabyFirst臺灣,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-BSTV(贡献者:007),http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-KIX,http://210.210.155.35/uq2663/h/h07/01.m3u8
-Star Movies HD (Middle East),http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8#http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8#http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
-Star World HD (Middle East),http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8#http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8#http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
-三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-凤凰中文,http://117.169.120.217:8080/live/fhchinese/.m3u8
-凤凰中文备2,http://live.fengshows.com/live/PCC_500k/index.m3u8
-鳳凰中文,http://liveali.ifeng.com/live/FHZW.flv
-凤凰资讯HD,http://117.169.120.138:8080/live/fhzixun/.m3u8
-凤凰资讯HD1,http://223.82.250.72/live/fhzixun/1.m3u8
-凤凰香港高清,http://223.82.250.72/live/fhhongkong/1.m3u8
-唯心頻道,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-大愛二台,http://61.58.60.230:9319/live/191.m3u8
-天映頻道,http://210.210.155.35/qwr9ew/s/s33/index2.m3u8
-新唐人亚太,https://live.ntdimg.com/aplive200/playlist.m3u8
-无线新闻台,http://202.40.202.173:8000/main
-明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
-民视新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-澳亞衛視,http://stream.mastvnet.com/MSTV/playlist.m3u8
-澳視高清,http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
-澳视MACAU衛視,http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
-澳视澳门,http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
-澳视葡文,http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
-澳视资讯,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-澳门莲花,http://402173194.cloudvdn.com/a.m3u8?domain=live-rtmp.macaulotustv.com&player=sEkAABlUcgrSO-sV&secondToken=secondToken%3A7CZ_rrak90mUX_Wl_SaQzp5CHpc&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
-靖天卡通,http://61.58.60.230:9319/live/207.m3u8
-靖天國際,http://61.58.60.230:9319/live/205.m3u8
-靖天戲劇,http://61.58.60.230:9319/live/203.m3u8
-靖天日本,http://61.58.60.230:9319/live/243.m3u8
-靖天歡樂,http://61.58.60.230:9319/live/201.m3u8
-靖天育樂,http://61.58.60.230:9319/live/204.m3u8
-靖天資訊,http://61.58.60.230:9319/live/202.m3u8
-靖天電影,http://61.58.60.230:9319/live/244.m3u8
-靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
-香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-香港电影频道,http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 美国频道,#genre#
 Aljazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 BBC[v],vjms://23.237.33.155:8500:3502/live/cid=418
