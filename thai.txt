@@ -1709,30 +1709,6 @@ Z Nang,http://27.254.130.64/live99/46/zeenung.m3u8?p=st
 zoom,http://livecdnh1.tvanywhere.ae:80/hls/zoom/index.m3u8	
 ไทยรัฐ TV HD 32 (1080p HD) NEW,http://203.154.243.31:8081/live/thairath/index.m3u8
 
-nj,#genre#
-天映频道,http://59.110.139.3:8080/wzynx?id=116
-天映频道,http://kk.luoke.net.cn/cq/nxtv.php?id=116
-天映频道,http://kk.luoke.net.cn/hd/nxcatv.php?id=116
-天映频道,http://httpdvb.slave.pygdzhcs.com:13164/playurl?programid=4200000105
-天映频道,http://42.63.204.15:13164/playurl?programid=4200900116&playtype=live&accesstoken=R5883CD68U30648289K7749A285M30F9F2BW273449&qamname=djammon&auth=no
-翡翠台高清10801,http://wshls.acgvideo.com/live/live_752869_9917726/playlist.m3u8?wsSecret=f28031532dd9afc281971a07f485e729&wsTime=57af0606
-翡翠台高清10802,http://wshls.acgvideo.com/live/live_752869_9917726/playlist.m3u8
-翡翠台高清10803,http://anchoredinversion.com/a2/bili.php?id=1213889id=xgtvbfc
-翡翠台高清10804,http://wshls.acgvideo.com/live/live_752869_9917726/playlist.m3u8?wsSecret=0c85b7e4adbd07d8fddd69cd417238b4&wsTime=58562dee
-TVB J2,http://pull.leshantangjt.com/live/a7aa142a1fa3a27841c07ba2/playlist.m3u8
-TVB J2,http://pull.leshantangjt.com/live/a3a27841c07ba2a7aa142a1f/playlist.m3u8
-TVB翡翠台,http://pull.leshantangjt.com/live/ca9db70b91bcg388dtcb9ed88/playlist.m3u8
-TVB翡翠台,http://pull.leshantangjt.com/live/c0b91bcg39eda9db78888dtcb/playlist.m3u8
-TVB無綫新聞,http://pull.leshantangjt.com/live/2cb93c3651f2b11a01a7122a7/playlist.m3u8
-TVB無綫新聞,http://pull.leshantangjt.com/live/51f2b11a01a7122a72cb93c36/playlist.m3u8
-tvb,http://tvbilive10-i.akamaihd.net/hls/live/494663/CJHK5/CJHK5-04.m3u8
-CCTV-4K,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/ys4kcq_4000.m3u8
-CCTV-4K,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-TVB无线新闻台,https://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
-TVB无线新闻台,http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2
-TVB J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
-TVBS精采台,P2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
-abx,P2p:/170.178.164.242:6220/5ac2e0d400075879000b7cafc3cabab5.ts
 test,#genre#
 Al Jazeera, aljazeera-eng-hd-live.hls.adaptive.level.../english2/index.m3u8
 AXN,vjms://58.215.41.184:8500/live/cid=102
