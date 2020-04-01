@@ -1,5 +1,32 @@
 测试,#genre#
-
+国家地理频道,P2p://sdgdklwos.finetv.tv:9906/59fd16240000683c026af7fe2edc67eb#rtmp://58.200.131.2:1935/livetv/natlgeo
+国家地理野生HD,P2p://sdgdklwos.finetv.tv:9906/59fd082b000c6ca7023466633fed4c93
+国家地理悠人HD,P2p://sdgdklwos.finetv.tv:9906/59fd2804000a86bb02b0cd8e6fa14a15
+求索动物,http://27.36.62.162:9090/live/QSDWHD_7000.m3u8
+求索记录,http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
+求索纪录,http://27.36.62.162:9090/live/QSJLHD_7000.m3u8
+求索科学,http://27.36.62.162:9090/live/qiusuokexueHD_7000.m3u8
+求索生活,http://27.36.62.162:9090/live/QSSHHD_7000.m3u8
+全纪实,http://27.36.62.162:9090/live/quanjishiHD_7000.m3u8#rtmp://58.200.131.2:1935/livetv/documentaryhd#rtsp://113.136.42.41:554/PLTV/88888888/224/0/3221225549/iptv19029.smil
+BBC,P2p://sdgdklwos.finetv.tv:9906/59fd16bc000f2550026d4d870b85516d
+BBC Earth,P2p://sdgdklwos.finetv.tv:9906/59fd3223000ee20302d857cf1a981663
+BBC世界新闻,mitv://170.178.164.243:6210/5b448c4f0006b09c0009632361c16d91.ts
+Discovery展播,http://stream.guihet.com/migu/index.php?id=637483721
+探索动力,P2p://sdgdklwos.finetv.tv:9906/59fd2846000cb99902b1cffa3bb33abb
+探索科学,P2p://sdgdklwos.finetv.tv:9906/59fd166e000c7533026c1c1b4bf23d6b
+探索频道,P2p://sdgdklwos.finetv.tv:9906/59fcf587000c4fc201eb95c324ea0953#rtmp://58.200.131.2:1935/livetv/discovery
+探索夏娃,P2p://sdgdklwos.finetv.tv:9906/59fd286b000e1cdb02b260d1385f3d28
+探索亚洲,P2p://sdgdklwos.finetv.tv:9906/59fd15f7000e7852026a4bd030284bc8
+EYETV旅游,P2p://sdgdklwos.finetv.tv:9906/59fd27c4000cb3b102afd41b5cc4003d
+EYETV戏剧,P2p://sdgdklwos.finetv.tv:9906/59fd35bd00061f9e02e6671d60d7011c
+FOX,P2p://sdgdklwos.finetv.tv:9906/59fd14cf000321f60265c4a24ca93407
+FOX家庭影院,P2p://sdgdklwos.finetv.tv:9906/59fd229f000615aa029bb9ed79916213
+FOX警匪电影,P2p://sdgdklwos.finetv.tv:9906/59fd14ae0007a794026544e32f606291
+FOX优质电影,P2p://sdgdklwos.finetv.tv:9906/59fd246a0009125502a2bba01b0f4bf5
+FX,P2p://sdgdklwos.finetv.tv:9906/59fd279b000c06e702af33d47d4c770a
+HBO,P2p://sdgdklwos.finetv.tv:9906/59fd1566000391610268129978510d8e
+HBO强档巨献,P2p://sdgdklwos.finetv.tv:9906/59fd22e50004a1f8029ccaff41480126
+HBO原创巨献,P2p://sdgdklwos.finetv.tv:9906/59fd14fc0005019f026674e730ed03b5
 
 央视频道,#genre#
 超高清 4K,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
