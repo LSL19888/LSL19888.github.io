@@ -27,6 +27,8 @@ FX,P2p://sdgdklwos.finetv.tv:9906/59fd279b000c06e702af33d47d4c770a
 HBO,P2p://sdgdklwos.finetv.tv:9906/59fd1566000391610268129978510d8e
 HBO强档巨献,P2p://sdgdklwos.finetv.tv:9906/59fd22e50004a1f8029ccaff41480126
 HBO原创巨献,P2p://sdgdklwos.finetv.tv:9906/59fd14fc0005019f026674e730ed03b5
+凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 
 央视频道,#genre#
 超高清 4K,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
