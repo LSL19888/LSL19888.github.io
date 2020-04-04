@@ -361,7 +361,7 @@ Nickelodeon BR,p2p://fccsovh.pvbox.live:18912/5b2e22ac0000d4b0af61e1059dba881a.t
 NICK JR BR,p2p://fccsovh.pvbox.live:18912/5bee51e00007a3fd19d75ab60ece75c8.ts
 NICKTOONS,p2p://fccsovh.pvbox.live:18912/5b593c97000172abd37ca75318991f6f.ts
 NOWTV,p2p://fccsovh.pvbox.live:18912/5b20e3ae00008df9cb61dda6161ad58f.ts
-ntv7,p2p://fccsovh.pvbox.live:18912/5bdfc2a300070c4d02c64b11cfcabce1.ts
+
 NURSERY-RHYMES,p2p://fccsovh.pvbox.live:18912/5b593c9a000e9724d37cb67625705e09.ts
 OCN영화,p2p://fccsovh.pvbox.live:18912/5b140a0b00047d0b17d4d76e781d06da.ts
 Odisseia,p2p://fccsovh.pvbox.live:18912/5bee554c000badfb19e4b99f5a4704c5.ts
@@ -479,7 +479,8 @@ Thanthi TV,p2p://fccsovh.pvbox.live:18912/5d720280000a157e114e27b170861dfc.ts
 THVL1 HD,p2p://fccsovh.pvbox.live:18912/5b57f131000465e5ce6e21ae70436c42.ts
 THVL2 HD,p2p://fccsovh.pvbox.live:18912/5b569f230002e0c3c9459a90537f18a7.ts
 Times Now,p2p://fccsovh.pvbox.live:18912/5d720294000b83d2114e762f4f033fdb.ts
-TLC,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2efc77901768ade973b.ts
+
+
 TNN2,p2p://fccsovh.pvbox.live:18912/5d7206f1000b4cc0115f816767e8209f.ts
 TNT-HD,p2p://fccsovh.pvbox.live:18912/5b593cbe000ae51ad37d421c15cb43a5.ts
 TNT BR,p2p://fccsovh.pvbox.live:18912/5bee53590008799819dd1b8c133a48e0.ts
@@ -488,7 +489,7 @@ TOKYOMX,p2p://fccsovh.pvbox.live:18912/5b140a55000aec9d3c66e9cd1a26a090.ts
 Toros TV,p2p://fccsovh.pvbox.live:18912/5bee55ed000a65da19e72e291e247cb6.ts
 Trans TV,p2p://fccsovh.pvbox.live:18912/5d72049c00008f64115662a03e9726b6.ts
 Trans TV 7,p2p://fccsovh.pvbox.live:18912/5d720497000648691156508f0a0c4909.ts
-TRAVEL,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2efc77901768ade973b.ts
+
 TRAVEL-CHANNEL,p2p://fccsovh.pvbox.live:18912/5b593cc2000954d9d37d515e0cf90580.ts
 Travel Channel,p2p://fccsovh.pvbox.live:18912/5bee55f1000baa0519e73e2725054b83.ts
 TRU-TV,p2p://fccsovh.pvbox.live:18912/5b593cc60006374fd37d60235fe423e2.ts
@@ -1578,6 +1579,7 @@ AXN,p2p://fccsovh.pvbox.live:18912/5b140922000388777bb32b1976c6ed6e.ts
 AXN,mitv://198.255.74.57:12396/5e50205a000d08a03d3269822cde8583.ts
 EVE,p2p://fccsovh.pvbox.live:18912/5bdbf3a000041d6ad2172fcb0dab6930.ts
 EVE,p2p://fccsovh.pvbox.live:18912/5b14093f00043fac197259a079c29ab4.ts
+TLC,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2efc77901768ade973b.ts
 探索頻道高清,mitv://198.255.74.57:12396/5e502066000338553d3295dfd719c2b1.ts
 探索(臺灣),mitv://198.255.74.57:12396/5e5020660001872e3d3295709b567b51.ts
 BBC经典,http://qdntv96789.applinzi.com/96tv.php?633138330
@@ -1697,7 +1699,8 @@ Astro WARNA,p2p://fccsovh.pvbox.live:18912/5d6504580009a216cddc4fc7f1d60560.ts
 TV1,mitv://198.255.74.57:12396/5e5020890002bdfe3d331e789bddca84.ts
 TV2,mitv://198.255.74.57:12396/5e5020890001e74b3d331e41bf15904b.ts
 TV3,mitv://198.255.74.57:12396/5e502089000111593d331e0a45379ae9.ts
-NTV7,mitv://198.255.74.57:12396/5e50208900003c0d3d331dd3360b1972.ts
+ntv7,p2p://fccsovh.pvbox.live:18912/5bdfc2a300070c4d02c64b11cfcabce1.ts
+ntv7,mitv://198.255.74.57:12396/5e50208900003c0d3d331dd3360b1972.ts
 TV8,mitv://198.255.74.57:12396/5e502088000eaa4d3d331d9dce6fd1aa.ts
 TV9,mitv://198.255.74.57:12396/5e502088000dd6c23d331d67c46adf34.ts
 小太陽,mitv://198.255.74.57:12396/5e502088000b4dac3d331cc1b3720b92.ts
