@@ -501,12 +501,10 @@ TSN2,p2p://fccsovh.pvbox.live:18912/5cffd792000e927a29c66041424e5220.ts
 TSN3,p2p://fccsovh.pvbox.live:18912/5cffd7940009905b29c666c80f1c3c18.ts
 TSN4,p2p://fccsovh.pvbox.live:18912/5cffd7960007e5d529c66e2b73982d18.ts
 TSN5,p2p://fccsovh.pvbox.live:18912/5cffd798000451f529c6751156f32d26.ts
-TV1,p2p://fccsovh.pvbox.live:18912/5e64abfc0000ee896ccff772460f0740.ts
-TV2,p2p://fccsovh.pvbox.live:18912/5bdfc29b000e4652f04560bfb6d2d34f.ts
-TV3,p2p://fccsovh.pvbox.live:18912/5e64abff000852a06cd0050f63b83f6f.ts
+
 TV5,p2p://fccsovh.pvbox.live:18912/5b1409220005714cf91c82a47f2be10c.ts
 TV5MONDE,p2p://fccsovh.pvbox.live:18912/5b1409220005714cf91c82a47f2be10c.ts
-TV8,p2p://fccsovh.pvbox.live:18912/5bdfc2a700006e9882d767fb1af27b80.ts
+
 TV9,p2p://fccsovh.pvbox.live:18912/5bdfc2aa000be3f8cf1a39dfdb7a36b6.ts
 TVBHD,p2p://fccsovh.pvbox.live:18912/5cf559f800003d1b2ebdb6e7a1ee7eb7.ts
 TVBS,p2p://fccsovh.pvbox.live:18912/5b140960000c982bc8f85533fae5c65d.ts
@@ -1696,12 +1694,16 @@ Astro SUPERSPORT2,p2p://fccsovh.pvbox.live:18912/5e649e17000d46486c99b407332e53c
 Astro SUPERSPORT3,p2p://fccsovh.pvbox.live:18912/5e649e1900052aca6c99b9c40b5477a2.ts
 Astro SUPERSPORT4,p2p://fccsovh.pvbox.live:18912/5e649e1a000c8e6d6c99bf9075f31729.ts
 Astro WARNA,p2p://fccsovh.pvbox.live:18912/5d6504580009a216cddc4fc7f1d60560.ts
+TV1,p2p://fccsovh.pvbox.live:18912/5e64abfc0000ee896ccff772460f0740.ts
 TV1,mitv://198.255.74.57:12396/5e5020890002bdfe3d331e789bddca84.ts
+TV2,p2p://fccsovh.pvbox.live:18912/5bdfc29b000e4652f04560bfb6d2d34f.ts
 TV2,mitv://198.255.74.57:12396/5e5020890001e74b3d331e41bf15904b.ts
+TV3,p2p://fccsovh.pvbox.live:18912/5e64abff000852a06cd0050f63b83f6f.ts
 TV3,mitv://198.255.74.57:12396/5e502089000111593d331e0a45379ae9.ts
 ntv7,p2p://fccsovh.pvbox.live:18912/5bdfc2a300070c4d02c64b11cfcabce1.ts
 ntv7,mitv://198.255.74.57:12396/5e50208900003c0d3d331dd3360b1972.ts
-TV8,mitv://198.255.74.57:12396/5e502088000eaa4d3d331d9dce6fd1aa.ts
+8TV,mitv://198.255.74.57:12396/5e502088000eaa4d3d331d9dce6fd1aa.ts
+8TV,p2p://fccsovh.pvbox.live:18912/5bdfc2a700006e9882d767fb1af27b80.ts
 TV9,mitv://198.255.74.57:12396/5e502088000dd6c23d331d67c46adf34.ts
 小太陽,mitv://198.255.74.57:12396/5e502088000b4dac3d331cc1b3720b92.ts
 全佳,mitv://198.255.74.57:12396/5e502088000a71553d331c886218242c.ts
