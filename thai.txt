@@ -51,13 +51,6 @@ BABY TV 英语,p2p://fccsovh.pvbox.live:18912/5b14094000047cc69f43010ffe2aba98.t
 Band BR,p2p://fccsovh.pvbox.live:18912/5bee4de500068da019c7cdef222c7eda.ts
 Band News BR,p2p://fccsovh.pvbox.live:18912/5bee4de9000ac8e019c7dea9601142bd.ts
 Band Sports,p2p://fccsovh.pvbox.live:18912/5bee4df00009ebcf19c7f9c263e57687.ts
-BBC,p2p://fccsovh.pvbox.live:18912/5b140953000257fb5af59feaf00b7a6c.ts
-BBC-AMERICA,p2p://fccsovh.pvbox.live:18912/5b5939170002ff27d36efbc042dd768b.ts
-BBC EARTH HD,p2p://fccsovh.pvbox.live:18912/5b1408f200071c8b1d67497b97d9cb56.ts
-BBC HD,p2p://fccsovh.pvbox.live:18912/5b140953000257fb5af59feaf00b7a6c.ts
-BBC LIFESTYLE CHANNEL,p2p://fccsovh.pvbox.live:18912/5b1408f2000906bdaf3ac58dff31c53a.ts
-BBC LIFESTYLE HD,p2p://fccsovh.pvbox.live:18912/5b1408f2000906bdaf3ac58dff31c53a.ts
-BBC LIFESTYLE 生活频道 HD,p2p://fccsovh.pvbox.live:18912/5b1408f2000906bdaf3ac58dff31c53a.ts
 BEIN-SPORTS,p2p://fccsovh.pvbox.live:18912/5b62db800006215cf91166b36642752d.ts
 BeIN Sport 01,p2p://fccsovh.pvbox.live:18912/5bee511b0004e66f19d458720618783f.ts
 BeIN Sport 02,p2p://fccsovh.pvbox.live:18912/5bee511e000e8dfe19d466ab4f065caf.ts
@@ -1614,9 +1607,13 @@ Star World HD (Middle East),http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u
 探索頻道高清,mitv://198.255.74.57:12396/5e502066000338553d3295dfd719c2b1.ts
 探索(臺灣),mitv://198.255.74.57:12396/5e5020660001872e3d3295709b567b51.ts
 BBC经典,http://qdntv96789.applinzi.com/96tv.php?633138330
-BBC HD,mitv://198.255.74.57:12396/5e50205d0003a1623d3272d2954c45da.ts
-BBC Lifestyle HD,mitv://198.255.74.57:12396/5e50205d0002c5af3d32729a005fd26e.ts
-BBC earth HD,mitv://198.255.74.57:12396/5e50205d0001e9d53d327261fee45820.ts
+BBC,p2p://fccsovh.pvbox.live:18912/5b140953000257fb5af59feaf00b7a6c.ts
+BBC,mitv://198.255.74.57:12396/5e50205d0003a1623d3272d2954c45da.ts
+BBC-AMERICA,p2p://fccsovh.pvbox.live:18912/5b5939170002ff27d36efbc042dd768b.ts
+BBC Lifestyle,p2p://fccsovh.pvbox.live:18912/5b1408f2000906bdaf3ac58dff31c53a.ts
+BBC Lifestyle,mitv://198.255.74.57:12396/5e50205d0002c5af3d32729a005fd26e.ts
+BBC EARTH,p2p://fccsovh.pvbox.live:18912/5b1408f200071c8b1d67497b97d9cb56.ts
+BBC EARTH,mitv://198.255.74.57:12396/5e50205d0001e9d53d327261fee45820.ts
 Discovery HD,mitv://198.255.74.57:12396/5e50206600013e233d32955d22107029.ts
 Discovery 動力頻道 HD,mitv://198.255.74.57:12396/5e5020630008a5db3d328b8b20e3013a.ts
 Discovery 科學頻道 HD,mitv://198.255.74.57:12396/5e5020630007d4173d328b5569e28401.ts
