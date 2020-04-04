@@ -1,5 +1,4 @@
 pvbox,#genre#
-
 A&E,p2p://fccsovh.pvbox.live:18912/5bee537f000e17f219ddb1732f97613e.ts
 A&E-HD,p2p://fccsovh.pvbox.live:18912/5b62db7c0007a2edf911578043696386.ts
 A&E BR,p2p://fccsovh.pvbox.live:18912/5bee4dd40002191e19c78a6e680719fb.ts
@@ -33,10 +32,8 @@ ARTV,p2p://fccsovh.pvbox.live:18912/5bee538d000cc84419dde7c67c7e19f0.ts
 ARYNEWSASID,p2p://fccsovh.pvbox.live:18912/5b140a84000533c717d6b0444e2a6dcd.ts
 Asianet,p2p://fccsovh.pvbox.live:18912/5d7202930001fa44114e6fd66f196e64.ts
 ASN_HD,p2p://fccsovh.pvbox.live:18912/118.163.81.13:8911/59ec2b0f000175d80804020627655cc9.ts
-
 b4u movies INDIA,p2p://fccsovh.pvbox.live:18912/5ce00638000468b5143ba8fb145c0645.ts
 B4U音乐台,p2p://fccsovh.pvbox.live:18912/5b140a860001636017d6b71a7ed41c74.ts
-BABYFIRST,p2p://fccsovh.pvbox.live:18912/5b1409da00016387e11c612c7222c190.ts
 BABY TV,p2p://fccsovh.pvbox.live:18912/5b14090b00030e8253e9f0539482a3fc.ts
 Baby TV,p2p://fccsovh.pvbox.live:18912/5bee4e7c000327ea19ca1aed2cff24ad.ts
 BABY TV 国语,p2p://fccsovh.pvbox.live:18912/5b14090b00030e8253e9f0539482a3fc.ts
@@ -72,7 +69,6 @@ BEIN SPORT 10,p2p://fccsovh.pvbox.live:18912/5bee513b00072a1a493febef88233907.ts
 BEIN SPORT 11,p2p://fccsovh.pvbox.live:18912/5bee513f00018c2fe8e3b717faa28ae2.ts
 BEIN SPORT 12,p2p://fccsovh.pvbox.live:18912/5bee51420009b674cfa3988fbe50b595.ts
 Bein Sports,p2p://fccsovh.pvbox.live:18912/5cf559ed000079fb69df44fc4c916c10.ts
-BERNAMA,p2p://fccsovh.pvbox.live:18912/5d6504800000d0257dd7eb21728a245a.ts
 BET-HD,p2p://fccsovh.pvbox.live:18912/5b59391b0002ff76d36f0b60456d1eb0.ts
 BETHAT TV,p2p://fccsovh.pvbox.live:18912/5b140a860007963b17d6b8b134e346aa.ts
 BIG GANGA TALKIES,p2p://fccsovh.pvbox.live:18912/5b140a84000aafa217d6b1ac4c80417b.ts
@@ -80,9 +76,6 @@ BIG MAHARA HD,p2p://fccsovh.pvbox.live:18912/5b140a85000664f617d6b47b66ea0f3c.ts
 BIG THRILL,p2p://fccsovh.pvbox.live:18912/5b140a85000b29c817d6b5b304247c00.ts
 BilliardsTV,p2p://fccsovh.pvbox.live:18912/5b140a0a0001dd3fcd4835f9012cb473.ts
 BIS BR,p2p://fccsovh.pvbox.live:18912/5bee4dfa000f1f1b19c8222a41021482.ts
-BLOOMBERG,p2p://fccsovh.pvbox.live:18912/5b13f6f10000e96e63f34f6109464b85.ts
-BOOMERANG,p2p://fccsovh.pvbox.live:18912/5b1409da0008112422174354e32b30be.ts
-Boomerang BR,p2p://fccsovh.pvbox.live:18912/5bee4dfe0006bf7b19c82fa77e231263.ts
 BRAVO-HD,p2p://fccsovh.pvbox.live:18912/5b59391f000148a8d36f1a93095c3666.ts
 BS-TBS,p2p://fccsovh.pvbox.live:18912/5b140a5700006ef8e70e8e767761956f.ts
 BSアニマックス,p2p://fccsovh.pvbox.live:18912/5b140a65000d8c1217d6394f75a24b9a.ts
@@ -95,8 +88,6 @@ C-SPAN-1,p2p://fccsovh.pvbox.live:18912/5b593922000ca739d36f2929548325e6.ts
 C-SPAN-2,p2p://fccsovh.pvbox.live:18912/5b59392700009927d36f39a42a72613a.ts
 C-SPAN-3,p2p://fccsovh.pvbox.live:18912/5b59392a000cefb4d36f48886d384162.ts
 Canal Sony,p2p://fccsovh.pvbox.live:18912/5bee4e710005da6719c9f0a16acb4870.ts
-CARTOON-NETWORK,p2p://fccsovh.pvbox.live:18912/5b593933000710c5a3ca4c34fa26546d.ts
-Cartoon Network BR,p2p://fccsovh.pvbox.live:18912/5bee4e13000dfd3219c8839374d1278b.ts
 CATCH ON,p2p://fccsovh.pvbox.live:18912/5e09d6900009b1c009fe0c3b17c0248c.ts
 CATCHPLAY HD,p2p://fccsovh.pvbox.live:18912/5b1409db000126a9979ea17404d19ffe.ts
 CBS-HD,p2p://fccsovh.pvbox.live:18912/5b59393700075d00d36f79d957914dd4.ts
@@ -1635,6 +1626,7 @@ TRAVEL,mitv://198.255.74.57:12396/5e502060000499173d327ec9b89fb908.ts
 E! Entertainment,mitv://198.255.74.57:12396/5e50205f000dec2d3d327d4493851a9b.ts
 Ci罪案偵緝 HD,mitv://198.255.74.57:12396/5e50205f000d180c3d327d0e19e1ee23.ts
 fashiontv HD,mitv://198.255.74.57:12396/5e50205f000ccdf43d327cfb25a1eb31.ts
+Bloomberg,p2p://fccsovh.pvbox.live:18912/5b13f6f10000e96e63f34f6109464b85.ts
 Bloomberg,mitv://198.255.74.57:12396/5e5020600003bc6e3d327e918035ca7c.ts
 CatchPlay HD,mitv://198.255.74.57:12396/5e50205d0008e4233d32742bdbc7c64c.ts
 sundance channel,mitv://198.255.74.57:12396/5e50205d00056b623d327347de7d8337.ts
@@ -1647,7 +1639,9 @@ AXN,mitv://198.255.74.57:12396/5e50205a000d08a03d3269822cde8583.ts
 CNN,mitv://198.255.74.57:12396/5e50205a000c2c553d32694a1621c2de.ts
 CNN,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
 CNBC,mitv://198.255.74.57:12396/5e50205a000b57c63d326913b982a83f.ts
+Boomerang,p2p://fccsovh.pvbox.live:18912/5b1409da0008112422174354e32b30be.ts
 Boomerang,mitv://198.255.74.57:12396/5e50205a000a7e343d3268dcd755d8dc.ts
+Boomerang BR,p2p://fccsovh.pvbox.live:18912/5bee4dfe0006bf7b19c82fa77e231263.ts
 Mezzo Live HD,mitv://198.255.74.57:12396/5e50205a0009a1da3d3268a3824864d4.ts
 LUXE TV,mitv://198.255.74.57:12396/5e50205a0008c85e3d32686c84e8fb0a.ts
 DW-TV,mitv://198.255.74.57:12396/5e50205a0007f1e03d326835bd9f1b55.ts
@@ -1684,6 +1678,7 @@ ARENA,p2p://fccsovh.pvbox.live:18912/5e64a276000ddf6a6caac74e6a3542af.ts
 ARENA,mitv://198.255.74.57:12396/5e50204b000bfcd03d322ea641d3eee8.ts
 AWANI,p2p://fccsovh.pvbox.live:18912/5d6504550000cf8cc4bc7e9840367983.ts
 AWANI,mitv://198.255.74.57:12396/5e50204b000b29e83d322e70f442fd3f.ts
+BERNAMA,p2p://fccsovh.pvbox.live:18912/5d6504800000d0257dd7eb21728a245a.ts
 BERNAMA,mitv://198.255.74.57:12396/5e50204b000a4ba43d322e37f092b821.ts
 CERIA,p2p://fccsovh.pvbox.live:18912/5d6504850001c4722cc425e43b1f405c.ts
 CITRA,p2p://fccsovh.pvbox.live:18912/5d65046d0008eb4a1bbc5806f8730335.ts
@@ -1817,10 +1812,13 @@ DISNEY-XD,p8p://0198.02686.cc:16871/5d1a69760007a6f711bcec06f7be3200.ts
 迪斯尼,vjms://23.237.33.155:8500:3502/live/cid=361
 CN卡通,p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts
 CN卡通,vjms://23.237.33.155:8500:3502/live/cid=422
+Cartoon Network,p2p://fccsovh.pvbox.live:18912/5b593933000710c5a3ca4c34fa26546d.ts
+Cartoon Network BR,p2p://fccsovh.pvbox.live:18912/5bee4e13000dfd3219c8839374d1278b.ts
 东森幼幼,p2p://51.79.41.138:18912/5c724866000564111d5255b84de26a1c.ts
 东森幼幼,p2p://190.2.146.92:18912/5c724866000564111d5255b84de26a1c.ts
 东森幼幼,p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
 东森幼幼,vjms://23.237.33.155:8500:3502/live/cid=344
+BabyFirst,p2p://fccsovh.pvbox.live:18912/5b1409da00016387e11c612c7222c190.ts
 BabyFirst,mitv://198.255.74.57:12396/5e502060000061f63d327db5c4cfabf2.ts
 BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 Disney,P2p://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
