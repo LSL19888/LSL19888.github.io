@@ -1,10 +1,5 @@
 pvbox,#genre#
-1-J2,p2p://fccsovh.pvbox.live:18912/5b1409fc000dca06eca585de119eb202.ts
-1-无线新闻,p2p://fccsovh.pvbox.live:18912/5b1409fc000a355e58ad23d7d664a21b.ts
-1-翡翠,p2p://fccsovh.pvbox.live:18912/5d1220350000ba2736e444057d22cf40.ts
-2-J2,p2p://fccsovh.pvbox.live:18912/5d122036000a0661eb6b72a190255a05.ts
-2-无线新闻,p2p://fccsovh.pvbox.live:18912/5b140953000cd4a8a070d55507015cde.ts
-2-翡翠,p2p://fccsovh.pvbox.live:18912/5b1409fc00088a7f7b26e4559ee943fb.ts
+
 A&E,p2p://fccsovh.pvbox.live:18912/5bee537f000e17f219ddb1732f97613e.ts
 A&E-HD,p2p://fccsovh.pvbox.live:18912/5b62db7c0007a2edf911578043696386.ts
 A&E BR,p2p://fccsovh.pvbox.live:18912/5bee4dd40002191e19c78a6e680719fb.ts
@@ -1206,6 +1201,8 @@ CCTV懷舊劇場,mitv://198.255.74.57:12396/5e502055000318803d32536f72725c14.ts
 武汉-3 科技生活,http://live.appwuhan.com/3tzb/sd/live.m3u8
 
 香港频道,#genre#
+TVB翡翠台,p2p://fccsovh.pvbox.live:18912/5d1220350000ba2736e444057d22cf40.ts
+TVB翡翠台,p2p://fccsovh.pvbox.live:18912/5b1409fc00088a7f7b26e4559ee943fb.ts
 TVB翡翠台,http://hk.tv0668.com/dl/hk520.php?id=1
 TVB翡翠台,http://hzyhjg.cc/cs/gat/fct-2.php
 TVB翡翠台,http://103.145.38.152/axg.php?id=1
@@ -1216,6 +1213,8 @@ TVB翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&a
 TVB翡翠台,P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
 TVB翡翠台,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2
 TVB翡翠台,http://hzyhjg.cc/cs/gat/fct.php
+TVB J2,p2p://fccsovh.pvbox.live:18912/5b1409fc000dca06eca585de119eb202.ts
+TVB J2,p2p://fccsovh.pvbox.live:18912/5d122036000a0661eb6b72a190255a05.ts
 TVB J2,http://hk.tv0668.com/dl/hk520.php?id=12
 TVB J2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
 TVB J2,http://103.145.38.152/axg.php?id=12
@@ -1223,6 +1222,8 @@ TVB J2,http://47.56.167.95/iptv222.php?id=12
 TVB J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB J2,mitv://198.255.74.57:12396/5e5020840001a1223d330aa74cb1ccd5.ts
 TVB J2,http://hzyhjg.cc/cs/gat/tvbj2.php
+TVB无线新闻台,p2p://fccsovh.pvbox.live:18912/5b1409fc000a355e58ad23d7d664a21b.ts
+TVB无线新闻台,p2p://fccsovh.pvbox.live:18912/5b140953000cd4a8a070d55507015cde.ts
 TVB无线新闻台,http://hk.tv0668.com/dl/hk520.php?id=9
 TVB无线新闻台,http://103.145.38.152/axg.php?id=9
 TVB无线新闻台,http://47.56.167.95/iptv222.php?id=9
