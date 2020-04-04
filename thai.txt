@@ -211,7 +211,7 @@ FTV,p2p://fccsovh.pvbox.live:18912/5b140a0c00084d4b27224a585f478ef0.ts
 FX-HD,p2p://fccsovh.pvbox.live:18912/5b593b240003f74712fd6fb8bd5dd88d.ts
 FX BR,p2p://fccsovh.pvbox.live:18912/5bee4fe4000da18119cf9bdc77751126.ts
 FXX,p2p://fccsovh.pvbox.live:18912/5b593b280001f82cd3770de967771fa9.ts
-FX 福克斯影视 HD,p2p://fccsovh.pvbox.live:18912/5b1409da000ebd47e5c80e7fffcbc653.ts
+
 FYI,p2p://fccsovh.pvbox.live:18912/5b1408f20005adce5c807f8c5bf4b915.ts
 Globo BR,p2p://fccsovh.pvbox.live:18912/5bee4ff300052ad419cfd451540a51e7.ts
 Globo News BR,p2p://fccsovh.pvbox.live:18912/5bee4fe8000703ee19cfa9c71ef3354d.ts
@@ -224,22 +224,19 @@ GOOD TV ,p2p://fccsovh.pvbox.live:18912/5bdbf39200017a4bd216f86f7a511c7b.ts
 H2 BR,p2p://fccsovh.pvbox.live:18912/5bee505000021cd419d13ece756a3840.ts
 HALLMARK,p2p://fccsovh.pvbox.live:18912/5b593baf000ba098d3791fb204863a7e.ts
 HALLMARK-MOVIES,p2p://fccsovh.pvbox.live:18912/5b593bb300063efdd3792dfb31576d19.ts
-HBO,p2p://fccsovh.pvbox.live:18912/5b140969000be13c170c4d321395bcea.ts
+
 HBO BR,p2p://fccsovh.pvbox.live:18912/5bee505a0007dda519d1675558a62e43.ts
 HBOCA,p2p://fccsovh.pvbox.live:18912/5cf559de000079ada45d301a8597588f.ts
 HBOCA2,p2p://fccsovh.pvbox.live:18912/5cffd799000ddb7629c67b6a50cd1360.ts
 HBO EAST,p2p://fccsovh.pvbox.live:18912/5b593bb70009322fd3793e567a0f4afe.ts
 HBO Family BR,p2p://fccsovh.pvbox.live:18912/5bee505700010a7419d159d834a86fcf.ts
 HBO Family HD,p2p://fccsovh.pvbox.live:18912/5e04845f00006322f4acbe1b45795f81.ts
-HBO HD,p2p://fccsovh.pvbox.live:18912/5b140969000be13c170c4d321395bcea.ts
 HBO Hits HD,p2p://fccsovh.pvbox.live:18912/5e04845a000adfd0f534e9997b2944a9.ts
 HBO Plus BR,p2p://fccsovh.pvbox.live:18912/5bee505e0000389219d1750142d03c34.ts
 HBO Signature BR,p2p://fccsovh.pvbox.live:18912/5bee50610008e86919d182ec31824dc6.ts
 HBO Signature HD,p2p://fccsovh.pvbox.live:18912/5e04845d000c11bbd7c2e28732a4d0b6.ts
 HBO SIGNATURE WEST,p2p://fccsovh.pvbox.live:18912/5b593bbb00085133f733c0891e1414f6.ts
 HBO ZONE EAST,p2p://fccsovh.pvbox.live:18912/5b593bbf0007e641d3795d485e3e1ddf.ts
-HBO原創,p2p://fccsovh.pvbox.live:18912/5b14096a000a35a1031ce8879f0e06db.ts
-HBO強檔,p2p://fccsovh.pvbox.live:18912/5b14096900084dd99e1d5bcc5ece9c24.ts
 HGTV-HD,p2p://fccsovh.pvbox.live:18912/5b593bc300073eb4d3796cb908774fa7.ts
 HISTORY-HD,p2p://fccsovh.pvbox.live:18912/5b593bc700055296d3797bdc54675753.ts
 HISTORY2 HD,p2p://fccsovh.pvbox.live:18912/5b1408f3000402b2b347cadc76b8892b.ts
@@ -1506,11 +1503,14 @@ DIVA HD,mitv://198.255.74.57:12396/5e50206c0007f5783d32ae863abbe248.ts
 港台影视,#genre#
 香港电影频道,http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 Star movies,http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-HBO HD,http://hk.tv0668.com/dl/hk520.php?id=27
-HBO HD,http://hzyhjg.cc/cs/gat/hbo.php
-HBO HD,mitv://198.255.74.57:12396/5e50206900060f303d32a25155c14c28.ts
+HBO,p2p://fccsovh.pvbox.live:18912/5b140969000be13c170c4d321395bcea.ts
+HBO,http://hk.tv0668.com/dl/hk520.php?id=27
+HBO,http://hzyhjg.cc/cs/gat/hbo.php
+HBO,mitv://198.255.74.57:12396/5e50206900060f303d32a25155c14c28.ts
+HBO Hits,p2p://fccsovh.pvbox.live:18912/5b14096900084dd99e1d5bcc5ece9c24.ts
 HBO Hits,mitv://198.255.74.57:12396/5e502066000b276d3d3297e76f60aed2.ts
-HBO Signature HD,mitv://198.255.74.57:12396/5e502066000a4dfd3d3297afe1778d3a.ts
+HBO Signature,p2p://fccsovh.pvbox.live:18912/5b14096a000a35a1031ce8879f0e06db.ts
+HBO Signature,mitv://198.255.74.57:12396/5e502066000a4dfd3d3297afe1778d3a.ts
 HBO2,p2p://fccsovh.pvbox.live:18912/5bee4e860006918a19ca42d74e5c2169.ts
 FOX HD,mitv://198.255.74.57:12396/5e502066000877783d329737605eb25c.ts
 FOX动作,p2p://fccsovh.pvbox.live:18912/5b140977000904d684ec8ac4fa561e17.ts
@@ -1555,6 +1555,7 @@ BLUEANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
 动漫大电影,http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
 亚洲大电影,http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
 亚洲好电影,http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+FX,p2p://fccsovh.pvbox.live:18912/5b1409da000ebd47e5c80e7fffcbc653.ts
 FX,mitv://198.255.74.57:12396/5e5020660009533f3d32976fa8dc1ec6.ts
 FX,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
 CHC動作電影,mitv://198.255.74.57:12396/5e50204e000c34973d323a6ccdafdc0c.ts
