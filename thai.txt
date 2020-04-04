@@ -608,21 +608,18 @@ Z频道,p2p://fccsovh.pvbox.live:18912/5b14094a00088a563ab90b72089780b8.ts
 东森洋片,p2p://fccsovh.pvbox.live:18912/5b14092300021ad122881d3a37581383.ts
 东森电影 HD,p2p://fccsovh.pvbox.live:18912/5b1409f20009bbe23a77313125ba9210.ts
 东森财经,p2p://fccsovh.pvbox.live:18912/5b1409f30008c7763c1d409c9d274c77.ts
-中华美食,p2p://fccsovh.pvbox.live:18912/5b14092b000126615dcd1972c7c19cee.ts
-中华美食频道,p2p://fccsovh.pvbox.live:18912/5b14092b000126615dcd1972c7c19cee.ts
+
 中天亞洲,p2p://fccsovh.pvbox.live:18912/5b1409220008c84fa9151ef1245af0e2.ts
 中天娛樂,p2p://fccsovh.pvbox.live:18912/5b1409f300034b94ebf0beb069f53d4a.ts
 中天新聞,p2p://fccsovh.pvbox.live:18912/5b14096a000dc917f52efaf319558cad.ts
 中天新聞,p2p://fccsovh.pvbox.live:18912/5c2dd72e0002527b8af7a528efc80dec.ts
 中天綜合,p2p://fccsovh.pvbox.live:18912/5b14096a0007d345b0e4116fc680a615.ts
-中華美食,p2p://fccsovh.pvbox.live:18912/5b14092b000126615dcd1972c7c19cee.ts
+
 中視 HD,p2p://fccsovh.pvbox.live:18912/5b14095f00075e71480f6c853078bfc0.ts
 中視新聞,p2p://fccsovh.pvbox.live:18912/5b14095e000f3774d079e8312ab51b46.ts
 中視新聞,p2p://fccsovh.pvbox.live:18912/5b14095e000f3774d079e8312ab51b46.ts
 互动新聞,p2p://fccsovh.pvbox.live:18912/5b1409fc000a355e58ad23d7d664a21b.ts
-亚洲旅游台 HD,p2p://fccsovh.pvbox.live:18912/5b14091700094183808c0d500b4af72d.ts
-亚洲美食 HD,p2p://fccsovh.pvbox.live:18912/5b1409da000c9801f2b123a3aa339358.ts
-亞洲美食,p2p://fccsovh.pvbox.live:18912/5b1409da000c9801f2b123a3aa339358.ts
+
 今日俄罗斯,p2p://fccsovh.pvbox.live:18912/5b1409fc00006f1fc08cd16b0d3a6538.ts
 伟来电影,p2p://fccsovh.pvbox.live:18912/5b140922000ebd5bf25650fc689b042b.ts
 佛卫慈悲台,p2p://fccsovh.pvbox.live:18912/5bdbf39c000a4154d21721c16bc7247c.ts
@@ -1317,10 +1314,14 @@ TVB韩剧台,msc://CKDrama5
 台湾频道,#genre#
 美食星球,p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
 美食星球,mitv://198.255.74.57:12396/5e50206c000654453d32ae1b5afec589.ts
+亚洲美食,p2p://fccsovh.pvbox.live:18912/5b1409da000c9801f2b123a3aa339358.ts
+亚洲旅游台,p2p://fccsovh.pvbox.live:18912/5b14091700094183808c0d500b4af72d.ts
 亚洲旅游台,p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
 亚洲旅游台,mitv://198.255.74.57:12396/5e50206c000726cc3d32ae51701aab94.ts
 EYETV旅遊,p2p://fccsovh.pvbox.live:18912/5b140916000c98180df3ce54740eebb3.ts
 EYETV旅遊,mitv://198.255.74.57:12396/5e5020720008ef0c3d32c635ae7465a3.ts
+中华美食,p2p://fccsovh.pvbox.live:18912/5b14092b000126615dcd1972c7c19cee.ts
+中華美食,mitv://198.255.74.57:12396/5e50204e000eb9413d323b119b462908.ts
 新唐人亚太台,https://live.ntdimg.com/aplive200/playlist.m3u8
 新唐人美东台,https://live.ntdimg.com/live400/playlist.m3u8
 新唐人美东台,https://live2.ntdimg.com/live330/playlist.m3u8
@@ -1331,8 +1332,7 @@ EYETV旅遊,mitv://198.255.74.57:12396/5e5020720008ef0c3d32c635ae7465a3.ts
 新唐人加东台,https://live.ntdimg.com/mllive220/playlist.m3u8
 新唐人加西台,https://live.ntdimg.com/cwlive220/playlist.m3u8
 新唐人旧金山台,https://live.ntdimg.com/sflive990/playlist.m3u8
-新唐人中国台,https://live2.ntdimg.com/cnlive/playlist.m3u8 
-中華美食,mitv://198.255.74.57:12396/5e50204e000eb9413d323b119b462908.ts
+新唐人中国台,https://live2.ntdimg.com/cnlive/playlist.m3u8
 MTV,mitv://198.255.74.57:12396/5e50205a000ebcb83d3269f26f1a2952.ts
 TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
 TVBS新聞台,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
