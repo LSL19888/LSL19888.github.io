@@ -38,28 +38,6 @@ ARTV,p2p://fccsovh.pvbox.live:18912/5bee538d000cc84419dde7c67c7e19f0.ts
 ARYNEWSASID,p2p://fccsovh.pvbox.live:18912/5b140a84000533c717d6b0444e2a6dcd.ts
 Asianet,p2p://fccsovh.pvbox.live:18912/5d7202930001fa44114e6fd66f196e64.ts
 ASN_HD,p2p://fccsovh.pvbox.live:18912/118.163.81.13:8911/59ec2b0f000175d80804020627655cc9.ts
-Astro AEC(备),p2p://fccsovh.pvbox.live:18912/5cbd60a3000c7aa1b974a5de72fb54bb.ts
-Astro AEC,p2p://fccsovh.pvbox.live:18912/5d65046a0003ac6310f160714e505890.ts
-Astro AOD,p2p://fccsovh.pvbox.live:18912/5d66315100033ff6fa51ef3d13b15b71.ts
-Astro ARENA,p2p://fccsovh.pvbox.live:18912/5e64a276000ddf6a6caac74e6a3542af.ts
-Astro AWANI,p2p://fccsovh.pvbox.live:18912/5d6504550000cf8cc4bc7e9840367983.ts
-ASTRO CERIA,p2p://fccsovh.pvbox.live:18912/5d6504850001c4722cc425e43b1f405c.ts
-Astro CITRA,p2p://fccsovh.pvbox.live:18912/5d65046d0008eb4a1bbc5806f8730335.ts
-Astro NAURA,p2p://fccsovh.pvbox.live:18912/5c3b4bb10002122060c56a1a1ef84f9b.ts
-Astro OASIS,p2p://fccsovh.pvbox.live:18912/5d650462000f1dd720d4dd4d4a586c88.ts
-Astro PRIMA,p2p://fccsovh.pvbox.live:18912/5d650481000871888f957e63aa23e21f.ts
-Astro RIA,p2p://fccsovh.pvbox.live:18912/5e64a2700004928b6caaad7d56c7577a.ts
-Astro SUPERSPORT1,p2p://fccsovh.pvbox.live:18912/5d65048300014a5eec83cd7b0025d63e.ts
-Astro SUPERSPORT2,p2p://fccsovh.pvbox.live:18912/5e649e17000d46486c99b407332e53c8.ts
-Astro SUPERSPORT3,p2p://fccsovh.pvbox.live:18912/5e649e1900052aca6c99b9c40b5477a2.ts
-Astro SUPERSPORT4,p2p://fccsovh.pvbox.live:18912/5e649e1a000c8e6d6c99bf9075f31729.ts
-Astro WARNA,p2p://fccsovh.pvbox.live:18912/5d6504580009a216cddc4fc7f1d60560.ts
-Astro 全佳,p2p://fccsovh.pvbox.live:18912/5e649e220009754d6c99de0573c16193.ts
-Astro 华丽,p2p://fccsovh.pvbox.live:18912/5e649e20000e77476c99d77d03ee57c7.ts
-Astro 双星,p2p://fccsovh.pvbox.live:18912/5e649e230009b2846c99e1fd5cbe02e6.ts
-Astro 小太阳,p2p://fccsovh.pvbox.live:18912/5e64a272000ddf336caab7ae691a5371.ts
-Astro 欢喜,p2p://fccsovh.pvbox.live:18912/5d650431000dec1f373a2dce1b6646a5.ts
-Astro 爱奇艺,p2p://fccsovh.pvbox.live:18912/5e64a26d000826396caaa2af320f13f1.ts
 AXN,p2p://fccsovh.pvbox.live:18912/5b140922000388777bb32b1976c6ed6e.ts
 AXN HD,p2p://fccsovh.pvbox.live:18912/5b140922000388777bb32b1976c6ed6e.ts
 AXN 新力影业动作片电视网,p2p://fccsovh.pvbox.live:18912/5b140922000388777bb32b1976c6ed6e.ts
@@ -1697,15 +1675,31 @@ WEATHER,p8p://0198.02686.cc:16871/5d1a69f50006456d11bedbc41e2736ae.ts
 BBC-AMERICA,p8p://0198.02686.cc:16871/5d1a69660009ae9211bcae0b3b66fb97.ts
 
 马新频道,#genre#
-華麗臺,mitv://198.255.74.57:12396/5e502088000cfd053d331d2f14f4f794.ts
 華麗臺,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
+華麗臺,mitv://198.255.74.57:12396/5e502088000cfd053d331d2f14f4f794.ts
+AEC,p2p://fccsovh.pvbox.live:18912/5cbd60a3000c7aa1b974a5de72fb54bb.ts
+AEC,p2p://fccsovh.pvbox.live:18912/5d65046a0003ac6310f160714e505890.ts
 AEC,mitv://198.255.74.57:12396/5e50204b000db72f3d322f172586c73a.ts
+AOD,p2p://fccsovh.pvbox.live:18912/5d66315100033ff6fa51ef3d13b15b71.ts
 AOD,mitv://198.255.74.57:12396/5e50204b000cd95e3d322edec7378551.ts
+ARENA,p2p://fccsovh.pvbox.live:18912/5e64a276000ddf6a6caac74e6a3542af.ts
 ARENA,mitv://198.255.74.57:12396/5e50204b000bfcd03d322ea641d3eee8.ts
+AWANI,p2p://fccsovh.pvbox.live:18912/5d6504550000cf8cc4bc7e9840367983.ts
 AWANI,mitv://198.255.74.57:12396/5e50204b000b29e83d322e70f442fd3f.ts
 BERNAMA,mitv://198.255.74.57:12396/5e50204b000a4ba43d322e37f092b821.ts
+CERIA,p2p://fccsovh.pvbox.live:18912/5d6504850001c4722cc425e43b1f405c.ts
+CITRA,p2p://fccsovh.pvbox.live:18912/5d65046d0008eb4a1bbc5806f8730335.ts
+NAURA,p2p://fccsovh.pvbox.live:18912/5c3b4bb10002122060c56a1a1ef84f9b.ts
+OASIS,p2p://fccsovh.pvbox.live:18912/5d650462000f1dd720d4dd4d4a586c88.ts
+PRIMA,p2p://fccsovh.pvbox.live:18912/5d650481000871888f957e63aa23e21f.ts
 PRIMA,mitv://198.255.74.57:12396/5e50204b0009fb2b3d322e22b64cc4ad.ts
+RIA,p2p://fccsovh.pvbox.live:18912/5e64a2700004928b6caaad7d56c7577a.ts
 RIA,mitv://198.255.74.57:12396/5e502089000392f63d331eae5964a6e0.ts
+Astro SUPERSPORT1,p2p://fccsovh.pvbox.live:18912/5d65048300014a5eec83cd7b0025d63e.ts
+Astro SUPERSPORT2,p2p://fccsovh.pvbox.live:18912/5e649e17000d46486c99b407332e53c8.ts
+Astro SUPERSPORT3,p2p://fccsovh.pvbox.live:18912/5e649e1900052aca6c99b9c40b5477a2.ts
+Astro SUPERSPORT4,p2p://fccsovh.pvbox.live:18912/5e649e1a000c8e6d6c99bf9075f31729.ts
+Astro WARNA,p2p://fccsovh.pvbox.live:18912/5d6504580009a216cddc4fc7f1d60560.ts
 TV1,mitv://198.255.74.57:12396/5e5020890002bdfe3d331e789bddca84.ts
 TV2,mitv://198.255.74.57:12396/5e5020890001e74b3d331e41bf15904b.ts
 TV3,mitv://198.255.74.57:12396/5e502089000111593d331e0a45379ae9.ts
@@ -1714,7 +1708,13 @@ TV8,mitv://198.255.74.57:12396/5e502088000eaa4d3d331d9dce6fd1aa.ts
 TV9,mitv://198.255.74.57:12396/5e502088000dd6c23d331d67c46adf34.ts
 小太陽,mitv://198.255.74.57:12396/5e502088000b4dac3d331cc1b3720b92.ts
 全佳,mitv://198.255.74.57:12396/5e502088000a71553d331c886218242c.ts
+全佳,p2p://fccsovh.pvbox.live:18912/5e649e220009754d6c99de0573c16193.ts
+华丽,p2p://fccsovh.pvbox.live:18912/5e649e20000e77476c99d77d03ee57c7.ts
+双星,p2p://fccsovh.pvbox.live:18912/5e649e230009b2846c99e1fd5cbe02e6.ts
 双星,mitv://198.255.74.57:12396/5e5020880009a19e3d331c53cb182bc5.ts
+小太阳,p2p://fccsovh.pvbox.live:18912/5e64a272000ddf336caab7ae691a5371.ts
+欢喜,p2p://fccsovh.pvbox.live:18912/5d650431000dec1f373a2dce1b6646a5.ts
+爱奇艺,p2p://fccsovh.pvbox.live:18912/5e64a26d000826396caaa2af320f13f1.ts
 新加坡5,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 新-8頻道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 新-U頻道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
