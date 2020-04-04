@@ -200,14 +200,11 @@ FOXSPORTS2,p2p://fccsovh.pvbox.live:18912/5b3c4f980006aaf375d45b0008f27d89.ts
 FOX SPORTS 3 HD,p2p://fccsovh.pvbox.live:18912/5b1409400002d18b2de5d44b96611fae.ts
 FOX SPORTS 3,p2p://fccsovh.pvbox.live:18912/5bee539c00018092cebb9a907af2692c.ts
 FOX SPORTS HD,p2p://fccsovh.pvbox.live:18912/5b3c4f980000c856fa460f19c1ca869a.ts
-FOX优质,p2p://fccsovh.pvbox.live:18912/5b140977000ab01d13f89dada038963b.ts
+
 FOX体育,p2p://fccsovh.pvbox.live:18912/5b1409770007963d17d2961902392cd1.ts
-FOX动作,p2p://fccsovh.pvbox.live:18912/5b140977000904d684ec8ac4fa561e17.ts
-FOX動作,p2p://fccsovh.pvbox.live:18912/5b140977000904d684ec8ac4fa561e17.ts
-FOX家庭,p2p://fccsovh.pvbox.live:18912/5b14098e000945ca302f727ea8fb34f5.ts
-FOX 家庭影院HD,p2p://fccsovh.pvbox.live:18912/5b14098e000945ca302f727ea8fb34f5.ts
+
 FOX新闻,p2p://fccsovh.pvbox.live:18912/5b25fce60007c58e5e9c8093abbf5604.ts
-FOX警匪HD,p2p://fccsovh.pvbox.live:18912/5b14098e000e434e8cf404bafd4e6a24.ts
+
 FRANCE 24（English）,p2p://fccsovh.pvbox.live:18912/5b14090b0008c74abfa76f7d9ccaaf4c.ts
 FREEFORM,p2p://fccsovh.pvbox.live:18912/5b593b2000060226d376efb33dd75200.ts
 FTV,p2p://fccsovh.pvbox.live:18912/5b140a0c00084d4b27224a585f478ef0.ts
@@ -1516,10 +1513,14 @@ HBO Hits,mitv://198.255.74.57:12396/5e502066000b276d3d3297e76f60aed2.ts
 HBO Signature HD,mitv://198.255.74.57:12396/5e502066000a4dfd3d3297afe1778d3a.ts
 HBO2,p2p://fccsovh.pvbox.live:18912/5bee4e860006918a19ca42d74e5c2169.ts
 FOX HD,mitv://198.255.74.57:12396/5e502066000877783d329737605eb25c.ts
-FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-FOX动作电影,mitv://198.255.74.57:12396/5e5020660007a1523d32970079e9e50d.ts
-FOX家庭影院HD,mitv://198.255.74.57:12396/5e5020660006b8503d3296c4ec7209c0.ts
-FOX CRIME HD,mitv://198.255.74.57:12396/5e5020660005df333d32968d2af0eb38.ts
+FOX动作,p2p://fccsovh.pvbox.live:18912/5b140977000904d684ec8ac4fa561e17.ts
+FOX动作,p2p://fccsovh.pvbox.live:18912/5b140977000ab01d13f89dada038963b.ts
+FOX动作,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+FOX动作,mitv://198.255.74.57:12396/5e5020660007a1523d32970079e9e50d.ts
+FOX家庭,p2p://fccsovh.pvbox.live:18912/5b14098e000945ca302f727ea8fb34f5.ts
+FOX家庭,mitv://198.255.74.57:12396/5e5020660006b8503d3296c4ec7209c0.ts
+FOX CRIME,p2p://fccsovh.pvbox.live:18912/5b14098e000e434e8cf404bafd4e6a24.ts
+FOX CRIME,mitv://198.255.74.57:12396/5e5020660005df333d32968d2af0eb38.ts
 FOX NEWS,mitv://198.255.74.57:12396/5e5020660004f9ab3d3296520b5ca6ef.ts
 CINEMAX,mitv://198.255.74.57:12396/5e502066000416113d3296180d0ae225.ts
 Warner Bros HD,mitv://198.255.74.57:12396/5e50205d000b7a5a3d3274d48072a26a.ts
