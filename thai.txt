@@ -116,9 +116,6 @@ Ci罪案偵緝 HD,p2p://fccsovh.pvbox.live:18912/5b14098e0006282ae5cbefa864012bc
 CLARO SPORTS,p2p://fccsovh.pvbox.live:18912/5bee52d2000e6fc519db0dbb7ac86c66.ts
 CNBC,p2p://fccsovh.pvbox.live:18912/5b59394400007aa87318c6abbfbb6a83.ts
 CNBC ASIA CHANNEL,p2p://fccsovh.pvbox.live:18912/5b59394400007aa87318c6abbfbb6a83.ts
-CNN,p2p://fccsovh.pvbox.live:18912/5b140954000dc92aa17edadd8e0a2886.ts
-CNN-HD,p2p://fccsovh.pvbox.live:18912/5b593947000cff32c5b9f462a6c98e1d.ts
-CNN INTERNATIONAL,p2p://fccsovh.pvbox.live:18912/5b593947000cff32c5b9f462a6c98e1d.ts
 CNTV,p2p://fccsovh.pvbox.live:18912/5e09d689000a68e209fdf1121b935856.ts
 CN 卡通,p2p://fccsovh.pvbox.live:18912/5b140917000efaac8b9dc0bc37cc52ce.ts
 CN卡通,p2p://fccsovh.pvbox.live:18912/5b140917000efaac8b9dc0bc37cc52ce.ts
@@ -129,7 +126,6 @@ COMEDY-CENTRAL,p2p://fccsovh.pvbox.live:18912/5b593ae50004c1b3d37608dd4adb03fa.t
 Comedy Central BR,p2p://fccsovh.pvbox.live:18912/5bee4e780009e08319ca0d023ac351c5.ts
 CTS,p2p://fccsovh.pvbox.live:18912/5e09d68c0006d56909fdfbe00315734a.ts
 CW-HD,p2p://fccsovh.pvbox.live:18912/5b593ae900043458d376185e45e46b15.ts
-
 DISNEY-CHANNEL,p2p://fccsovh.pvbox.live:18912/5b593aed0000362178e744fc4c1c5fd9.ts
 DISNEY-JR(backup),p2p://fccsovh.pvbox.live:18912/5b593af10003ba928f3aa4c807289811.ts
 DISNEY-JR,p2p://fccsovh.pvbox.live:18912/5b593af10003ba928f3aa4c807289811.ts
@@ -149,7 +145,6 @@ DIVA,p2p://fccsovh.pvbox.live:18912/5b1408f10005adef0e3e2fff37e972cd.ts
 DIY NETWORK,p2p://fccsovh.pvbox.live:18912/5b593af90004cd30d376570d75a56209.ts
 DUBAI,p2p://fccsovh.pvbox.live:18912/5ce013bb000609c9147071204ee7070d.ts
 DUBAL SPORTS 1,p2p://fccsovh.pvbox.live:18912/5ce013dd000de8cf1470f7f476f375b9.ts
-DW-TV,p2p://fccsovh.pvbox.live:18912/5b14098f0005711ed0ff2066460b966b.ts
 E!,p2p://fccsovh.pvbox.live:18912/5b593afd000076d3d37665846c6451f9.ts
 E! BR,p2p://fccsovh.pvbox.live:18912/5bee4ea9000002e319cac9ea55133cb5.ts
 E! ENTERTAINMENT,p2p://fccsovh.pvbox.live:18912/5b1409770004036847f60611bc526ef5.ts
@@ -168,10 +163,7 @@ ESPN BRASIL,p2p://fccsovh.pvbox.live:18912/5bee4faf000825f219cecb6d38e404f3.ts
 ESPN Extra,p2p://fccsovh.pvbox.live:18912/5bee4eac000a346c19cad841707b1f33.ts
 EURO SPORT 2 IT,p2p://fccsovh.pvbox.live:18912/5bee51c80006548a19d6fc983a536b0e.ts
 EURO SPORT 2,p2p://fccsovh.pvbox.live:18912/5bee4eb700049db14bcaddbbd648e21a.ts
-EVE,p2p://fccsovh.pvbox.live:18912/5bdbf3a000041d6ad2172fcb0dab6930.ts
-EVE HD,p2p://fccsovh.pvbox.live:18912/5b14093f00043fac197259a079c29ab4.ts
-EYETV戲劇,p2p://fccsovh.pvbox.live:18912/5b14093e000e4339b8b0c6c5ce1e3723.ts
-EYETV旅遊,p2p://fccsovh.pvbox.live:18912/5b140916000c98180df3ce54740eebb3.ts
+
 Family,p2p://fccsovh.pvbox.live:18912/5cffd5e200012f5b23470bdb5681ce5b.ts
 FASHIONTV,p2p://fccsovh.pvbox.live:18912/5c0f8a2700094b1f9b9b307b7f1474e4.ts
 FASHIONTV HD,p2p://fccsovh.pvbox.live:18912/5b1409dc00021a61d33fb44d4c72fd31.ts
@@ -1338,6 +1330,8 @@ TVB韩剧台,msc://CKDrama5
 美食星球,mitv://198.255.74.57:12396/5e50206c000654453d32ae1b5afec589.ts
 亚洲旅游台,p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
 亚洲旅游台,mitv://198.255.74.57:12396/5e50206c000726cc3d32ae51701aab94.ts
+EYETV旅遊,p2p://fccsovh.pvbox.live:18912/5b140916000c98180df3ce54740eebb3.ts
+EYETV旅遊,mitv://198.255.74.57:12396/5e5020720008ef0c3d32c635ae7465a3.ts
 新唐人亚太台,https://live.ntdimg.com/aplive200/playlist.m3u8
 新唐人美东台,https://live.ntdimg.com/live400/playlist.m3u8
 新唐人美东台,https://live2.ntdimg.com/live330/playlist.m3u8
@@ -1495,7 +1489,6 @@ BLUEANT ENT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
 SMART頻道,p8p://0198.02686.cc:16871/5d1a69a9000d171211bdb4a3d225e7dd.ts 
 FXP7p,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
 鴻基影劇臺,mitv://198.255.74.57:12396/5e5020720009d7e93d32c671c8a03dc4.ts
-EYETV旅遊,mitv://198.255.74.57:12396/5e5020720008ef0c3d32c635ae7465a3.ts
 阿裏郎電視臺,mitv://198.255.74.57:12396/5e502072000737e43d32c5c5e71ec7fd.ts
 smart知識臺,mitv://198.255.74.57:12396/5e5020720006f1d33d32c5b3efec7a71.ts
 JET 綜合,mitv://198.255.74.57:12396/5e50206f000cf1893d32bb847b55c0b5.ts
@@ -1541,6 +1534,7 @@ WarnerTV,http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 龙华影剧,P2p://51.79.41.138:18912/5b1408f2000aaf8c17d08f5c001549e8.ts
 龙华经典,p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
 靖天電影臺,p8p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts
+EYETV戲劇,p2p://fccsovh.pvbox.live:18912/5b14093e000e4339b8b0c6c5ce1e3723.ts
 EYETV戲劇,mitv://198.255.74.57:12396/5e502072000811f93d32c5fd78e49f0d.ts
 EYETV戲劇,p8p://0198.02686.cc:16871/5d1a69a2000ca28211bd992d29a29542.ts
 华艺影劇臺,p8p://0198.02686.cc:16871/5d1a69d700008c5a11be651dc2bd3d52.ts
@@ -1580,6 +1574,10 @@ Star Movies HD (Middle East),http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m
 Star World HD (Middle East),http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8#http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8#http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 
 美国频道,#genre#
+AXN,p2p://fccsovh.pvbox.live:18912/5b140922000388777bb32b1976c6ed6e.ts
+AXN,mitv://198.255.74.57:12396/5e50205a000d08a03d3269822cde8583.ts
+EVE,p2p://fccsovh.pvbox.live:18912/5bdbf3a000041d6ad2172fcb0dab6930.ts
+EVE,p2p://fccsovh.pvbox.live:18912/5b14093f00043fac197259a079c29ab4.ts
 探索頻道高清,mitv://198.255.74.57:12396/5e502066000338553d3295dfd719c2b1.ts
 探索(臺灣),mitv://198.255.74.57:12396/5e5020660001872e3d3295709b567b51.ts
 BBC经典,http://qdntv96789.applinzi.com/96tv.php?633138330
@@ -1629,8 +1627,8 @@ MTV LIVE HD,mitv://198.255.74.57:12396/5e50205d000489b23d32730dcb5d8ab8.ts
 FRANCE 24-English,mitv://198.255.74.57:12396/5e50205d00017afe3d3272459d492608.ts
 tvN HD,mitv://198.255.74.57:12396/5e50205b00004ce83d326a28245c3875.ts
 TV5,mitv://198.255.74.57:12396/5e50205a000de3cc3d3269ba947653c5.ts
-AXN,p2p://fccsovh.pvbox.live:18912/5b140922000388777bb32b1976c6ed6e.ts
-AXN,mitv://198.255.74.57:12396/5e50205a000d08a03d3269822cde8583.ts
+CNN,p2p://fccsovh.pvbox.live:18912/5b140954000dc92aa17edadd8e0a2886.ts
+CNN,p2p://fccsovh.pvbox.live:18912/5b593947000cff32c5b9f462a6c98e1d.ts
 CNN,mitv://198.255.74.57:12396/5e50205a000c2c553d32694a1621c2de.ts
 CNN,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
 CNBC,mitv://198.255.74.57:12396/5e50205a000b57c63d326913b982a83f.ts
@@ -1639,6 +1637,7 @@ Boomerang,mitv://198.255.74.57:12396/5e50205a000a7e343d3268dcd755d8dc.ts
 Boomerang BR,p2p://fccsovh.pvbox.live:18912/5bee4dfe0006bf7b19c82fa77e231263.ts
 Mezzo Live HD,mitv://198.255.74.57:12396/5e50205a0009a1da3d3268a3824864d4.ts
 LUXE TV,mitv://198.255.74.57:12396/5e50205a0008c85e3d32686c84e8fb0a.ts
+DW-TV,p2p://fccsovh.pvbox.live:18912/5b14098f0005711ed0ff2066460b966b.ts
 DW-TV,mitv://198.255.74.57:12396/5e50205a0007f1e03d326835bd9f1b55.ts
 ABCHD,p8p://0198.02686.cc:16871/5d1a696200050e9f11bc9d3cb1d3a565.ts
 ABC-NEWS,p8p://0198.02686.cc:16871/5d1a696300009fd311bca002a1e12728.ts
