@@ -238,10 +238,8 @@ HBO Signature HD,p2p://fccsovh.pvbox.live:18912/5e04845d000c11bbd7c2e28732a4d0b6
 HBO SIGNATURE WEST,p2p://fccsovh.pvbox.live:18912/5b593bbb00085133f733c0891e1414f6.ts
 HBO ZONE EAST,p2p://fccsovh.pvbox.live:18912/5b593bbf0007e641d3795d485e3e1ddf.ts
 HGTV-HD,p2p://fccsovh.pvbox.live:18912/5b593bc300073eb4d3796cb908774fa7.ts
-HISTORY-HD,p2p://fccsovh.pvbox.live:18912/5b593bc700055296d3797bdc54675753.ts
-HISTORY2 HD,p2p://fccsovh.pvbox.live:18912/5b1408f3000402b2b347cadc76b8892b.ts
-History BR,p2p://fccsovh.pvbox.live:18912/5bee50650000aeec19d1907829542060.ts
-HISTORY HD,p2p://fccsovh.pvbox.live:18912/5b1408f300071d3b6bc1eca52a95e91b.ts
+
+
 HKC新闻,p2p://fccsovh.pvbox.live:18912/5b13f6f100047cdef116a580a70f5211.ts
 HKS,p2p://fccsovh.pvbox.live:18912/5b14096a000c1de241abdf0cc5e4e223.ts
 HTV3,p2p://fccsovh.pvbox.live:18912/5c09fd92000ee7d685ee0bea73414b7b.ts
@@ -1610,7 +1608,11 @@ Discovery WORLD,p2p://fccsovh.pvbox.live:18912/5bee4e9b0004056f19ca944341e3368d.
 國家地理People,mitv://198.255.74.57:12396/5e502063000543333d328aad4edbe099.ts
 國家地理野生頻道,mitv://198.255.74.57:12396/5e502063000465923d328a746d4c01dd.ts
 國家地理野生頻道,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+History,p2p://fccsovh.pvbox.live:18912/5b1408f300071d3b6bc1eca52a95e91b.ts
 History,mitv://198.255.74.57:12396/5e502063000393f63d328a3ef5272b2c.ts
+History-HD,p2p://fccsovh.pvbox.live:18912/5b593bc700055296d3797bdc54675753.ts
+History BR,p2p://fccsovh.pvbox.live:18912/5bee50650000aeec19d1907829542060.ts
+History2,p2p://fccsovh.pvbox.live:18912/5b1408f3000402b2b347cadc76b8892b.ts
 History2,mitv://198.255.74.57:12396/5e5020630002a7a83d328a023d7420d6.ts
 History2,http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 動物星球,p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
