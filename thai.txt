@@ -571,8 +571,7 @@ WOOHOO,p2p://fccsovh.pvbox.live:18912/5bee4fb60008c9ee19cee6f4655d66c0.ts
 WOWOWシネマ,p2p://fccsovh.pvbox.live:18912/5b140a570007960611bf2788b89d022d.ts
 WOWOWプライム,p2p://fccsovh.pvbox.live:18912/5b140a5800021a3937aac3025551903a.ts
 WOWOWライブ,p2p://fccsovh.pvbox.live:18912/5b140a570005eb2146b1433ae5ac5c74.ts
-WWE,p2p://fccsovh.pvbox.live:18912/5cffd5d900072496c95ce4a4fb8fbaad.ts
-WWE-NETWORK,p2p://fccsovh.pvbox.live:18912/5b593cdd0007b4d43500174365b90e70.ts
+
 YAS SPORTS,p2p://fccsovh.pvbox.live:18912/5bee553b00031c9919e4750542353428.ts
 YTNHD,p2p://fccsovh.pvbox.live:18912/5b140a0c0006a200907fac1355fa8ed0.ts
 Zee Actions,p2p://fccsovh.pvbox.live:18912/5d720286000607ee114e3e170c135faa.ts
@@ -1792,6 +1791,8 @@ Espn,p8p://0198.02686.cc:16871/5d1a69780009978d11bcf455a30b876a.ts
 FOX-HD,p8p://0198.02686.cc:16871/5d1a697e0006db4f11bd0b1275a5ae74.ts
 FOX-SPORTS2,p8p://0198.02686.cc:16871/5d1a6980000a5de111bd13c8299365a8.ts
 Z频道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
+WWE,p2p://fccsovh.pvbox.live:18912/5cffd5d900072496c95ce4a4fb8fbaad.ts
+WWE,p2p://fccsovh.pvbox.live:18912/5b593cdd0007b4d43500174365b90e70.ts
 
 亲子卡通,#genre#
 精品动画,http://aldirect.rtmp.huya.com/huyalive/1448731701-1448731701-6222255276473450496-2789274560-10057-A-0-1.m3u8
