@@ -652,11 +652,7 @@ Z频道,p2p://fccsovh.pvbox.live:18912/5b14094a00088a563ab90b72089780b8.ts
 台视 HD,p2p://fccsovh.pvbox.live:18912/5b14095f000570be17b5761b7b120659.ts
 台视新聞,p2p://fccsovh.pvbox.live:18912/5b14090b0004b9da0766bb6b057b35a6.ts
 四川卫视 HD,p2p://fccsovh.pvbox.live:18912/5b13f6ef0006a2758849a7f7fea0cddd.ts
-国家地理 HD,p2p://fccsovh.pvbox.live:18912/5b13f6f0000e0621c40e587775073b82.ts
-國家地理HD,p2p://fccsovh.pvbox.live:18912/5b13f6f0000e0621c40e587775073b82.ts
-國家地理野生,p2p://fccsovh.pvbox.live:18912/5b1409170007d34265514bfb6f766515.ts
 國興衛視,p2p://fccsovh.pvbox.live:18912/5b1409f2000ebd7873c561c5e8d68502.ts
-地理悠人,p2p://fccsovh.pvbox.live:18912/5b14093f000b29ff60a8012c4f012aa6.ts
 壹電視新聞,p2p://fccsovh.pvbox.live:18912/5b14094000088a468e9f73a90c8a9a1b.ts
 壹電視新聞,p2p://fccsovh.pvbox.live:18912/5bdbf3a3000abb1b34e4631bd47a2f26.ts
 壹電視綜合,p2p://fccsovh.pvbox.live:18912/5b1409400006a235b684dcee92bcd6f9.ts
@@ -1601,12 +1597,15 @@ Discovery Science BR,p2p://fccsovh.pvbox.live:18912/5bee4e90000c4e2119ca6b6e513a
 Discovery Theater,p2p://fccsovh.pvbox.live:18912/5bee4e9400035d9f19ca78bc246f50ff.ts
 Discovery Turbo,p2p://fccsovh.pvbox.live:18912/5bee4e97000ce6c919ca86e56c7d0761.ts
 Discovery WORLD,p2p://fccsovh.pvbox.live:18912/5bee4e9b0004056f19ca944341e3368d.ts
+国家地理,p2p://fccsovh.pvbox.live:18912/5b13f6f0000e0621c40e587775073b82.ts
 國家地理,mitv://198.255.74.57:12396/5e502063000621963d328ae6b3104a59.ts
 国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 国家地理,http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/03.m3u8
+國家地理People,p2p://fccsovh.pvbox.live:18912/5b14093f000b29ff60a8012c4f012aa6.ts
 國家地理People,mitv://198.255.74.57:12396/5e502063000543333d328aad4edbe099.ts
-國家地理野生頻道,mitv://198.255.74.57:12396/5e502063000465923d328a746d4c01dd.ts
-國家地理野生頻道,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+國家地理野生,p2p://fccsovh.pvbox.live:18912/5b1409170007d34265514bfb6f766515.ts
+國家地理野生,mitv://198.255.74.57:12396/5e502063000465923d328a746d4c01dd.ts
+國家地理野生,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
 History,p2p://fccsovh.pvbox.live:18912/5b1408f300071d3b6bc1eca52a95e91b.ts
 History,mitv://198.255.74.57:12396/5e502063000393f63d328a3ef5272b2c.ts
 History-HD,p2p://fccsovh.pvbox.live:18912/5b593bc700055296d3797bdc54675753.ts
