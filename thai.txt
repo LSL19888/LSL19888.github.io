@@ -274,8 +274,8 @@ Indonesia_TVRI sport HD,p2p://fccsovh.pvbox.live:18912/5c90a38c0002fa2193e6618c3
 Indonesia_Wesal TV,p2p://fccsovh.pvbox.live:18912/5c90a3800009c987331b0049c28cd28e.ts
 Indosiar,p2p://fccsovh.pvbox.live:18912/5d72049d000b4a34dad4d97efac57bd2.ts
 INETV,p2p://fccsovh.pvbox.live:18912/5e09d68300052a2e09fdd84a462e2174.ts
-J5,p2p://fccsovh.pvbox.live:18912/5b14095400047cf540064c20d9c1e781.ts
-JET 综合,p2p://fccsovh.pvbox.live:18912/5b1409f300012627f2e2c7b5e9d199b2.ts
+
+
 JGOLF,p2p://fccsovh.pvbox.live:18912/5b1289d500043f9111f8046e4ae94505.ts
 Jim Jam,p2p://fccsovh.pvbox.live:18912/5bee55260000bdfd19e4226050ff0fcf.ts
 JSPORTS1,p2p://fccsovh.pvbox.live:18912/5b140a6600006f2575dc13e77ce581ca.ts
@@ -326,9 +326,7 @@ Motors TV,p2p://fccsovh.pvbox.live:18912/5bee5530000a4ef819e44be12c7f2f2e.ts
 Motor Vision,p2p://fccsovh.pvbox.live:18912/5bee55340002117319e4596e0f8e4e34.ts
 Movie Network 1,p2p://fccsovh.pvbox.live:18912/5cffd5c70005b65a0db34d3e4370b3fe.ts
 MSNBC-HD,p2p://fccsovh.pvbox.live:18912/5b593bde000d6234d379d7c74dd8781f.ts
-MTV,p2p://fccsovh.pvbox.live:18912/5b593be2000770487f0adb192bfef549.ts
-MTV BR,p2p://fccsovh.pvbox.live:18912/5bee509d0008c26919d26d4c0ada147c.ts
-MTV LIVE HD,p2p://fccsovh.pvbox.live:18912/5b1408f100084d6ac9e54fca2a2b4b87.ts
+
 MTV Portuga,p2p://fccsovh.pvbox.live:18912/5bee553e00096e2619e482530bc42026.ts
 Multishow,p2p://fccsovh.pvbox.live:18912/5bee51cb000be33919d709c711d03dde.ts
 Music Box,p2p://fccsovh.pvbox.live:18912/5bee51cf00025dc319d716f615a56ce3.ts
@@ -1203,6 +1201,7 @@ TVB无线新闻台,http://hzyhjg.cc/cs/gat/wxxw.php
 TVB无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 TVB无线新闻台,P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5
 TVB无线新闻台,P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
+TVB无线财经资讯台,p2p://fccsovh.pvbox.live:18912/5b14095400047cf540064c20d9c1e781.ts
 TVB无线财经资讯台,http://hk.tv0668.com/dl/hk520.php?id=10
 TVB无线财经资讯台,http://103.145.38.152/axg.php?id=10
 TVB无线财经资讯台,http://47.56.167.95/iptv222.php?id=10
@@ -1483,6 +1482,7 @@ FXP7p,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
 鴻基影劇臺,mitv://198.255.74.57:12396/5e5020720009d7e93d32c671c8a03dc4.ts
 阿裏郎電視臺,mitv://198.255.74.57:12396/5e502072000737e43d32c5c5e71ec7fd.ts
 smart知識臺,mitv://198.255.74.57:12396/5e5020720006f1d33d32c5b3efec7a71.ts
+JET 综合,p2p://fccsovh.pvbox.live:18912/5b1409f300012627f2e2c7b5e9d199b2.ts
 JET 綜合,mitv://198.255.74.57:12396/5e50206f000cf1893d32bb847b55c0b5.ts
 ELTA綜合,mitv://198.255.74.57:12396/5e50206f00087d733d32ba60824ab0e7.ts
 ELTA影劇,mitv://198.255.74.57:12396/5e50206f00079ef03d32ba27b9976cac.ts
@@ -1627,6 +1627,9 @@ Bloomberg,p2p://fccsovh.pvbox.live:18912/5b13f6f10000e96e63f34f6109464b85.ts
 Bloomberg,mitv://198.255.74.57:12396/5e5020600003bc6e3d327e918035ca7c.ts
 CatchPlay HD,mitv://198.255.74.57:12396/5e50205d0008e4233d32742bdbc7c64c.ts
 sundance channel,mitv://198.255.74.57:12396/5e50205d00056b623d327347de7d8337.ts
+MTV,p2p://fccsovh.pvbox.live:18912/5b593be2000770487f0adb192bfef549.ts
+MTV BR,p2p://fccsovh.pvbox.live:18912/5bee509d0008c26919d26d4c0ada147c.ts
+MTV LIVE HD,p2p://fccsovh.pvbox.live:18912/5b1408f100084d6ac9e54fca2a2b4b87.ts
 MTV LIVE HD,mitv://198.255.74.57:12396/5e50205d000489b23d32730dcb5d8ab8.ts
 FRANCE 24-English,mitv://198.255.74.57:12396/5e50205d00017afe3d3272459d492608.ts
 tvN HD,mitv://198.255.74.57:12396/5e50205b00004ce83d326a28245c3875.ts
