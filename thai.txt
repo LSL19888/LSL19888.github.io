@@ -163,7 +163,6 @@ ESPN BRASIL,p2p://fccsovh.pvbox.live:18912/5bee4faf000825f219cecb6d38e404f3.ts
 ESPN Extra,p2p://fccsovh.pvbox.live:18912/5bee4eac000a346c19cad841707b1f33.ts
 EURO SPORT 2 IT,p2p://fccsovh.pvbox.live:18912/5bee51c80006548a19d6fc983a536b0e.ts
 EURO SPORT 2,p2p://fccsovh.pvbox.live:18912/5bee4eb700049db14bcaddbbd648e21a.ts
-
 Family,p2p://fccsovh.pvbox.live:18912/5cffd5e200012f5b23470bdb5681ce5b.ts
 FASHIONTV,p2p://fccsovh.pvbox.live:18912/5c0f8a2700094b1f9b9b307b7f1474e4.ts
 FASHIONTV HD,p2p://fccsovh.pvbox.live:18912/5b1409dc00021a61d33fb44d4c72fd31.ts
@@ -200,18 +199,14 @@ FOXSPORTS2,p2p://fccsovh.pvbox.live:18912/5b3c4f980006aaf375d45b0008f27d89.ts
 FOX SPORTS 3 HD,p2p://fccsovh.pvbox.live:18912/5b1409400002d18b2de5d44b96611fae.ts
 FOX SPORTS 3,p2p://fccsovh.pvbox.live:18912/5bee539c00018092cebb9a907af2692c.ts
 FOX SPORTS HD,p2p://fccsovh.pvbox.live:18912/5b3c4f980000c856fa460f19c1ca869a.ts
-
 FOX体育,p2p://fccsovh.pvbox.live:18912/5b1409770007963d17d2961902392cd1.ts
-
 FOX新闻,p2p://fccsovh.pvbox.live:18912/5b25fce60007c58e5e9c8093abbf5604.ts
-
 FRANCE 24（English）,p2p://fccsovh.pvbox.live:18912/5b14090b0008c74abfa76f7d9ccaaf4c.ts
 FREEFORM,p2p://fccsovh.pvbox.live:18912/5b593b2000060226d376efb33dd75200.ts
 FTV,p2p://fccsovh.pvbox.live:18912/5b140a0c00084d4b27224a585f478ef0.ts
 FX-HD,p2p://fccsovh.pvbox.live:18912/5b593b240003f74712fd6fb8bd5dd88d.ts
 FX BR,p2p://fccsovh.pvbox.live:18912/5bee4fe4000da18119cf9bdc77751126.ts
 FXX,p2p://fccsovh.pvbox.live:18912/5b593b280001f82cd3770de967771fa9.ts
-
 FYI,p2p://fccsovh.pvbox.live:18912/5b1408f20005adce5c807f8c5bf4b915.ts
 Globo BR,p2p://fccsovh.pvbox.live:18912/5bee4ff300052ad419cfd451540a51e7.ts
 Globo News BR,p2p://fccsovh.pvbox.live:18912/5bee4fe8000703ee19cfa9c71ef3354d.ts
@@ -224,7 +219,6 @@ GOOD TV ,p2p://fccsovh.pvbox.live:18912/5bdbf39200017a4bd216f86f7a511c7b.ts
 H2 BR,p2p://fccsovh.pvbox.live:18912/5bee505000021cd419d13ece756a3840.ts
 HALLMARK,p2p://fccsovh.pvbox.live:18912/5b593baf000ba098d3791fb204863a7e.ts
 HALLMARK-MOVIES,p2p://fccsovh.pvbox.live:18912/5b593bb300063efdd3792dfb31576d19.ts
-
 HBO BR,p2p://fccsovh.pvbox.live:18912/5bee505a0007dda519d1675558a62e43.ts
 HBOCA,p2p://fccsovh.pvbox.live:18912/5cf559de000079ada45d301a8597588f.ts
 HBOCA2,p2p://fccsovh.pvbox.live:18912/5cffd799000ddb7629c67b6a50cd1360.ts
@@ -238,8 +232,6 @@ HBO Signature HD,p2p://fccsovh.pvbox.live:18912/5e04845d000c11bbd7c2e28732a4d0b6
 HBO SIGNATURE WEST,p2p://fccsovh.pvbox.live:18912/5b593bbb00085133f733c0891e1414f6.ts
 HBO ZONE EAST,p2p://fccsovh.pvbox.live:18912/5b593bbf0007e641d3795d485e3e1ddf.ts
 HGTV-HD,p2p://fccsovh.pvbox.live:18912/5b593bc300073eb4d3796cb908774fa7.ts
-
-
 HKC新闻,p2p://fccsovh.pvbox.live:18912/5b13f6f100047cdef116a580a70f5211.ts
 HKS,p2p://fccsovh.pvbox.live:18912/5b14096a000c1de241abdf0cc5e4e223.ts
 HTV3,p2p://fccsovh.pvbox.live:18912/5c09fd92000ee7d685ee0bea73414b7b.ts
@@ -274,8 +266,6 @@ Indonesia_TVRI sport HD,p2p://fccsovh.pvbox.live:18912/5c90a38c0002fa2193e6618c3
 Indonesia_Wesal TV,p2p://fccsovh.pvbox.live:18912/5c90a3800009c987331b0049c28cd28e.ts
 Indosiar,p2p://fccsovh.pvbox.live:18912/5d72049d000b4a34dad4d97efac57bd2.ts
 INETV,p2p://fccsovh.pvbox.live:18912/5e09d68300052a2e09fdd84a462e2174.ts
-
-
 JGOLF,p2p://fccsovh.pvbox.live:18912/5b1289d500043f9111f8046e4ae94505.ts
 Jim Jam,p2p://fccsovh.pvbox.live:18912/5bee55260000bdfd19e4226050ff0fcf.ts
 JSPORTS1,p2p://fccsovh.pvbox.live:18912/5b140a6600006f2575dc13e77ce581ca.ts
@@ -326,7 +316,6 @@ Motors TV,p2p://fccsovh.pvbox.live:18912/5bee5530000a4ef819e44be12c7f2f2e.ts
 Motor Vision,p2p://fccsovh.pvbox.live:18912/5bee55340002117319e4596e0f8e4e34.ts
 Movie Network 1,p2p://fccsovh.pvbox.live:18912/5cffd5c70005b65a0db34d3e4370b3fe.ts
 MSNBC-HD,p2p://fccsovh.pvbox.live:18912/5b593bde000d6234d379d7c74dd8781f.ts
-
 MTV Portuga,p2p://fccsovh.pvbox.live:18912/5bee553e00096e2619e482530bc42026.ts
 Multishow,p2p://fccsovh.pvbox.live:18912/5bee51cb000be33919d709c711d03dde.ts
 Music Box,p2p://fccsovh.pvbox.live:18912/5bee51cf00025dc319d716f615a56ce3.ts
@@ -361,7 +350,6 @@ Nickelodeon BR,p2p://fccsovh.pvbox.live:18912/5b2e22ac0000d4b0af61e1059dba881a.t
 NICK JR BR,p2p://fccsovh.pvbox.live:18912/5bee51e00007a3fd19d75ab60ece75c8.ts
 NICKTOONS,p2p://fccsovh.pvbox.live:18912/5b593c97000172abd37ca75318991f6f.ts
 NOWTV,p2p://fccsovh.pvbox.live:18912/5b20e3ae00008df9cb61dda6161ad58f.ts
-
 NURSERY-RHYMES,p2p://fccsovh.pvbox.live:18912/5b593c9a000e9724d37cb67625705e09.ts
 OCN영화,p2p://fccsovh.pvbox.live:18912/5b140a0b00047d0b17d4d76e781d06da.ts
 Odisseia,p2p://fccsovh.pvbox.live:18912/5bee554c000badfb19e4b99f5a4704c5.ts
@@ -479,8 +467,6 @@ Thanthi TV,p2p://fccsovh.pvbox.live:18912/5d720280000a157e114e27b170861dfc.ts
 THVL1 HD,p2p://fccsovh.pvbox.live:18912/5b57f131000465e5ce6e21ae70436c42.ts
 THVL2 HD,p2p://fccsovh.pvbox.live:18912/5b569f230002e0c3c9459a90537f18a7.ts
 Times Now,p2p://fccsovh.pvbox.live:18912/5d720294000b83d2114e762f4f033fdb.ts
-
-
 TNN2,p2p://fccsovh.pvbox.live:18912/5d7206f1000b4cc0115f816767e8209f.ts
 TNT-HD,p2p://fccsovh.pvbox.live:18912/5b593cbe000ae51ad37d421c15cb43a5.ts
 TNT BR,p2p://fccsovh.pvbox.live:18912/5bee53590008799819dd1b8c133a48e0.ts
@@ -489,7 +475,6 @@ TOKYOMX,p2p://fccsovh.pvbox.live:18912/5b140a55000aec9d3c66e9cd1a26a090.ts
 Toros TV,p2p://fccsovh.pvbox.live:18912/5bee55ed000a65da19e72e291e247cb6.ts
 Trans TV,p2p://fccsovh.pvbox.live:18912/5d72049c00008f64115662a03e9726b6.ts
 Trans TV 7,p2p://fccsovh.pvbox.live:18912/5d720497000648691156508f0a0c4909.ts
-
 TRAVEL-CHANNEL,p2p://fccsovh.pvbox.live:18912/5b593cc2000954d9d37d515e0cf90580.ts
 Travel Channel,p2p://fccsovh.pvbox.live:18912/5bee55f1000baa0519e73e2725054b83.ts
 TRU-TV,p2p://fccsovh.pvbox.live:18912/5b593cc60006374fd37d60235fe423e2.ts
@@ -501,10 +486,8 @@ TSN2,p2p://fccsovh.pvbox.live:18912/5cffd792000e927a29c66041424e5220.ts
 TSN3,p2p://fccsovh.pvbox.live:18912/5cffd7940009905b29c666c80f1c3c18.ts
 TSN4,p2p://fccsovh.pvbox.live:18912/5cffd7960007e5d529c66e2b73982d18.ts
 TSN5,p2p://fccsovh.pvbox.live:18912/5cffd798000451f529c6751156f32d26.ts
-
 TV5,p2p://fccsovh.pvbox.live:18912/5b1409220005714cf91c82a47f2be10c.ts
 TV5MONDE,p2p://fccsovh.pvbox.live:18912/5b1409220005714cf91c82a47f2be10c.ts
-
 TV9,p2p://fccsovh.pvbox.live:18912/5bdfc2aa000be3f8cf1a39dfdb7a36b6.ts
 TVBHD,p2p://fccsovh.pvbox.live:18912/5cf559f800003d1b2ebdb6e7a1ee7eb7.ts
 TVBS,p2p://fccsovh.pvbox.live:18912/5b140960000c982bc8f85533fae5c65d.ts
@@ -571,7 +554,6 @@ WOOHOO,p2p://fccsovh.pvbox.live:18912/5bee4fb60008c9ee19cee6f4655d66c0.ts
 WOWOWシネマ,p2p://fccsovh.pvbox.live:18912/5b140a570007960611bf2788b89d022d.ts
 WOWOWプライム,p2p://fccsovh.pvbox.live:18912/5b140a5800021a3937aac3025551903a.ts
 WOWOWライブ,p2p://fccsovh.pvbox.live:18912/5b140a570005eb2146b1433ae5ac5c74.ts
-
 YAS SPORTS,p2p://fccsovh.pvbox.live:18912/5bee553b00031c9919e4750542353428.ts
 YTNHD,p2p://fccsovh.pvbox.live:18912/5b140a0c0006a200907fac1355fa8ed0.ts
 Zee Actions,p2p://fccsovh.pvbox.live:18912/5d720286000607ee114e3e170c135faa.ts
@@ -608,18 +590,15 @@ Z频道,p2p://fccsovh.pvbox.live:18912/5b14094a00088a563ab90b72089780b8.ts
 东森洋片,p2p://fccsovh.pvbox.live:18912/5b14092300021ad122881d3a37581383.ts
 东森电影 HD,p2p://fccsovh.pvbox.live:18912/5b1409f20009bbe23a77313125ba9210.ts
 东森财经,p2p://fccsovh.pvbox.live:18912/5b1409f30008c7763c1d409c9d274c77.ts
-
 中天亞洲,p2p://fccsovh.pvbox.live:18912/5b1409220008c84fa9151ef1245af0e2.ts
 中天娛樂,p2p://fccsovh.pvbox.live:18912/5b1409f300034b94ebf0beb069f53d4a.ts
 中天新聞,p2p://fccsovh.pvbox.live:18912/5b14096a000dc917f52efaf319558cad.ts
 中天新聞,p2p://fccsovh.pvbox.live:18912/5c2dd72e0002527b8af7a528efc80dec.ts
 中天綜合,p2p://fccsovh.pvbox.live:18912/5b14096a0007d345b0e4116fc680a615.ts
-
 中視 HD,p2p://fccsovh.pvbox.live:18912/5b14095f00075e71480f6c853078bfc0.ts
 中視新聞,p2p://fccsovh.pvbox.live:18912/5b14095e000f3774d079e8312ab51b46.ts
 中視新聞,p2p://fccsovh.pvbox.live:18912/5b14095e000f3774d079e8312ab51b46.ts
 互动新聞,p2p://fccsovh.pvbox.live:18912/5b1409fc000a355e58ad23d7d664a21b.ts
-
 今日俄罗斯,p2p://fccsovh.pvbox.live:18912/5b1409fc00006f1fc08cd16b0d3a6538.ts
 伟来电影,p2p://fccsovh.pvbox.live:18912/5b140922000ebd5bf25650fc689b042b.ts
 佛卫慈悲台,p2p://fccsovh.pvbox.live:18912/5bdbf39c000a4154d21721c16bc7247c.ts
