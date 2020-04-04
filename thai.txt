@@ -168,17 +168,7 @@ COMEDY-CENTRAL,p2p://fccsovh.pvbox.live:18912/5b593ae50004c1b3d37608dd4adb03fa.t
 Comedy Central BR,p2p://fccsovh.pvbox.live:18912/5bee4e780009e08319ca0d023ac351c5.ts
 CTS,p2p://fccsovh.pvbox.live:18912/5e09d68c0006d56909fdfbe00315734a.ts
 CW-HD,p2p://fccsovh.pvbox.live:18912/5b593ae900043458d376185e45e46b15.ts
-Discovery,p2p://fccsovh.pvbox.live:18912/5bf4f3d1000938ef33bff08b58107436.ts
-Discovery BR,p2p://fccsovh.pvbox.live:18912/5bee4e830000792b19ca359942847fe8.ts
-Discovery Civilization,p2p://fccsovh.pvbox.live:18912/5bee4e860006918a19ca42d74e5c2169.ts
-DISCOVERY HD,p2p://fccsovh.pvbox.live:18912/5b14092b000cd4e0ed640b773543624a.ts
-Discovery Home Health,p2p://fccsovh.pvbox.live:18912/5bee4e89000e17d319ca50831e4746cf.ts
-Discovery Kids,p2p://fccsovh.pvbox.live:18912/5bee4e8d000586a619ca5df12c78027d.ts
-Discovery Science BR,p2p://fccsovh.pvbox.live:18912/5bee4e90000c4e2119ca6b6e513a3de2.ts
-Discovery Theater,p2p://fccsovh.pvbox.live:18912/5bee4e9400035d9f19ca78bc246f50ff.ts
-Discovery Turbo,p2p://fccsovh.pvbox.live:18912/5bee4e97000ce6c919ca86e56c7d0761.ts
-Discovery WORLD,p2p://fccsovh.pvbox.live:18912/5bee4e9b0004056f19ca944341e3368d.ts
-DISCOVERY科學頻道 HD,p2p://fccsovh.pvbox.live:18912/5b14093f000e802b696378db44987f83.ts
+
 DISNEY-CHANNEL,p2p://fccsovh.pvbox.live:18912/5b593aed0000362178e744fc4c1c5fd9.ts
 DISNEY-JR(backup),p2p://fccsovh.pvbox.live:18912/5b593af10003ba928f3aa4c807289811.ts
 DISNEY-JR,p2p://fccsovh.pvbox.live:18912/5b593af10003ba928f3aa4c807289811.ts
@@ -1546,6 +1536,7 @@ HBO HD,http://hzyhjg.cc/cs/gat/hbo.php
 HBO HD,mitv://198.255.74.57:12396/5e50206900060f303d32a25155c14c28.ts
 HBO Hits,mitv://198.255.74.57:12396/5e502066000b276d3d3297e76f60aed2.ts
 HBO Signature HD,mitv://198.255.74.57:12396/5e502066000a4dfd3d3297afe1778d3a.ts
+HBO2,p2p://fccsovh.pvbox.live:18912/5bee4e860006918a19ca42d74e5c2169.ts
 FOX HD,mitv://198.255.74.57:12396/5e502066000877783d329737605eb25c.ts
 FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 FOX动作电影,mitv://198.255.74.57:12396/5e5020660007a1523d32970079e9e50d.ts
@@ -1616,8 +1607,18 @@ BBC EARTH,p2p://fccsovh.pvbox.live:18912/5b1408f200071c8b1d67497b97d9cb56.ts
 BBC EARTH,mitv://198.255.74.57:12396/5e50205d0001e9d53d327261fee45820.ts
 Discovery HD,mitv://198.255.74.57:12396/5e50206600013e233d32955d22107029.ts
 Discovery 動力頻道 HD,mitv://198.255.74.57:12396/5e5020630008a5db3d328b8b20e3013a.ts
-Discovery 科學頻道 HD,mitv://198.255.74.57:12396/5e5020630007d4173d328b5569e28401.ts
+DISCOVERY 科學頻道,p2p://fccsovh.pvbox.live:18912/5b14093f000e802b696378db44987f83.ts
+Discovery 科學頻道,mitv://198.255.74.57:12396/5e5020630007d4173d328b5569e28401.ts
 Discovery EVE HD,mitv://198.255.74.57:12396/5e5020630006fd943d328b1ef0db2936.ts
+Discovery,p2p://fccsovh.pvbox.live:18912/5bf4f3d1000938ef33bff08b58107436.ts
+Discovery BR,p2p://fccsovh.pvbox.live:18912/5bee4e830000792b19ca359942847fe8.ts
+DISCOVERY HD,p2p://fccsovh.pvbox.live:18912/5b14092b000cd4e0ed640b773543624a.ts
+Discovery Home Health,p2p://fccsovh.pvbox.live:18912/5bee4e89000e17d319ca50831e4746cf.ts
+Discovery Kids,p2p://fccsovh.pvbox.live:18912/5bee4e8d000586a619ca5df12c78027d.ts
+Discovery Science BR,p2p://fccsovh.pvbox.live:18912/5bee4e90000c4e2119ca6b6e513a3de2.ts
+Discovery Theater,p2p://fccsovh.pvbox.live:18912/5bee4e9400035d9f19ca78bc246f50ff.ts
+Discovery Turbo,p2p://fccsovh.pvbox.live:18912/5bee4e97000ce6c919ca86e56c7d0761.ts
+Discovery WORLD,p2p://fccsovh.pvbox.live:18912/5bee4e9b0004056f19ca944341e3368d.ts
 國家地理,mitv://198.255.74.57:12396/5e502063000621963d328ae6b3104a59.ts
 国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 国家地理,http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/03.m3u8
