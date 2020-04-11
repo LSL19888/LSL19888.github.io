@@ -19,17 +19,7 @@ MTV LIVE音乐现场,mitv://147.135.39.171:9906/5d9a2a6100044aa29cb0ceb915667a36
 nickelodeon,mitv://147.135.39.171:9906/5d0e403800011a4910fbd8d44f7a61bc.ts
 Nick Jr.(英语),mitv://147.135.39.171:9906/5dea9391000dacc55a02c39228854fcb.ts
 Smart知识台,mitv://147.135.39.171:9906/5d9a2742000e598d9ca4a0311f605579.ts
-TLC旅游台,mitv://147.135.39.171:9906/5cc692b800066481faf4b217169a5a1b.ts
-TVBS新聞台,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
-TVBS精采台,mitv://147.135.39.171:9906/5defdaa1000270e46ea0686a48260896.ts
-三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
-三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
-中天娱乐,mitv://147.135.39.171:9906/5defdaa0000974136ea066475c980b2d.ts
-中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-中视新聞HD,mitv://147.135.39.171:9906/5cc68d1700024b76fadeb42526e50971.ts
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-亚洲美食,mitv://147.135.39.171:9906/5d9a2611000610959c9ff6b605c1339e.ts
 亞美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 亞美卫视,https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
@@ -1412,6 +1402,7 @@ TVB韩剧台,msc://CKDrama5
 台湾频道,#genre#
 美食星球,p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
 美食星球,mitv://198.255.74.57:12396/5e50206c000654453d32ae1b5afec589.ts
+亚洲美食,mitv://147.135.39.171:9906/5d9a2611000610959c9ff6b605c1339e.ts
 亚洲美食,p2p://fccsovh.pvbox.live:18912/5b1409da000c9801f2b123a3aa339358.ts
 亚洲旅游台,p2p://fccsovh.pvbox.live:18912/5b14091700094183808c0d500b4af72d.ts
 亚洲旅游台,p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
@@ -1432,7 +1423,9 @@ EYETV旅遊,mitv://198.255.74.57:12396/5e5020720008ef0c3d32c635ae7465a3.ts
 新唐人旧金山台,https://live.ntdimg.com/sflive990/playlist.m3u8
 新唐人中国台,https://live2.ntdimg.com/cnlive/playlist.m3u8
 MTV,mitv://198.255.74.57:12396/5e50205a000ebcb83d3269f26f1a2952.ts
+TVBS精采台,mitv://147.135.39.171:9906/5defdaa1000270e46ea0686a48260896.ts
 TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
+TVBS新聞台,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 TVBS新聞台,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 TVBS新聞台,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 TVBS新聞台,mitv://198.255.74.57:12396/5e6221ab00014e4d83878aea2dc55415.ts
@@ -1463,6 +1456,7 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 中视,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 中视,mitv://198.255.74.57:12396/5e50207d000f40db3d32f2ccd7024e22.ts
 中視经典,mitv://198.255.74.57:12396/5e50207e0000d1d03d32f302794f5a5c.ts
+中視新聞臺,mitv://147.135.39.171:9906/5cc68d1700024b76fadeb42526e50971.ts
 中視新聞臺,mitv://198.255.74.57:12396/5e50207d000e62303d32f293431c706e.ts
 中视无线,http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 公視,mitv://198.255.74.57:12396/5e50207d000d889c3d32f25b1c7040cb.ts
@@ -1492,6 +1486,8 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 三立臺灣臺,http://hzyhjg.cc/cs/gat/sltwt.php
 三立臺灣臺,p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
 三立臺灣臺,mitv://198.255.74.57:12396/5e502078000545983d32dcb5287bf09f.ts
+三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
+三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 三立新闻,p8p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts
 三立新闻,http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
@@ -1513,10 +1509,11 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 中天新闻,http://47.56.167.95/iptv222.php?id=44
 中天新闻,http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天新闻,mitv://198.255.74.57:12396/5e5020760002596e3d32d426fb68dbf7.ts
+中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 中天综合,http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 中天综合,mitv://198.255.74.57:12396/5e502076000183ec3d32d3ef91816888.ts
-中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-中天娛樂,mitv://198.255.74.57:12396/5e502075000f15303d32d380125e5682.ts
+中天娱乐,mitv://147.135.39.171:9906/5defdaa0000974136ea066475c980b2d.ts
+中天娱乐,mitv://198.255.74.57:12396/5e502075000f15303d32d380125e5682.ts
 中天亚洲台,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 东森新闻,http://hzyhjg.cc/cs/gat/dsxw.php
 东森新闻,http://47.56.167.95/iptv222.php?id=46
@@ -1674,7 +1671,8 @@ AXN,p2p://fccsovh.pvbox.live:18912/5b140922000388777bb32b1976c6ed6e.ts
 AXN,mitv://198.255.74.57:12396/5e50205a000d08a03d3269822cde8583.ts
 EVE,p2p://fccsovh.pvbox.live:18912/5bdbf3a000041d6ad2172fcb0dab6930.ts
 EVE,p2p://fccsovh.pvbox.live:18912/5b14093f00043fac197259a079c29ab4.ts
-TLC,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2efc77901768ade973b.ts
+TLC旅游台,mitv://147.135.39.171:9906/5cc692b800066481faf4b217169a5a1b.ts
+TLC旅游台,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2efc77901768ade973b.ts
 探索頻道高清,mitv://198.255.74.57:12396/5e502066000338553d3295dfd719c2b1.ts
 探索(臺灣),mitv://198.255.74.57:12396/5e5020660001872e3d3295709b567b51.ts
 BBC经典,http://qdntv96789.applinzi.com/96tv.php?633138330
