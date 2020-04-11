@@ -1,12 +1,4 @@
 198P2P,#genre#
-鳳凰中文臺 HD,mitv://198.255.74.56:19906/5dcf835d00003223057e0ab1ecce4f95
-阿裏郎電視臺,mitv://198.255.74.56:19906/5dcf8379000d997b057e7b7f64a28ab5
-CNBC,mitv://198.255.74.56:19906/5dcf8386000ce8b3057eae1aa9b3358c
-CCTV-1 綜合 HD,mitv://198.255.74.56:19906/5dcf8392000af976057edc7bb248b791
-湖南衛視 HD,mitv://198.255.74.56:19906/5dcf839f000ef099057f104714f8b569
-浙江衛視 HD,mitv://198.255.74.56:19906/5dcf83ad00016f6a057f43823a0bc4ed
-江蘇衛視 HD,mitv://198.255.74.56:19906/5dcf83e80005345705802af1b28c41a3
-東方衛視 HD,mitv://198.255.74.56:19906/5dcf83fa000bc820058072f0ad252daa
 5m Kitchen Hacks,https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
 5m Life Hacks,https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
 5m Quick Crafts,https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
@@ -1027,6 +1019,7 @@ CCTV-1 綜合,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001
 CCTV-1 綜合,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000133.m3u8
 CCTV-1 綜合,http://39.135.135.82:80/wh7f454c46tw2586129421_-1455745702/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225587/index.m3u8?icpid=88888888&RTS=1583531258&from=1&hms_devid=1011
 CCTV-1 綜合,mitv://198.255.74.57:12396/5e50205a00071a0e3d3267fdc3310ef3.ts
+CCTV-1 綜合,mitv://198.255.74.56:19906/5dcf8392000af976057edc7bb248b791
 CCTV-2 財經,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
 CCTV-2 財經,p2p://fccsovh.pvbox.live:18912/5b1409fd000904684d6c6cb76d9ca6b0.ts
 CCTV-2 財經,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
@@ -1137,6 +1130,7 @@ CCTV懷舊劇場,mitv://198.255.74.57:12396/5e502055000318803d32536f72725c14.ts
 广西卫视,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294202.m3u8
 广西卫视,mitv://198.255.74.57:12396/5e5020510005358d3d3244594478a917.ts
 新疆卫视,http://39.134.65.3:80/wh7f454c46tw2588291386_-362255696/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=11
+江苏卫视,mitv://198.255.74.56:19906/5dcf83e80005345705802af1b28c41a3
 江苏卫视,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295602.m3u8
 江苏卫视,mitv://198.255.74.57:12396/5e50205500006e553d3252c05c7da769.ts
 江西卫视,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294102.m3u8
@@ -1144,6 +1138,7 @@ CCTV懷舊劇場,mitv://198.255.74.57:12396/5e502055000318803d32536f72725c14.ts
 河北卫视,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293402.m3u8
 河北卫视,mitv://198.255.74.57:12396/5e50205100088e3b3d32453579965eb5.ts
 河南卫视,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296102.m3u8
+浙江卫视,mitv://198.255.74.56:19906/5dcf83ad00016f6a057f43823a0bc4ed
 浙江卫视,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295502.m3u8
 浙江卫视,mitv://198.255.74.57:12396/5e502055000142a23d3252f772551c7f.ts
 海南三亚,http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
@@ -1151,6 +1146,7 @@ CCTV懷舊劇場,mitv://198.255.74.57:12396/5e502055000318803d32536f72725c14.ts
 湖北卫视,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294502.m3u8
 湖北卫视,mitv://198.255.74.57:12396/5e5020510007b8bb3d3244fe5743334b.ts
 湖南公共,http://phoneal.qing.mgtv.com/nn_live/nn_x64/cz02MmI1ZGFlMDI3MGY5YTgzOGFmNTkyYTQzMzkyYmYxZiZlcz0xNTgzNTYwMDI4JnV1aWQ9YjYwY2NiZTdjYzkyNmJkZWM2MTViMGY2ZDFhZjlmMTgtNzJmZTIwZDYmdj0yJmFzPTAmY2RuZXhfaWQ9YWxfcGhvbmUz/HNGGMPP360.m3u8
+湖南卫视,mitv://198.255.74.56:19906/5dcf839f000ef099057f104714f8b569
 湖南卫视,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296202.m3u8
 湖南卫视,mitv://198.255.74.57:12396/5e502055000238583d325335e5d5ac95.ts
 湖南国际,http://phonews.qing.mgtv.com/nn_live/nn_x64/cz0xOWZiZjliNjdmMGU3MDk1NjllODcwNjI4MTc1YTFhYiZlcz0xNTgzNTYwMDI4JnV1aWQ9ODU5ZjlmNDQzZmM4Mjg3ZWM5ZWI1YzhhNDg3YjQ2NzYtNzJmZTIwZDYmdj0yJmFzPTAmY2RuZXhfaWQ9d3NfcGhvbmUz/HNGJMPP360.m3u8
@@ -1199,6 +1195,7 @@ CCTV懷舊劇場,mitv://198.255.74.57:12396/5e502055000318803d32536f72725c14.ts
 大连6,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000006.m3u8
 大连7,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000007.m3u8
 徐州2,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+东方卫视,mitv://198.255.74.56:19906/5dcf83fa000bc820058072f0ad252daa
 东方卫视,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292402.m3u8
 东方卫视,mitv://198.255.74.57:12396/5e502054000ed5673d325288f43ee659.ts
 东方财经,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000066.m3u8
@@ -1305,6 +1302,7 @@ TVB经典,mitv://198.255.74.57:12396/5e50207e00027a993d32f36ee2982d43.ts
 凤凰资讯HD,http://223.82.250.72/live/fhzixun/1.m3u8
 鳳凰衛視,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
 鳳凰衛視,p8p://0198.02686.cc:16871/5d8c9f670007a9fa196ffb97ed55bbac.ts
+凤凰卫视中文台,mitv://198.255.74.56:19906/5dcf835d00003223057e0ab1ecce4f95
 凤凰卫视中文台,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
 凤凰卫视中文台,mitv://198.255.74.57:12396/5e502080000f31733d32fe803275a3b2.ts
 凤凰卫视中文台,http://103.145.38.152/axg.php?id=2
@@ -1740,6 +1738,7 @@ CNN,p2p://fccsovh.pvbox.live:18912/5b140954000dc92aa17edadd8e0a2886.ts
 CNN,p2p://fccsovh.pvbox.live:18912/5b593947000cff32c5b9f462a6c98e1d.ts
 CNN,mitv://198.255.74.57:12396/5e50205a000c2c553d32694a1621c2de.ts
 CNN,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
+CNBC,mitv://198.255.74.56:19906/5dcf8386000ce8b3057eae1aa9b3358c
 CNBC,mitv://198.255.74.57:12396/5e50205a000b57c63d326913b982a83f.ts
 Boomerang,p2p://fccsovh.pvbox.live:18912/5b1409da0008112422174354e32b30be.ts
 Boomerang,mitv://198.255.74.57:12396/5e50205a000a7e343d3268dcd755d8dc.ts
@@ -1841,6 +1840,7 @@ CH.1,p8p://0198.02686.cc:16871/5d1a6970000ba43811bcd59c32d704df.ts
 TGN,p8p://0198.02686.cc:16871/5d1a69ee00020c6911bebf57495301ab.ts
 
 日韩频道,#genre#
+阿裏郎電視臺,mitv://198.255.74.56:19906/5dcf8379000d997b057e7b7f64a28ab5
 日テレ,mitv://198.255.74.57:12396/5e50204e0009aa5d3d3239c543cfa0bd.ts
 テレビ朝日,mitv://198.255.74.57:12396/5e50204e0008ca063d32398c8dcfc290.ts
 フジテレビ,mitv://198.255.74.57:12396/5e50204e0007f4623d323955ed696fd1.ts
