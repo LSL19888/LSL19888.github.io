@@ -2,10 +2,7 @@
 5m Kitchen Hacks,https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
 5m Life Hacks,https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
 5m Quick Crafts,https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
-Animax,mitv://147.135.39.171:9906/5d9a25ad00050d2e9c9e6fc864b540d4.ts
-BBC Cbeebies,mitv://147.135.39.171:9906/5dea93910008156c5a02c21b24cc6be4.ts
-Boomerang卡通(英语),mitv://147.135.39.171:9906/5dea9390000d3b785a02bf8a11dd08b9.ts
-Boomerang卡通频道,mitv://147.135.39.171:9906/5defdab700000f496ea0bdbd5c1a54bc.ts
+
 Channel 5,mitv://147.135.39.171:9906/5d0288710009e124e31d2feb423e20a7.ts
 mediacorp,mitv://147.135.39.171:9906/5d62c431000d1a95beb0b1da511854d1.ts
 CinemaWorld,mitv://147.135.39.171:9906/5d9a26b0000d33d29ca265a2789e70ab.ts
@@ -1667,6 +1664,11 @@ Star Movies HD (Middle East),http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m
 Star World HD (Middle East),http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8#http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8#http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 
 美国频道,#genre#
+Animax,mitv://147.135.39.171:9906/5d9a25ad00050d2e9c9e6fc864b540d4.ts
+
+Boomerang卡通(英语),mitv://147.135.39.171:9906/5dea9390000d3b785a02bf8a11dd08b9.ts
+Boomerang卡通频道,mitv://147.135.39.171:9906/5defdab700000f496ea0bdbd5c1a54bc.ts
+
 AXN,p2p://fccsovh.pvbox.live:18912/5b140922000388777bb32b1976c6ed6e.ts
 AXN,mitv://198.255.74.57:12396/5e50205a000d08a03d3269822cde8583.ts
 EVE,p2p://fccsovh.pvbox.live:18912/5bdbf3a000041d6ad2172fcb0dab6930.ts
@@ -1683,6 +1685,7 @@ BBC Lifestyle,p2p://fccsovh.pvbox.live:18912/5b1408f2000906bdaf3ac58dff31c53a.ts
 BBC Lifestyle,mitv://198.255.74.57:12396/5e50205d0002c5af3d32729a005fd26e.ts
 BBC EARTH,p2p://fccsovh.pvbox.live:18912/5b1408f200071c8b1d67497b97d9cb56.ts
 BBC EARTH,mitv://198.255.74.57:12396/5e50205d0001e9d53d327261fee45820.ts
+
 Discovery HD,mitv://198.255.74.57:12396/5e50206600013e233d32955d22107029.ts
 Discovery 動力頻道 HD,mitv://198.255.74.57:12396/5e5020630008a5db3d328b8b20e3013a.ts
 DISCOVERY 科學頻道,p2p://fccsovh.pvbox.live:18912/5b14093f000e802b696378db44987f83.ts
@@ -1896,6 +1899,7 @@ WWE,p2p://fccsovh.pvbox.live:18912/5cffd5d900072496c95ce4a4fb8fbaad.ts
 WWE,p2p://fccsovh.pvbox.live:18912/5b593cdd0007b4d43500174365b90e70.ts
 
 亲子卡通,#genre#
+BBC Cbeebies,mitv://147.135.39.171:9906/5dea93910008156c5a02c21b24cc6be4.ts
 精品动画,http://aldirect.rtmp.huya.com/huyalive/1448731701-1448731701-6222255276473450496-2789274560-10057-A-0-1.m3u8
 CN 卡通,mitv://198.255.74.57:12396/5e5020600002ee833d327e5c1e2a9504.ts
 CARTOON-NETWORK,p8p://0198.02686.cc:16871/5d1a696d0001979411bcc7516aeb2236.ts
