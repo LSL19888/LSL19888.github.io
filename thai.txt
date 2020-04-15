@@ -8,13 +8,13 @@ adddd,#genre#
 功夫台,tvbus://3UDxSDBsNf7wbYsxBLm5SuD3ZRXLavzGGRseREr62WmGuxBPUr
 now直播,tvbus://3JGDpXioJpH6NRBQFeUgju8mCcYQUHiFYz6GRBkkSWnbGPRABS
 now新闻,tvbus://3iBaeeta2PhkXUTh6G9jzKNjGn98D72gUnhB8QxsqnPr9JgXuB
-香港開電視,tvbus://4tEWVwazfYxEPmrqU5Xhr9GNDF7a9LR3JXhDKX2MFWRwoJYTDN
+
 now sport prime,tvbus://3uEWvczEzfF8ZRzBh1YYaP76zdHhqw6ZMWqkBJCSedb4oXFt2S
 有線體育,tvbus://4i5jLEWEzxnQbezFuJRwgJTuVnRnAniDYC7WxeJLdskPhCTYvE
-有線18臺,tvbus://4JxHjvQYy8ejrj2dJYMurugKF1VV418b4k5yrSB2C4JNdVVMv1
-有線財經,tvbus://3WLtb7Fwsr5CRigDf6uK3mX83q3QXFXh6pBXum8Ebq58u1327W
-有線娛樂,tvbus://3CrMPFZqaFxTGeDtQX2E5gkF6ZdVKk2bj72ff3RTSwJdYWwhg6
-有線電影,tvbus://4f5jNLdAYjb6hn5rU9HCA8atb5cJwx9PK41ZDunEG66ymTVyXE
+
+
+
+
 澳門蓮花,tvbus://4nWfBmd6L8EmK4UPZbCNRALnGVq9b18Fx7mhLttnHbjdFmBKnd
 有線體育2,tvbus://3VVyGVyQB7hhcuRxWDKb7nxgCqJcBSkZCd9qBnWGp3k5hH74uf
 星空衛視,tvbus://4WgJvu3twfaxg3KT9ifofPST2Jjty1UmoVeK5X48WXgpgbfjEs
@@ -3240,11 +3240,11 @@ TVB无线财经资讯台,http://hzyhjg.cc/cs/gat/wxcjzx.php
 TVB无线财经资讯台,p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
 TVB无线财经资讯台,mitv://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts
 TVB无线财经资讯台,P2p://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8
+TVB明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
 TVB明珠台,http://hk.tv0668.com/dl/hk520.php?id=13
 TVB明珠台,http://hzyhjg.cc/cs/gat/mzt-2.php
 TVB明珠台,http://103.145.38.152/axg.php?id=13
 TVB明珠台,mitv://198.255.74.57:12396/5e5020810005fbee3d33000cecd53652.ts
-TVB明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
 TVB明珠台,p8p://0198.02686.cc:16871/5d1a69c0000460ab11be0c40e08de9fb.ts
 TVB明珠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 TVB明珠台,P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9
@@ -3292,12 +3292,13 @@ TVB经典,mitv://198.255.74.57:12396/5e50207e00027a993d32f36ee2982d43.ts
 鳳凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=0738ce47619ffb6578bb658b7d7927d3&txTime=16f9470cacc
 鳳凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe
 鳳凰香港,http://qlive.fengshows.cn/live720p/PHK.flvtxSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
-鳳凰香港,http://223.82.250.72/live/fhhongkong/1.m3u8
 鳳凰香港,mitv://198.255.74.57:12396/5e502080000d81ed3d32fe1146391509.ts
-鳳凰香港1,http://47.56.167.95/iptv222.php?id=4
-香港开電視,http://193.202.44.14/aAxg666.php?id=7
-香港开電視,mitv://198.255.74.57:12396/5e502083000ee1003d330a23da058f45.ts
-香港开電視,http://pull.scphsd.com/live/4a5e54978789269e2ee9de203ae9259b/playlist.m3u8
+鳳凰香港,http://47.56.167.95/iptv222.php?id=4
+鳳凰香港1,http://223.82.250.72/live/fhhongkong/1.m3u8
+香港開電視,tvbus://4tEWVwazfYxEPmrqU5Xhr9GNDF7a9LR3JXhDKX2MFWRwoJYTDN
+香港開電視,http://193.202.44.14/aAxg666.php?id=7
+香港開電視,mitv://198.255.74.57:12396/5e502083000ee1003d330a23da058f45.ts
+香港開電視,http://pull.scphsd.com/live/4a5e54978789269e2ee9de203ae9259b/playlist.m3u8
 ViuTV,tvbus://3NQgHKwgbbKdJ4LhEnt2KuvtxU7zbshzQL3UrV2k3oz5XYNVyS
 ViuTV,http://hk.tv0668.com/dl/hk520.php?id=8
 ViuTV,mitv://198.255.74.57:12396/5e502081000434db3d32ff98c2c3e2b6.ts
@@ -3312,8 +3313,11 @@ ViuTV 6,mitv://198.255.74.57:12396/5e5020810003593f3d32ff5f0b34caac.ts
 有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
 有线新闻台,mitv://147.135.39.171:9906/5dcd25fc000623c838c9e73f44bb7227.ts
 有线新闻台,mitv://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts
-有线娱乐,http://47.56.167.95/iptv222.php?id=34
-有线18台 HD,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch211
+有線財經,tvbus://3WLtb7Fwsr5CRigDf6uK3mX83q3QXFXh6pBXum8Ebq58u1327W
+有線娛樂,tvbus://3CrMPFZqaFxTGeDtQX2E5gkF6ZdVKk2bj72ff3RTSwJdYWwhg6
+有線娛樂,http://47.56.167.95/iptv222.php?id=34
+有線18臺,tvbus://4JxHjvQYy8ejrj2dJYMurugKF1VV418b4k5yrSB2C4JNdVVMv1
+有線18臺,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch211
 有线603,http://hzyhjg.cc/cs/gat/yx603.php
 有线603,http://103.145.38.152/axg.php?id=33
 有线603,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
@@ -3336,6 +3340,7 @@ RTHK32,mitv://198.255.74.57:12396/5e5020810005111f3d32ffd0f7c066b7.ts
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 澳門衛視,http://103.145.38.152/axg.php?id=23
 澳亞衛視,http://103.145.38.152/axg.php?id=24
+有線電影,tvbus://4f5jNLdAYjb6hn5rU9HCA8atb5cJwx9PK41ZDunEG66ymTVyXE
 有线电影台,http://hk.tv0668.com/dl/hk520.php?id=30
 有线电影台,http://103.145.38.152/axg.php?id=30
 澳門互動新聞台,http://103.145.38.152/axg.php?id=26
