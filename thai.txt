@@ -3210,13 +3210,13 @@ TVB翡翠台,http://103.145.38.152/axg.php?id=1
 TVB翡翠台,http://47.56.167.95/iptv222.php?id=1
 TVB翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=188&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv_CMSID=&amp;Fsv_otype=1
 TVB翡翠台,http://hzyhjg.cc/cs/gat/fct.php
+TVB J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB J2,p2p://fccsovh.pvbox.live:18912/5b1409fc000dca06eca585de119eb202.ts
 TVB J2,p2p://fccsovh.pvbox.live:18912/5d122036000a0661eb6b72a190255a05.ts
 TVB J2,http://hk.tv0668.com/dl/hk520.php?id=12
 TVB J2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
 TVB J2,http://103.145.38.152/axg.php?id=12
 TVB J2,http://47.56.167.95/iptv222.php?id=12
-TVB J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB J2,mitv://198.255.74.57:12396/5e5020840001a1223d330aa74cb1ccd5.ts
 TVB J2,http://hzyhjg.cc/cs/gat/tvbj2.php
 TVB无线新闻台,p2p://fccsovh.pvbox.live:18912/5b1409fc000a355e58ad23d7d664a21b.ts
