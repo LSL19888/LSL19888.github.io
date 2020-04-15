@@ -3291,10 +3291,10 @@ TVB经典,mitv://198.255.74.57:12396/5e50207e00027a993d32f36ee2982d43.ts
 鳳凰香港,p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
 鳳凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=0738ce47619ffb6578bb658b7d7927d3&txTime=16f9470cacc
 鳳凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe
+鳳凰香港,http://qlive.fengshows.cn/live720p/PHK.flvtxSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
 鳳凰香港,http://223.82.250.72/live/fhhongkong/1.m3u8
 鳳凰香港,mitv://198.255.74.57:12396/5e502080000d81ed3d32fe1146391509.ts
-鳳凰香港,http://qlive.fengshows.cn/live720p/PHK.flvtxSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
-鳳凰香港,http://47.56.167.95/iptv222.php?id=4
+鳳凰香港1,http://47.56.167.95/iptv222.php?id=4
 香港开電視,http://193.202.44.14/aAxg666.php?id=7
 香港开電視,mitv://198.255.74.57:12396/5e502083000ee1003d330a23da058f45.ts
 香港开電視,http://pull.scphsd.com/live/4a5e54978789269e2ee9de203ae9259b/playlist.m3u8
