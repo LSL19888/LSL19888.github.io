@@ -1,5 +1,5 @@
 adddd,#genre#
-翡翠臺,tvbus://3cQ49Q394wz82zQPDgApQRrFPv57HJ4rmSsBWVGd34ZdiRDqkk
+
 VIUTV,tvbus://3NQgHKwgbbKdJ4LhEnt2KuvtxU7zbshzQL3UrV2k3oz5XYNVyS
 TVB星河,tvbus://2x1hbZ9nHnRxGmUz74sgiW6BfXNr3KFgbbLFgryHAEVvP7UfUD
 RTHK32,tvbus://3vqLa5eRdbsXvENdt3wBAQcCvTvKNRZM2kTNyA4P2FkSmpN23w
@@ -3197,17 +3197,18 @@ CCTV懷舊劇場,mitv://198.255.74.57:12396/5e502055000318803d32536f72725c14.ts
 武汉-3 科技生活,http://live.appwuhan.com/3tzb/sd/live.m3u8
 
 香港频道,#genre#
+TVB翡翠台,tvbus://3cQ49Q394wz82zQPDgApQRrFPv57HJ4rmSsBWVGd34ZdiRDqkk
+TVB翡翠台,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
+TVB翡翠台,P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
+TVB翡翠台,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2
+TVB翡翠台,http://m.567it.com/jade.m3u8
 TVB翡翠台,p2p://fccsovh.pvbox.live:18912/5d1220350000ba2736e444057d22cf40.ts
 TVB翡翠台,p2p://fccsovh.pvbox.live:18912/5b1409fc00088a7f7b26e4559ee943fb.ts
 TVB翡翠台,http://hk.tv0668.com/dl/hk520.php?id=1
 TVB翡翠台,http://hzyhjg.cc/cs/gat/fct-2.php
 TVB翡翠台,http://103.145.38.152/axg.php?id=1
 TVB翡翠台,http://47.56.167.95/iptv222.php?id=1
-TVB翡翠台,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
-TVB翡翠台,http://m.567it.com/jade.m3u8
 TVB翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=188&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv_CMSID=&amp;Fsv_otype=1
-TVB翡翠台,P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
-TVB翡翠台,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2
 TVB翡翠台,http://hzyhjg.cc/cs/gat/fct.php
 TVB J2,p2p://fccsovh.pvbox.live:18912/5b1409fc000dca06eca585de119eb202.ts
 TVB J2,p2p://fccsovh.pvbox.live:18912/5d122036000a0661eb6b72a190255a05.ts
