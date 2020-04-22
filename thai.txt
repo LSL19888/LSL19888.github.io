@@ -147,7 +147,6 @@ BOOMERANG,tvbus://47xi8Mzz72rge8iYXtsW2FmFuHmboGYs5gtYk3XWQ9y1boHsEj
 生命电视,tvbus://4mJbgVibyFJkcVs8cdQYbjHtVjAZcmT7z1u3hYhWPbbB4ECVrQ
 TELETOON,p8p://0198.02686.cc:16871/5de32736000470046b727b5c866d8fd0.ts
 nick.JR,tvbus://3U9ViQVwG9nwnrG5mihr6NHk7KGuEhwq7bL2H8aaLdBpeuDUZF
-亞洲旅遊臺,tvbus://3zfELchgV9vAJozdTxzTzYy9aiRsNqp9vwsMHzZD3WpvqdE838
 旅遊頻道,tvbus://3TZnppz2LvqEML4kxQGYyiYBmkToJAzKRGiRYBpEbCh1jzHUzL
 Star_World_衛視閤家歡,p2p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
 Channel_V_國際娛樂臺HD,tvbus://49XnzsJRo2P9pat1BmKhu8Tk9febW7dZpwwK4vEHYpodmaT3kK
@@ -159,7 +158,6 @@ Fight_Sport_HD,tvbus://3gBnteokbKtEaSmUghYH6UPxpxEbHSd9n7iKY26KqwkosGBV7w
 國會頻道1,tvbus://47Cz5uR7Q2NUuzPiMpiNgj2H7nus1MosypVXoL6Pxf3g6V6j4S
 美亞電影臺,tvbus://4A7AVjTaabYxh66cHDAUZWoBK82X6x6ZRiibxR8fFaLNuGT6TM
 華納電影,tvbus://42BTgvztM8Es2arXFH7owx7hYBW9JQJqMFyExos9poRDP6uanL
-美食星球頻道,tvbus://4ndDYrqSx4PZ7nUCzAxU8GXzMWdZoWnTZ3DeaLSMpez5DNUrJr
 寰宇綜合臺HD,tvbus://4mi5yGDoeTrkJgrzfRjXCeJrcpGgaPrm5RAPY8BB2SjWZgyH95
 好消息2,tvbus://3dE3KkNcxjkzCPYCqYz4UqSB198biD7hHSsKwStj2HZkbBvWdP
 CNBC_Asia_Channel,tvbus://4JGvJvmeMhuAhJ8CbUZtjXCR92MzkXjiKaPVkDfAA7K1nDHMjj
@@ -187,8 +185,7 @@ NBA,tvbus://3CV92y789NguFBLqxLfeENKxQKyoodM1NftH8uYwMjtP5zKzCF
 Eleven_Sport2,tvbus://2ya32EtoX5shs7wC1eMwxMQuoNZqAQYtY1boFdM2jf3Kn772vT
 FOX_CRIME,tvbus://4BejJUuD4UYoKYLi5mQrKsqX1cXBd8AJpSGjyTKjoYMPTTEYPw
 FOX_News_Channel,tvbus://3uVhHiHFb2eMsxD7SjBjvMXsKo4qQS2r8VPPHcknaGLbvr9VDf
-FOOD美食,tvbus://3kdNHNLMdPo9No1qMRc2sBwBrU7rwQf4iaXxETo3ZF67b3kjbu
-亞洲美食頻道,tvbus://34wDUPKvLphNqSJ8411f9a3sWDXAGCDjd4TFBQuTQrv3SGHSHk
+
 BBC_Lifestyle_Channel,tvbus://3srSDfzwBRja3fCBKByF9EYzMGT5zaQWhzXkjktUXNZgT4d36x
 LUXE_TV_Channel,tvbus://4qyTFxU7jptfNEgn2FZ5xbFb96cPU3w7fVfGe5qgmywtaU8LCa
 影迷數位電影臺,tvbus://3PgAKztKWY7o9dumyKjK5fgFkQpCX79xTZAFXJJRLZaZQghyvW
@@ -3440,10 +3437,14 @@ TVB韩剧台,msc://CKDrama5
 
 
 台湾频道,#genre#
+美食星球,tvbus://4ndDYrqSx4PZ7nUCzAxU8GXzMWdZoWnTZ3DeaLSMpez5DNUrJr
 美食星球,p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
 美食星球,mitv://198.255.74.57:12396/5e50206c000654453d32ae1b5afec589.ts
+FOOD美食,tvbus://3kdNHNLMdPo9No1qMRc2sBwBrU7rwQf4iaXxETo3ZF67b3kjbu
+亚洲美食,tvbus://34wDUPKvLphNqSJ8411f9a3sWDXAGCDjd4TFBQuTQrv3SGHSHk
 亚洲美食,mitv://147.135.39.171:9906/5d9a2611000610959c9ff6b605c1339e.ts
 亚洲美食,p2p://fccsovh.pvbox.live:18912/5b1409da000c9801f2b123a3aa339358.ts
+亚洲旅游台,tvbus://3zfELchgV9vAJozdTxzTzYy9aiRsNqp9vwsMHzZD3WpvqdE838
 亚洲旅游台,p2p://fccsovh.pvbox.live:18912/5b14091700094183808c0d500b4af72d.ts
 亚洲旅游台,p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
 亚洲旅游台,mitv://198.255.74.57:12396/5e50206c000726cc3d32ae51701aab94.ts
