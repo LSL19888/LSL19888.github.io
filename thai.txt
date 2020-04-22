@@ -1,4 +1,18 @@
 adddd,#genre#
+8TV,https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08gqiUH7b92wS2wefhMA0-RY)/dm/3/x7a7ru1/s/live-4.m3u8
+AFR7,https://stream-04.sg1.dailymotion.com/sec(39iDNPbzS-KK9aqHY2NME-3elBkFlMfLaT6H2MftmT8)/dm/3/x6vbjdp/d/live-2.m3u8
+AfricaNews,https://stream-02.sg1.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irR3NVg1mmhhcvGCOdc0osKA)/dm/3/x6i7vf8/s/live-3.m3u8
+Afrm,https://stream-01.sg1.dailymotion.com/sec(dgo7N3WuCXm9a9JmNQTDDCYMgH6yG7KT5QOdAVsy97k)/dm/3/x5dk3kj/d/live-3.m3u8
+CNews,https://stream-05.sg1.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgON_S--EWgvqGT8Hm8Ad3C4SZt_OP35EJhwMXJTpszwzK)/p/dm/3/x5idxxp/d/live-4.m3u8
+CRTV,https://stream-01.sg1.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql565zDqPBe-wauxXVPTxzveg_s)/dm/3/x7o9p4a/s/live-3.m3u8
+CRTVN,https://stream-01.sg1.dailymotion.com/sec(izmiISybPbIebK5hk5xt4N3ts7JgFwHJ1XqAbpN8AT4)/dm/3/x7q03jj/s/live-3.m3u8
+EuroNews,https://stream-01.sg1.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa7QW_WABSd94U-cEqRupA70)/dm/3/x2j4h4m/s/live-3.m3u8
+KTNF,https://stream-03.sg1.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql56552wbphL5Ul03XT74CEhbIo)/dm/3/x7opfez/s/live-3.m3u8
+LCP,https://stream-02.sg1.dailymotion.com/sec(LXtmlI0CiuEL3FS4mE_4F1x7xjnM00BLJL64Q1JmpoU)/dm/3/xgepjr/s/live-2.m3u8
+N22,https://stream-03.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSTa2-ZqSr5K04pMCKmXj4ZI)/dm/3/x6eoldf/d/live-2.m3u8
+NTV,https://stream-04.sg1.dailymotion.com/sec(oqY34t1NIwbiLJBkRzm88gJ5oMlej6pBPjO07yC-AXQ)/dm/3/x6shkab/d/live-3.m3u8
+NTV7,https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08hXfcg3X1VWfeBdgzEbSLOU)/dm/3/x7a7rxp/s/live-4.m3u8
+
 超高清 4K,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 CCTV 1,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV 2,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
