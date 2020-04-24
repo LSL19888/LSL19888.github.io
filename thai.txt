@@ -1,4 +1,5 @@
 adddd,#genre#
+aaa,http://live.mytvhd.xyz/qtiptv/vpn.php?id=134040
 8TV,https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08gqiUH7b92wS2wefhMA0-RY)/dm/3/x7a7ru1/s/live-4.m3u8
 AFR7,https://stream-04.sg1.dailymotion.com/sec(39iDNPbzS-KK9aqHY2NME-3elBkFlMfLaT6H2MftmT8)/dm/3/x6vbjdp/d/live-2.m3u8
 AfricaNews,https://stream-02.sg1.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irR3NVg1mmhhcvGCOdc0osKA)/dm/3/x6i7vf8/s/live-3.m3u8
