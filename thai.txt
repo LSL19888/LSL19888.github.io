@@ -1,4 +1,6 @@
 $c_start香港$c_end
+11,sop://broker.sopcast.com:3912/6018
+12,sop://broker1.sopcast.com:3912/6019
 TVB财经台,http://prdsecurelive.ainemo.com/live/225cjcj.flv
 有线新闻台,http://prdsecurelive.ainemo.com/live/2020sanwu.flv
 有线电影台,http://prdsecurelive.ainemo.com/live/yx09hitv.flv
