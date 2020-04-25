@@ -1,3 +1,31 @@
+$c_start香港$c_end
+TVB财经台,http://prdsecurelive.ainemo.com/live/225cjcj.flv
+有线新闻台,http://prdsecurelive.ainemo.com/live/2020sanwu.flv
+有线电影台,http://prdsecurelive.ainemo.com/live/yx09hitv.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
+凤凰卫视资讯台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+凤凰卫视资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+凤凰卫视中文台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
+凤凰卫视中文台,http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
+凤凰卫视香港台,http://qlive.fengshows.cn/live720p/PHK.flv
+TVB翡翠,p2p://fccsovh.pvbox.live:18912/5d1220350000ba2736e444057d22cf40.ts
+TVB翡翠（备用）,p2p://fccsovh.pvbox.live:18912/5b1409fc00088a7f7b26e4559ee943fb.ts
+TVB J2,p2p://fccsovh.pvbox.live:18912/5d122036000a0661eb6b72a190255a05.ts
+TVB J2,p2p://fccsovh.pvbox.live:18912/5b1409fc000dca06eca585de119eb202.ts
+TVB J5,p2p://fccsovh.pvbox.live:18912/5b14095400047cf540064c20d9c1e781.ts
+TVB明珠,p2p://fccsovh.pvbox.live:18912/5b1409540009bb8b47e85b08eff39b64.ts
+TVB星河频道,p2p://fccsovh.pvbox.live:18912/5b14092a000dc921148769cc37b0eda3.ts
+无线新闻,p2p://fccsovh.pvbox.live:18912/5b140953000cd4a8a070d55507015cde.ts
+无线新闻,p2p://fccsovh.pvbox.live:18912/5b1409fc000a355e58ad23d7d664a21b.ts
+VIUTV6,p2p://fccsovh.pvbox.live:18912/5b1409fd000796837a6b338e06e9772e.ts
+VIU,p2p://fccsovh.pvbox.live:18912/5b14095400066519cdad8ecfbfecdad3.ts
+无线功夫台,p2p://fccsovh.pvbox.live:18912/5b140a1600003212167115745c0c2fa6.ts
+HKC新闻,p2p://fccsovh.pvbox.live:18912/5b13f6f100047cdef116a580a70f5211.ts
+私人影院,p2p://fccsovh.pvbox.live:18912/5b140a98000c5ae6e39803149042892d.ts
+星空卫视,p2p://fccsovh.pvbox.live:18912/5b1409fb0000e985e0dadd1fac6eb449.ts
+
 华语M3U8,#genre#
 凤凰中文官方,http://liveali.ifeng.com/live/FHZW.m3u8
 凤凰中文,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
