@@ -1,13 +1,10 @@
 aassas,#genre#
-凤凰中文HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c6c0006fd67024502e414f10ff3
-凤凰资讯HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c48000e15630244781932ff7852
-凤凰香港HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c19000767ad0243becb40b07246
-TVB翡翠台,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
-TVB J2,P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
-TVB明珠台,P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
-TVB无线新闻台,P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5#P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
-TVB无线财经台,P2p://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8#P2p://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8#P2p://sdgdklwos.finetv.tv:9906/5ad32aed000d8fa649eaacf716d70340
-TVB星河台,P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c#P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c
+翡翠台,http://192.168.2.1:1111/237.ts
+明珠台,http://192.168.2.1:1111/238.ts
+TVB经典台,http://192.168.2.1:1111/239.ts
+无线新闻台,http://192.168.2.1:1111/240.ts
+无线财经资讯台,http://192.168.2.1:1111/241.ts
+凤凰卫视中文台,http://192.168.2.1:1111/242.ts
 
 adddd,#genre#
 TVB无线新闻台123,http://www.liveviptv.xyz/tv/tvb.php
