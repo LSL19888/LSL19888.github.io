@@ -1,4 +1,5 @@
 $c_start香港$c_end
+sky,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 壹電視新聞,mitv://190.2.148.110:18912/5b14094000088a468a5f9201d1d57ea5.ts
 年代新聞,mitv://190.2.148.110:18912/5c2dd76000032856435cfe01adf74dbb.ts
 東森新聞,mitv://190.2.148.110:18912/5c2dd7310008b319e49814bc93b13713.ts
