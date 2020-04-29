@@ -169,96 +169,22 @@ GOODTV好消息44烤箱读书会,http://live.streamingfast.net/osmflivech44.m3u8
 儒释道网络电视台,http://amtbsg.cloudapp.net/liveedge/_definst_/cult/chunklist_w856981860.m3u8
 番薯电视台,http://211.73.19.201/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin&size=720X480
 信吉电视台,http://220.130.241.203:1935/sjtv/livestream_360p/playlist.m3u8
-
-adddd,#genre#
 TVB无线新闻台123,http://www.liveviptv.xyz/tv/tvb.php
 有线新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-
 KHS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-香港有线新闻,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8#http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
-TVBS,vjms://121.14.222.75:8500:3502/live/cid=349#vjms://58.215.133.185:8500:3502/live/cid=349
-有线18台,vjms://121.14.222.75:8500:3502/live/cid=364
-CNBC,vjms://58.215.133.185:8500:3502/live/cid=98#vjms://121.14.222.75:8500:3502/live/cid=98#p8p://0198.02686.cc:16871/5d1a69720002ca3711bcdb2830f420fe.ts#vjms://23.237.33.155:8500:3502/live/cid=98
-CNN,vjms://121.14.222.75:8500:3502/live/cid=428#p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts#vjms://23.237.33.155:8500:3502/live/cid=428
-BBC,vjms://58.215.133.185:8500:3502/live/cid=418#vjms://121.14.222.75:8500:3502/live/cid=418#vjms://23.237.33.155:8500:3502/live/cid=418
-SKY NEWS,http://pili-live-hdl.qhmywl.com/dsdtv/64a4807c0cf482cffe922d7b8f091303.flv
-FOXNews,vjms://58.215.133.185:8500:3502/live/cid=97#p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts#vjms://121.14.222.75:8500:3502/live/cid=97
-aaa,http://live.mytvhd.xyz/qtiptv/vpn.php?id=134040
-8TV,https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08gqiUH7b92wS2wefhMA0-RY)/dm/3/x7a7ru1/s/live-4.m3u8
-AFR7,https://stream-04.sg1.dailymotion.com/sec(39iDNPbzS-KK9aqHY2NME-3elBkFlMfLaT6H2MftmT8)/dm/3/x6vbjdp/d/live-2.m3u8
-AfricaNews,https://stream-02.sg1.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irR3NVg1mmhhcvGCOdc0osKA)/dm/3/x6i7vf8/s/live-3.m3u8
-Afrm,https://stream-01.sg1.dailymotion.com/sec(dgo7N3WuCXm9a9JmNQTDDCYMgH6yG7KT5QOdAVsy97k)/dm/3/x5dk3kj/d/live-3.m3u8
-CNews,https://stream-05.sg1.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgON_S--EWgvqGT8Hm8Ad3C4SZt_OP35EJhwMXJTpszwzK)/p/dm/3/x5idxxp/d/live-4.m3u8
-CRTV,https://stream-01.sg1.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql565zDqPBe-wauxXVPTxzveg_s)/dm/3/x7o9p4a/s/live-3.m3u8
-CRTVN,https://stream-01.sg1.dailymotion.com/sec(izmiISybPbIebK5hk5xt4N3ts7JgFwHJ1XqAbpN8AT4)/dm/3/x7q03jj/s/live-3.m3u8
-EuroNews,https://stream-01.sg1.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa7QW_WABSd94U-cEqRupA70)/dm/3/x2j4h4m/s/live-3.m3u8
-KTNF,https://stream-03.sg1.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql56552wbphL5Ul03XT74CEhbIo)/dm/3/x7opfez/s/live-3.m3u8
-LCP,https://stream-02.sg1.dailymotion.com/sec(LXtmlI0CiuEL3FS4mE_4F1x7xjnM00BLJL64Q1JmpoU)/dm/3/xgepjr/s/live-2.m3u8
-N22,https://stream-03.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSTa2-ZqSr5K04pMCKmXj4ZI)/dm/3/x6eoldf/d/live-2.m3u8
-NTV,https://stream-04.sg1.dailymotion.com/sec(oqY34t1NIwbiLJBkRzm88gJ5oMlej6pBPjO07yC-AXQ)/dm/3/x6shkab/d/live-3.m3u8
-NTV7,https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08hXfcg3X1VWfeBdgzEbSLOU)/dm/3/x7a7rxp/s/live-4.m3u8
+凤凰资讯台,http://qlive.fengshows.cn/live720p/PIN.flv
+凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰中文台,http://qlive.fengshows.cn/live720p/PCC.flv
+凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 
-超高清 4K,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-CCTV 1,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
-CCTV 2,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
-CCTV 3,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-CCTV 4,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
-CCTV 5,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-CCTV 5+,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
-CCTV 6,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
-CCTV 7,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
-CCTV 8,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
-CCTV 9,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
-CCTV 10,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
-CCTV 11,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
-CCTV 12,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
-CCTV 13,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-CCTV 14,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
-CCTV 15,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
-CCTV 17,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
-CGTN,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2001656801.m3u8
-湖南卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
-东方卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
-黑龙江卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
-广东卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
-深圳卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
-江苏卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
-浙江卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
-江苏卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
-深圳卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292201.m3u8
-北京卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000272101.m3u8
-海南卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000291501.m3u8
-山东卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294801.m3u8
-江西卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294101.m3u8
-湖北卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294501.m3u8
-河南卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000296101.m3u8
-河北卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000293401.m3u8
-贵州卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000293301.m3u8
-东南卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292501.m3u8
-广西卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294201.m3u8
-四川卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000295001.m3u8
-辽宁卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000281301.m3u8
-重庆卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000297801.m3u8
-安徽卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000298001.m3u8
-凤凰资讯台,http://qlive.fengshows.cn/live720p/PIN.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-凤凰中文台,http://qlive.fengshows.cn/live720p/PCC.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv
-
-
-
+adddd,#genre#
 功夫台,tvbus://3UDxSDBsNf7wbYsxBLm5SuD3ZRXLavzGGRseREr62WmGuxBPUr
 now直播,tvbus://3JGDpXioJpH6NRBQFeUgju8mCcYQUHiFYz6GRBkkSWnbGPRABS
 now新闻,tvbus://3iBaeeta2PhkXUTh6G9jzKNjGn98D72gUnhB8QxsqnPr9JgXuB
-
 now sport prime,tvbus://3uEWvczEzfF8ZRzBh1YYaP76zdHhqw6ZMWqkBJCSedb4oXFt2S
 有線體育,tvbus://4i5jLEWEzxnQbezFuJRwgJTuVnRnAniDYC7WxeJLdskPhCTYvE
-
-
-
-
 澳門蓮花,tvbus://4nWfBmd6L8EmK4UPZbCNRALnGVq9b18Fx7mhLttnHbjdFmBKnd
 有線體育2,tvbus://3VVyGVyQB7hhcuRxWDKb7nxgCqJcBSkZCd9qBnWGp3k5hH74uf
 星空衛視,tvbus://4WgJvu3twfaxg3KT9ifofPST2Jjty1UmoVeK5X48WXgpgbfjEs
