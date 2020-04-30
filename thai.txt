@@ -272,6 +272,36 @@ CCTV-15HD,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.
 重庆卫视,http://101.71.255.229:6610/zjhs/2/10081/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 aaaaaa,#genre#
+2号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=2
+1号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=1
+3号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=3
+4号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=4
+6号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=6
+8号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=8
+9号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=9
+12号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=12
+16号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=16
+10号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=10
+20号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=20
+18号[768*576],http://s6800872.awhost.cn/888/xgtv.php?id=18
+23号[720*540],http://s6800872.awhost.cn/888/xgtv.php?id=23
+19号[1024*576],http://s6800872.awhost.cn/888/xgtv.php?id=19
+27号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=27
+31号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=31
+34号[854*482],http://s6800872.awhost.cn/888/xgtv.php?id=34
+42号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=42
+44号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=44
+45号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=45
+46号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=46
+54号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=54
+57号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=57
+59号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=59
+63号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=63
+67号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=67
+66号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=66
+74号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=74
+73号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=73
+77号[1280*720],http://s6800872.awhost.cn/888/xgtv.php?id=77
 香港卫视[1024*576],http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰卫视中文台[1280*720],http://liveali.ifeng.com/live/FHZW.flv
 TVB J2[1280*720],http://hzyhjg.cc/cs/gat/tvbj2-2.php
