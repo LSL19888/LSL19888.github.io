@@ -2994,82 +2994,17 @@ Z频道,p2p://fccsovh.pvbox.live:18912/5b14094a00088a563ab90b72089780b8.ts
 한국경제TV,p2p://fccsovh.pvbox.live:18912/5b140a0c0003c5dad9309597517e48bf.ts
 TV조선,p2p://fccsovh.pvbox.live:18912/5b140a0a000388ab262f05550f3019bd.ts
 
-测试1,#genre#
-湖南卫视,http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000296201.m3u8
-湖南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
-东方卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
-浙江卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
-广东卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
-江苏卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
-深圳卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
-黑龙江卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
-辽宁卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000281301.m3u8
-浙江卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295501.m3u8
-广东卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292701.m3u8
-江苏卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295601.m3u8
-深圳卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292201.m3u8
-东方卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292401.m3u8
-黑龙江卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293901.m3u8
-安微卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000298001.m3u8
-重庆卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000297801.m3u8
-东南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000292501.m3u8
-广西卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294201.m3u8
-贵州卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293301.m3u8
-河北卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000293401.m3u8
-河南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000296101.m3u8
-湖北卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294501.m3u8
-江西卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294101.m3u8
-山东卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000294801.m3u8
-四川卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000295001.m3u8
-湖南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000296201.m3u8
-无线新闻,http://s6800872.awhost.cn/888/xgtv.php?id=9
-有线新闻,http://s6800872.awhost.cn/888/xgtv.php?id=31
-凤凰中文,http://s6800872.awhost.cn/888/xgtv.php?id=2
-凤凰資訊,http://s6800872.awhost.cn/888/xgtv.php?id=3
-星空衛視,http://s6800872.awhost.cn/888/xgtv.php?id=18
-TVB 明珠,http://s6800872.awhost.cn/888/xgtv.php?id=13
-TVB 翡翠,http://s6800872.awhost.cn/888/xgtv.php?id=1
-TVB 星河,http://s6800872.awhost.cn/888/xgtv.php?id=17
-TVB J2,http://s6800872.awhost.cn/888/xgtv.php?id=12
-Viu TV,http://s6800872.awhost.cn/888/xgtv.php?id=8
-香港开电视,http://s6800872.awhost.cn/888/xgtv.php?id=7
-有线电影,http://s6800872.awhost.cn/888/xgtv.php?id=30
-港台31,http://s6800872.awhost.cn/888/xgtv.php?id=gt31
-港台32,http://s6800872.awhost.cn/888/xgtv.php?id=21
-有线603,http://s6800872.awhost.cn/888/xgtv.php?id=33
-功夫台,http://s6800872.awhost.cn/888/xgtv.php?id=35
-耀才財經,http://s6800872.awhost.cn/888/xgtv.php?id=19
-无线财经,http://s6800872.awhost.cn/888/xgtv.php?id=10
-无线新闻,http://s6800872.awhost.cn/888/xgtv.php?id=9
-无线新闻1,http://s5870658.awhost.cn/wxtv.php?id=inews?is_hd
-无线财经1,http://s5870658.awhost.cn/wxtv.php?id=j5_ch85?is_hd
-广东体育,http://s6800872.awhost.cn/888/xgtv.php?id=6
-新视觉,http://s6800872.awhost.cn/888/xgtv.php?id=4
-香港603,http://s6800872.awhost.cn/888/xgtv.php?id=33
-NOW新闻,http://s6800872.awhost.cn/888/xgtv.php?id=16
-无线新闻台,p2p://fccsovh.pvbox.live:18912/5b140953000cd4a8a070d55507015cde.ts#p2p://fccsovh.pvbox.live:18912/5b1409fc000a355e58ad23d7d664a21b.ts
-有线新闻台,p2p://fccsovh.pvbox.live:18912/5b13f6f100047cdef116a580a70f5211.ts
-
 测试,#genre#
-NAT GEO BR,P2p://51.79.41.138:18912/5bee51d2000a15b819d724a2451a26ed.ts
-NAT GEO Wild BR,P2p://51.79.41.138:18912/5bee51d90006e56519d73f2f0b113304.ts
-NAT-GEO,P2p://51.79.41.138:18912/5b593be6000692ffd379f5421f363fda.ts
 国家地理频道,P2p://sdgdklwos.finetv.tv:9906/59fd16240000683c026af7fe2edc67eb#rtmp://58.200.131.2:1935/livetv/natlgeo
 国家地理野生HD,P2p://sdgdklwos.finetv.tv:9906/59fd082b000c6ca7023466633fed4c93
 国家地理悠人HD,P2p://sdgdklwos.finetv.tv:9906/59fd2804000a86bb02b0cd8e6fa14a15
-求索动物,http://27.36.62.162:9090/live/QSDWHD_7000.m3u8
 求索记录,http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
-求索纪录,http://27.36.62.162:9090/live/QSJLHD_7000.m3u8
-求索科学,http://27.36.62.162:9090/live/qiusuokexueHD_7000.m3u8
-求索生活,http://27.36.62.162:9090/live/QSSHHD_7000.m3u8
-全纪实,http://27.36.62.162:9090/live/quanjishiHD_7000.m3u8#rtmp://58.200.131.2:1935/livetv/documentaryhd#rtsp://113.136.42.41:554/PLTV/88888888/224/0/3221225549/iptv19029.smil
 BBC,P2p://sdgdklwos.finetv.tv:9906/59fd16bc000f2550026d4d870b85516d
 BBC Earth,P2p://sdgdklwos.finetv.tv:9906/59fd3223000ee20302d857cf1a981663
-BBC世界新闻,mitv://170.178.164.243:6210/5b448c4f0006b09c0009632361c16d91.ts
 Discovery展播,http://stream.guihet.com/migu/index.php?id=637483721
 探索动力,P2p://sdgdklwos.finetv.tv:9906/59fd2846000cb99902b1cffa3bb33abb
 探索科学,P2p://sdgdklwos.finetv.tv:9906/59fd166e000c7533026c1c1b4bf23d6b
-探索频道,P2p://sdgdklwos.finetv.tv:9906/59fcf587000c4fc201eb95c324ea0953#rtmp://58.200.131.2:1935/livetv/discovery
+探索频道,P2p://sdgdklwos.finetv.tv:9906/59fcf587000c4fc201eb95c324ea0953
 探索夏娃,P2p://sdgdklwos.finetv.tv:9906/59fd286b000e1cdb02b260d1385f3d28
 探索亚洲,P2p://sdgdklwos.finetv.tv:9906/59fd15f7000e7852026a4bd030284bc8
 EYETV旅游,P2p://sdgdklwos.finetv.tv:9906/59fd27c4000cb3b102afd41b5cc4003d
@@ -3082,11 +3017,12 @@ FX,P2p://sdgdklwos.finetv.tv:9906/59fd279b000c06e702af33d47d4c770a
 HBO,P2p://sdgdklwos.finetv.tv:9906/59fd1566000391610268129978510d8e
 HBO强档巨献,P2p://sdgdklwos.finetv.tv:9906/59fd22e50004a1f8029ccaff41480126
 HBO原创巨献,P2p://sdgdklwos.finetv.tv:9906/59fd14fc0005019f026674e730ed03b5
+
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰资讯台,http://qlive.fengshows.cn/live720p/PIN.flv
 凤凰中文台,http://qlive.fengshows.cn/live720p/PCC.flv
-凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flvtxSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
+凤凰香港台,http://qlive.fengshows.cn/live720p/PHK.flv
 CCTV-1HD,http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-2HD,http://101.71.255.229:6610/zjhs/2/10082/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-3HD,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
