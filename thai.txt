@@ -431,6 +431,45 @@ TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 中天綜合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 年代新聞,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 八大綜合,http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+TVB無綫新聞,http://www.liveviptv.xyz/tv/tvb.php
+峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+FOX体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+凤凰卫视中文台,http://qlive.fengshows.cn/live720p/PCC.flv
+凤凰卫视资讯台,http://qlive.fengshows.cn/live720p/PIN.flv
+无线新闻台2,http://www.liveviptv.xyz/tv/tvb.php?id=inews
+无线新闻台3,http://app.iptv.xdw.one/iptv/hktvb.php?id=inews
+无线资讯台2,http://www.liveviptv.xyz/tv/tvb.php?id=j5_ch85
+无线资讯台3,http://app.iptv.xdw.one/iptv/hktvb.php?id=j5_ch85
+MOMO亲子台,p2p://190.2.146.92:18912/5d70eb0f000a5e750d0a9659304554ba.ts
+BS-1,mitv://42.116.8.235:9906/58a53943000799cf002b15d54858eb15.ts
+BS-TBS,mitv://42.116.8.235:9906/58a5392d000dccd7002ac17b52f1bba2.ts
+BSÈÕ±¾,mitv://42.116.8.235:9906/58a5392d000ca2ad002ac12f9eb03609.ts
+BS¶«¾©,mitv://42.116.8.235:9906/58a5392d000ef59a002ac1c7c8011c2d.ts
+BS¸»Ê¿,mitv://42.116.8.235:9906/58a5392e00010053002ac21d0512ecfc.ts
+BS朝日,mitv://42.116.8.235:9906/58a5392d0002e6bd002abeb1fec80a72.ts
+BS premium G,mitv://42.116.8.235:9906/58a539430008c7dd002b1622b1407627.ts
+HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+BS¹ã²¥´óÑ§µçÊÓ,mitv://42.116.8.235:9906/58a53943000b1ac6002b16bb3315f622.ts
+Channel DX,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+Channel DX,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+NHK E,mitv://42.116.8.235:9906/58a5392c000e67e3002abdbb5a71470a.ts
+NHK G,mitv://42.116.8.235:9906/58a5392d0001aa85002abe600ca49985.ts
+NHK G,mitv://42.116.8.235:9906/58a5394d000b1a24002b3dcb8d453cb0.ts
+帝国影视,http://al.rtmp.huya.com/backsrc/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+HBO Asia,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视(备),http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=c6151a1584742df5048f3128-157910450020825&wsIPSercert=9c31921390fbc0e7517e4375cd25d5fa&wsMonitor=0
+三立新闻(HD),http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
+TVBS新闻台(HD),http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
+NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+TITV,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
+阳光卫视,http://220.158.149.14:9999/live/TV00000000000000000062@HHZT;LIVE
+澳门1,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+奥视卫星,http://61.244.22.5/ch3/_definst_/ch3.live/chunklist_w897977236.m3u8
+凤凰卫视中文,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
+凤凰卫视资讯,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
+博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+
 
 adddd,#genre#
 功夫台,tvbus://3UDxSDBsNf7wbYsxBLm5SuD3ZRXLavzGGRseREr62WmGuxBPUr
