@@ -7,7 +7,7 @@ $c_start香港$c_end
 美食星球,http://cloud-play.hhalloy.com/live/7f2e2b78b85222886ccb3792c905408e.m3u8
 美食星球,http://cloud-play.hhalloy.com/live/7f2e2b78b85222886ccb3792c905408e.flv
 美食星球,p2p://170.178.164.247:6170/5b448b7900042d6500061e8e3e5cab9c.ts
-
+美食星球,tvbus://4ndDYrqSx4PZ7nUCzAxU8GXzMWdZoWnTZ3DeaLSMpez5DNUrJr
 BBC经典,http://qdntv96789.applinzi.com/96tv.php?633138330
 GOODTV好消息,http://live.streamingfast.net/osmflivech1.m3u8
 TVBS-N,http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
