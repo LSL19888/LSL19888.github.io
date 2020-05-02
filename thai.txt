@@ -1,4 +1,13 @@
 $c_start香港$c_end
+美食星球,P2p://sdgdklwos.finetv.tv:9906/59fd07190004a07d0230361f798d3b15
+美食星球,http://pili-live-hdl.qhmywl.com/dsdtv/7f2e2b78b85222886ccb3792c905408e.m3u8
+美食星球,http://cloud-play.hhalloy.com/live/7f2e2b78b85222886ccb3792c905408e.flv
+美食星球,p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
+美食星球 HD,p2p://lino.homeunix.com:6007/59fd07190004a07d0230361f798d3b15.ts
+美食星球,http://cloud-play.hhalloy.com/live/7f2e2b78b85222886ccb3792c905408e.m3u8
+美食星球,http://cloud-play.hhalloy.com/live/7f2e2b78b85222886ccb3792c905408e.flv
+美食星球,p2p://170.178.164.247:6170/5b448b7900042d6500061e8e3e5cab9c.ts
+
 BBC经典,http://qdntv96789.applinzi.com/96tv.php?633138330
 GOODTV好消息,http://live.streamingfast.net/osmflivech1.m3u8
 TVBS-N,http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
