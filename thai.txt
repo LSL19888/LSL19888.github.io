@@ -1,30 +1,30 @@
 $c_start香港$c_end
-ÖÐÒ•½›µäÌ¨,http://198.16.106.58:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
-´óÛÌ¨,http://198.16.106.58:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
-‡ø¼ÒµØÀí‡øëHîlµÀ,http://198.16.106.58:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
-‡ø¼ÒµØÀíÒ°ÉúîlµÀ,http://198.16.106.58:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
-‡ø¼ÒµØÀíÓÆÈËîlµÀ,http://198.16.106.58:8278/natgeopeople_twn/playlist.m3u8?tid=m276f4f18825f17790558&ct=17874&tsum=1d6b4707b3010308c5c9a9d2e8e2c556
-Ì½Ë÷îlµÀ,http://198.16.106.58:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
-Ì½Ë÷†ÖÞÌ¨,http://198.16.106.58:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
-Ì½Ë÷„ÓÁ¦Ì¨,http://198.16.106.58:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
-Ì½Ë÷¿ÆŒWÌ¨,http://198.16.106.58:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
-Ì½Ë÷¼ÒÍ¥Ì¨,http://198.16.106.58:8278/discoveryeve_twn/playlist.m3u8?tid=m6376c7d24ec312573043&ct=17877&tsum=14196552a8369d8e160a34dd40b4f4bd
-×ï°¸‚ÉÝ‹Ì¨,http://198.16.106.58:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
+中视经典,http://198.16.106.58:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+大爱台,http://198.16.106.58:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
+NatGeo,http://198.16.106.58:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+NatGeo Wild,http://198.16.106.58:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+NatGeo People,http://198.16.106.58:8278/natgeopeople_twn/playlist.m3u8?tid=m276f4f18825f17790558&ct=17874&tsum=1d6b4707b3010308c5c9a9d2e8e2c556
+Discovery,http://198.16.106.58:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+Discovery Asia,http://198.16.106.58:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+DMAX,http://198.16.106.58:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+Discovery Science,http://198.16.106.58:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
+EVE,http://198.16.106.58:8278/discoveryeve_twn/playlist.m3u8?tid=m6376c7d24ec312573043&ct=17877&tsum=14196552a8369d8e160a34dd40b4f4bd
+CRIME INVESTIGATION,http://198.16.106.58:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
 History,http://198.16.106.58:8278/history1hd_twn/playlist.m3u8?tid=mb3c9baa1132e10632091&ct=17877&tsum=9a9c281d5d041631087798fa725ed497
 History 2,http://198.16.106.58:8278/history2hd_twn/playlist.m3u8?tid=m6ee31585044116722070&ct=17877&tsum=f8c0d4c91afe878ae92670a427f15300
-TLCÂÃß[Éú»î,http://198.16.106.58:8278/tlcasia_twn/playlist.m3u8?tid=m4275a6300f1315825317&ct=17874&tsum=40a7698d34b5c229dcb10d0a2b876319
-„ÓÎïÐÇÇòîlµÀ,http://198.16.106.58:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
-CN¿¨Í¨îlµÀ,http://198.16.106.58:8278/momo1_twn/playlist.m3u8?tid=md272f875bb6916787346&ct=17874&tsum=0c38bae20c6db7e76ad1418654c8ccd4
-µÏÊ¿Äá¿¨Í¨,http://198.16.106.58:8278/disneytwn_twn/playlist.m3u8?tid=m215093f0d3d710656413&ct=17899&tsum=cfa7cdeea67a02a00ac9b0bea4776d28
+TLC,http://198.16.106.58:8278/tlcasia_twn/playlist.m3u8?tid=m4275a6300f1315825317&ct=17874&tsum=40a7698d34b5c229dcb10d0a2b876319
+动物星球,http://198.16.106.58:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+CN卡通频道,http://198.16.106.58:8278/momo1_twn/playlist.m3u8?tid=md272f875bb6916787346&ct=17874&tsum=0c38bae20c6db7e76ad1418654c8ccd4
+迪士尼频道,http://198.16.106.58:8278/disneytwn_twn/playlist.m3u8?tid=m215093f0d3d710656413&ct=17899&tsum=cfa7cdeea67a02a00ac9b0bea4776d28
 momoÓH×ÓÌ¨,http://198.16.106.58:8278/starfamily/playlist.m3u8?tid=m35569e28d78a&ct=18335&tsum=fb0f65f17e4ceec252f8c5b8a5552119
-–|É­Ó×Ó×Ì¨,http://198.16.106.58:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
-¾•í¾CºÏÌ¨,http://198.16.106.58:8278/videolandzhe_twn/playlist.m3u8?tid=me8bac156077117426124&ct=17877&tsum=f5d43c876bab3b4a886b39fc8f7fc653
-°Ë´óµÚÒ»Ì¨,http://198.16.106.58:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
-°Ë´óµÚÒ»Ì¨(‚äÓÃ),http://198.16.106.58:8278/badaentertain/playlist.m3u8?tid=m6f7aed1b4260&ct=18335&tsum=fd808db00f6ca5c51dd3de7d3e214287
-°Ë´ó¾CºÏÌ¨,http://198.16.106.58:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
-°Ë´ó‘ò„¡Ì¨,http://198.16.106.58:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-°Ë´óŠÊ˜·Ì¨,http://198.16.106.58:8278/badaentertain/playlist.m3u8?tid=m46003aa2ac2617525877&ct=17874&tsum=d31212ff6fbefd5bd856f80d16bb3f27
-ÈýÁ¢Ì¨ž³Ì¨,http://198.16.106.58:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+YoYo频道,http://198.16.106.58:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
+纬来综合,http://198.16.106.58:8278/videolandzhe_twn/playlist.m3u8?tid=me8bac156077117426124&ct=17877&tsum=f5d43c876bab3b4a886b39fc8f7fc653
+八大第一台,http://198.16.106.58:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+八大娱乐台,http://198.16.106.58:8278/badaentertain/playlist.m3u8?tid=m6f7aed1b4260&ct=18335&tsum=fd808db00f6ca5c51dd3de7d3e214287
+八大综合台,http://198.16.106.58:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+八大戏剧台,http://198.16.106.58:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+八大娱乐台,http://198.16.106.58:8278/badaentertain/playlist.m3u8?tid=m46003aa2ac2617525877&ct=17874&tsum=d31212ff6fbefd5bd856f80d16bb3f27
+三立台湾台,http://198.16.106.58:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 ÈýÁ¢¶¼•þÌ¨,http://198.16.106.58:8278/sanlidouhui/playlist.m3u8?tid=m47b0222064de18476599&ct=17874&tsum=e88cfc84022aafb57a0de883eb40d091
 ÈýÁ¢¾CºÏÌ¨,http://198.16.106.58:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 ÈýÁ¢‘ò„¡Ì¨,http://198.16.106.58:8278/sanlixiju/playlist.m3u8?tid=m85bfefb25f5b15139718&ct=17874&tsum=e3f01ed537857f0814429021b438094f
