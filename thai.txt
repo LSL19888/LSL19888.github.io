@@ -82,11 +82,11 @@ EYE TV旅游,http://198.16.106.58:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e9629
 采昌,http://198.16.106.58:8278/528222e84e/playlist.m3u8?tid=m323bb9eba169&ct=18335&tsum=deab3d05542ef46fd5c4d57d4d0dbe02
 tVN,http://198.16.106.58:8278/tvn_twn/playlist.m3u8?tid=m0af8490e6e22&ct=18335&tsum=3ce96443a2a93f93268e2d1d30e3d62a
 星卫娱乐台,http://198.16.106.58:8278/starentertainment_twn/playlist.m3u8?tid=m03b7fd7a033016076997&ct=17874&tsum=fe095a1f38d6ea608dc64c6b66e12833
-ÐÇÐlëŠÓ°Ì¨,http://198.16.106.58:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-ÃÀÊ³ÐÇÇòÌ¨,http://198.16.106.58:8278/chinesefoodnetwork/playlist.m3u8?tid=mbc914f8739e615316317&ct=17874&tsum=a3e117776a0b1de55a524a983d08b532
-†ÖÞÃÀÊ³Ì¨,http://198.16.106.58:8278/asiafood_twn/playlist.m3u8?tid=mce5293d7a7b8&ct=18335&tsum=0db823fbd22661070faa655fa5b48779
-†ÖÞÂÃß[Ì¨,http://198.16.106.58:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
-ÂüµÏÈÕ±¾Ì¨,http://198.16.106.58:8278/mandijapan_twn/playlist.m3u8?tid=m73455fadd59216060535&ct=17874&tsum=4cb9ddd0c0565e38fc45ee70e42633a8
+星卫电影台,http://198.16.106.58:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+美食星球,http://198.16.106.58:8278/chinesefoodnetwork/playlist.m3u8?tid=mbc914f8739e615316317&ct=17874&tsum=a3e117776a0b1de55a524a983d08b532
+亚洲美食,http://198.16.106.58:8278/asiafood_twn/playlist.m3u8?tid=mce5293d7a7b8&ct=18335&tsum=0db823fbd22661070faa655fa5b48779
+亚洲旅游台,http://198.16.106.58:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
+曼迪日本台,http://198.16.106.58:8278/mandijapan_twn/playlist.m3u8?tid=m73455fadd59216060535&ct=17874&tsum=4cb9ddd0c0565e38fc45ee70e42633a8
 MY-KIDS,http://198.16.106.58:8278/mykids_twn/playlist.m3u8?tid=m4ad7a03977f517262514&ct=17877&tsum=af68298c284254ee5eb9488851a53ae2
 CBeebies,http://198.16.106.58:8278/diva_twn/playlist.m3u8?tid=m114792ca4778&ct=18335&tsum=8d6e669a23955ea763734b2e0af3ecee
 BaBy-TV,http://198.16.106.58:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
@@ -94,31 +94,31 @@ Boomerang,http://198.16.106.58:8278/boomerang_twn/playlist.m3u8?tid=m55c8d94d0a1
 BBC Earth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=me1cedf047ba218380955&ct=17874&tsum=bd82352683e07a4a7927a793263b91bf
 BBC Lifestyle,http://198.16.106.58:8278/bbcearthlifestyle/playlist.m3u8?tid=m94804f6a21e517822265&ct=17877&tsum=6e6485bd5f12fd54eb0ca9345f2f2d88
 Outdoor,http://198.16.106.58:8278/outdoorsports_twn/playlist.m3u8?tid=m72c0ae82a085&ct=18335&tsum=33848b5e420a9a793ca9a39689362411
-CATCHPLAY ëŠÓ°Ì¨,http://198.16.106.58:8278/catchplay_twn/playlist.m3u8?tid=ma51023a5bb5c15986498&ct=17874&tsum=2de38c0bcaece3cb5c50d0d600357cb0
-SMARTÖª×RÌ¨,http://198.16.106.58:8278/865685b03d/playlist.m3u8?tid=m1d32b57e8e95&ct=18335&tsum=c005629fc09265d17cb8434b1b779ad9
+CATCHPLAY 电影台,http://198.16.106.58:8278/catchplay_twn/playlist.m3u8?tid=ma51023a5bb5c15986498&ct=17874&tsum=2de38c0bcaece3cb5c50d0d600357cb0
+SMART,http://198.16.106.58:8278/865685b03d/playlist.m3u8?tid=m1d32b57e8e95&ct=18335&tsum=c005629fc09265d17cb8434b1b779ad9
 Warner TV,http://198.16.106.58:8278/warnatv_twn/playlist.m3u8?tid=mde44a8138952&ct=18335&tsum=2cfa356a944ea83255784ff966d404af
 CinemaWorld,http://198.16.106.58:8278/cinemaworld_twn/playlist.m3u8?tid=mc49b804f970c16775887&ct=17874&tsum=891e895480fd5ca337b960d026115460
 Star Movies,http://198.16.106.58:8278/6bff18d63e/playlist.m3u8?tid=m5d0687294bc7&ct=18335&tsum=52f1c137409b9c51014621f1e1e21a51
-ÈÕÎèëŠÓ°Ì¨,http://198.16.106.58:8278/sundance_twn/playlist.m3u8?tid=mfe0bf4686c6d&ct=18335&tsum=14c57b1bfb62b277d396eb3cf14f26c6
-ÃÀ†ëŠÓ°Ì¨,http://198.16.106.58:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
+aMC最爱电影,http://198.16.106.58:8278/sundance_twn/playlist.m3u8?tid=mfe0bf4686c6d&ct=18335&tsum=14c57b1bfb62b277d396eb3cf14f26c6
+美亚电影台,http://198.16.106.58:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 ÐÇ¿ÕÐlÒ•Ì¨,http://198.16.106.58:8278/xingkong/playlist.m3u8?tid=m61d2d25a9adb&ct=18335&tsum=bc464e6fb89211029ad1b93ac62830aa
-ýˆÈA„Ó®‹Ì¨,http://198.16.106.58:8278/lunghuaanimation_twn/playlist.m3u8?tid=m933d9fc8608515365480&ct=17874&tsum=63c3bf5bc4acb4d077d6c782c4b9eba2
-ýˆÈAÓ°„¡Ì¨,http://198.16.106.58:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
-ýˆÈA‘ò„¡Ì¨,http://198.16.106.58:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
-ýˆÈAÑóÆ¬Ì¨,http://198.16.106.58:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
-ýˆÈA½›µäÌ¨,http://198.16.106.58:8278/9d3210574c/playlist.m3u8?tid=mb13ac722d0e1&ct=18335&tsum=1a8f7616aab5020083d8278206dad204
-¾¸Ìì¿¨Í¨Ì¨,http://198.16.106.58:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
-¾¸ÌìëŠÓ°Ì¨,http://198.16.106.58:8278/jingtianmovie_twn/playlist.m3u8?tid=m5cc1ca89d046&ct=18335&tsum=2ded35542831fd5afd3f8151d2f3dd2d
-¾¸Ìì‘ò„¡Ì¨,http://198.16.106.58:8278/jingyangxiju_twn/playlist.m3u8?tid=ma613e344aa1e&ct=18335&tsum=34acdff2fb1de97829cd12bf1679deb2
-¾¸ÌìÓý˜·Ì¨,http://198.16.106.58:8278/2d0eea3c47/playlist.m3u8?tid=m2cee021db537&ct=18335&tsum=ae8afe5707e3816e7db9b79ae23f0659
-²©Ë¹¸ßÇòI,http://198.16.106.58:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
-²©Ë¹¸ßÇòII,http://198.16.106.58:8278/golf_twn/playlist.m3u8?tid=m5830411f6441&ct=18335&tsum=e28beb4fb896f9f9097b20396b9b4917
-²©Ë¹ß\„ÓI,http://198.16.106.58:8278/bosisport_twn/playlist.m3u8?tid=m755e8f9db22a&ct=18335&tsum=22c0a7b5669d7e26c87bfc85a02d8052
-²©Ë¹ß\„ÓII,http://198.16.106.58:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
-²©Ë¹¾WÇò,http://198.16.106.58:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+龙华动画,http://198.16.106.58:8278/lunghuaanimation_twn/playlist.m3u8?tid=m933d9fc8608515365480&ct=17874&tsum=63c3bf5bc4acb4d077d6c782c4b9eba2
+龙华影剧,http://198.16.106.58:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
+龙华戏剧,http://198.16.106.58:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
+龙华羊片,http://198.16.106.58:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
+龙华经典,http://198.16.106.58:8278/9d3210574c/playlist.m3u8?tid=mb13ac722d0e1&ct=18335&tsum=1a8f7616aab5020083d8278206dad204
+靖天卡通台,http://198.16.106.58:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
+靖天电影台,http://198.16.106.58:8278/jingtianmovie_twn/playlist.m3u8?tid=m5cc1ca89d046&ct=18335&tsum=2ded35542831fd5afd3f8151d2f3dd2d
+靖天戏剧台,http://198.16.106.58:8278/jingyangxiju_twn/playlist.m3u8?tid=ma613e344aa1e&ct=18335&tsum=34acdff2fb1de97829cd12bf1679deb2
+靖天娱乐台,http://198.16.106.58:8278/2d0eea3c47/playlist.m3u8?tid=m2cee021db537&ct=18335&tsum=ae8afe5707e3816e7db9b79ae23f0659
+博斯高球I,http://198.16.106.58:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
+博斯高球II,http://198.16.106.58:8278/golf_twn/playlist.m3u8?tid=m5830411f6441&ct=18335&tsum=e28beb4fb896f9f9097b20396b9b4917
+博斯运动I,http://198.16.106.58:8278/bosisport_twn/playlist.m3u8?tid=m755e8f9db22a&ct=18335&tsum=22c0a7b5669d7e26c87bfc85a02d8052
+博斯运动II,http://198.16.106.58:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
+博斯网球,http://198.16.106.58:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
 •rÉÐîlµÀ,http://198.16.106.58:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d1
-L„ÓÁ¦,http://198.16.106.58:8278/e_twn/playlist.m3u8?tid=m15f862e8b0e1&ct=18335&tsum=c4174a35d3ef6fd008b91852975a2c18
-·ðÐl´È±¯Ì¨,http://198.16.106.58:8278/setantarugby_twn/playlist.m3u8?tid=mb2a8b35f6fe0&ct=18335&tsum=68d8b22783b88e3816f7bb36255b886b
+rollor,http://198.16.106.58:8278/e_twn/playlist.m3u8?tid=m15f862e8b0e1&ct=18335&tsum=c4174a35d3ef6fd008b91852975a2c18
+佛卫慈悲台,http://198.16.106.58:8278/setantarugby_twn/playlist.m3u8?tid=mb2a8b35f6fe0&ct=18335&tsum=68d8b22783b88e3816f7bb36255b886b
 啊,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=70ba718b748af1187f8abee64a54c0b4
 Ïã¸ÛÓÐÏßÐÂÎÅÌ¨2,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=189c796442db6832e291a00f830e3831
 Ïã¸ÛÓÐÏß¸ßÇå603Ì¨,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=4e0364e2808fb289c3d9dad2930fb2e8
@@ -133,15 +133,7 @@ TVBÐÇºÓ,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=442
 NOWÐÂÎÅÌ¨,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=383acfc33bd46f097d986a2b7b9b5cf3
 ¸ÛÌ¨µçÊÓ31,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=855d93cb0b33bc3593f3cbea94e5fcf4
 ¸ÛÌ¨µçÊÓ32,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=6ace3f7ada0b0befaf05903507e843d5
-美食星球,P2p://sdgdklwos.finetv.tv:9906/59fd07190004a07d0230361f798d3b15
-美食星球,http://pili-live-hdl.qhmywl.com/dsdtv/7f2e2b78b85222886ccb3792c905408e.m3u8
-美食星球,http://cloud-play.hhalloy.com/live/7f2e2b78b85222886ccb3792c905408e.flv
-美食星球,p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
-美食星球 HD,p2p://lino.homeunix.com:6007/59fd07190004a07d0230361f798d3b15.ts
-美食星球,http://cloud-play.hhalloy.com/live/7f2e2b78b85222886ccb3792c905408e.m3u8
-美食星球,http://cloud-play.hhalloy.com/live/7f2e2b78b85222886ccb3792c905408e.flv
-美食星球,p2p://170.178.164.247:6170/5b448b7900042d6500061e8e3e5cab9c.ts
-美食星球,tvbus://4ndDYrqSx4PZ7nUCzAxU8GXzMWdZoWnTZ3DeaLSMpez5DNUrJr
+
 BBC经典,http://qdntv96789.applinzi.com/96tv.php?633138330
 GOODTV好消息,http://live.streamingfast.net/osmflivech1.m3u8
 TVBS-N,http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
