@@ -494,6 +494,68 @@ MTV音乐1,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.
 福克斯动作1,http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 经典频道,http://stream.guihet.com/migu/index.php?id=625542369
 好莱坞电影,http://192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+StarMovies HD,http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+Mediacorp 8,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+ÈÕ±¾lÈ«ÌìÐÂÎÅ,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+Mediacorp S,http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+KCTV DV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+1 Music Channel,http://1music.hu/1music.m3u8
+218 News,http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+中天綜合1,http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+中天娱乐1,http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+中視综合,http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
+中视综合1,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+年代新聞,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+八大綜合,http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+世新综合,http://61.58.60.230:9319/live/49.m3u8
+信吉電視,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+信吉电视1,http://220.130.241.203:1935/sjtv/livestream_360p/playlist.m3u8
+CCTV-1蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
+CCTV-1蓝光1,http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
+CCTV-2蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+CCTV-2蓝光1,http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
+CCTV-4蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
+CCTV-4蓝光1,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
+CCTV-5+蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+CCTV-7蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
+CCTV-7蓝光1,http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
+CCTV-9蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
+CCTV-10蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
+CCTV-11蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
+CCTV-12蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
+CCTV-12蓝光1,http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
+CCTV-13高清,http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
+CCTV-14蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+CCTV-14蓝光1,http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
+CCTV-15蓝光,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+CCTV-17蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+CCTV-4K蓝码,http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
+CCTV-4K蓝码1,http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
+CCTV-4K蓝码2,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+CCTV-4K高码,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
+CCTV-4K高码1,http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
+CCTV-4K高码2,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+日本天気预报,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+俄罗斯RU音乐,http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
+韩国阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+美国之音,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+峨眉电影蓝光,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+欢笑剧场蓝光,http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
+北京纪实蓝光,http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
+纪实频道蓝光,http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
+极速汽车蓝光,http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
+动漫秀场蓝光,http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
+黑莓动画蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
+黑莓电竞蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
+黑莓电影蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+求索纪录,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
+求索科学,http://125.210.152.18:9090/live/QSKX_1200.m3u8
+求索动物,http://125.210.152.18:9090/live/QSDW_1200.m3u8
+求索生活,http://125.210.152.18:9090/live/QSSH_1200.m3u8
 
 adddd,#genre#
 功夫台,tvbus://3UDxSDBsNf7wbYsxBLm5SuD3ZRXLavzGGRseREr62WmGuxBPUr
