@@ -1341,18 +1341,6 @@ Z頻道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
 生命电视,tvbus://4mJbgVibyFJkcVs8cdQYbjHtVjAZcmT7z1u3hYhWPbbB4ECVrQ
 福建卫视,p8p://0198.02686.cc:16871/5d1a69cd000a2ae111be4083db3c2b82.ts
 第一財經,p8p://0198.02686.cc:16871/5d1a69df000139dd11be8489e1d7a141.ts
-緯來戲劇,p8p://0198.02686.cc:16871/5e0f37bd00040a5217930a9af969bce1.ts
-緯來日本_HD,p8p://0198.02686.cc:16871/5d8b6caa00035a0b14c1c834b40e4885.ts
-緯來精采臺,tvbus://4Kz3anJYc5QAu3T34Ay3joFKkZ1PnaKAnVpErybbH7tBtMXGfR
-緯來綜合,tvbus://3cSGNML3towieyykSCpozUTdnqsMuDqqLa8FmQi5ARu5MhqNRT
-緯來育樂,tvbus://3qYPPrGvax4yGfL74idWXCBBJc2LUQG33orgUJTeQnmstMyhXZ
-緯來體育_HD,tvbus://2z433RhP2nY9CDpLhVWhHXs3iwUxRZbu7mZeHBb4DSPZ3Zn736
-罪案偵緝頻道,tvbus://4cXDenEV5apVF5xuGcmtKr4KCGmWuBQbjPydCzumuMssgEVtRA
-美亞電影臺,tvbus://4A7AVjTaabYxh66cHDAUZWoBK82X6x6ZRiibxR8fFaLNuGT6TM
-美国中文电视,tvbus://3G9xN5E3PaFHxJ3SmTs8EatxvCPYii5JCJfG4gRVWk5mXCVnAB
-臺視,tvbus://3MWbYokmFjcnHYCRYSP3y19WGbnqgghEGqdfyB8pE8oeLR82o6
-臺視綜合臺,tvbus://3er9dmev681FB3cFcerFAf8qagTqoMiv2Fcg2NQ7LXinTBbJnu
-臺視財經臺,tvbus://3Ee45QJ3tcjbsJDaE8tNjPghDwmbMzUt5yGUH5f45FLyXH2E4Y
 華納電影,tvbus://42BTgvztM8Es2arXFH7owx7hYBW9JQJqMFyExos9poRDP6uanL
 華藏衛視,tvbus://3xo3WJBvPNeMCZCGM9vCJNKoAvgecoiAoAJ7zVcECsvquRQwuX
 華藝影劇,tvbus://41S7x6cJ4C73CTCZTrvbD6MH7NTewtWMeVVwJpNbwUunHyKUA4
@@ -1383,11 +1371,7 @@ Z頻道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
 高點育樂,tvbus://474BKeFHC64ZnL5eJCd6yt2wq9rtTp1kt1ZMxDoKhYcZsEe4d3
 鴻基影劇臺,p8p://0198.02686.cc:16871/5d1a69d700008c5a11be651dc2bd3d52.ts
 黑龙江卫视,p8p://0198.02686.cc:16871/5d1a69d7000b9c9a11be67f2d66140d2.ts
-龍祥時代,tvbus://3D6awDkbpyHT1F6YXV45PZjo1hgc9FQ3TNoZZUBpcRrwm9qbA4
-龍華偶像,tvbus://4jC22JVuFZmhbNViRb7t64Zn6fCKDqRBAhVgu6ovEgmtmGNJmG
-龍華戲劇,tvbus://44JkJ3K7MQMUSevBJeXmSkTYuwaNkH9u3D8skem44B2T1Vwp9o
-龍華洋片,tvbus://4XtaxRv636ezcFPhqG7EjTFRbuszo3qhQnjqP8qKDGX1dgmJ2d
-龍華電影,tvbus://3Br4SxtF9qJZCbUsPbhS6vJGMEqq37U1U9Jy6FRbfDeQwa5vVq
+
 
 pvbox1,#genre#
 翡翠,tvbus://8ZN2sZgLduCUuQw99Gi5xwq3TY6VzGDNsX7TcNJGvGcLuakSFd
@@ -3855,13 +3839,16 @@ DAAI-TV,tvbus://45JdHfbF9Ae1ZsCwsUWMbxiKiPj5zMQ5jKfici32TuEqjZqUqf
 公視二臺,tvbus://4A2ttkJVJVxoccwQPr2GtsJoedSLdk6YvnCckmkFG3BKwsxn5e
 公視3,tvbus://4nw6bDx7bbpgNpMRxfjSfNrW5ZsT8qSoSeh6giYpQsRvZYUJBd
 公視3,P2p://51.79.41.138:18912/5b14094a0002d1d117d1e518204a1cf0.ts
+臺視,tvbus://3MWbYokmFjcnHYCRYSP3y19WGbnqgghEGqdfyB8pE8oeLR82o6
 臺視,http://hzyhjg.cc/cs/gat/ts.php
 臺視,mitv://198.255.74.57:12396/5e50207d000a0bee3d32f17634f6c26e.ts
 臺視新聞臺,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
 臺視新聞臺,mitv://198.255.74.57:12396/5e50207d0009379b3d32f140b76c2b2d.ts
 臺視新聞臺,mitv://198.255.74.57:12396/5e502078000cae2e3d32de9baa0d6a19.ts
 壹電視資訊綜合臺,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
-壹電視綜合 HD,mitv://198.255.74.57:12396/5e502078000d90eb3d32ded5ba7af9fe.ts
+臺視綜合臺,tvbus://3er9dmev681FB3cFcerFAf8qagTqoMiv2Fcg2NQ7LXinTBbJnu
+臺視綜合臺,mitv://198.255.74.57:12396/5e502078000d90eb3d32ded5ba7af9fe.ts
+臺視財經臺,tvbus://3Ee45QJ3tcjbsJDaE8tNjPghDwmbMzUt5yGUH5f45FLyXH2E4Y
 民視,p8p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10.ts
 民視,http://hzyhjg.cc/cs/gat/ms.php
 民視,mitv://198.255.74.57:12396/5e50207d000ae4ca3d32f1aef2f53641.ts
@@ -3938,20 +3925,31 @@ DAAI-TV,tvbus://45JdHfbF9Ae1ZsCwsUWMbxiKiPj5zMQ5jKfici32TuEqjZqUqf
 東森幼幼,mitv://198.255.74.57:12396/5e502078000e83813d32df13dca72df1.ts
 东森亞洲臺,mitv://198.255.74.57:12396/5e5020760000ab313d32d3b8d26e88d7.ts
 好萊塢電影台,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+緯來育樂,tvbus://3qYPPrGvax4yGfL74idWXCBBJc2LUQG33orgUJTeQnmstMyhXZ
 緯來育樂,mitv://147.135.39.171:9906/5d026529000d09dce2924de7457665eb.ts
 緯來育樂,mitv://198.255.74.57:12396/5e50207b0007cfaa3d32e914f2b6b70d.ts
+緯來綜合,tvbus://3cSGNML3towieyykSCpozUTdnqsMuDqqLa8FmQi5ARu5MhqNRT
 緯來綜合,mitv://198.255.74.57:12396/5e50207b0006eef43d32e8da975bbe08.ts
 緯來電影,p8p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509.ts
 緯來電影,mitv://198.255.74.57:12396/5e50207b0005f6e33d32e89b52a93087.ts
+緯來體育,tvbus://2z433RhP2nY9CDpLhVWhHXs3iwUxRZbu7mZeHBb4DSPZ3Zn736
 緯來體育,mitv://198.255.74.57:12396/5e50207b000513753d32e86125cd09c9.ts
+緯來戲劇,p8p://0198.02686.cc:16871/5e0f37bd00040a5217930a9af969bce1.ts
 緯來戲劇,mitv://198.255.74.57:12396/5e50207b00042ba83d32e825c20650d8.ts
+緯來日本,p8p://0198.02686.cc:16871/5d8b6caa00035a0b14c1c834b40e4885.ts
 緯來日本,mitv://198.255.74.57:12396/5e50207b00034e853d32e7ed96d69415.ts
-緯來精彩,https://usb.bozztv.com/ssh101/ttvbHD/ttvbHD/index.m3u8
+緯來精采臺,tvbus://4Kz3anJYc5QAu3T34Ay3joFKkZ1PnaKAnVpErybbH7tBtMXGfR
+緯來精采臺,https://usb.bozztv.com/ssh101/ttvbHD/ttvbHD/index.m3u8
+龍祥時代,tvbus://3D6awDkbpyHT1F6YXV45PZjo1hgc9FQ3TNoZZUBpcRrwm9qbA4
+龍華電影,tvbus://3Br4SxtF9qJZCbUsPbhS6vJGMEqq37U1U9Jy6FRbfDeQwa5vVq
 龍華動畫 HD,mitv://198.255.74.57:12396/5e502078000bc7653d32de60d70bb96e.ts
+龍華洋片,tvbus://4XtaxRv636ezcFPhqG7EjTFRbuszo3qhQnjqP8qKDGX1dgmJ2d
 龍華洋片,mitv://198.255.74.57:12396/5e502078000adff03d32de257a612512.ts
 龍華影劇,mitv://198.255.74.57:12396/5e5020780009e96a3d32dde65472d436.ts
+龍華偶像,tvbus://4jC22JVuFZmhbNViRb7t64Zn6fCKDqRBAhVgu6ovEgmtmGNJmG
 龍華偶像,mitv://198.255.74.57:12396/5e5020780008f1003d32dda6bc0268b4.ts
 龍華偶像,mitv://147.135.39.171:9906/5b093d430004c0e3052ab6512e2d051d.ts
+龍華戲劇,tvbus://44JkJ3K7MQMUSevBJeXmSkTYuwaNkH9u3D8skem44B2T1Vwp9o
 龍華戲劇,mitv://198.255.74.57:12396/5e502078000803333d32dd694b31e00b.ts
 龍華經典,mitv://198.255.74.57:12396/5e502078000722b73d32dd30d938e2a9.ts
 靖天資訊,http://61.58.60.230:9319/live/202.m3u8
@@ -4087,8 +4085,9 @@ CinemaWorld,mitv://198.255.74.57:12396/5e5020690008ec1d3d32a30d0a6c7f98.ts
 CinemaWorld,tvbus://3fyaSXrv5Vuxo8J4dVvLRTFbpGSptw3VUA25xihtmqzv4zvT7C
 BLUE ANT,tvbus://46vTG6h2yMJuzbrwaMS2frBQamNpQLbN6DSSTLcRig9bGSL7NE
 BLUE ANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
-美亞電影臺 HD,mitv://198.255.74.57:12396/5e502069000817c63d32a2d65bbe5810.ts
-星衛電影臺 HD,mitv://198.255.74.57:12396/5e50206900073ece3d32a29fd28d76b0.ts
+美亞電影臺,tvbus://4A7AVjTaabYxh66cHDAUZWoBK82X6x6ZRiibxR8fFaLNuGT6TM
+美亞電影臺,mitv://198.255.74.57:12396/5e502069000817c63d32a2d65bbe5810.ts
+星衛電影臺,mitv://198.255.74.57:12396/5e50206900073ece3d32a29fd28d76b0.ts
 星衛娛樂臺,mitv://198.255.74.57:12396/5e502069000669403d32a2683760c8cd.ts
 灾难电影,http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 动漫大电影,http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
@@ -4117,6 +4116,7 @@ Star Movies HD (Middle East),http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m
 Star World HD (Middle East),http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8#http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8#http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 
 美国频道,#genre#
+美国中文电视,tvbus://3G9xN5E3PaFHxJ3SmTs8EatxvCPYii5JCJfG4gRVWk5mXCVnAB
 5m Kitchen Hacks,https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
 5m Life Hacks,https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
 5m Quick Crafts,https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
@@ -4194,7 +4194,8 @@ H2,http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 OUTDOOR HD,mitv://198.255.74.57:12396/5e502060000572353d327f01d3a3a092.ts
 TRAVEL,mitv://198.255.74.57:12396/5e502060000499173d327ec9b89fb908.ts
 E! Entertainment,mitv://198.255.74.57:12396/5e50205f000dec2d3d327d4493851a9b.ts
-Ci罪案偵緝 HD,mitv://198.255.74.57:12396/5e50205f000d180c3d327d0e19e1ee23.ts
+Ci罪案偵緝,tvbus://4cXDenEV5apVF5xuGcmtKr4KCGmWuBQbjPydCzumuMssgEVtRA
+Ci罪案偵緝,mitv://198.255.74.57:12396/5e50205f000d180c3d327d0e19e1ee23.ts
 fashiontv HD,mitv://198.255.74.57:12396/5e50205f000ccdf43d327cfb25a1eb31.ts
 Bloomberg,tvbus://3uCmxYokABFHnMzbEC9VGm1bKyZ3BEk9ezWXsv9Fx7DcCd1TLE
 Bloomberg,tvbus://4Pveh9wwocjBgnMXUSu8Ns3nFJusxi2T1W63AcHSszAUPQBcS5
