@@ -4007,9 +4007,11 @@ FOOD美食,tvbus://3kdNHNLMdPo9No1qMRc2sBwBrU7rwQf4iaXxETo3ZF67b3kjbu
 亚洲旅游台,p2p://fccsovh.pvbox.live:18912/5b14091700094183808c0d500b4af72d.ts
 亚洲旅游台,p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
 亚洲旅游台,mitv://198.255.74.57:12396/5e50206c000726cc3d32ae51701aab94.ts
+EYETV旅遊,tvbus://3rmsk16HGS5t4uyETZzFMmfGwAd9X8LtTQng4YJRmjBh1S1he9
 EYETV旅遊,p2p://fccsovh.pvbox.live:18912/5b140916000c98180df3ce54740eebb3.ts
 EYETV旅遊,mitv://198.255.74.57:12396/5e5020720008ef0c3d32c635ae7465a3.ts
-中华美食,p2p://fccsovh.pvbox.live:18912/5b14092b000126615dcd1972c7c19cee.ts
+中華美食,p8p://0198.02686.cc:16871/5db8e9a9000094a0c6720b9777392965.ts
+中華美食,p2p://fccsovh.pvbox.live:18912/5b14092b000126615dcd1972c7c19cee.ts
 中華美食,mitv://198.255.74.57:12396/5e50204e000eb9413d323b119b462908.ts
 新唐人亚太台,https://live.ntdimg.com/aplive200/playlist.m3u8
 新唐人美东台,https://live.ntdimg.com/live400/playlist.m3u8
@@ -4044,6 +4046,7 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 大愛二台,https://tv2.wanfudaluye.com/live/live.m3u8
 大愛二台,p8p://0198.02686.cc:16871/5d1a69b8000386b311bdecc8d9c8c96a.ts
 大愛二台,http://61.58.60.230:9319/live/191.m3u8
+DAAI-TV,tvbus://45JdHfbF9Ae1ZsCwsUWMbxiKiPj5zMQ5jKfici32TuEqjZqUqf
 唯心電視,http://210.209.3.1/live/939B3234-4B4E-2CD3-4B6E-2DCAE6F15439?fmt=x264_500K_ts&cpid=admin&size=720X480&toflv=1&start=0
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
@@ -4064,14 +4067,21 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 寰宇财经台,p8p://0198.02686.cc:16871/5d1a69bb00034ddd11bdf8710f58e2f3.ts
 寰宇财经台,mitv://198.255.74.57:12396/5e50206f000a38ea3d32bad25ea762fd.ts
 民视新闻台,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
+中视,tvbus://34spY7rZCVYAX7UGX3BmGphZbqbLyDhHTaWCnCrdTnpKRgqHqZ
 中视,http://hzyhjg.cc/cs/gat/zs.php
 中视,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 中视,mitv://198.255.74.57:12396/5e50207d000f40db3d32f2ccd7024e22.ts
+中視经典,tvbus://3gokPtrEK1RFptNWM4TzM6T2wj1tbQjUvSHZejsAZtdet8pZ99
 中視经典,mitv://198.255.74.57:12396/5e50207e0000d1d03d32f302794f5a5c.ts
+中視新聞臺,tvbus://4CyY2AjjqMuQE2X9J2dXTGrxc9aP77J2FimJe2mpyYJgPtz3st
 中視新聞臺,mitv://147.135.39.171:9906/5cc68d1700024b76fadeb42526e50971.ts
 中視新聞臺,mitv://198.255.74.57:12396/5e50207d000e62303d32f293431c706e.ts
+中視菁採臺,tvbus://3mnGRSmJTPMqyWhAowL4jz1nd4uTvQnkrARmZkmb8mpmLEnQPK
 中视无线,http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+公視,tvbus://3foqWReSshcvfmDRwDyqyhc9Hc47hNirRBf3QY9EfaeRK1PRKQ
 公視,mitv://198.255.74.57:12396/5e50207d000d889c3d32f25b1c7040cb.ts
+公視二臺,tvbus://4A2ttkJVJVxoccwQPr2GtsJoedSLdk6YvnCckmkFG3BKwsxn5e
+公視3,tvbus://4nw6bDx7bbpgNpMRxfjSfNrW5ZsT8qSoSeh6giYpQsRvZYUJBd
 公視3,P2p://51.79.41.138:18912/5b14094a0002d1d117d1e518204a1cf0.ts
 臺視,http://hzyhjg.cc/cs/gat/ts.php
 臺視,mitv://198.255.74.57:12396/5e50207d000a0bee3d32f17634f6c26e.ts
@@ -4095,6 +4105,7 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 非凡新聞,http://hzyhjg.cc/cs/gat/ffxw.php
 非凡新聞,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
 非凡新聞,mitv://198.255.74.57:12396/5e50207b0008acd73d32e94c5132e8ab.ts
+三立臺灣臺,tvbus://12AJmEiuRVBZnnPNvtLLU1ohJZuiVUeD4vEVwkBpXj4rcChvwSF
 三立臺灣臺,http://hzyhjg.cc/cs/gat/sltwt.php
 三立臺灣臺,p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
 三立臺灣臺,mitv://198.255.74.57:12396/5e502078000545983d32dcb5287bf09f.ts
@@ -4103,29 +4114,38 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 三立新闻,p8p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts
 三立新闻,http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+三立都會臺,tvbus://3P3TmCuU7XMLCZyDpKKhMWEzaymvcLi89gioXC4n7RF65hZUvW
 三立都會臺,mitv://198.255.74.57:12396/5e5020780004f90a3d32dca29dfcb1f8.ts
 三立綜合臺,p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
 三立綜合臺,mitv://198.255.74.57:12396/5e5020760004290b3d32d49de1e9a62b.ts
 三立戲劇臺,p8p://0198.02686.cc:16871/5d1a69f90000ad2611bee9f55d87748f.ts
 三立戲劇臺,mitv://198.255.74.57:12396/5e502076000346383d32d4631085ebbe.ts
+八大第一臺,tvbus://4G1Pp66jJvD2c1TykPUhYZuUffSuKurALHDfGpYSwySt9BUkAQ
 八大第一臺,mitv://198.255.74.57:12396/5e502075000e2e113d32d34533f47683.ts
+八大戲劇,tvbus://4QUUE7V9TAw3qdn4kUQHhgSoHsTtExD7gvgtFQJocaDS53g5HG
 八大戲劇,mitv://198.255.74.57:12396/5e502075000d430d3d32d30953f2f7d1.ts
+八大娛樂臺,tvbus://3KSPQoLwCUqf6ftDpa3Xqig7cT4ST2wnnjCjSapLF3uegj6isW
 八大娛樂臺,mitv://198.255.74.57:12396/5e502075000c63d23d32d2d0f340f62b.ts
+八大綜合,tvbus://4UdVcVYG7btLGnDRmPcS8L1Cyq69HhZ5kh5WGg9yKLGKZNMkHt
 八大綜合,mitv://198.255.74.57:12396/5e502075000b7cc13d32d295986c348e.ts
 華視,mitv://198.255.74.57:12396/5e50207d0008f9973d32f13096666694.ts
 華視,p8p://0198.02686.cc:16871/5e0b4555000e6c89082827022892f415.ts
 华视CTS,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 华视无线,http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
 年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+中天新闻,tvbus://3YxGkBY7FXC8C7f8s8KS4kXx7HzrJH9TuZUMYNvQ7mdRJRmefn
 中天新闻,http://hzyhjg.cc/cs/gat/ztxw.php
 中天新闻,http://47.56.167.95/iptv222.php?id=44
 中天新闻,http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天新闻,mitv://198.255.74.57:12396/5e5020760002596e3d32d426fb68dbf7.ts
+中天綜合,tvbus://4oVPrArC1K58sEb5wwmwL1PiwdrY5DMUrWkzyCij1Qxxv9gGWT
 中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 中天综合,http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 中天综合,mitv://198.255.74.57:12396/5e502076000183ec3d32d3ef91816888.ts
+中天娱乐,tvbus://3otDgwf5nUhiW69dVAM3sxTZ9JaTXmmci2vw32us8oX7jfL3wT
 中天娱乐,mitv://147.135.39.171:9906/5defdaa0000974136ea066475c980b2d.ts
 中天娱乐,mitv://198.255.74.57:12396/5e502075000f15303d32d380125e5682.ts
+中天亚洲台,tvbus://4hcGR9bWXuUfczkZGmupEnBU5j5d119grDx8EjFwvdYW3Ds57p
 中天亚洲台,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 东森新闻,http://hzyhjg.cc/cs/gat/dsxw.php
 东森新闻,http://47.56.167.95/iptv222.php?id=46
@@ -4237,6 +4257,9 @@ HUB都会,mitv://147.135.39.171:9906/5d761ef6000df28e0f9a40de2c3d62bb.ts
 亞美卫视,https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 香港电影频道,http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 Star movies,http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+HBO原創,tvbus://4RTyk4dVWo7apvMisWAH4Tw3nqfWRc66o4qsBQbxaGTi8fU6Yi
+HBO家庭,tvbus://47rQKvQCtBXry5cRkueeZY3uzxujcazwJetcEqDpAdwK4Qyqdp
+HBO強檔,tvbus://4NFsHNryLgawzXAKBmQe8hBka7upyKPfi6VCXnmyLH2C7rkfcD
 HBO,p2p://fccsovh.pvbox.live:18912/5b140969000be13c170c4d321395bcea.ts
 HBO,http://hk.tv0668.com/dl/hk520.php?id=27
 HBO,http://hzyhjg.cc/cs/gat/hbo.php
@@ -4329,6 +4352,7 @@ Boomerang卡通频道,mitv://147.135.39.171:9906/5defdab700000f496ea0bdbd5c1a54b
 AXN,p2p://fccsovh.pvbox.live:18912/5b140922000388777bb32b1976c6ed6e.ts
 AXN,mitv://198.255.74.57:12396/5e50205a000d08a03d3269822cde8583.ts
 AXN,tvbus://3YDbvy6exdLYibCoFGLnT7L5zsJ5dbcbuAFDGc6ctCdsd2bh2g
+EVE,tvbus://3zaD3rfctgJgBQejewurNYV7rFCbU3hR3b5ARup8ZmidjJkre3
 EVE,p2p://fccsovh.pvbox.live:18912/5bdbf3a000041d6ad2172fcb0dab6930.ts
 EVE,p2p://fccsovh.pvbox.live:18912/5b14093f00043fac197259a079c29ab4.ts
 TLC旅游台,mitv://147.135.39.171:9906/5cc692b800066481faf4b217169a5a1b.ts
@@ -4362,6 +4386,10 @@ Discovery Science BR,p2p://fccsovh.pvbox.live:18912/5bee4e90000c4e2119ca6b6e513a
 Discovery Theater,p2p://fccsovh.pvbox.live:18912/5bee4e9400035d9f19ca78bc246f50ff.ts
 Discovery Turbo,p2p://fccsovh.pvbox.live:18912/5bee4e97000ce6c919ca86e56c7d0761.ts
 Discovery WORLD,p2p://fccsovh.pvbox.live:18912/5bee4e9b0004056f19ca944341e3368d.ts
+Discovery-Channel-HD,tvbus://46YrMmSyEAeEaxXL3uEn9YcuAyUQLz41Jz1reAD4drRAzDX63y
+DISCOVERY_SCIENCE,tvbus://3oKbC3auP13eBUrQSF9Ner2y5wZoK1fD8RKXPrrzXxZGA9tm6e
+DISCOVERY|HD,tvbus://3LrAvWN4yBbLavBuaGe4dGcjb1w7g5qGmb9Ka17LPXVSrD5qNH
+Discovery科學頻道,tvbus://3er2dXyjCT9n5ZB3MdAyWPT5q6WrYKNK7DB2sgfDmvoakg3vML
 国家地理,p2p://fccsovh.pvbox.live:18912/5b13f6f0000e0621c40e587775073b82.ts
 國家地理,mitv://198.255.74.57:12396/5e502063000621963d328ae6b3104a59.ts
 国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
@@ -4375,9 +4403,10 @@ History,p2p://fccsovh.pvbox.live:18912/5b1408f300071d3b6bc1eca52a95e91b.ts
 History,mitv://198.255.74.57:12396/5e502063000393f63d328a3ef5272b2c.ts
 History-HD,p2p://fccsovh.pvbox.live:18912/5b593bc700055296d3797bdc54675753.ts
 History BR,p2p://fccsovh.pvbox.live:18912/5bee50650000aeec19d1907829542060.ts
-History2,p2p://fccsovh.pvbox.live:18912/5b1408f3000402b2b347cadc76b8892b.ts
-History2,mitv://198.255.74.57:12396/5e5020630002a7a83d328a023d7420d6.ts
-History2,http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+H2,tvbus://3uuJKj6bbzUHtwesEFvXPxN9BcUEUWhQ8WfRrxXXb3RQp7Us9j
+H2,p2p://fccsovh.pvbox.live:18912/5b1408f3000402b2b347cadc76b8892b.ts
+H2,mitv://198.255.74.57:12396/5e5020630002a7a83d328a023d7420d6.ts
+H2,http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 動物星球,p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
 動物星球,mitv://198.255.74.57:12396/5e50206000073b993d327f768043421f.ts
 動物星球,p8p://0198.02686.cc:16871/5d1a6965000da65111bcab275e29e995.ts
@@ -4410,6 +4439,7 @@ CNN,mitv://198.255.74.57:12396/5e50205a000c2c553d32694a1621c2de.ts
 CNBC,tvbus://4JGvJvmeMhuAhJ8CbUZtjXCR92MzkXjiKaPVkDfAA7K1nDHMjj
 CNBC,mitv://198.255.74.56:19906/5dcf8386000ce8b3057eae1aa9b3358c
 CNBC,mitv://198.255.74.57:12396/5e50205a000b57c63d326913b982a83f.ts
+Crime Investigation,tvbus://3mgDJawu2DKoJj4GfnAC8m7AzA8k9zH4T1DLCkUoNo6CBUGiyK
 Boomerang,p2p://fccsovh.pvbox.live:18912/5b1409da0008112422174354e32b30be.ts
 Boomerang,mitv://198.255.74.57:12396/5e50205a000a7e343d3268dcd755d8dc.ts
 Boomerang BR,p2p://fccsovh.pvbox.live:18912/5bee4dfe0006bf7b19c82fa77e231263.ts
@@ -4437,6 +4467,7 @@ Box_Nation_HD,tvbus://3pTPkw3kyuA3h6sSjNKh6SkGpeo7drurg9sTVDif7WWmqw8uaj
 BRAVO-HD,p8p://0198.02686.cc:16871/5d1a696c0005fbb511bcc48953b9dfbc.ts
 DIYNETWORK,p8p://0198.02686.cc:16871/5d1a6977000356b111bceed483381bdd.ts
 FOOD-NETWORK,p8p://0198.02686.cc:16871/5d1a697c000f143811bd055d7544615f.ts
+FOOD-NETWORK,tvbus://4S9DhWJEnraSH18AZUyWFg27EczS4qGNae5M6X7jAVLD4219XB
 FX-HD,p8p://0198.02686.cc:16871/5d1a6982000291cf11bd19997ce5188f.ts
 Discovery Science,p8p://0198.02686.cc:16871/5d1a69e9000419a411beac56677fc008.ts
 STARZEAST,p8p://0198.02686.cc:16871/5d1a69ea000ad1c711beb1f6f97cd3db.ts
@@ -4446,7 +4477,11 @@ TNT-HD,p8p://0198.02686.cc:16871/5d1a69f00005151711bec7ee07d5886d.ts
 TRAVEL-CHANNEL,p8p://0198.02686.cc:16871/5d1a69f1000c88a511becdbe69be6f03.ts
 VICELAND,p8p://0198.02686.cc:16871/5d1a69f4000ac0e011bed902ea7910be.ts
 WEATHER,p8p://0198.02686.cc:16871/5d1a69f50006456d11bedbc41e2736ae.ts
-
+cp24,tvbus://3nDP1jXuQ5bGm43U2DPsGB9BCEW6jLqrYZKrjbauXW6trnzkVT
+CTV_MONTREAL|SD,tvbus://49ETknyxu9pqM5EHhEJkot7BREQNfpCTRxLwzBr2WoYUzYqtA6
+CTV_NEWS|SD,tvbus://47GddKc8JD245HNhiH1Vn18sZezxpfUzZfcnePPw4LMYyoxVk7
+CTV_TORONTO|SD,tvbus://4Wssb7zzErkvJhDitYXuPu95LXMVo78wadkD8DFWFCf1KxczZd
+CTV_TWO|SD,tvbus://2yZrga5HJ6iMhF9nj4ooMEiGT3YzubE6x7juuxUEE2e2Rbn7Ht
 
 马新频道,#genre#
 華麗臺,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
