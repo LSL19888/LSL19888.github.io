@@ -4226,10 +4226,11 @@ DIVA HD,mitv://198.255.74.57:12396/5e50206c0007f5783d32ae863abbe248.ts
 華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 
 港台影视,#genre#
+天映频道,tvbus://34q6YDKr5DYTjbTfS3BcUZByTsw7hmTTzBdYNankZMWh7JcReW
 CinemaWorld,mitv://147.135.39.171:9906/5d9a26b0000d33d29ca265a2789e70ab.ts
 CINEMAX,mitv://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts
 HKC电影一台HD,mitv://147.135.39.171:9906/5dcd25fc000ac00438c9e87707b227db.ts
-HUB都会,mitv://147.135.39.171:9906/5d6b7e97000f0537e0d92571650c0e7a.ts
+HUB都会,mitv://147.135.39.171:9906/5d6b7e97000f0537e0d92571650c0e7a.tsyan
 HUB都会,mitv://147.135.39.171:9906/5d761ef6000df28e0f9a40de2c3d62bb.ts
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 亞美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
@@ -4255,6 +4256,7 @@ FOX家庭,mitv://198.255.74.57:12396/5e5020660006b8503d3296c4ec7209c0.ts
 FOX CRIME,p2p://fccsovh.pvbox.live:18912/5b14098e000e434e8cf404bafd4e6a24.ts
 FOX CRIME,mitv://198.255.74.57:12396/5e5020660005df333d32968d2af0eb38.ts
 FOX NEWS,mitv://198.255.74.57:12396/5e5020660004f9ab3d3296520b5ca6ef.ts
+CINEMAX,tvbus://4X2gwa21hUoNkBr9UEvRAdEm1R3GWET5xJ6CPyaC457aWxvQnc
 CINEMAX,mitv://198.255.74.57:12396/5e502066000416113d3296180d0ae225.ts
 华纳电视频道,mitv://147.135.39.171:9906/5defdaa0000d7e3f6ea0675076d26f43.ts
 Warner Bros HD,mitv://198.255.74.57:12396/5e50205d000b7a5a3d3274d48072a26a.ts
@@ -4282,7 +4284,9 @@ China Movie,mitv://198.255.74.57:12396/5e50206c0006171c3d32ae0bbad1003e.ts
 龍祥時代,mitv://198.255.74.57:12396/5e502069000c6cc33d32a3f2a6e8aa91.ts
 好萊塢電影臺,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 好萊塢電影臺,mitv://198.255.74.57:12396/5e5020690009caca3d32a3469e5e4340.ts
+CinemaWorld,tvbus://31BRiMcE1EP7GbRqvzws7xocppe4BtBxxULuWPzw1WynkfJpJE
 CinemaWorld,mitv://198.255.74.57:12396/5e5020690008ec1d3d32a30d0a6c7f98.ts
+CinemaWorld,tvbus://3fyaSXrv5Vuxo8J4dVvLRTFbpGSptw3VUA25xihtmqzv4zvT7C
 BLUE ANT,tvbus://46vTG6h2yMJuzbrwaMS2frBQamNpQLbN6DSSTLcRig9bGSL7NE
 BLUE ANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
 美亞電影臺 HD,mitv://198.255.74.57:12396/5e502069000817c63d32a2d65bbe5810.ts
@@ -4295,7 +4299,9 @@ BLUE ANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
 FX,p2p://fccsovh.pvbox.live:18912/5b1409da000ebd47e5c80e7fffcbc653.ts
 FX,mitv://198.255.74.57:12396/5e5020660009533f3d32976fa8dc1ec6.ts
 FX,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
+CHC動作電影,tvbus://3YyQthnHA5QrbEqDgnrP3CWosSwBw2s9fjazLmbCpJ7ve8crUR
 CHC動作電影,mitv://198.255.74.57:12396/5e50204e000c34973d323a6ccdafdc0c.ts
+CHC家庭影院,tvbus://4DhHcFhaMMQY6x3Xxu79GBEUSzFHN5CYRL7oNBijfLiasXqMop
 CHC家庭影院,mitv://198.255.74.57:12396/5e50204e000b579f3d323a33080d397e.ts
 CHC高清電影 HD,mitv://198.255.74.57:12396/5e50204e000a84463d3239fdfa908648.ts
 经典频道,http://stream.guihet.com/migu/index.php?id=625542369
@@ -4395,10 +4401,13 @@ MTV LIVE HD,mitv://198.255.74.57:12396/5e50205d000489b23d32730dcb5d8ab8.ts
 FRANCE 24-English,mitv://198.255.74.57:12396/5e50205d00017afe3d3272459d492608.ts
 tvN HD,mitv://198.255.74.57:12396/5e50205b00004ce83d326a28245c3875.ts
 TV5,mitv://198.255.74.57:12396/5e50205a000de3cc3d3269ba947653c5.ts
+CNN,tvbus://4GdX4zPJrESdQSQ5q1DwfrzrYSZvRSJDu5whSpqvcjcCfQTFD1
+CNN,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
+CNN,tvbus://3TzruULpqcD5bjBjWBmUY4UdqH8eboy88JrU4LgXJHsqoJBdbq
 CNN,p2p://fccsovh.pvbox.live:18912/5b140954000dc92aa17edadd8e0a2886.ts
 CNN,p2p://fccsovh.pvbox.live:18912/5b593947000cff32c5b9f462a6c98e1d.ts
 CNN,mitv://198.255.74.57:12396/5e50205a000c2c553d32694a1621c2de.ts
-CNN,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
+CNBC,tvbus://4JGvJvmeMhuAhJ8CbUZtjXCR92MzkXjiKaPVkDfAA7K1nDHMjj
 CNBC,mitv://198.255.74.56:19906/5dcf8386000ce8b3057eae1aa9b3358c
 CNBC,mitv://198.255.74.57:12396/5e50205a000b57c63d326913b982a83f.ts
 Boomerang,p2p://fccsovh.pvbox.live:18912/5b1409da0008112422174354e32b30be.ts
@@ -4422,6 +4431,7 @@ CBC,tvbus://3pX4rNcG6jGbzxdpVoTwfMtrpEmpP4LRCGxHiZ18grbYHDJmL9
 CBSsports,tvbus://3zYPKFM5n9rCkJZ893NMd7ZHjvyt2smP2m2i2NQ7idzN9cqb8o
 CBC,p8p://0198.02686.cc:16871/5d1a696e0008b29f11bccd0ba35fcc88.ts
 CBSN,p8p://0198.02686.cc:16871/5d1a696f0004c63611bccff23b1319e7.ts
+CGTN,tvbus://12WRKUDF1FLsaY1NEYMDtc6X64evVFFsxWwsebMBCC34e1NzBdV
 BET-HD,p8p://0198.02686.cc:16871/5d1a696b0009debb11bcc1a073945821.ts
 Box_Nation_HD,tvbus://3pTPkw3kyuA3h6sSjNKh6SkGpeo7drurg9sTVDif7WWmqw8uaj
 BRAVO-HD,p8p://0198.02686.cc:16871/5d1a696c0005fbb511bcc48953b9dfbc.ts
@@ -4493,11 +4503,17 @@ TV9,mitv://198.255.74.57:12396/5e502088000dd6c23d331d67c46adf34.ts
 小太阳,p2p://fccsovh.pvbox.live:18912/5e64a272000ddf336caab7ae691a5371.ts
 欢喜,p2p://fccsovh.pvbox.live:18912/5d650431000dec1f373a2dce1b6646a5.ts
 爱奇艺,p2p://fccsovh.pvbox.live:18912/5e64a26d000826396caaa2af320f13f1.ts
-新加坡5,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-新-8頻道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-新-U頻道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+mediacorp,tvbus://4FSwymJ6TrRpwtqQxF7ahj4FENGrEtQd5rP3skENG6tsrQkC27
 mediacorp,mitv://147.135.39.171:9906/5d62c431000d1a95beb0b1da511854d1.ts
+mediacorp,tvbus://3nVZ93GSAcBXjvn2KQ7NnY6GYkDpFWXHdHAnmgb1FM3Q7q9zXi
+新加坡5,tvbus://32ZqkzqKLHsXEyG7gJzvCWp7cih7XBbw8AeNuZK2S2MmNGqbgn
+新加坡5,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+新-8頻道,tvbus://4aRp43i8dgKFTKF7DCiiDCWLQ6ttcZUb1EdQiDpmS9VAGhk69N
+新-8頻道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+新-U頻道,tvbus://2xbuXAmQHExXUNXobubhVH4dC9ZvdBjxxcvF5jsyizt1C2x97g
+新-U頻道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 Berita_Satu_News,tvbus://3nU7bTxmWjZn7DMyJbj4MTnJXaSXSbmPkntxYUpkdssA8nnxTy
+CJ_WOW_SHOP,tvbus://3UA7f2HhhkEEte3J5UsQevVDkzTN3ukxacbVcRWsN6pSnhCgit
 
 泰国频道,#genre#
 GMM 25,p8p://0198.02686.cc:16871/5d1a695e000a3f8f11bc8ef07ef72e30.ts
