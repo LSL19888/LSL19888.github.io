@@ -4390,12 +4390,15 @@ Discovery-Channel-HD,tvbus://46YrMmSyEAeEaxXL3uEn9YcuAyUQLz41Jz1reAD4drRAzDX63y
 DISCOVERY_SCIENCE,tvbus://3oKbC3auP13eBUrQSF9Ner2y5wZoK1fD8RKXPrrzXxZGA9tm6e
 DISCOVERY|HD,tvbus://3LrAvWN4yBbLavBuaGe4dGcjb1w7g5qGmb9Ka17LPXVSrD5qNH
 Discovery科學頻道,tvbus://3er2dXyjCT9n5ZB3MdAyWPT5q6WrYKNK7DB2sgfDmvoakg3vML
+國家地理,tvbus://4rCzF92tpigEaTDyFzUYgZox2deV8MRNanzviXfVbUsiJCWP49
 国家地理,p2p://fccsovh.pvbox.live:18912/5b13f6f0000e0621c40e587775073b82.ts
 國家地理,mitv://198.255.74.57:12396/5e502063000621963d328ae6b3104a59.ts
 国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 国家地理,http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/03.m3u8
+國家地理People,tvbus://4akBFefbKyf45ELCVGn61ycqZw8Q9noYBGQqsQNCCuw1gaiJVu
 國家地理People,p2p://fccsovh.pvbox.live:18912/5b14093f000b29ff60a8012c4f012aa6.ts
 國家地理People,mitv://198.255.74.57:12396/5e502063000543333d328aad4edbe099.ts
+國家地理野生,tvbus://36Fg7bSpGV24d6cDRfvu8fybf8SVFZCSya3ikQ8SnCvc2qxpBK
 國家地理野生,p2p://fccsovh.pvbox.live:18912/5b1409170007d34265514bfb6f766515.ts
 國家地理野生,mitv://198.255.74.57:12396/5e502063000465923d328a746d4c01dd.ts
 國家地理野生,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
