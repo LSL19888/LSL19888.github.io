@@ -3568,7 +3568,8 @@ TV조선,p2p://fccsovh.pvbox.live:18912/5b140a0a000388ab262f05550f3019bd.ts
 央视频道,#genre#
 CCTV-4k,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 CCTV-4K,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-CCTV-1,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
+CCTV-1 綜合,tvbus://3sE7V4EfT4ABijrGMpfjy9JFa1cAbCrMaQtGfLRmpvJNrgbkrZ
+CCTV-1 綜合,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
 CCTV-1 綜合,p2p://fccsovh.pvbox.live:18912/5b1409f2000cd4f77436047df2a8d579.ts
 CCTV-1 綜合,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV-1 綜合,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210102.m3u8
@@ -3576,77 +3577,92 @@ CCTV-1 綜合,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protoco
 CCTV-1 綜合,http://39.135.135.82:80/wh7f454c46tw2586129421_-1455745702/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225587/index.m3u8?icpid=88888888&RTS=1583531258&from=1&hms_devid=1011
 CCTV-1 綜合,mitv://198.255.74.57:12396/5e50205a00071a0e3d3267fdc3310ef3.ts
 CCTV-1 綜合,mitv://198.255.74.56:19906/5dcf8392000af976057edc7bb248b791
+CCTV-2 財經,tvbus://3asn7Up7Zn4SaZnSgn22Nm6wF9whAQLoDR3GwfJ4YK7i26YKc8
 CCTV-2 財經,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
 CCTV-2 財經,p2p://fccsovh.pvbox.live:18912/5b1409fd000904684d6c6cb76d9ca6b0.ts
 CCTV-2 財經,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
 CCTV-2 財經,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203602.m3u8
 CCTV-2 財經,mitv://198.255.74.57:12396/5e50205a00063dca3d3267c5d6706a00.ts
+CCTV-3 綜藝,tvbus://3jaRBsZVr66mGM5L3pbWVkuTHdmbGeETR25dTJEcZeTACh7UMs
 CCTV-3 綜藝,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
 CCTV-3 綜藝,p2p://fccsovh.pvbox.live:18912/5b17e9a3000ae053e050f6a62052e0cb.ts
 CCTV-3 綜藝,p2p://fccsovh.pvbox.live:18912/5b1409f30006df251589de2b4529e208.ts
 CCTV-3 綜藝,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
 CCTV-3 綜藝,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203802.m3u8
 CCTV-3 綜藝,mitv://198.255.74.57:12396/5e50205a0005fb263d3267b4d3a06de2.ts
+CCTV-4 中文國際,p8p://0198.02686.cc:16871/5d1a699c0003f57011bd7f840080582d.ts
 CCTV-4 中文國際,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
 CCTV-4 中文國際,p2p://fccsovh.pvbox.live:18912/5b14092c0006a1f7dc4f9da43fe85245.ts
 CCTV-4 中文國際,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
 CCTV-4 中文國際,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266302.m3u8
 CCTV-4 中文國際,mitv://198.255.74.57:12396/5e5020580004f47b3d325fa10149e0a5.ts
+CCTV-5 體育,p8p://0198.02686.cc:16871/5d1a699e00076fa011bd88384bd1ad68.ts
 CCTV-5 體育,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
 CCTV-5 體育,p2p://fccsovh.pvbox.live:18912/5b1409f20001a05d1280026ee4d70419.ts
 CCTV-5 體育,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
 CCTV-5 體育,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
 CCTV-5 體育,mitv://198.255.74.57:12396/5e502058000421ab3d325f6be3307281.ts
+CCTV-5+ 體育賽事,p8p://0198.02686.cc:16871/5d1a699d000b786b11bd85591a37419d.ts
 CCTV-5+ 體育賽事,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
 CCTV-5+ 體育賽事,p2p://fccsovh.pvbox.live:18912/5b1409f200034b738dd8837275469e01.ts
 CCTV-5+ 體育賽事,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
 CCTV-5+ 體育賽事,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204502.m3u8
 CCTV-5+ 體育賽事,mitv://198.255.74.57:12396/5e502058000345803d325f32eadb873e.ts
+CCTV-6 电影,tvbus://3CoPxRmmTMCs1MjizH59JSPAaCBUDyhKLNZruwkhcWJi4Pbe1W
 CCTV-6 电影,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
 CCTV-6 电影,p2p://fccsovh.pvbox.live:18912/5b1409dc00006f9391bd99f814e6a052.ts
 CCTV-6 电影,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
 CCTV-6 电影,http://112.50.243.8/PLTV/88888888/224/3221225804/1.m3u8
 CCTV-6 电影,mitv://198.255.74.57:12396/5e50205800025a9c3d325ef66d126993.ts
+CCTV-7 軍事農業,tvbus://3P7rrSz8eX8pvpbPwRL3tPMDQpMpK1tt9SHy7suoDjk57nnd4G
 CCTV-7 軍事農業,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
 CCTV-7 軍事農業,p2p://fccsovh.pvbox.live:18912/5b1409fa000e431b01ed618a7291bdd8.ts
 CCTV-7 軍事農業,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
 CCTV-7 軍事農業,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000510002.m3u8
 CCTV-7 軍事農業,mitv://198.255.74.57:12396/5e50205800017d6e3d325ebe1dbcaeab.ts
+CCTV-8 電視劇,tvbus://3bvffG3qZCPYyMUsjxEhMdZV9syFE12r9SE7zKANdeGJPYACis
 CCTV-8 電視劇,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
 CCTV-8 電視劇,p2p://fccsovh.pvbox.live:18912/5b14094a00047cbcf7cb436e43b690b5.ts
 CCTV-8 電視劇,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
 CCTV-8 電視劇,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203902.m3u8
 CCTV-8 電視劇,mitv://198.255.74.57:12396/5e5020580000a92c3d325e87c4a25930.ts
+CCTV-9 纪录,p8p://0198.02686.cc:16871/5d1a69a10005e2bf11bd938ba0a96775.ts
 CCTV-9 纪录,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
 CCTV-9 纪录,p2p://fccsovh.pvbox.live:18912/5b140954000be15461e80c3bd65c1e82.ts
 CCTV-9 纪录,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
 CCTV-9 纪录,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499402.m3u8
 CCTV-9 纪录,mitv://198.255.74.57:12396/5e502057000f0d7e3d325e4e9f8f688e.ts
+CCTV-10 科教,p8p://0198.02686.cc:16871/5d1a69950001d55b11bd63a1a7412eff.ts
 CCTV-10 科教,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
 CCTV-10 科教,p2p://fccsovh.pvbox.live:18912/5b14092c00088b2a07c361c4fff220ef.ts
 CCTV-10 科教,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
 CCTV-10 科教,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203502.m3u8
 CCTV-10 科教,mitv://198.255.74.57:12396/5e502057000e34003d325e17ab47f2fa.ts
+CCTV-11 戲曲,p8p://0198.02686.cc:16871/5d1a6995000d2d4411bd6688405637b9.ts
 CCTV-11 戲曲,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
 CCTV-11 戲曲,p2p://fccsovh.pvbox.live:18912/5b1409fb00030ef9f4e14412378e9750.ts
 CCTV-11 戲曲,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
 CCTV-11 戲曲,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204102.m3u8
 CCTV-11 戲曲,mitv://198.255.74.57:12396/5e502057000d62483d325de1035b8ec8.ts
+CCTV-12 社會與法,p8p://0198.02686.cc:16871/5d1a69960008e5c611bd69582e7284c5.ts
 CCTV-12 社會與法,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
 CCTV-12 社會與法,p2p://fccsovh.pvbox.live:18912/5b1409490000e8f881c38d4dc11513e8.ts
 CCTV-12 社會與法,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
 CCTV-12 社會與法,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000202602.m3u8
 CCTV-12 社會與法,mitv://198.255.74.57:12396/5e502057000c7ebd3d325da767a15bf2.ts
+CCTV-13 新聞,tvbus://3aAJxxFyc2nwMQAMj7hnBXR5S2xV8nZgVYr2H6KgctUTbb1TrT
 CCTV-13 新聞,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 CCTV-13 新聞,p2p://fccsovh.pvbox.live:18912/5b140953000402ea57f5135e22447b66.ts
 CCTV-13 新聞,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 CCTV-13 新聞,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204602.m3u8
 CCTV-13 新聞,mitv://198.255.74.57:12396/5e502057000ba7763d325d7023ea8148.ts
+CCTV-14 少兒,p8p://0198.02686.cc:16871/5d1a699800010bf711bd6f251fac0a34.ts
 CCTV-14 少兒,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
 CCTV-14 少兒,p2p://fccsovh.pvbox.live:18912/5b140948000759501389c8096f90ee77.ts
 CCTV-14 少兒,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 CCTV-14 少兒,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204402.m3u8
 CCTV-14 少兒,mitv://198.255.74.57:12396/5e502057000ac4d73d325d3659abbe67.ts
+CCTV-15 音樂,p8p://0198.02686.cc:16871/5d1a6998000c859211bd7215e54eb404.ts
 CCTV-15 音樂,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
 CCTV-15 音樂,p2p://fccsovh.pvbox.live:18912/5b140948000941c3ec7e34ed5e92c07e.ts
 CCTV-15 音樂,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
@@ -3655,6 +3671,7 @@ CCTV-15 音樂,mitv://198.255.74.57:12396/5e502057000a823f3d325d256c6bc48c.ts
 CCTV-17,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
 CCTV-17,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 CCTV-17,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204202.m3u8
+CCTV懷舊劇場,p8p://0198.02686.cc:16871/5d1a69a20001626a11bd964cbfa22b6d.ts
 CCTV懷舊劇場,p2p://fccsovh.pvbox.live:18912/5b140952000cd53b3529b724eb6c70c2.ts
 CCTV懷舊劇場,mitv://198.255.74.57:12396/5e502055000318803d32536f72725c14.ts
 
