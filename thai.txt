@@ -3985,6 +3985,7 @@ FOOD美食,tvbus://3kdNHNLMdPo9No1qMRc2sBwBrU7rwQf4iaXxETo3ZF67b3kjbu
 亚洲美食,tvbus://34wDUPKvLphNqSJ8411f9a3sWDXAGCDjd4TFBQuTQrv3SGHSHk
 亚洲美食,mitv://147.135.39.171:9906/5d9a2611000610959c9ff6b605c1339e.ts
 亚洲美食,p2p://fccsovh.pvbox.live:18912/5b1409da000c9801f2b123a3aa339358.ts
+亚洲美食,tvbus://4QHnc8b19aJ9TsLRnEWYA46z4VQ7xF6xHdmoSxe68iTgPugFNo
 亚洲旅游台,tvbus://3zfELchgV9vAJozdTxzTzYy9aiRsNqp9vwsMHzZD3WpvqdE838
 亚洲旅游台,p2p://fccsovh.pvbox.live:18912/5b14091700094183808c0d500b4af72d.ts
 亚洲旅游台,p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
@@ -4297,11 +4298,13 @@ Star World HD (Middle East),http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u
 5m Kitchen Hacks,https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
 5m Life Hacks,https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
 5m Quick Crafts,https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
+Animax,tvbus://3qZ1VdzTJmUSnAfGbxSoRaV5QF5PPNdAnTpSLsGUj7cks6KThX
 Animax,mitv://147.135.39.171:9906/5d9a25ad00050d2e9c9e6fc864b540d4.ts
 Boomerang卡通(英语),mitv://147.135.39.171:9906/5dea9390000d3b785a02bf8a11dd08b9.ts
 Boomerang卡通频道,mitv://147.135.39.171:9906/5defdab700000f496ea0bdbd5c1a54bc.ts
 AXN,p2p://fccsovh.pvbox.live:18912/5b140922000388777bb32b1976c6ed6e.ts
 AXN,mitv://198.255.74.57:12396/5e50205a000d08a03d3269822cde8583.ts
+AXN,tvbus://3YDbvy6exdLYibCoFGLnT7L5zsJ5dbcbuAFDGc6ctCdsd2bh2g
 EVE,p2p://fccsovh.pvbox.live:18912/5bdbf3a000041d6ad2172fcb0dab6930.ts
 EVE,p2p://fccsovh.pvbox.live:18912/5b14093f00043fac197259a079c29ab4.ts
 TLC旅游台,mitv://147.135.39.171:9906/5cc692b800066481faf4b217169a5a1b.ts
@@ -4348,6 +4351,7 @@ History2,mitv://198.255.74.57:12396/5e5020630002a7a83d328a023d7420d6.ts
 History2,http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 動物星球,p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
 動物星球,mitv://198.255.74.57:12396/5e50206000073b993d327f768043421f.ts
+動物星球,p8p://0198.02686.cc:16871/5d1a6965000da65111bcab275e29e995.ts
 亞洲美食 HD,mitv://198.255.74.57:12396/5e5020600006588a3d327f3c9f15d451.ts
 OUTDOOR HD,mitv://198.255.74.57:12396/5e502060000572353d327f01d3a3a092.ts
 TRAVEL,mitv://198.255.74.57:12396/5e502060000499173d327ec9b89fb908.ts
@@ -4383,6 +4387,7 @@ ABC,p8p://0198.02686.cc:16871/5d1a696200050e9f11bc9d3cb1d3a565.ts
 ABC,tvbus://3wpBb26uBjWZKeUzK5hMgrkkAPG8NVKfTsq32wroyRgwDyc7UD
 ABC-NEWS,p8p://0198.02686.cc:16871/5d1a696300009fd311bca002a1e12728.ts
 ACTION-MAX,p8p://0198.02686.cc:16871/5d1a6963000ba36f11bca2d48d62b2ad.ts
+AE-HD,p8p://0198.02686.cc:16871/5d1a696400072d7811bca597e0dd7a76.ts
 AMC-HD,p8p://0198.02686.cc:16871/5d1a6965000287cf11bca84f14c84ff7.ts
 ANIMAL-PLANET,p8p://0198.02686.cc:16871/5d1a6965000da65111bcab275e29e995.ts
 CBS-HD,p8p://0198.02686.cc:16871/5d1a696e0008b29f11bccd0ba35fcc88.ts
@@ -4408,12 +4413,14 @@ BBC-AMERICA,p8p://0198.02686.cc:16871/5d1a69660009ae9211bcae0b3b66fb97.ts
 AEC,p2p://fccsovh.pvbox.live:18912/5cbd60a3000c7aa1b974a5de72fb54bb.ts
 AEC,p2p://fccsovh.pvbox.live:18912/5d65046a0003ac6310f160714e505890.ts
 AEC,mitv://198.255.74.57:12396/5e50204b000db72f3d322f172586c73a.ts
+AOD,tvbus://3qM8pVubPhBSj3YQZrnYYrptmbrchftHEY3mAQeTdWSA82MJCN
 AOD,p2p://fccsovh.pvbox.live:18912/5d66315100033ff6fa51ef3d13b15b71.ts
 AOD,mitv://198.255.74.57:12396/5e50204b000cd95e3d322edec7378551.ts
 ARENA,p2p://fccsovh.pvbox.live:18912/5e64a276000ddf6a6caac74e6a3542af.ts
 ARENA,mitv://198.255.74.57:12396/5e50204b000bfcd03d322ea641d3eee8.ts
 AWANI,p2p://fccsovh.pvbox.live:18912/5d6504550000cf8cc4bc7e9840367983.ts
 AWANI,mitv://198.255.74.57:12396/5e50204b000b29e83d322e70f442fd3f.ts
+AWANI,tvbus://3rUzqeuHqgGGBC9XKGhiaUZK4GC8sP93mKh8ZB55is5XYKu8N1
 BERNAMA,p2p://fccsovh.pvbox.live:18912/5d6504800000d0257dd7eb21728a245a.ts
 BERNAMA,mitv://198.255.74.57:12396/5e50204b000a4ba43d322e37f092b821.ts
 CERIA,p2p://fccsovh.pvbox.live:18912/5d6504850001c4722cc425e43b1f405c.ts
@@ -4424,11 +4431,16 @@ PRIMA,p2p://fccsovh.pvbox.live:18912/5d650481000871888f957e63aa23e21f.ts
 PRIMA,mitv://198.255.74.57:12396/5e50204b0009fb2b3d322e22b64cc4ad.ts
 RIA,p2p://fccsovh.pvbox.live:18912/5e64a2700004928b6caaad7d56c7577a.ts
 RIA,mitv://198.255.74.57:12396/5e502089000392f63d331eae5964a6e0.ts
-Astro SUPERSPORT1,p2p://fccsovh.pvbox.live:18912/5d65048300014a5eec83cd7b0025d63e.ts
-Astro SUPERSPORT2,p2p://fccsovh.pvbox.live:18912/5e649e17000d46486c99b407332e53c8.ts
-Astro SUPERSPORT3,p2p://fccsovh.pvbox.live:18912/5e649e1900052aca6c99b9c40b5477a2.ts
-Astro SUPERSPORT4,p2p://fccsovh.pvbox.live:18912/5e649e1a000c8e6d6c99bf9075f31729.ts
-Astro WARNA,p2p://fccsovh.pvbox.live:18912/5d6504580009a216cddc4fc7f1d60560.ts
+ASSP1,p2p://fccsovh.pvbox.live:18912/5d65048300014a5eec83cd7b0025d63e.ts
+ASSP1,tvbus://4N4K4T6w98gA6nRqJT3B9aXbcGKHN1pRcmw7wt9dJPFBz8tNmf
+ASSP2,p2p://fccsovh.pvbox.live:18912/5e649e17000d46486c99b407332e53c8.ts
+ASSP2,tvbus://2zoA3d5r5AEVC4Fc4x7dw7sv6QHBYuRCSQL5P5i6bCdL7pBjWo
+ASSP3,p2p://fccsovh.pvbox.live:18912/5e649e1900052aca6c99b9c40b5477a2.ts
+ASSP3,tvbus://4joCnuRjN5oHfX9hX18vtTqPcjfkzVP2QhTXRGUdvCb2RLX3Vh
+ASSP4,p2p://fccsovh.pvbox.live:18912/5e649e1a000c8e6d6c99bf9075f31729.ts
+ASSP4,tvbus://3e9R54cQEp68yZuMgKAKe4M3FaWgucaGEAPEGkRWHikivq7y5t
+WARNA,p2p://fccsovh.pvbox.live:18912/5d6504580009a216cddc4fc7f1d60560.ts
+WARNA,tvbus://4XsZxBHzPETYWH1iBGHEdB9PMbDgddv3tQuH1JmtiQ3zgqJoPX
 TV1,p2p://fccsovh.pvbox.live:18912/5e64abfc0000ee896ccff772460f0740.ts
 TV1,mitv://198.255.74.57:12396/5e5020890002bdfe3d331e789bddca84.ts
 TV2,p2p://fccsovh.pvbox.live:18912/5bdfc29b000e4652f04560bfb6d2d34f.ts
