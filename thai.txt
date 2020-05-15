@@ -3,11 +3,8 @@ $c_start香港$c_end
 大爱台,http://198.16.106.58:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
 
 DMAX,http://198.16.106.58:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
-
-EVE,http://198.16.106.58:8278/discoveryeve_twn/playlist.m3u8?tid=m6376c7d24ec312573043&ct=17877&tsum=14196552a8369d8e160a34dd40b4f4bd
 CRIME INVESTIGATION,http://198.16.106.58:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
-History,http://198.16.106.58:8278/history1hd_twn/playlist.m3u8?tid=mb3c9baa1132e10632091&ct=17877&tsum=9a9c281d5d041631087798fa725ed497
-History 2,http://198.16.106.58:8278/history2hd_twn/playlist.m3u8?tid=m6ee31585044116722070&ct=17877&tsum=f8c0d4c91afe878ae92670a427f15300
+
 
 动物星球,http://198.16.106.58:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 
@@ -48,21 +45,15 @@ TVBS-HD,http://198.16.106.58:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&
 纬来电影,http://198.16.106.58:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
 龙翔时代,http://198.16.106.58:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 东森戏剧,http://198.16.106.58:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
-好莱坞电影,http://198.16.106.58:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
-CINEMAX,http://198.16.106.58:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
+
 纬来娱乐,http://198.16.106.58:8278/2acb126c2f/playlist.m3u8?tid=mf53bcfe7a96d&ct=18335&tsum=6513d637d9c20538a421ff5f7e3aaac3
 纬来体育,http://198.16.106.58:8278/videolandsport_twn/playlist.m3u8?tid=m297afae2173c10027172&ct=17874&tsum=059e8c4d61e754d611ae4903c24be121
 纬来精彩,http://198.16.106.58:8278/videolandspecial_twn/playlist.m3u8?tid=m7ad330f1250511190882&ct=17889&tsum=028edd32d84c9810f126c7167897858a
 MTV,http://198.16.106.58:8278/mtvtaiwan_twn/playlist.m3u8?tid=m98d3f6cfc30d&ct=18335&tsum=27acc372ac9c5d91e1e3d0210a3cec4e
 MTV-LIVE,http://198.16.106.58:8278/mtvlive_twn/playlist.m3u8?tid=md811f71116ba&ct=18335&tsum=015bd1ee2e1cc793c5bf61e08fea5e77
 FX-HD,http://198.16.106.58:8278/fxhd_twn/playlist.m3u8?tid=m8498f04c47e518196321&ct=17874&tsum=cf16eabaef6f5f875adb0ddb5f09d0d4
-FOX,http://198.16.106.58:8278/foxhd_twn/playlist.m3u8?tid=ma917ec9fcbb013975253&ct=17874&tsum=4ef6f5cfc8fa293ad3a1d18f2224120a
-FOX犯罪,http://198.16.106.58:8278/foxcrime_twn/playlist.m3u8?tid=mad94f360dbc911979092&ct=17874&tsum=f3660d1b5d22dd9e8bfd9e1c13a653fc
+
 FOX动作,http://198.16.106.58:8278/foxaction_twn/playlist.m3u8?tid=m2221db510cba10253148&ct=17874&tsum=0248b8358bbfa7ab78a7dbd2faaf4ad1
-FOX家庭,http://198.16.106.58:8278/foxfamily_twn/playlist.m3u8?tid=ma0567f6ff31018880325&ct=17874&tsum=2117118a0890ae6db1010482ffd9175f
-HBO-HD,http://198.16.106.58:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
-HBO Hits,http://198.16.106.58:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
-HBO Signature,http://198.16.106.58:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 ELTA综合,http://198.16.106.58:8278/eltazhonghe_twn/playlist.m3u8?tid=mc103c8c05141&ct=18335&tsum=53a562eb65370f35b63a332140e2514c
 ELTA影剧,http://198.16.106.58:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 ELTA体育1台,http://198.16.106.58:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
@@ -4030,25 +4021,32 @@ Star movies,http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 HBO原創,tvbus://4RTyk4dVWo7apvMisWAH4Tw3nqfWRc66o4qsBQbxaGTi8fU6Yi
 HBO家庭,tvbus://47rQKvQCtBXry5cRkueeZY3uzxujcazwJetcEqDpAdwK4Qyqdp
 HBO強檔,tvbus://4NFsHNryLgawzXAKBmQe8hBka7upyKPfi6VCXnmyLH2C7rkfcD
+HBO,http://198.16.106.58:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBO,p2p://fccsovh.pvbox.live:18912/5b140969000be13c170c4d321395bcea.ts
 HBO,http://hk.tv0668.com/dl/hk520.php?id=27
 HBO,http://hzyhjg.cc/cs/gat/hbo.php
 HBO,mitv://198.255.74.57:12396/5e50206900060f303d32a25155c14c28.ts
+HBO Hits,http://198.16.106.58:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
 HBO Hits,p2p://fccsovh.pvbox.live:18912/5b14096900084dd99e1d5bcc5ece9c24.ts
 HBO Hits,mitv://198.255.74.57:12396/5e502066000b276d3d3297e76f60aed2.ts
+HBO Signature,http://198.16.106.58:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 HBO Signature,p2p://fccsovh.pvbox.live:18912/5b14096a000a35a1031ce8879f0e06db.ts
 HBO Signature,mitv://198.255.74.57:12396/5e502066000a4dfd3d3297afe1778d3a.ts
 HBO2,p2p://fccsovh.pvbox.live:18912/5bee4e860006918a19ca42d74e5c2169.ts
-FOX HD,mitv://198.255.74.57:12396/5e502066000877783d329737605eb25c.ts
+FOX,http://198.16.106.58:8278/foxhd_twn/playlist.m3u8?tid=ma917ec9fcbb013975253&ct=17874&tsum=4ef6f5cfc8fa293ad3a1d18f2224120a
+FOX,mitv://198.255.74.57:12396/5e502066000877783d329737605eb25c.ts
 FOX动作,p2p://fccsovh.pvbox.live:18912/5b140977000904d684ec8ac4fa561e17.ts
 FOX动作,p2p://fccsovh.pvbox.live:18912/5b140977000ab01d13f89dada038963b.ts
 FOX动作,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 FOX动作,mitv://198.255.74.57:12396/5e5020660007a1523d32970079e9e50d.ts
+FOX家庭,http://198.16.106.58:8278/foxfamily_twn/playlist.m3u8?tid=ma0567f6ff31018880325&ct=17874&tsum=2117118a0890ae6db1010482ffd9175f
 FOX家庭,p2p://fccsovh.pvbox.live:18912/5b14098e000945ca302f727ea8fb34f5.ts
 FOX家庭,mitv://198.255.74.57:12396/5e5020660006b8503d3296c4ec7209c0.ts
-FOX CRIME,p2p://fccsovh.pvbox.live:18912/5b14098e000e434e8cf404bafd4e6a24.ts
-FOX CRIME,mitv://198.255.74.57:12396/5e5020660005df333d32968d2af0eb38.ts
+FOX犯罪,http://198.16.106.58:8278/foxcrime_twn/playlist.m3u8?tid=mad94f360dbc911979092&ct=17874&tsum=f3660d1b5d22dd9e8bfd9e1c13a653fc
+FOX犯罪,p2p://fccsovh.pvbox.live:18912/5b14098e000e434e8cf404bafd4e6a24.ts
+FOX犯罪,mitv://198.255.74.57:12396/5e5020660005df333d32968d2af0eb38.ts
 FOX NEWS,mitv://198.255.74.57:12396/5e5020660004f9ab3d3296520b5ca6ef.ts
+CINEMAX,http://198.16.106.58:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
 CINEMAX,tvbus://4X2gwa21hUoNkBr9UEvRAdEm1R3GWET5xJ6CPyaC457aWxvQnc
 CINEMAX,mitv://198.255.74.57:12396/5e502066000416113d3296180d0ae225.ts
 华纳电视频道,mitv://147.135.39.171:9906/5defdaa0000d7e3f6ea0675076d26f43.ts
@@ -4075,6 +4073,7 @@ China Movie,mitv://198.255.74.57:12396/5e50206c0006171c3d32ae0bbad1003e.ts
 衛視中文臺,mitv://198.255.74.57:12396/5e502069000e17e93d32a46005d83470.ts
 衛視西片 HD,mitv://198.255.74.57:12396/5e502069000d42423d32a429735e8f27.ts
 龍祥時代,mitv://198.255.74.57:12396/5e502069000c6cc33d32a3f2a6e8aa91.ts
+好萊塢電影臺,http://198.16.106.58:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 好萊塢電影臺,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 好萊塢電影臺,mitv://198.255.74.57:12396/5e5020690009caca3d32a3469e5e4340.ts
 CinemaWorld,tvbus://31BRiMcE1EP7GbRqvzws7xocppe4BtBxxULuWPzw1WynkfJpJE
@@ -4124,6 +4123,7 @@ Boomerang卡通频道,mitv://147.135.39.171:9906/5defdab700000f496ea0bdbd5c1a54b
 AXN,p2p://fccsovh.pvbox.live:18912/5b140922000388777bb32b1976c6ed6e.ts
 AXN,mitv://198.255.74.57:12396/5e50205a000d08a03d3269822cde8583.ts
 AXN,tvbus://3YDbvy6exdLYibCoFGLnT7L5zsJ5dbcbuAFDGc6ctCdsd2bh2g
+EVE,http://198.16.106.58:8278/discoveryeve_twn/playlist.m3u8?tid=m6376c7d24ec312573043&ct=17877&tsum=14196552a8369d8e160a34dd40b4f4bd
 EVE,tvbus://3zaD3rfctgJgBQejewurNYV7rFCbU3hR3b5ARup8ZmidjJkre3
 EVE,p2p://fccsovh.pvbox.live:18912/5bdbf3a000041d6ad2172fcb0dab6930.ts
 EVE,p2p://fccsovh.pvbox.live:18912/5b14093f00043fac197259a079c29ab4.ts
@@ -4183,10 +4183,12 @@ Discovery科學頻道,tvbus://3er2dXyjCT9n5ZB3MdAyWPT5q6WrYKNK7DB2sgfDmvoakg3vML
 國家地理野生,p2p://fccsovh.pvbox.live:18912/5b1409170007d34265514bfb6f766515.ts
 國家地理野生,mitv://198.255.74.57:12396/5e502063000465923d328a746d4c01dd.ts
 國家地理野生,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+History,http://198.16.106.58:8278/history1hd_twn/playlist.m3u8?tid=mb3c9baa1132e10632091&ct=17877&tsum=9a9c281d5d041631087798fa725ed497
 History,p2p://fccsovh.pvbox.live:18912/5b1408f300071d3b6bc1eca52a95e91b.ts
 History,mitv://198.255.74.57:12396/5e502063000393f63d328a3ef5272b2c.ts
 History-HD,p2p://fccsovh.pvbox.live:18912/5b593bc700055296d3797bdc54675753.ts
 History BR,p2p://fccsovh.pvbox.live:18912/5bee50650000aeec19d1907829542060.ts
+H2,http://198.16.106.58:8278/history2hd_twn/playlist.m3u8?tid=m6ee31585044116722070&ct=17877&tsum=f8c0d4c91afe878ae92670a427f15300
 H2,tvbus://3uuJKj6bbzUHtwesEFvXPxN9BcUEUWhQ8WfRrxXXb3RQp7Us9j
 H2,p2p://fccsovh.pvbox.live:18912/5b1408f3000402b2b347cadc76b8892b.ts
 H2,mitv://198.255.74.57:12396/5e5020630002a7a83d328a023d7420d6.ts
