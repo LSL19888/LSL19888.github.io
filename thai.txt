@@ -1,13 +1,9 @@
 $c_start香港$c_end
 中视经典,http://198.16.106.58:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 大爱台,http://198.16.106.58:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
-NatGeo,http://198.16.106.58:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
-NatGeo Wild,http://198.16.106.58:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
-NatGeo People,http://198.16.106.58:8278/natgeopeople_twn/playlist.m3u8?tid=m276f4f18825f17790558&ct=17874&tsum=1d6b4707b3010308c5c9a9d2e8e2c556
-Discovery,http://198.16.106.58:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
-Discovery Asia,http://198.16.106.58:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+
 DMAX,http://198.16.106.58:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
-Discovery Science,http://198.16.106.58:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
+
 EVE,http://198.16.106.58:8278/discoveryeve_twn/playlist.m3u8?tid=m6376c7d24ec312573043&ct=17877&tsum=14196552a8369d8e160a34dd40b4f4bd
 CRIME INVESTIGATION,http://198.16.106.58:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
 History,http://198.16.106.58:8278/history1hd_twn/playlist.m3u8?tid=mb3c9baa1132e10632091&ct=17877&tsum=9a9c281d5d041631087798fa725ed497
@@ -4149,10 +4145,13 @@ BBC EARTH,p2p://fccsovh.pvbox.live:18912/5b1408f200071c8b1d67497b97d9cb56.ts
 BBC EARTH,mitv://198.255.74.57:12396/5e50205d0001e9d53d327261fee45820.ts
 BBC World News,tvbus://4LX2TphafAN2t2YYPkL5AM944HiwLGYdddRm3zmzd7qA8UbtJM
 BBC World News,tvbus://3FbsUkmTzxn2F4fqEkLpcMvNbPNUFFWivQSFembcDiwQDdUYGY
-Discovery HD,mitv://198.255.74.57:12396/5e50206600013e233d32955d22107029.ts
-探索_Discovery_Asia,tvbus://45L4g5d5mnwHxWwEwfqV6midoGg2PYEDsNLV5WRyynSs1s9Q7w
+Discovery,http://198.16.106.58:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+Discovery,mitv://198.255.74.57:12396/5e50206600013e233d32955d22107029.ts
+Discovery Asia,http://198.16.106.58:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+Discovery Asia,tvbus://45L4g5d5mnwHxWwEwfqV6midoGg2PYEDsNLV5WRyynSs1s9Q7w
 探索頻道,tvbus://3YTQyx5qi6o9dtJF1aoqCdPvaTb3EyE37w4EkeWwxESzBMe7EE
 Discovery 動力頻道 HD,mitv://198.255.74.57:12396/5e5020630008a5db3d328b8b20e3013a.ts
+DISCOVERY 科學頻道,http://198.16.106.58:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
 DISCOVERY 科學頻道,p2p://fccsovh.pvbox.live:18912/5b14093f000e802b696378db44987f83.ts
 Discovery 科學頻道,mitv://198.255.74.57:12396/5e5020630007d4173d328b5569e28401.ts
 Discovery EVE HD,mitv://198.255.74.57:12396/5e5020630006fd943d328b1ef0db2936.ts
@@ -4169,14 +4168,17 @@ Discovery-Channel-HD,tvbus://46YrMmSyEAeEaxXL3uEn9YcuAyUQLz41Jz1reAD4drRAzDX63y
 DISCOVERY_SCIENCE,tvbus://3oKbC3auP13eBUrQSF9Ner2y5wZoK1fD8RKXPrrzXxZGA9tm6e
 DISCOVERY|HD,tvbus://3LrAvWN4yBbLavBuaGe4dGcjb1w7g5qGmb9Ka17LPXVSrD5qNH
 Discovery科學頻道,tvbus://3er2dXyjCT9n5ZB3MdAyWPT5q6WrYKNK7DB2sgfDmvoakg3vML
+國家地理,http://198.16.106.58:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 國家地理,tvbus://4rCzF92tpigEaTDyFzUYgZox2deV8MRNanzviXfVbUsiJCWP49
 国家地理,p2p://fccsovh.pvbox.live:18912/5b13f6f0000e0621c40e587775073b82.ts
 國家地理,mitv://198.255.74.57:12396/5e502063000621963d328ae6b3104a59.ts
 国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 国家地理,http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/03.m3u8
+國家地理People,http://198.16.106.58:8278/natgeopeople_twn/playlist.m3u8?tid=m276f4f18825f17790558&ct=17874&tsum=1d6b4707b3010308c5c9a9d2e8e2c556
 國家地理People,tvbus://4akBFefbKyf45ELCVGn61ycqZw8Q9noYBGQqsQNCCuw1gaiJVu
 國家地理People,p2p://fccsovh.pvbox.live:18912/5b14093f000b29ff60a8012c4f012aa6.ts
 國家地理People,mitv://198.255.74.57:12396/5e502063000543333d328aad4edbe099.ts
+國家地理野生,http://198.16.106.58:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
 國家地理野生,tvbus://36Fg7bSpGV24d6cDRfvu8fybf8SVFZCSya3ikQ8SnCvc2qxpBK
 國家地理野生,p2p://fccsovh.pvbox.live:18912/5b1409170007d34265514bfb6f766515.ts
 國家地理野生,mitv://198.255.74.57:12396/5e502063000465923d328a746d4c01dd.ts
