@@ -12,12 +12,11 @@ EVE,http://198.16.106.58:8278/discoveryeve_twn/playlist.m3u8?tid=m6376c7d24ec312
 CRIME INVESTIGATION,http://198.16.106.58:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
 History,http://198.16.106.58:8278/history1hd_twn/playlist.m3u8?tid=mb3c9baa1132e10632091&ct=17877&tsum=9a9c281d5d041631087798fa725ed497
 History 2,http://198.16.106.58:8278/history2hd_twn/playlist.m3u8?tid=m6ee31585044116722070&ct=17877&tsum=f8c0d4c91afe878ae92670a427f15300
-TLC,http://198.16.106.58:8278/tlcasia_twn/playlist.m3u8?tid=m4275a6300f1315825317&ct=17874&tsum=40a7698d34b5c229dcb10d0a2b876319
+
 动物星球,http://198.16.106.58:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
-CN卡通频道,http://198.16.106.58:8278/momo1_twn/playlist.m3u8?tid=md272f875bb6916787346&ct=17874&tsum=0c38bae20c6db7e76ad1418654c8ccd4
-迪士尼频道,http://198.16.106.58:8278/disneytwn_twn/playlist.m3u8?tid=m215093f0d3d710656413&ct=17899&tsum=cfa7cdeea67a02a00ac9b0bea4776d28
+
 momoÓH×ÓÌ¨,http://198.16.106.58:8278/starfamily/playlist.m3u8?tid=m35569e28d78a&ct=18335&tsum=fb0f65f17e4ceec252f8c5b8a5552119
-YoYo频道,http://198.16.106.58:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
+
 纬来综合,http://198.16.106.58:8278/videolandzhe_twn/playlist.m3u8?tid=me8bac156077117426124&ct=17877&tsum=f5d43c876bab3b4a886b39fc8f7fc653
 八大第一台,http://198.16.106.58:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 八大娱乐台,http://198.16.106.58:8278/badaentertain/playlist.m3u8?tid=m6f7aed1b4260&ct=18335&tsum=fd808db00f6ca5c51dd3de7d3e214287
@@ -83,10 +82,8 @@ EYE TV旅游,http://198.16.106.58:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e9629
 tVN,http://198.16.106.58:8278/tvn_twn/playlist.m3u8?tid=m0af8490e6e22&ct=18335&tsum=3ce96443a2a93f93268e2d1d30e3d62a
 星卫娱乐台,http://198.16.106.58:8278/starentertainment_twn/playlist.m3u8?tid=m03b7fd7a033016076997&ct=17874&tsum=fe095a1f38d6ea608dc64c6b66e12833
 星卫电影台,http://198.16.106.58:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-美食星球,http://198.16.106.58:8278/chinesefoodnetwork/playlist.m3u8?tid=mbc914f8739e615316317&ct=17874&tsum=a3e117776a0b1de55a524a983d08b532
-亚洲美食,http://198.16.106.58:8278/asiafood_twn/playlist.m3u8?tid=mce5293d7a7b8&ct=18335&tsum=0db823fbd22661070faa655fa5b48779
-亚洲旅游台,http://198.16.106.58:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
-曼迪日本台,http://198.16.106.58:8278/mandijapan_twn/playlist.m3u8?tid=m73455fadd59216060535&ct=17874&tsum=4cb9ddd0c0565e38fc45ee70e42633a8
+
+
 MY-KIDS,http://198.16.106.58:8278/mykids_twn/playlist.m3u8?tid=m4ad7a03977f517262514&ct=17877&tsum=af68298c284254ee5eb9488851a53ae2
 CBeebies,http://198.16.106.58:8278/diva_twn/playlist.m3u8?tid=m114792ca4778&ct=18335&tsum=8d6e669a23955ea763734b2e0af3ecee
 BaBy-TV,http://198.16.106.58:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
@@ -3751,14 +3748,17 @@ TVB韩剧台,msc://CKDrama5
 
 
 台湾频道,#genre#
+美食星球,http://198.16.106.58:8278/chinesefoodnetwork/playlist.m3u8?tid=mbc914f8739e615316317&ct=17874&tsum=a3e117776a0b1de55a524a983d08b532
 美食星球,tvbus://4ndDYrqSx4PZ7nUCzAxU8GXzMWdZoWnTZ3DeaLSMpez5DNUrJr
 美食星球,p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
 美食星球,mitv://198.255.74.57:12396/5e50206c000654453d32ae1b5afec589.ts
 FOOD美食,tvbus://3kdNHNLMdPo9No1qMRc2sBwBrU7rwQf4iaXxETo3ZF67b3kjbu
+亚洲美食,http://198.16.106.58:8278/asiafood_twn/playlist.m3u8?tid=mce5293d7a7b8&ct=18335&tsum=0db823fbd22661070faa655fa5b48779
 亚洲美食,tvbus://34wDUPKvLphNqSJ8411f9a3sWDXAGCDjd4TFBQuTQrv3SGHSHk
 亚洲美食,mitv://147.135.39.171:9906/5d9a2611000610959c9ff6b605c1339e.ts
 亚洲美食,p2p://fccsovh.pvbox.live:18912/5b1409da000c9801f2b123a3aa339358.ts
 亚洲美食,tvbus://4QHnc8b19aJ9TsLRnEWYA46z4VQ7xF6xHdmoSxe68iTgPugFNo
+亚洲旅游台,http://198.16.106.58:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 亚洲旅游台,tvbus://3zfELchgV9vAJozdTxzTzYy9aiRsNqp9vwsMHzZD3WpvqdE838
 亚洲旅游台,p2p://fccsovh.pvbox.live:18912/5b14091700094183808c0d500b4af72d.ts
 亚洲旅游台,p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
@@ -3991,8 +3991,9 @@ ELTA綜合,mitv://198.255.74.57:12396/5e50206f00087d733d32ba60824ab0e7.ts
 ELTA影劇,mitv://198.255.74.57:12396/5e50206f00079ef03d32ba27b9976cac.ts
 ELTA體育,mitv://198.255.74.57:12396/5e50206f0006c4ce3d32b9f02ad92f37.ts
 ELTA体育2,P2p://51.79.41.138:18912/5b1409da0004ba1317d418157a2631bc.ts
+曼迪日本台,http://198.16.106.58:8278/mandijapan_twn/playlist.m3u8?tid=m73455fadd59216060535&ct=17874&tsum=4cb9ddd0c0565e38fc45ee70e42633a8
 曼迪日本台,mitv://147.135.39.171:9906/5cc692b800032c87faf4b14b336e74d0.ts
-曼迪日本臺,mitv://198.255.74.57:12396/5e50206f0005edfa3d32b9b9ce312600.ts
+曼迪日本台,mitv://198.255.74.57:12396/5e50206f0005edfa3d32b9b9ce312600.ts
 國興衛視,mitv://198.255.74.57:12396/5e50206f00050bbb3d32b97f435181a0.ts
 采昌影劇臺,mitv://147.135.39.171:9906/5cc68d170009a41bfadeb6093a05737b.ts
 采昌影劇臺,p2p://fccsovh.pvbox.live:18912/5b1409db0009049a17d41d161677386d
@@ -4130,6 +4131,7 @@ AXN,tvbus://3YDbvy6exdLYibCoFGLnT7L5zsJ5dbcbuAFDGc6ctCdsd2bh2g
 EVE,tvbus://3zaD3rfctgJgBQejewurNYV7rFCbU3hR3b5ARup8ZmidjJkre3
 EVE,p2p://fccsovh.pvbox.live:18912/5bdbf3a000041d6ad2172fcb0dab6930.ts
 EVE,p2p://fccsovh.pvbox.live:18912/5b14093f00043fac197259a079c29ab4.ts
+TLC旅游台,http://198.16.106.58:8278/tlcasia_twn/playlist.m3u8?tid=m4275a6300f1315825317&ct=17874&tsum=40a7698d34b5c229dcb10d0a2b876319
 TLC旅游台,mitv://147.135.39.171:9906/5cc692b800066481faf4b217169a5a1b.ts
 TLC旅游台,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2efc77901768ade973b.ts
 探索頻道高清,mitv://198.255.74.57:12396/5e502066000338553d3295dfd719c2b1.ts
@@ -4442,6 +4444,7 @@ WWE,p2p://fccsovh.pvbox.live:18912/5b593cdd0007b4d43500174365b90e70.ts
 BOOMERANG,tvbus://47xi8Mzz72rge8iYXtsW2FmFuHmboGYs5gtYk3XWQ9y1boHsEj
 BBC Cbeebies,mitv://147.135.39.171:9906/5dea93910008156c5a02c21b24cc6be4.ts
 精品动画,http://aldirect.rtmp.huya.com/huyalive/1448731701-1448731701-6222255276473450496-2789274560-10057-A-0-1.m3u8
+CN卡通,http://198.16.106.58:8278/momo1_twn/playlist.m3u8?tid=md272f875bb6916787346&ct=17874&tsum=0c38bae20c6db7e76ad1418654c8ccd4
 CN卡通,mitv://198.255.74.57:12396/5e5020600002ee833d327e5c1e2a9504.ts
 CN卡通,mitv://147.135.39.171:9906/5defe14000091d616eba47377b3a16c4.ts
 CN卡通(英语),mitv://147.135.39.171:9906/5dea93910003206a5a02c0e279871b82.ts
@@ -4461,6 +4464,7 @@ Momo亲子台,p2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55
 DISNEY-CHANNEL,p8p://0198.02686.cc:16871/5d1a697500003e7211bce6394f3f445a.ts
 DISNEY-JR,p8p://0198.02686.cc:16871/5d1a6975000b89e211bce91ded33f2df.ts
 DISNEY-XD,p8p://0198.02686.cc:16871/5d1a69760007a6f711bcec06f7be3200.ts
+迪士尼,http://198.16.106.58:8278/disneytwn_twn/playlist.m3u8?tid=m215093f0d3d710656413&ct=17899&tsum=cfa7cdeea67a02a00ac9b0bea4776d28
 迪士尼,vjms://122.155.180.8:8500:3502/live/cid=361
 迪士尼,mitv://198.255.74.57:12396/5e502060000219943d327e263e927bc0.ts
 迪斯尼,P2p://51.79.41.138:18912/5c7248620002c4fd1d52456c75ed6b55.ts
@@ -4472,6 +4476,7 @@ CN卡通,p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts
 CN卡通,vjms://23.237.33.155:8500:3502/live/cid=422
 Cartoon Network,p2p://fccsovh.pvbox.live:18912/5b593933000710c5a3ca4c34fa26546d.ts
 Cartoon Network BR,p2p://fccsovh.pvbox.live:18912/5bee4e13000dfd3219c8839374d1278b.ts
+东森幼幼,http://198.16.106.58:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
 东森幼幼,p2p://51.79.41.138:18912/5c724866000564111d5255b84de26a1c.ts
 东森幼幼,p2p://190.2.146.92:18912/5c724866000564111d5255b84de26a1c.ts
 东森幼幼,p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
