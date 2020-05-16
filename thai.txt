@@ -20,8 +20,7 @@ TVBS-HD,http://198.16.106.58:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&
 纬来娱乐,http://198.16.106.58:8278/2acb126c2f/playlist.m3u8?tid=mf53bcfe7a96d&ct=18335&tsum=6513d637d9c20538a421ff5f7e3aaac3
 纬来体育,http://198.16.106.58:8278/videolandsport_twn/playlist.m3u8?tid=m297afae2173c10027172&ct=17874&tsum=059e8c4d61e754d611ae4903c24be121
 纬来精彩,http://198.16.106.58:8278/videolandspecial_twn/playlist.m3u8?tid=m7ad330f1250511190882&ct=17889&tsum=028edd32d84c9810f126c7167897858a
-MTV,http://198.16.106.58:8278/mtvtaiwan_twn/playlist.m3u8?tid=m98d3f6cfc30d&ct=18335&tsum=27acc372ac9c5d91e1e3d0210a3cec4e
-MTV-LIVE,http://198.16.106.58:8278/mtvlive_twn/playlist.m3u8?tid=md811f71116ba&ct=18335&tsum=015bd1ee2e1cc793c5bf61e08fea5e77
+
 FX-HD,http://198.16.106.58:8278/fxhd_twn/playlist.m3u8?tid=m8498f04c47e518196321&ct=17874&tsum=cf16eabaef6f5f875adb0ddb5f09d0d4
 FOX动作,http://198.16.106.58:8278/foxaction_twn/playlist.m3u8?tid=m2221db510cba10253148&ct=17874&tsum=0248b8358bbfa7ab78a7dbd2faaf4ad1
 ELTA综合,http://198.16.106.58:8278/eltazhonghe_twn/playlist.m3u8?tid=mc103c8c05141&ct=18335&tsum=53a562eb65370f35b63a332140e2514c
@@ -4199,10 +4198,12 @@ Bloomberg,p2p://fccsovh.pvbox.live:18912/5b13f6f10000e96e63f34f6109464b85.ts
 Bloomberg,mitv://198.255.74.57:12396/5e5020600003bc6e3d327e918035ca7c.ts
 CatchPlay HD,mitv://198.255.74.57:12396/5e50205d0008e4233d32742bdbc7c64c.ts
 sundance channel,mitv://198.255.74.57:12396/5e50205d00056b623d327347de7d8337.ts
+MTV,http://198.16.106.58:8278/mtvtaiwan_twn/playlist.m3u8?tid=m98d3f6cfc30d&ct=18335&tsum=27acc372ac9c5d91e1e3d0210a3cec4e
 MTV,p2p://fccsovh.pvbox.live:18912/5b593be2000770487f0adb192bfef549.ts
 MTV BR,p2p://fccsovh.pvbox.live:18912/5bee509d0008c26919d26d4c0ada147c.ts
-MTV LIVE HD,p2p://fccsovh.pvbox.live:18912/5b1408f100084d6ac9e54fca2a2b4b87.ts
-MTV LIVE HD,mitv://198.255.74.57:12396/5e50205d000489b23d32730dcb5d8ab8.ts
+MTV LIVE,http://198.16.106.58:8278/mtvlive_twn/playlist.m3u8?tid=md811f71116ba&ct=18335&tsum=015bd1ee2e1cc793c5bf61e08fea5e77
+MTV LIVE,p2p://fccsovh.pvbox.live:18912/5b1408f100084d6ac9e54fca2a2b4b87.ts
+MTV LIVE,mitv://198.255.74.57:12396/5e50205d000489b23d32730dcb5d8ab8.ts
 FRANCE 24-English,mitv://198.255.74.57:12396/5e50205d00017afe3d3272459d492608.ts
 tvN HD,mitv://198.255.74.57:12396/5e50205b00004ce83d326a28245c3875.ts
 TV5,mitv://198.255.74.57:12396/5e50205a000de3cc3d3269ba947653c5.ts
