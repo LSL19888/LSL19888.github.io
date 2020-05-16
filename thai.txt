@@ -193,8 +193,8 @@ RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 求索记录,http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
 Discovery展播,http://stream.guihet.com/migu/index.php?id=637483721
-
-
+东森财经新闻,vjms://122.155.180.8:8500:3502/live/cid=456
+法國國際五台,vjms://122.155.180.8:8500:3502/live/cid=396
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰资讯台,http://qlive.fengshows.cn/live720p/PIN.flv
@@ -398,21 +398,7 @@ Flow Sports 11,http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
 Flow Sports 12,http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 Horizon Sports,https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 Reuters,http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
-Discovery HDWORLD,vjms://122.155.180.8:8500:3502/live/cid=440
-MTV ,vjms://122.155.180.8:8500:3502/live/cid=52
-Nat Geo,vjms://122.155.180.8:8500:3502/live/cid=115
-NatGeo Wild,vjms://122.155.180.8:8500:3502/live/cid=263
-TLC旅游活,vjms://122.155.180.8:8500:3502/live/cid=103
-TVBS新闻,vjms://122.155.180.8:8500:3502/live/cid=348
-三立都会,vjms://122.155.180.8:8500:3502/live/cid=226
-东森新闻,vjms://122.155.180.8:8500:3502/live/cid=340
-东森财经新闻,vjms://122.155.180.8:8500:3502/live/cid=456
-AXN ,vjms://122.155.180.8:8500:3502/live/cid=2
-博斯高球,vjms://122.155.180.8:8500:3502/live/cid=265
-法國國際五台,vjms://122.155.180.8:8500:3502/live/cid=396
-爱尔达体育,vjms://122.155.180.8:8500:3502/live/cid=266
-壹新闻,vjms://122.155.180.8:8500:3502/live/cid=445
-动物星球,vjms://122.155.180.8:8500:3502/live/cid=3
+
 中視,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
@@ -585,8 +571,6 @@ CCTV-15HD,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.
 云南卫视,http://101.71.255.229:6610/zjhs/2/10054/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 浙江卫视,http://101.71.255.229:6610/zjhs/2/10058/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 重庆卫视,http://101.71.255.229:6610/zjhs/2/10081/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-
-
 
 5分钟源,#genre#
 BBC,P2p://sdgdklwos.finetv.tv:9906/59fd16bc000f2550026d4d870b85516d
@@ -3660,6 +3644,7 @@ MTV LIVE音乐现场,mitv://147.135.39.171:9906/5d9a2a6100044aa29cb0ceb915667a36
 TVBS精采台,mitv://147.135.39.171:9906/5defdaa1000270e46ea0686a48260896.ts
 TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
 TVBS新闻台,http://198.16.106.58:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
+TVBS新闻台,vjms://122.155.180.8:8500:3502/live/cid=348
 TVBS新聞台,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 TVBS新聞台,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 TVBS新聞台,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
@@ -3725,6 +3710,7 @@ DAAI-TV,tvbus://45JdHfbF9Ae1ZsCwsUWMbxiKiPj5zMQ5jKfici32TuEqjZqUqf
 臺視,tvbus://3MWbYokmFjcnHYCRYSP3y19WGbnqgghEGqdfyB8pE8oeLR82o6
 臺視,http://hzyhjg.cc/cs/gat/ts.php
 臺視,mitv://198.255.74.57:12396/5e50207d000a0bee3d32f17634f6c26e.ts
+臺視新聞臺,vjms://122.155.180.8:8500:3502/live/cid=445
 臺視新聞臺,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
 臺視新聞臺,mitv://198.255.74.57:12396/5e50207d0009379b3d32f140b76c2b2d.ts
 臺視新聞臺,mitv://198.255.74.57:12396/5e502078000cae2e3d32de9baa0d6a19.ts
@@ -3763,6 +3749,7 @@ DAAI-TV,tvbus://45JdHfbF9Ae1ZsCwsUWMbxiKiPj5zMQ5jKfici32TuEqjZqUqf
 三立新闻,p8p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts
 三立新闻,http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
 三立都會臺,http://198.16.106.58:8278/sanlidouhui/playlist.m3u8?tid=m47b0222064de18476599&ct=17874&tsum=e88cfc84022aafb57a0de883eb40d091
+三立都會臺,vjms://122.155.180.8:8500:3502/live/cid=226
 三立都會臺,tvbus://3P3TmCuU7XMLCZyDpKKhMWEzaymvcLi89gioXC4n7RF65hZUvW
 三立都會臺,mitv://198.255.74.57:12396/5e5020780004f90a3d32dca29dfcb1f8.ts
 三立綜合臺,http://198.16.106.58:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
@@ -3808,6 +3795,7 @@ DAAI-TV,tvbus://45JdHfbF9Ae1ZsCwsUWMbxiKiPj5zMQ5jKfici32TuEqjZqUqf
 中天亚洲台,http://198.16.106.58:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
 中天亚洲台,tvbus://4hcGR9bWXuUfczkZGmupEnBU5j5d119grDx8EjFwvdYW3Ds57p
 中天亚洲台,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+东森新闻,vjms://122.155.180.8:8500:3502/live/cid=340
 东森新闻,http://hzyhjg.cc/cs/gat/dsxw.php
 东森新闻,http://47.56.167.95/iptv222.php?id=46
 东森新闻,http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
@@ -3911,6 +3899,7 @@ ELTA綜合,mitv://198.255.74.57:12396/5e50206f00087d733d32ba60824ab0e7.ts
 ELTA影剧,http://198.16.106.58:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 ELTA影剧,mitv://198.255.74.57:12396/5e50206f00079ef03d32ba27b9976cac.ts
 ELTA体育1台,http://198.16.106.58:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+ELTA体育1台,vjms://122.155.180.8:8500:3502/live/cid=266
 ELTA体育1台,mitv://198.255.74.57:12396/5e50206f0006c4ce3d32b9f02ad92f37.ts
 ELTA体育2台,http://198.16.106.58:8278/eltayule_twn/playlist.m3u8?tid=m6f63d67fa19a15132301&ct=17874&tsum=f546d8218edcc15482d3f38619904bdc
 ELTA体育2台,P2p://51.79.41.138:18912/5b1409da0004ba1317d418157a2631bc.ts
@@ -4078,6 +4067,7 @@ Animax,mitv://147.135.39.171:9906/5d9a25ad00050d2e9c9e6fc864b540d4.ts
 Boomerang,http://198.16.106.58:8278/boomerang_twn/playlist.m3u8?tid=m55c8d94d0a1d&ct=18335&tsum=9c11cc1d5fa82c22a0fa40c63d74a697
 Boomerang卡通(英语),mitv://147.135.39.171:9906/5dea9390000d3b785a02bf8a11dd08b9.ts
 Boomerang卡通频道,mitv://147.135.39.171:9906/5defdab700000f496ea0bdbd5c1a54bc.ts
+AXN,vjms://122.155.180.8:8500:3502/live/cid=2
 AXN,p2p://fccsovh.pvbox.live:18912/5b140922000388777bb32b1976c6ed6e.ts
 AXN,mitv://198.255.74.57:12396/5e50205a000d08a03d3269822cde8583.ts
 AXN,tvbus://3YDbvy6exdLYibCoFGLnT7L5zsJ5dbcbuAFDGc6ctCdsd2bh2g
@@ -4086,6 +4076,7 @@ EVE,tvbus://3zaD3rfctgJgBQejewurNYV7rFCbU3hR3b5ARup8ZmidjJkre3
 EVE,p2p://fccsovh.pvbox.live:18912/5bdbf3a000041d6ad2172fcb0dab6930.ts
 EVE,p2p://fccsovh.pvbox.live:18912/5b14093f00043fac197259a079c29ab4.ts
 TLC旅游台,http://198.16.106.58:8278/tlcasia_twn/playlist.m3u8?tid=m4275a6300f1315825317&ct=17874&tsum=40a7698d34b5c229dcb10d0a2b876319
+TLC旅游台,vjms://122.155.180.8:8500:3502/live/cid=103
 TLC旅游台,mitv://147.135.39.171:9906/5cc692b800066481faf4b217169a5a1b.ts
 TLC旅游台,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2efc77901768ade973b.ts
 探索頻道高清,mitv://198.255.74.57:12396/5e502066000338553d3295dfd719c2b1.ts
@@ -4108,6 +4099,7 @@ BBC World News,tvbus://3FbsUkmTzxn2F4fqEkLpcMvNbPNUFFWivQSFembcDiwQDdUYGY
 Discovery,http://198.16.106.58:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 Discovery,mitv://198.255.74.57:12396/5e50206600013e233d32955d22107029.ts
 Discovery Asia,http://198.16.106.58:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+Discovery Asia,vjms://122.155.180.8:8500:3502/live/cid=440
 Discovery Asia,tvbus://45L4g5d5mnwHxWwEwfqV6midoGg2PYEDsNLV5WRyynSs1s9Q7w
 探索頻道,tvbus://3YTQyx5qi6o9dtJF1aoqCdPvaTb3EyE37w4EkeWwxESzBMe7EE
 DMAX,http://198.16.106.58:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
@@ -4130,6 +4122,7 @@ DISCOVERY_SCIENCE,tvbus://3oKbC3auP13eBUrQSF9Ner2y5wZoK1fD8RKXPrrzXxZGA9tm6e
 DISCOVERY|HD,tvbus://3LrAvWN4yBbLavBuaGe4dGcjb1w7g5qGmb9Ka17LPXVSrD5qNH
 Discovery科學頻道,tvbus://3er2dXyjCT9n5ZB3MdAyWPT5q6WrYKNK7DB2sgfDmvoakg3vML
 國家地理,http://198.16.106.58:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+國家地理,vjms://122.155.180.8:8500:3502/live/cid=115
 國家地理,tvbus://4rCzF92tpigEaTDyFzUYgZox2deV8MRNanzviXfVbUsiJCWP49
 国家地理,p2p://fccsovh.pvbox.live:18912/5b13f6f0000e0621c40e587775073b82.ts
 國家地理,mitv://198.255.74.57:12396/5e502063000621963d328ae6b3104a59.ts
@@ -4140,6 +4133,7 @@ Discovery科學頻道,tvbus://3er2dXyjCT9n5ZB3MdAyWPT5q6WrYKNK7DB2sgfDmvoakg3vML
 國家地理People,p2p://fccsovh.pvbox.live:18912/5b14093f000b29ff60a8012c4f012aa6.ts
 國家地理People,mitv://198.255.74.57:12396/5e502063000543333d328aad4edbe099.ts
 國家地理野生,http://198.16.106.58:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+國家地理野生,vjms://122.155.180.8:8500:3502/live/cid=263
 國家地理野生,tvbus://36Fg7bSpGV24d6cDRfvu8fybf8SVFZCSya3ikQ8SnCvc2qxpBK
 國家地理野生,p2p://fccsovh.pvbox.live:18912/5b1409170007d34265514bfb6f766515.ts
 國家地理野生,mitv://198.255.74.57:12396/5e502063000465923d328a746d4c01dd.ts
@@ -4155,6 +4149,7 @@ H2,p2p://fccsovh.pvbox.live:18912/5b1408f3000402b2b347cadc76b8892b.ts
 H2,mitv://198.255.74.57:12396/5e5020630002a7a83d328a023d7420d6.ts
 H2,http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 動物星球,http://198.16.106.58:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+動物星球,vjms://122.155.180.8:8500:3502/live/cid=3
 動物星球,p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
 動物星球,http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 動物星球,mitv://198.255.74.57:12396/5e50206000073b993d327f768043421f.ts
@@ -4177,6 +4172,7 @@ Bloomberg,mitv://198.255.74.57:12396/5e5020600003bc6e3d327e918035ca7c.ts
 CatchPlay HD,mitv://198.255.74.57:12396/5e50205d0008e4233d32742bdbc7c64c.ts
 sundance channel,mitv://198.255.74.57:12396/5e50205d00056b623d327347de7d8337.ts
 MTV,http://198.16.106.58:8278/mtvtaiwan_twn/playlist.m3u8?tid=m98d3f6cfc30d&ct=18335&tsum=27acc372ac9c5d91e1e3d0210a3cec4e
+MTV,vjms://122.155.180.8:8500:3502/live/cid=52
 MTV,p2p://fccsovh.pvbox.live:18912/5b593be2000770487f0adb192bfef549.ts
 MTV BR,p2p://fccsovh.pvbox.live:18912/5bee509d0008c26919d26d4c0ada147c.ts
 MTV LIVE,http://198.16.106.58:8278/mtvlive_twn/playlist.m3u8?tid=md811f71116ba&ct=18335&tsum=015bd1ee2e1cc793c5bf61e08fea5e77
@@ -4386,6 +4382,7 @@ GOLF,mitv://198.255.74.57:12396/5e50205d000722bc3d3273b86725a562.ts
 博斯运动II,http://198.16.106.58:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 博斯运动II,mitv://198.255.74.57:12396/5e50206d0000404a3d32b0744628159e.ts
 博斯高球I,http://198.16.106.58:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
+博斯高球I,vjms://122.155.180.8:8500:3502/live/cid=265
 博斯高球II,http://198.16.106.58:8278/golf_twn/playlist.m3u8?tid=m5830411f6441&ct=18335&tsum=e28beb4fb896f9f9097b20396b9b4917
 博斯高球II,mitv://198.255.74.57:12396/5e50206f000304483d32b8fad57adb37.ts
 博斯高球II,p8p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts
