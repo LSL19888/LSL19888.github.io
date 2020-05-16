@@ -186,9 +186,6 @@ RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰中文台,http://qlive.fengshows.cn/live720p/PCC.flv
 凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-国家地理频道,P2p://sdgdklwos.finetv.tv:9906/59fd16240000683c026af7fe2edc67eb#rtmp://58.200.131.2:1935/livetv/natlgeo
-国家地理野生HD,P2p://sdgdklwos.finetv.tv:9906/59fd082b000c6ca7023466633fed4c93
-国家地理悠人HD,P2p://sdgdklwos.finetv.tv:9906/59fd2804000a86bb02b0cd8e6fa14a15
 求索记录,http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
 Discovery展播,http://stream.guihet.com/migu/index.php?id=637483721
 
@@ -634,6 +631,17 @@ FX,P2p://sdgdklwos.finetv.tv:9906/59fd279b000c06e702af33d47d4c770a
 HBO,P2p://sdgdklwos.finetv.tv:9906/59fd1566000391610268129978510d8e
 HBO强档巨献,P2p://sdgdklwos.finetv.tv:9906/59fd22e50004a1f8029ccaff41480126
 HBO原创巨献,P2p://sdgdklwos.finetv.tv:9906/59fd14fc0005019f026674e730ed03b5
+国家地理频道,P2p://sdgdklwos.finetv.tv:9906/59fd16240000683c026af7fe2edc67eb#rtmp://58.200.131.2:1935/livetv/natlgeo
+国家地理野生HD,P2p://sdgdklwos.finetv.tv:9906/59fd082b000c6ca7023466633fed4c93
+国家地理悠人HD,P2p://sdgdklwos.finetv.tv:9906/59fd2804000a86bb02b0cd8e6fa14a15
+TVB翡翠台,P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
+TVB翡翠台,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2
+TVB无线新闻台,P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5
+TVB无线新闻台,P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
+TVB无线财经资讯台,P2p://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8
+TVBS新聞台,P2p://sdgdklwos.finetv.tv:9906/59fd096d0003aa9702394e013b6206a2
+TVB明珠台,P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9
+TVB武术台,P2p://sdgdklwos.finetv.tv:9906/5a32174e0001f481d4b0ec8f67f06c2b
 
 adddd,#genre#
 A&E|HD,tvbus://4J4r4yAQJrpGX2k9aMDFvAL3R1ucXsddPVFRGhJBv7GYKZ8UqV
@@ -3429,8 +3437,6 @@ CCTV懷舊劇場,mitv://198.255.74.57:12396/5e502055000318803d32536f72725c14.ts
 香港频道,#genre#
 TVB翡翠台,tvbus://3cQ49Q394wz82zQPDgApQRrFPv57HJ4rmSsBWVGd34ZdiRDqkk
 TVB翡翠台,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
-TVB翡翠台,P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
-TVB翡翠台,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2
 TVB翡翠台,http://m.567it.com/jade.m3u8
 TVB翡翠台,p2p://fccsovh.pvbox.live:18912/5d1220350000ba2736e444057d22cf40.ts
 TVB翡翠台,p2p://fccsovh.pvbox.live:18912/5b1409fc00088a7f7b26e4559ee943fb.ts
@@ -3460,8 +3466,6 @@ TVB无线新闻台,http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&
 TVB无线新闻台,http://www.liveviptv.xyz/tv/tvb.php
 TVB无线新闻台,http://hzyhjg.cc/cs/gat/wxxw.php
 TVB无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-TVB无线新闻台,P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5
-TVB无线新闻台,P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
 TVB无线财经资讯台,p2p://fccsovh.pvbox.live:18912/5b14095400047cf540064c20d9c1e781.ts
 TVB无线财经资讯台,http://hk.tv0668.com/dl/hk520.php?id=10
 TVB无线财经资讯台,http://103.145.38.152/axg.php?id=10
@@ -3469,7 +3473,6 @@ TVB无线财经资讯台,http://47.56.167.95/iptv222.php?id=10
 TVB无线财经资讯台,http://hzyhjg.cc/cs/gat/wxcjzx.php
 TVB无线财经资讯台,p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
 TVB无线财经资讯台,mitv://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts
-TVB无线财经资讯台,P2p://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8
 TVB明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
 TVB明珠台,http://hk.tv0668.com/dl/hk520.php?id=13
 TVB明珠台,http://hzyhjg.cc/cs/gat/mzt-2.php
@@ -3477,9 +3480,7 @@ TVB明珠台,http://103.145.38.152/axg.php?id=13
 TVB明珠台,mitv://198.255.74.57:12396/5e5020810005fbee3d33000cecd53652.ts
 TVB明珠台,p8p://0198.02686.cc:16871/5d1a69c0000460ab11be0c40e08de9fb.ts
 TVB明珠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-TVB明珠台,P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9
 TVB明珠台,http://hzyhjg.cc/cs/gat/mzt.php
-TVB武术台,P2p://sdgdklwos.finetv.tv:9906/5a32174e0001f481d4b0ec8f67f06c2b
 TVB星河,tvbus://2x1hbZ9nHnRxGmUz74sgiW6BfXNr3KFgbbLFgryHAEVvP7UfUD
 TVB星河,p8p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts
 TVB星河,http://hk.tv0668.com/dl/hk520.php?id=17
@@ -3668,7 +3669,6 @@ TVBS新聞台,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 TVBS新聞台,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 TVBS新聞台,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 TVBS新聞台,mitv://198.255.74.57:12396/5e6221ab00014e4d83878aea2dc55415.ts
-TVBS新聞台,P2p://sdgdklwos.finetv.tv:9906/59fd096d0003aa9702394e013b6206a2
 TVBS新聞台,http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 TVBS欢乐台,http://198.16.106.58:8278/tvbs_g/playlist.m3u8?tid=m44c86d63c501&ct=18335&tsum=84004a1bff66e9ee3ae9da7211c31704
 TVBS欢乐台,mitv://198.255.74.57:12396/5e6221ab0000719983878ab1681799a7.ts
