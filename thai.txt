@@ -7,27 +7,6 @@ CATCHPLAY 电影台,http://198.16.106.58:8278/catchplay_twn/playlist.m3u8?tid=ma
 美亚电影台,http://198.16.106.58:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 ÐÇ¿ÕÐlÒ•Ì¨,http://198.16.106.58:8278/xingkong/playlist.m3u8?tid=m61d2d25a9adb&ct=18335&tsum=bc464e6fb89211029ad1b93ac62830aa
 
-
-
-
-
-•rÉÐîlµÀ,http://198.16.106.58:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d1
-rollor,http://198.16.106.58:8278/e_twn/playlist.m3u8?tid=m15f862e8b0e1&ct=18335&tsum=c4174a35d3ef6fd008b91852975a2c18
-佛卫慈悲台,http://198.16.106.58:8278/setantarugby_twn/playlist.m3u8?tid=mb2a8b35f6fe0&ct=18335&tsum=68d8b22783b88e3816f7bb36255b886b
-啊,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=70ba718b748af1187f8abee64a54c0b4
-Ïã¸ÛÓÐÏßÐÂÎÅÌ¨2,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=189c796442db6832e291a00f830e3831
-Ïã¸ÛÓÐÏß¸ßÇå603Ì¨,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=4e0364e2808fb289c3d9dad2930fb2e8
-TVBÎÞÏßÐÂÎÅÌ¨,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=cdd0ca29d2accf9a8e71616e059c2a34
-TVBÎÞÏßÐÂÎÅÌ¨2,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=77710422a2a6be7b6c6b994e33a6429b
-TVBôä´äÌ¨,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=2abe79dd601d4e05a7e5015e2de8670e
-TVBôä´äÌ¨2,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=a511cbfaed600a1bf5de967dbde008f7
-TVBÃ÷ÖéÌ¨,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=75b095e9f55e7215574cdf100658bc70
-TVBJ2,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=351b6e4c436b07307451f13cfa8856c4
-TVBÎÞÏß²Æ¾­×ÊÑ¶Ì¨,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=5876fced7e9fc235ca60aaf7c93da565
-TVBÐÇºÓ,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=44263f145af68c9320f2763586853c8c
-NOWÐÂÎÅÌ¨,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=383acfc33bd46f097d986a2b7b9b5cf3
-¸ÛÌ¨µçÊÓ31,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=855d93cb0b33bc3593f3cbea94e5fcf4
-¸ÛÌ¨µçÊÓ32,http://193.202.44.14/18912/gtzb.php?vid=iptv2020&tid=wintv&token=6ace3f7ada0b0befaf05903507e843d5
 BBC经典,http://qdntv96789.applinzi.com/96tv.php?633138330
 GOODTV好消息,http://live.streamingfast.net/osmflivech1.m3u8
 TVBS-N,http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
@@ -211,24 +190,9 @@ RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 国家地理野生HD,P2p://sdgdklwos.finetv.tv:9906/59fd082b000c6ca7023466633fed4c93
 国家地理悠人HD,P2p://sdgdklwos.finetv.tv:9906/59fd2804000a86bb02b0cd8e6fa14a15
 求索记录,http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
-BBC,P2p://sdgdklwos.finetv.tv:9906/59fd16bc000f2550026d4d870b85516d
-BBC Earth,P2p://sdgdklwos.finetv.tv:9906/59fd3223000ee20302d857cf1a981663
 Discovery展播,http://stream.guihet.com/migu/index.php?id=637483721
-探索动力,P2p://sdgdklwos.finetv.tv:9906/59fd2846000cb99902b1cffa3bb33abb
-探索科学,P2p://sdgdklwos.finetv.tv:9906/59fd166e000c7533026c1c1b4bf23d6b
-探索频道,P2p://sdgdklwos.finetv.tv:9906/59fcf587000c4fc201eb95c324ea0953
-探索夏娃,P2p://sdgdklwos.finetv.tv:9906/59fd286b000e1cdb02b260d1385f3d28
-探索亚洲,P2p://sdgdklwos.finetv.tv:9906/59fd15f7000e7852026a4bd030284bc8
-EYETV旅游,P2p://sdgdklwos.finetv.tv:9906/59fd27c4000cb3b102afd41b5cc4003d
-EYETV戏剧,P2p://sdgdklwos.finetv.tv:9906/59fd35bd00061f9e02e6671d60d7011c
-FOX,P2p://sdgdklwos.finetv.tv:9906/59fd14cf000321f60265c4a24ca93407
-FOX家庭影院,P2p://sdgdklwos.finetv.tv:9906/59fd229f000615aa029bb9ed79916213
-FOX警匪电影,P2p://sdgdklwos.finetv.tv:9906/59fd14ae0007a794026544e32f606291
-FOX优质电影,P2p://sdgdklwos.finetv.tv:9906/59fd246a0009125502a2bba01b0f4bf5
-FX,P2p://sdgdklwos.finetv.tv:9906/59fd279b000c06e702af33d47d4c770a
-HBO,P2p://sdgdklwos.finetv.tv:9906/59fd1566000391610268129978510d8e
-HBO强档巨献,P2p://sdgdklwos.finetv.tv:9906/59fd22e50004a1f8029ccaff41480126
-HBO原创巨献,P2p://sdgdklwos.finetv.tv:9906/59fd14fc0005019f026674e730ed03b5
+
+
 凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰资讯台,http://qlive.fengshows.cn/live720p/PIN.flv
@@ -651,6 +615,25 @@ CCTV-15HD,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.
 亚视ATV,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 八大综合,http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
+
+5分钟源,#genre#
+BBC,P2p://sdgdklwos.finetv.tv:9906/59fd16bc000f2550026d4d870b85516d
+BBC Earth,P2p://sdgdklwos.finetv.tv:9906/59fd3223000ee20302d857cf1a981663
+探索动力,P2p://sdgdklwos.finetv.tv:9906/59fd2846000cb99902b1cffa3bb33abb
+探索科学,P2p://sdgdklwos.finetv.tv:9906/59fd166e000c7533026c1c1b4bf23d6b
+探索频道,P2p://sdgdklwos.finetv.tv:9906/59fcf587000c4fc201eb95c324ea0953
+探索夏娃,P2p://sdgdklwos.finetv.tv:9906/59fd286b000e1cdb02b260d1385f3d28
+探索亚洲,P2p://sdgdklwos.finetv.tv:9906/59fd15f7000e7852026a4bd030284bc8
+EYETV旅游,P2p://sdgdklwos.finetv.tv:9906/59fd27c4000cb3b102afd41b5cc4003d
+EYETV戏剧,P2p://sdgdklwos.finetv.tv:9906/59fd35bd00061f9e02e6671d60d7011c
+FOX,P2p://sdgdklwos.finetv.tv:9906/59fd14cf000321f60265c4a24ca93407
+FOX家庭影院,P2p://sdgdklwos.finetv.tv:9906/59fd229f000615aa029bb9ed79916213
+FOX警匪电影,P2p://sdgdklwos.finetv.tv:9906/59fd14ae0007a794026544e32f606291
+FOX优质电影,P2p://sdgdklwos.finetv.tv:9906/59fd246a0009125502a2bba01b0f4bf5
+FX,P2p://sdgdklwos.finetv.tv:9906/59fd279b000c06e702af33d47d4c770a
+HBO,P2p://sdgdklwos.finetv.tv:9906/59fd1566000391610268129978510d8e
+HBO强档巨献,P2p://sdgdklwos.finetv.tv:9906/59fd22e50004a1f8029ccaff41480126
+HBO原创巨献,P2p://sdgdklwos.finetv.tv:9906/59fd14fc0005019f026674e730ed03b5
 
 adddd,#genre#
 A&E|HD,tvbus://4J4r4yAQJrpGX2k9aMDFvAL3R1ucXsddPVFRGhJBv7GYKZ8UqV
@@ -3948,7 +3931,8 @@ ELTA体育3台,http://198.16.106.58:8278/eltasports3_twn/playlist.m3u8?tid=m92b6
 番薯,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
 番薯TV,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555?fmt=x264_500K_ts&cpid=admin&size
 DIVA HD,mitv://198.255.74.57:12396/5e50206c0007f5783d32ae863abbe248.ts
-佛卫慈悲太,mitv://198.255.74.57:12396/5e50205f000ec5053d327d7c9e42fe83.ts
+佛卫慈悲台,http://198.16.106.58:8278/setantarugby_twn/playlist.m3u8?tid=mb2a8b35f6fe0&ct=18335&tsum=68d8b22783b88e3816f7bb36255b886b
+佛卫慈悲台,mitv://198.255.74.57:12396/5e50205f000ec5053d327d7c9e42fe83.ts
 居家幸福,http://61.58.60.230:9319/live/125.m3u8
 人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
 信吉电视,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
@@ -3960,6 +3944,7 @@ DIVA HD,mitv://198.255.74.57:12396/5e50206c0007f5783d32ae863abbe248.ts
 希望电视台,http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_1200_av-p.m3u8
 生命电视,http://210.209.3.1/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=1
 華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+rollor,http://198.16.106.58:8278/e_twn/playlist.m3u8?tid=m15f862e8b0e1&ct=18335&tsum=c4174a35d3ef6fd008b91852975a2c18
 
 港台影视,#genre#
 天映經典,tvbus://4BcHjf7Z44izwKexb3XeVfNfvPyzBcbNnz1e9KXMs2hsLYBdBK
@@ -4182,7 +4167,8 @@ E! Entertainment,mitv://198.255.74.57:12396/5e50205f000dec2d3d327d4493851a9b.ts
 Ci罪案偵緝,http://198.16.106.58:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
 Ci罪案偵緝,tvbus://4cXDenEV5apVF5xuGcmtKr4KCGmWuBQbjPydCzumuMssgEVtRA
 Ci罪案偵緝,mitv://198.255.74.57:12396/5e50205f000d180c3d327d0e19e1ee23.ts
-fashiontv HD,mitv://198.255.74.57:12396/5e50205f000ccdf43d327cfb25a1eb31.ts
+FashionTV,http://198.16.106.58:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d1
+FashionTV,mitv://198.255.74.57:12396/5e50205f000ccdf43d327cfb25a1eb31.ts
 Bloomberg,tvbus://3uCmxYokABFHnMzbEC9VGm1bKyZ3BEk9ezWXsv9Fx7DcCd1TLE
 Bloomberg,tvbus://4Pveh9wwocjBgnMXUSu8Ns3nFJusxi2T1W63AcHSszAUPQBcS5
 Bloomberg,tvbus://4NCJaSMkQybVWogPxfg6yCNTrGGFVUFMqecmoY1X9ignQ237T7
