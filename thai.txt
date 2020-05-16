@@ -21,8 +21,7 @@ FOX动作,http://198.16.106.58:8278/foxaction_twn/playlist.m3u8?tid=m2221db510cb
 FOX SPORT3,http://198.16.106.58:8278/foxsport3hd_twn/playlist.m3u8?tid=m5d584d8f204e14267960&ct=17895&tsum=a75615ebe28f1eaa5d552ec102136011
 ELEVEN SPORTS 1,http://198.16.106.58:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
 ELEVEN SPORTS 2,http://198.16.106.58:8278/luxetv_twn/playlist.m3u8?tid=m89099e75ab5c&ct=18335&tsum=d0dbd9f22dd13d7b5a1cbc62360f08c4
-EYE TV戏剧,http://198.16.106.58:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
-EYE TV旅游,http://198.16.106.58:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
+
 华艺戏剧台,http://198.16.106.58:8278/hongjimovie_twn/playlist.m3u8?tid=m6992b421712414308100&ct=17874&tsum=18615808f00a46fc6058b635b56427e3
 采昌,http://198.16.106.58:8278/528222e84e/playlist.m3u8?tid=m323bb9eba169&ct=18335&tsum=deab3d05542ef46fd5c4d57d4d0dbe02
 tVN,http://198.16.106.58:8278/tvn_twn/playlist.m3u8?tid=m0af8490e6e22&ct=18335&tsum=3ce96443a2a93f93268e2d1d30e3d62a
@@ -43,11 +42,7 @@ Star Movies,http://198.16.106.58:8278/6bff18d63e/playlist.m3u8?tid=m5d0687294bc7
 aMC最爱电影,http://198.16.106.58:8278/sundance_twn/playlist.m3u8?tid=mfe0bf4686c6d&ct=18335&tsum=14c57b1bfb62b277d396eb3cf14f26c6
 美亚电影台,http://198.16.106.58:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 ÐÇ¿ÕÐlÒ•Ì¨,http://198.16.106.58:8278/xingkong/playlist.m3u8?tid=m61d2d25a9adb&ct=18335&tsum=bc464e6fb89211029ad1b93ac62830aa
-龙华动画,http://198.16.106.58:8278/lunghuaanimation_twn/playlist.m3u8?tid=m933d9fc8608515365480&ct=17874&tsum=63c3bf5bc4acb4d077d6c782c4b9eba2
-龙华影剧,http://198.16.106.58:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
-龙华戏剧,http://198.16.106.58:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
-龙华羊片,http://198.16.106.58:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
-龙华经典,http://198.16.106.58:8278/9d3210574c/playlist.m3u8?tid=mb13ac722d0e1&ct=18335&tsum=1a8f7616aab5020083d8278206dad204
+
 
 •rÉÐîlµÀ,http://198.16.106.58:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d1
 rollor,http://198.16.106.58:8278/e_twn/playlist.m3u8?tid=m15f862e8b0e1&ct=18335&tsum=c4174a35d3ef6fd008b91852975a2c18
@@ -4043,12 +4038,19 @@ WarnerTV,http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 好莱坞电影,http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
 采昌影剧,p2p://fccsovh.pvbox.live:18912/5b1409db0009049a17d41d161677386d
+龙华动画,http://198.16.106.58:8278/lunghuaanimation_twn/playlist.m3u8?tid=m933d9fc8608515365480&ct=17874&tsum=63c3bf5bc4acb4d077d6c782c4b9eba2
+龙华影剧,http://198.16.106.58:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
 龙华影剧,P2p://51.79.41.138:18912/5b1408f2000aaf8c17d08f5c001549e8.ts
+龙华戏剧,http://198.16.106.58:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
+龙华羊片,http://198.16.106.58:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
+龙华经典,http://198.16.106.58:8278/9d3210574c/playlist.m3u8?tid=mb13ac722d0e1&ct=18335&tsum=1a8f7616aab5020083d8278206dad204
 龙华经典,p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
 靖天電影臺,p8p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts
-EYETV戲劇,p2p://fccsovh.pvbox.live:18912/5b14093e000e4339b8b0c6c5ce1e3723.ts
-EYETV戲劇,mitv://198.255.74.57:12396/5e502072000811f93d32c5fd78e49f0d.ts
-EYETV戲劇,p8p://0198.02686.cc:16871/5d1a69a2000ca28211bd992d29a29542.ts
+EYE TV戲劇,http://198.16.106.58:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
+EYE TV戲劇,p2p://fccsovh.pvbox.live:18912/5b14093e000e4339b8b0c6c5ce1e3723.ts
+EYE TV戲劇,mitv://198.255.74.57:12396/5e502072000811f93d32c5fd78e49f0d.ts
+EYE TV戲劇,p8p://0198.02686.cc:16871/5d1a69a2000ca28211bd992d29a29542.ts
+EYE TV旅游,http://198.16.106.58:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
 华艺影剧台,p8p://0198.02686.cc:16871/5d1a69d700008c5a11be651dc2bd3d52.ts
 华艺影剧台,mitv://147.135.39.171:9906/5cc68d17000b030ffadeb6675ac35d51.ts
 China Movie,mitv://198.255.74.57:12396/5e50206c0006171c3d32ae0bbad1003e.ts
