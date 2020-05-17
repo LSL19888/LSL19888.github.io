@@ -1,4 +1,5 @@
 $c_start香港$c_end
+翡翠台,http://173.242.113.65:8083/ja_de_wlds_net
 澳视澳门,http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
 澳视葡文,http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
 澳视MACAU衛視,http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
