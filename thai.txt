@@ -3377,23 +3377,23 @@ TVB J2,http://103.145.38.152/axg.php?id=12
 TVB J2,http://47.56.167.95/iptv222.php?id=12
 TVB J2,mitv://198.255.74.57:12396/5e5020840001a1223d330aa74cb1ccd5.ts
 TVB J2,http://hzyhjg.cc/cs/gat/tvbj2.php
+TVB无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+TVB无线新闻台,http://www.liveviptv.xyz/tv/tvb.php
+TVB无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 TVB无线新闻台,p2p://fccsovh.pvbox.live:18912/5b1409fc000a355e58ad23d7d664a21b.ts
 TVB无线新闻台,p2p://fccsovh.pvbox.live:18912/5b140953000cd4a8a070d55507015cde.ts
 TVB无线新闻台,http://hk.tv0668.com/dl/hk520.php?id=9
 TVB无线新闻台,http://103.145.38.152/axg.php?id=9
 TVB无线新闻台,http://47.56.167.95/iptv222.php?id=9
 TVB无线新闻台,http://hzyhjg.cc/cs/gat/wxxw-2.php
-TVB无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 TVB无线新闻台,http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2
-TVB无线新闻台,http://www.liveviptv.xyz/tv/tvb.php
 TVB无线新闻台,http://hzyhjg.cc/cs/gat/wxxw.php
-TVB无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+TVB无线财经资讯台,p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
 TVB无线财经资讯台,p2p://fccsovh.pvbox.live:18912/5b14095400047cf540064c20d9c1e781.ts
 TVB无线财经资讯台,http://hk.tv0668.com/dl/hk520.php?id=10
 TVB无线财经资讯台,http://103.145.38.152/axg.php?id=10
 TVB无线财经资讯台,http://47.56.167.95/iptv222.php?id=10
 TVB无线财经资讯台,http://hzyhjg.cc/cs/gat/wxcjzx.php
-TVB无线财经资讯台,p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
 TVB无线财经资讯台,mitv://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts
 TVB明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
 TVB明珠台,http://hk.tv0668.com/dl/hk520.php?id=13
