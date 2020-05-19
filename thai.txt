@@ -1,4 +1,7 @@
 $c_start香港$c_end
+翡翠台1080P,http://123.207.42.38/tvb.php?type=jade#http://pulllive-al.wasu.cn/live/addfe8e1d728ba4e1595af0b023e09d2.m3u8
+TVB J2,rtmp://rtmpkjhk.hychuan.com/kaijiang/6he
+tvb翡翠j2台,http://pullhls99.inke.cn/live/1542629959461907/playlist.m3u8
 TVB 翡翠,http://tmtv.aaa1818.site/888/xgtv.php?id=1 
 TVB J2,http://tmtv.aaa1818.site/888/xgtv.php?id=12
 卫视卡式台，https://livedoomovies.com/02_SCM_720p/chunklist.m3u8
