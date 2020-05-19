@@ -1,4 +1,6 @@
 $c_start香港$c_end
+无线新闻台,http://111.229.84.232/yulin/tvb.php?id=inews?is_hd
+无线财*台,http://111.229.84.232/yulin/tvb.php?id=j5_ch85?is_hd
 翡翠台1080P,http://123.207.42.38/tvb.php?type=jade#http://pulllive-al.wasu.cn/live/addfe8e1d728ba4e1595af0b023e09d2.m3u8
 TVB J2,rtmp://rtmpkjhk.hychuan.com/kaijiang/6he
 tvb翡翠j2台,http://pullhls99.inke.cn/live/1542629959461907/playlist.m3u8
