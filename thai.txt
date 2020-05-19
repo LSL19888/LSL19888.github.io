@@ -1,4 +1,22 @@
 $c_start香港$c_end
+TVB 翡翠,http://tmtv.aaa1818.site/888/xgtv.php?id=1 
+TVB J2,http://tmtv.aaa1818.site/888/xgtv.php?id=12
+卫视卡式台，https://livedoomovies.com/02_SCM_720p/chunklist.m3u8
+卫视电影台，http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
+韩国EBRS网络电视，http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+遵义76电影频道,http://www.dszbdq.cn/diao/gz123.php?tv=232-10-7-33
+香港经典台（录播）,https://dlhls-cdn-mp.zhanqi.tv/zqlive/291236_97IGR.m3u8
+三立新闻台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298998_I3GDL.m3u8
+东森新闻台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
+非凡新闻台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8
+东森电影台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298786_WkyL7.m3u8
+kk经典电影,http://hpull.kktv8.com/livekktv/145242762/playlist.m3u8
+kk经典电影,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+kk经典,http://hpull.kktv8.com/livekktv/104621340/playlist.m3u8
+kk影视,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+tvbs新闻台,http://202.175.127.77/live/show/ch1/index.m3u8
+互动新闻台,http://202.175.127.77/live/show/ch2/index.m3u8
+澳门有线3台,http://202.175.127.77/live/show/ch3/index.m3u8
 翡翠台,http://www.dszbdq.cn/play/zjkp58.php?id=10
 中視新闻,http://520574.xyz/dl/yt.php?id=zsxw
 民視新闻,http://520574.xyz/dl/yt.php?id=msxw
