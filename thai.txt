@@ -112,13 +112,12 @@ NewTVµç¾º,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 ìÅÎèÎ´À´,http://39.134.115.163:8080/PLTV/88888910/224/3221225707/index.m3u8
 °®ÇéÏ²¾ç,http://39.134.115.163:8080/PLTV/88888910/224/3221225748/index.m3u8
 
-无线新闻,http://tv.kksyw.top/tv/gat/tvb.php?id=inews?is_hd
+
+
 无线新闻1,http://tv.kksyw.top/tv/b.php?tv=wxxw
-无线新闻2,http://tv.kksyw.top/tv/b.php?tv=wxxw2
+
 无线新闻3,http://tv.kksyw.top/tv/b.php?tv=wxxw3
-无线财经资讯,http://tv.kksyw.top/tv/gat/tvb.php?id=j5_ch85?is_hd
-无线财经资讯1,http://tv.kksyw.top/tv/b.php?tv=wxtjzx
-无线财经资讯2,http://tv.kksyw.top/tv/b.php?tv=wxtjzx2
+
 翡翠台,http://tv.kksyw.top/tv/gat/xg.php?id=1
 翡翠台2,http://tv.kksyw.top/tv/b.php?tv=fct2
 TVB J2,http://tv.kksyw.top/tv/b.php?tv=TVBJ2
@@ -277,7 +276,7 @@ AXN(软解),http://111.13.111.192/211.75.9.37:20020/20029
 中天新闻(软解),http://111.13.111.192/211.75.9.37:20060/20067
 中天综合(软解),http://111.13.111.192/211.75.9.37:20000/20007
 翡翠台,http://webftp7055008.ushost05.08jt.com/viptv.php?vid=1
-无线新闻,http://webftp7055008.ushost05.08jt.com/viptv.php?vid=8
+
 无线财经资讯台,http://webftp7055008.ushost05.08jt.com/viptv.php?vid=9
 明珠台,http://webftp7055008.ushost05.08jt.com/viptv.php?vid=11
 
@@ -3984,6 +3983,9 @@ TVB J2,http://103.145.38.152/axg.php?id=12
 TVB J2,http://47.56.167.95/iptv222.php?id=12
 TVB J2,mitv://198.255.74.57:12396/5e5020840001a1223d330aa74cb1ccd5.ts
 TVB J2,http://hzyhjg.cc/cs/gat/tvbj2.php
+TVB无线新闻台,http://tv.kksyw.top/tv/gat/tvb.php?id=inews?is_hd
+TVB无线新闻台,http://webftp7055008.ushost05.08jt.com/viptv.php?vid=8
+TVB无线新闻台,http://tv.kksyw.top/tv/b.php?tv=wxxw2
 TVB无线新闻台,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 TVB无线新闻台,http://www.liveviptv.xyz/tv/tvb.php
 TVB无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
@@ -3995,6 +3997,9 @@ TVB无线新闻台,http://47.56.167.95/iptv222.php?id=9
 TVB无线新闻台,http://hzyhjg.cc/cs/gat/wxxw-2.php
 TVB无线新闻台,http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2
 TVB无线新闻台,http://hzyhjg.cc/cs/gat/wxxw.php
+TVB无线财经资讯台,http://tv.kksyw.top/tv/gat/tvb.php?id=j5_ch85?is_hd
+TVB无线财经资讯台,http://tv.kksyw.top/tv/b.php?tv=wxtjzx
+TVB无线财经资讯台,http://tv.kksyw.top/tv/b.php?tv=wxtjzx2
 TVB无线财经资讯台,p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
 TVB无线财经资讯台,p2p://fccsovh.pvbox.live:18912/5b14095400047cf540064c20d9c1e781.ts
 TVB无线财经资讯台,http://hk.tv0668.com/dl/hk520.php?id=10
