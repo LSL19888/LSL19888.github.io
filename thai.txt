@@ -118,22 +118,7 @@ NewTVµç¾º,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 
 无线新闻3,http://tv.kksyw.top/tv/b.php?tv=wxxw3
 
-翡翠台,http://tv.kksyw.top/tv/gat/xg.php?id=1
-翡翠台2,http://tv.kksyw.top/tv/b.php?tv=fct2
-TVB J2,http://tv.kksyw.top/tv/b.php?tv=TVBJ2
-明珠台,http://tv.kksyw.top/tv/b.php?tv=mzt
-VIU,http://tv.kksyw.top/tv/gat/xg.php?id=99
-VIU2,http://tv.kksyw.top/tv/b.php?tv=VIU2
-VIU6,http://tv.kksyw.top/tv/gat/xg.php?id=96
-亚视本港,http://tv.kksyw.top/tv/b.php?tv=ysbgt
-NOW新闻,http://tv.kksyw.top/tv/b.php?tv=NOW新闻
-18台,http://tv.kksyw.top/tv/b.php?tv=18台
-有线新闻,http://tv.kksyw.top/tv/b.php?tv=yxxw
-有线新闻1,http://tv.kksyw.top/tv/b.php?tv=有线新闻
-有线新闻2,http://tv.kksyw.top/tv/b.php?tv=yxxw2
-有线综合娱乐台,http://tv.kksyw.top/tv/b.php?tv=有线娱乐
-有线电影台,http://tv.kksyw.top/tv/b.php?tv=有线电影
-RHK32,http://tv.kksyw.top/tv/b.php?tv=RHK32
+
 
 
 j2,http://suo.im/6msCYJ
@@ -826,26 +811,27 @@ English Club TV,http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 GOOD TV好消息10烤箱讀書會 短版,http://live.streamingfast.net/osmflivech10.m3u8
 
 test源,#genre# 
-年代新聞,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-八大綜合,http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-中视综合1,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-中視综合,http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
-中天綜合1,http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-中天娱乐1,http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-世新综合,http://61.58.60.230:9319/live/49.m3u8
-信吉電視,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
-俄罗斯RU音乐,http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
-美国之音,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
-日本天気预报,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-信吉电视1,http://220.130.241.203:1935/sjtv/livestream_360p/playlist.m3u8
-靖天卡通,http://61.58.60.230:9319/live/207.m3u8
-香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-KHS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-有线新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
-TVB无线新闻台123,http://www.liveviptv.xyz/tv/tvb.php
+翡翠台,http://tv.kksyw.top/tv/gat/xg.php?id=1
+翡翠台2,http://tv.kksyw.top/tv/b.php?tv=fct2
+TVB J2,http://tv.kksyw.top/tv/b.php?tv=TVBJ2
+明珠台,http://tv.kksyw.top/tv/b.php?tv=mzt
+VIU,http://tv.kksyw.top/tv/gat/xg.php?id=99
+VIU2,http://tv.kksyw.top/tv/b.php?tv=VIU2
+VIU6,http://tv.kksyw.top/tv/gat/xg.php?id=96
+亚视本港,http://tv.kksyw.top/tv/b.php?tv=ysbgt
+NOW新闻,http://tv.kksyw.top/tv/b.php?tv=NOW新闻
+18台,http://tv.kksyw.top/tv/b.php?tv=18台
+有线新闻,http://tv.kksyw.top/tv/b.php?tv=yxxw
+有线新闻1,http://tv.kksyw.top/tv/b.php?tv=有线新闻
+有线新闻2,http://tv.kksyw.top/tv/b.php?tv=yxxw2
+有线综合娱乐台,http://tv.kksyw.top/tv/b.php?tv=有线娱乐
+有线电影台,http://tv.kksyw.top/tv/b.php?tv=有线电影
+RHK32,http://tv.kksyw.top/tv/b.php?tv=RHK32
 
 有效源,#genre# 
+TVB J2,p2p://lino.homeunix.com:6007/59fd25e80008aaec02a88fc1476f2edf.ts#p2p://lino.homeunix.com:6007/5ad32b7d000cca4049ecdf4812f47470.ts#mitv://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf#mitv://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#msc://CJ25#msc://CJ2L
+TVB 翡翠台,mitv://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8#p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts#p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts#p2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts#msc://CTVBJ5#msc://CTVBJL
+TVB 明珠台,mitv://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#mitv://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e#p2p://lino.homeunix.com:6007/5ad32b590006aefa49ec511272c5262e.ts 
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -862,6 +848,7 @@ TVB財經資訊台,http://seb.sason.top:80/ptv/tvb.php?id=cj
 NHK英语新闻,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 TVBS 新闻,http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 Thrill,http://45.126.83.51/qwr9ew/s/s34/01.m3u8
+年代新聞,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 凤凰中文,http://live.centerch.com/fhzw.m3u8
 澳視葡語,http://live3.tdm.com.mo:1935/ch2/ch2.live/playlist.m3u8
 澳視衛星 (備),http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
@@ -880,8 +867,25 @@ Thrill,http://45.126.83.51/qwr9ew/s/s34/01.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 莲花卫视,http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
+八大綜合,http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+中视综合,http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
+中视综合,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+中天綜合,http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+中天娱乐,http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+俄罗斯RU音乐,http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
+日本天気预报,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+无线新闻台,http://www.liveviptv.xyz/tv/tvb.php
 
 備用源,#genre# 
+世新综合,http://61.58.60.230:9319/live/49.m3u8
+信吉電視,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+美国之音,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+信吉电视1,http://220.130.241.203:1935/sjtv/livestream_360p/playlist.m3u8
+靖天卡通,http://61.58.60.230:9319/live/207.m3u8
+有线新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 RTHK 31,http://198.16.106.58:8278/rhk31_twn/playlist.m3u8?tid=MEAE4537581145375811&ct=18392&tsum=d5b6631971b3789e0232f240032aab1c
 RTHK 32,http://198.16.106.58:8278/rhk32_twn/playlist.m3u8?tid=ME0E6717791467177914&ct=18392&tsum=7e9b3ca62c6e8003eea6901833169238
 VIU 6,http://198.16.106.58:8278/viu6_twn/playlist.m3u8?tid=MD2D3178034831780348&ct=18392&tsum=e648e4c371d48bd837de8c99bc396fb1
@@ -902,7 +906,6 @@ NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 天映频道,http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 新唐人亞太台 NTD TV,https://live.ntdimg.com/aplive200/playlist.m3u8
 星空卫视,http://198.16.106.58:8278/xingkong/playlist.m3u8?tid=MFDF3656139336561393&ct=18392&tsum=a2dae0f3333c8085854abfdceeb50823
-
 中天新闻,http://ddbb.228888888.xyz:8081/live/tw101.m3u8
 台視新聞,http://ddbb.228888888.xyz:8081/live/tw102.m3u8
 華視新聞,http://ddbb.228888888.xyz:8081/live/tw103.m3u8
@@ -949,9 +952,7 @@ EYETV戏剧,http://bddb.228888888.xyz:8081/live/ws139.m3u8
 国家地理悠人,http://bddb.228888888.xyz:8081/live/ws143.m3u8
 国家地理野生,http://bddb.228888888.xyz:8081/live/ws145.m3u8
 动物星球,http://bddb.228888888.xyz:8081/live/ws151.m3u8
-RHK31,http://bddb.228888888.xyz:8081/live/ws102.m3u8
-
-台灣備用源,#genre# 
+RHK31,http://bddb.228888888.xyz:8081/live/ws102.m3u8 
 中天新聞 (備二),p2p://fccsovh.pvbox.live:18912/5c2dd72e0002527b0e8a6d077d923479.ts
 中天新聞 (備一),p2p://fccsovh.pvbox.live:18912/5b14096a000dc917fbe050249e518e63.ts
 中天新聞 (備三),p2p://fccsovh.pvbox.live:18912/5c7249b6000641f7f22447de5605ea5f.ts
@@ -1027,10 +1028,8 @@ ELTA體育3 (備一),p2p://fccseuro.pvbox.live:18912/5c7249f7000966364a68feb5b58
 TVBS歡樂 (備三),p2p://fccseuro.pvbox.live:18912/5c72488a000a56b7c62c388ca356227f.ts
 壹電視新聞 (備三),p2p://fccseuro.pvbox.live:18912/5c724897000cb186a4bbbe3882b0ecf5.ts
 年代新聞 (備一),p2p://fccsovh.pvbox.live:18912/5b1409fd000a7269c6740c0e989b6754.ts
+
 源,#genre#
-TVB J2,p2p://lino.homeunix.com:6007/59fd25e80008aaec02a88fc1476f2edf.ts#p2p://lino.homeunix.com:6007/5ad32b7d000cca4049ecdf4812f47470.ts#mitv://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf#mitv://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#msc://CJ25#msc://CJ2L
-TVB 翡翠台,mitv://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8#p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts#p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts#p2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts#msc://CTVBJ5#msc://CTVBJL
-TVB 明珠台,mitv://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#mitv://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e#p2p://lino.homeunix.com:6007/5ad32b590006aefa49ec511272c5262e.ts 
 壹電視新聞,http://198.16.106.58:8278/b27b0bca2d/playlist.m3u8?tid=md3c48208c57d&ct=18335&tsum=055d306fae28a978de195e3b5231dd69
 壹電視綜合,http://198.16.106.58:8278/b8fce5c483/playlist.m3u8?tid=m28d3394ad038&ct=18335&tsum=ae862884168291d250cf46af768cbdd9
 好萊塢電影台,http://198.16.106.58:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
