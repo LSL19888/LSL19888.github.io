@@ -841,62 +841,63 @@ Horizon Sports,https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 English Club TV,http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 GOOD TV好消息10烤箱讀書會 短版,http://live.streamingfast.net/osmflivech10.m3u8
 
-備用源,#genre# 
-HK開電視(需代理),http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+有效源,#genre# 
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-CH1-sd,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 NOW新闻,http://teslagram.com/live/channel_332.m3u8
 NOW直播,http://teslagram.com/live/channel_331.m3u8
-RTHK 31,http://198.16.106.58:8278/rhk31_twn/playlist.m3u8?tid=MEAE4537581145375811&ct=18392&tsum=d5b6631971b3789e0232f240032aab1c
-RTHK 32,http://198.16.106.58:8278/rhk32_twn/playlist.m3u8?tid=ME0E6717791467177914&ct=18392&tsum=7e9b3ca62c6e8003eea6901833169238
 TVB新聞台,http://seb.sason.top:80/ptv/tvb.php?id=xw
-VIU 6,http://198.16.106.58:8278/viu6_twn/playlist.m3u8?tid=MD2D3178034831780348&ct=18392&tsum=e648e4c371d48bd837de8c99bc396fb1
-明珠台,http://198.16.106.58:8278/pearl_twn/playlist.m3u8?tid=ME9E4685430546854305&ct=18392&tsum=fad6a63c8942d079c89cce9c6a12a5f3
-Tvb 星河,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
-TVB星河频道,http://198.16.106.58:8278/tvbxinghe_twn/playlist.m3u8?tid=MCDC1795636917956369&ct=18392&tsum=55f1be143c066f591b93d9ad92e8c884
-有線綜合娛樂台,https://ottproxy2.mott.tv/livehls/MOB-CN/index.m3u8
-有線財經資訊台,https://ottproxy2.mott.tv/livehls/MOB-NGW/01.m3u8
+TVB星河,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 港台電視31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 港台電視32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-无线新闻,http://cczylive.chuangwanghulian.cn/live/zy_1531983996445.flv?auth_key=1593500458-57590819-0-3bc1f0bf55895038da448c64a71d09f1
-无线资讯,http://198.16.106.58:8278/j5_twn/playlist.m3u8?tid=MD7D6077097160770971&ct=18392&tsum=c52d6bfaa8625673b95c651d46db93ad
 TVB財經資訊台,http://seb.sason.top:80/ptv/tvb.php?id=cj
 新傳媒8,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 NHK英语新闻,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 TVBS 新闻,http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 Thrill,http://45.126.83.51/qwr9ew/s/s34/01.m3u8
-风凰资讯台,http://125.210.152.18:9090/live/FHZX_1200.m3u8
-风凰香港台,http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
-凤凰中文,http://198.16.106.58:8278/phoenixtv_hd/playlist.m3u8?tid=MFEF2235818722358187&ct=18392&tsum=66437ebda6ca8352c9fb63c50e2ceb50
 凤凰中文,http://live.centerch.com/fhzw.m3u8
-华语視界日本NHK Japan,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-卫视电影台,http://mscvod01tvbdoinfo.akamaized.net/other/maintenance/F11234567890123456789012345678901.m3u8
-天映频道,http://210.210.155.35/qwr9ew/s/s33/01.m3u8
-新唐人亞太台 NTD TV,https://live.ntdimg.com/aplive200/playlist.m3u8
-星空卫视,http://198.16.106.58:8278/xingkong/playlist.m3u8?tid=MFDF3656139336561393&ct=18392&tsum=a2dae0f3333c8085854abfdceeb50823
 澳視葡語,http://live3.tdm.com.mo:1935/ch2/ch2.live/playlist.m3u8
 澳視衛星 (備),http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
 澳视卫星,http://61.244.22.4/ch3/ch3.live/index.m3u8
 澳视澳门,http://61.244.22.4/ch1/ch1.live/index.m3u8
 澳视葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8
 澳视资讯,http://61.244.22.4/ch5/info_ch5.live/index.m3u8
-澳門1台,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-澳門2台,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-澳門3台,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-澳門微电影,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+澳视澳门,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+澳视卫星,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+澳视卫星,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳门有线①台,http://202.175.127.77/live/show/ch1/index.m3u8
 澳门有线②台,http://202.175.127.77/live/show/ch2/index.m3u8
 爆谷台,https://myun-hw-s3.myun.tv/melj80jz/56xk36p7/1583754037503666897.m3u8
-耀才財經台1,http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
-耀才財經台2,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+耀才財經,http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
+耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-莲花卫视,http://198.16.106.58:8278/macaulotus/playlist.m3u8?tid=MB4B5673711756737117&ct=18392&tsum=404a1b4d40b3e6b40f67f45b5b4843b4
 莲花卫视,http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 
+備用源,#genre# 
+RTHK 31,http://198.16.106.58:8278/rhk31_twn/playlist.m3u8?tid=MEAE4537581145375811&ct=18392&tsum=d5b6631971b3789e0232f240032aab1c
+RTHK 32,http://198.16.106.58:8278/rhk32_twn/playlist.m3u8?tid=ME0E6717791467177914&ct=18392&tsum=7e9b3ca62c6e8003eea6901833169238
+VIU 6,http://198.16.106.58:8278/viu6_twn/playlist.m3u8?tid=MD2D3178034831780348&ct=18392&tsum=e648e4c371d48bd837de8c99bc396fb1
+明珠台,http://198.16.106.58:8278/pearl_twn/playlist.m3u8?tid=ME9E4685430546854305&ct=18392&tsum=fad6a63c8942d079c89cce9c6a12a5f3
+TVB星河频道,http://198.16.106.58:8278/tvbxinghe_twn/playlist.m3u8?tid=MCDC1795636917956369&ct=18392&tsum=55f1be143c066f591b93d9ad92e8c884
+有線綜合娛樂台,https://ottproxy2.mott.tv/livehls/MOB-CN/index.m3u8
+有線財經資訊台,https://ottproxy2.mott.tv/livehls/MOB-NGW/01.m3u8
+无线新闻,http://cczylive.chuangwanghulian.cn/live/zy_1531983996445.flv?auth_key=1593500458-57590819-0-3bc1f0bf55895038da448c64a71d09f1
+无线资讯,http://198.16.106.58:8278/j5_twn/playlist.m3u8?tid=MD7D6077097160770971&ct=18392&tsum=c52d6bfaa8625673b95c651d46db93ad
+亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+风凰资讯台,http://125.210.152.18:9090/live/FHZX_1200.m3u8
+风凰香港台,http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
+凤凰中文,http://198.16.106.58:8278/phoenixtv_hd/playlist.m3u8?tid=MFEF2235818722358187&ct=18392&tsum=66437ebda6ca8352c9fb63c50e2ceb50
+莲花卫视,http://198.16.106.58:8278/macaulotus/playlist.m3u8?tid=MB4B5673711756737117&ct=18392&tsum=404a1b4d40b3e6b40f67f45b5b4843b4
+华语視界日本NHK Japan,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+卫视电影台,http://mscvod01tvbdoinfo.akamaized.net/other/maintenance/F11234567890123456789012345678901.m3u8
+天映频道,http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+新唐人亞太台 NTD TV,https://live.ntdimg.com/aplive200/playlist.m3u8
+星空卫视,http://198.16.106.58:8278/xingkong/playlist.m3u8?tid=MFDF3656139336561393&ct=18392&tsum=a2dae0f3333c8085854abfdceeb50823
 
 中天新闻,http://ddbb.228888888.xyz:8081/live/tw101.m3u8
 台視新聞,http://ddbb.228888888.xyz:8081/live/tw102.m3u8
