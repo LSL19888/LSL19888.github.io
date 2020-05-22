@@ -530,7 +530,7 @@ Mediacorp 8,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 東森新聞,http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 東森洋片,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-无线新闻2,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+
 无线新闻,http://hk.tv0668.com/dl/hk520.php?id=9
 无线新闻1,http://www.liveviptv.xyz/tv/tvb.php
 中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
@@ -557,20 +557,7 @@ CCTV-2HD,http://101.71.255.229:6610/zjhs/2/10082/index.m3u8?virtualDomain=zjhs.l
 黑莓动画蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
 欢笑剧场蓝光,http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
 峨眉电影蓝光,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-年代新聞,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-八大綜合,http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-中视综合1,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-中視综合,http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
-中天綜合1,http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-中天娱乐1,http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-世新综合,http://61.58.60.230:9319/live/49.m3u8
-信吉電視,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
-俄罗斯RU音乐,http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
-美国之音,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
-日本天気预报,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-信吉电视1,http://220.130.241.203:1935/sjtv/livestream_360p/playlist.m3u8
-靖天卡通,http://61.58.60.230:9319/live/207.m3u8
+
 CCTV-9,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 GOODTV好消息40卡通,http://live.streamingfast.net/osmflivech40.m3u8
 GOODTV好消息44烤箱读书会,http://live.streamingfast.net/osmflivech44.m3u8
@@ -793,10 +780,7 @@ RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 网络念佛堂(台湾线路),https://tw1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
 儒释道网络电视台,http://amtbsg.cloudapp.net/liveedge/_definst_/cult/chunklist_w856981860.m3u8
 番薯电视台,http://211.73.19.201/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin&size=720X480
-香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-KHS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-有线新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
-TVB无线新闻台123,http://www.liveviptv.xyz/tv/tvb.php
+
 信吉电视台,http://220.130.241.203:1935/sjtv/livestream_360p/playlist.m3u8
 繫念法會(新马线路),https://sg1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
 CCTV-1HD,http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -841,6 +825,26 @@ Horizon Sports,https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 English Club TV,http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 GOOD TV好消息10烤箱讀書會 短版,http://live.streamingfast.net/osmflivech10.m3u8
 
+test源,#genre# 
+年代新聞,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+八大綜合,http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+中视综合1,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+中視综合,http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
+中天綜合1,http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+中天娱乐1,http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+世新综合,http://61.58.60.230:9319/live/49.m3u8
+信吉電視,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+俄罗斯RU音乐,http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
+美国之音,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+日本天気预报,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+信吉电视1,http://220.130.241.203:1935/sjtv/livestream_360p/playlist.m3u8
+靖天卡通,http://61.58.60.230:9319/live/207.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+KHS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+有线新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
+TVB无线新闻台123,http://www.liveviptv.xyz/tv/tvb.php
+
 有效源,#genre# 
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
@@ -848,11 +852,11 @@ GOOD TV好消息10烤箱讀書會 短版,http://live.streamingfast.net/osmflivec
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 NOW新闻,http://teslagram.com/live/channel_332.m3u8
 NOW直播,http://teslagram.com/live/channel_331.m3u8
-TVB新聞台,http://seb.sason.top:80/ptv/tvb.php?id=xw
+无线新闻,http://seb.sason.top:80/ptv/tvb.php?id=xw
+无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 TVB星河,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 港台電視31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 港台電視32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 TVB財經資訊台,http://seb.sason.top:80/ptv/tvb.php?id=cj
 新傳媒8,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 NHK英语新闻,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
