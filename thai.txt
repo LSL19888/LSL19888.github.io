@@ -1,18 +1,4 @@
 $c_start香港$c_end
-ASMR-ãåÐÑÐÑ¼«ÖÂ´ßÃßASMRÒùÓïÓÕ»ó (10),https://zhuozhuomy.com/20200502/2PXiHBFD/index.m3u8
-a107,http://ltv2.228888888.xyz:8081/live/tw107.m3u8
-a108,http://ltv2.228888888.xyz:8081/live/tw108.m3u8
-a109,http://ltv2.228888888.xyz:8081/live/tw109.m3u8
-a110,http://ltv2.228888888.xyz:8081/live/tw110.m3u8
-a111,http://ltv2.228888888.xyz:8081/live/tw111.m3u8
-a112,http://ltv2.228888888.xyz:8081/live/tw112.m3u8
-a113,http://ltv2.228888888.xyz:8081/live/tw113.m3u8
-a114,http://ltv2.228888888.xyz:8081/live/tw114.m3u8
-a115,http://ltv2.228888888.xyz:8081/live/tw115.m3u8
-a116,http://ltv2.228888888.xyz:8081/live/tw116.m3u8
-a117,http://ltv2.228888888.xyz:8081/live/tw117.m3u8
-
-
 CCTV-1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-1¸ßÇå8M,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 CCTV-2,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
