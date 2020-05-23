@@ -759,7 +759,19 @@ TVBS新聞,http://520574.xyz/dl/yt.php?id=tvbs
 中天新聞,http://520574.xyz/dl/yt.php?id=ztxw
 三立LIVE新聞,http://520574.xyz/dl/yt.php?id=slxw
 三立iNews,http://520574.xyz/dl/yt.php?id=inews
-
+有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+有线综合娱乐台,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
+有线财经资讯台,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
+无线新闻台,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/playlist.m3u8?hdnea=st=1590161129~exp=1590247529~acl=/newslive/smil:mobilehd_inews.smil/*~hmac=43c03382063d85465ce9feb77b7fdec5d235e2d3babe2fa82a20ce3d1435fdcb
+无线新闻台,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1590161041~exp=1590247441~acl=/newslive/smil:mobile_inews.smil/*~hmac=3d53208e52166dff9e4c240cda2ac0547e5acd0da4883c246934d143e3c6b1ae
+TVBÎÞÏßÐÂÎÅÌ¨,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/playlist.m3u8?hdnea=st=1590079284~exp=1590165684~acl=/newslive/smil:mobilehd_inews.smil/*~hmac=0ddaf7f3ec013b76700632d733906a06a2cfc13eedd84dbb525ca26e911a3c6f
+TVBÎÞÏßÐÂÎÅÌ¨,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1590079197~exp=1590165597~acl=/newslive/smil:mobile_inews.smil/*~hmac=66ef3daba50a07184e3d14076279c983bb1ea09384636725493fb707ba03cf80
+翡翠台,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+TVBÃ÷ÖéÌ¨,http://116.199.5.52:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+TVB J2,http://hdl01.longtengws.cc:10001/ch102.m3u8?token=0KZ9wPC67XbTbdreHukKCA&time=1590176601
+TVBÎÞÏß²Æ¾­Ì¨,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_finance.smil/playlist.m3u8?hdnea=st=1590080647~exp=1590167047~acl=/newslive/smil:mobilehd_finance.smil/*~hmac=3daf20450770a4f5a4b82f9a7765ad10bc69fb6358f92e0ae9a5f2d57d0179ab
+TVBÎÞÏß²Æ¾­Ì¨,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1590080703~exp=1590167103~acl=/newslive/smil:mobile_finance.smil/*~hmac=780f66195950f49ee5bf24a141be0029a9d2b4ab9e6cbacacecb5a8a8fbc0566
+ATV,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo_720p.m3u8
 
 
 有效源,#genre# 
