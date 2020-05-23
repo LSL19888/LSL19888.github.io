@@ -810,6 +810,9 @@ TVBS欢乐台,http://live.52ypp.com:81/tw.php?id=66
 TVBS欢乐台,http://111.13.111.192/211.75.9.37:20010/20013
 TVB 明珠台,mitv://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#mitv://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e#p2p://lino.homeunix.com:6007/5ad32b590006aefa49ec511272c5262e.ts
 TVB星河,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
+TVB 翡翠台,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=10&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+TVB 翡翠台,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=10&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+TVB 翡翠台,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=10&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
 TVB 翡翠台,mitv://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8#p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts#p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts#p2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts#msc://CTVBJ5#msc://CTVBJL
 TVB財經資訊台,http://seb.sason.top:80/ptv/tvb.php?id=cj
 VIU,http://tv.kksyw.top/tv/b.php?tv=VIU2
