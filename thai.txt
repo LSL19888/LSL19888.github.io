@@ -828,6 +828,10 @@ FOX动作,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 翡翠台,https://mtime.info/live/hbo/rrozrdqQ.m3u8
 翡翠台,https://mtime.info/live/my_tvbjade/AxezQRNY.m3u8
 翡翠台,https://mtime.info/keys?key=hSPGlCFF&channel=my_tvbjade
+中天新闻,http://111.13.111.192/211.75.9.37:20060/20067
+中天新闻,http://111.13.111.192/211.75.9.37:20010/20011
+新闻年代,http://111.13.111.192/211.75.9.37:20050/20055
+AFN,http://58.99.33.2:1935/liveedge2/LANmrsaD_211_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 港澳台2,#genre#
 台视,http://198.16.106.58:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
 公视,http://198.16.106.58:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
