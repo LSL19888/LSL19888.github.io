@@ -791,7 +791,7 @@ FOX动作,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
 八大綜合,http://104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 
-港澳台#genre# 
+港澳台,#genre# 
 凤凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰资讯,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
