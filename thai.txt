@@ -868,9 +868,10 @@ NHK华语视界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp
 NHK华语视界2,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
 中国环球电视1,http://live.cgtn.com/1000/prog_index.m3u8
-澳门互动新闻台,http://202.175.127.77/live/show/ch2/index.m3u8
-澳门有线1,http://202.175.127.77/live/show/ch1/index.m3u8
-有线新闻,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+翡翠台,http://pdlive.kksmg.com/live/88jade.flv
+无线新闻,http://api.nnzhibo.com/live/gt.php?id=inews&type=nnzhibo
+J2,http://api.nnzhibo.com/live/gt.php?id=j2&type=nnzhibo
+翡翠台2,http://193.202.44.14/xg/wy.php?id=1
 无线新闻1,http://193.202.44.14/xg/wy.php?id=9
 无线财经资讯台,http://193.202.44.14/xg/wy.php?id=10
 J2 1,http://193.202.44.14/xg/wy.php?id=12
